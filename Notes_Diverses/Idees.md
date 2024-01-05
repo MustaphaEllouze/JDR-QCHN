@@ -84,24 +84,24 @@ Les plans n'apparaissent qu'en vision à certaines personnes, ils ne savent donc
  * **Fait remarquable** : Ingar est celui qui a forgé la première arme
 
 ### Plan des glaciers
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
- * **Description** : 
- * **Fait remarquable** : 
+ * **Divinité** : Celis, le Coeur de Glace
+ * **Alignement** : Loyal Mauvais
+ * **Domaine** : Froid, Conquête, Ambition
+ * **Qualités** : Stratégique, Réservé
+ * **Défauts**  : Impitoyable
+ * **Symbole** : Sceptre avec un flocon de neige au bout
+ * **Description** : Un Leonin en armure lourde, assis sur un trône de flace.
+ * **Fait remarquable** : Celis aurait gelé une mer entière afin de permettre à ses fidèles de la traverser pour aller conquérir un autre pays.
 
 ### Plan de l'eau
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
- * **Description** : 
- * **Fait remarquable** : 
+ * **Divinité** : Qwar, Dompteur des Marées
+ * **Alignement** : Neutre Bon
+ * **Domaine** : Vie Aquatique et Guérison
+ * **Qualités** : Calme, Bienveillant
+ * **Défauts**  : Agit par devoir plutôt que par compassion
+ * **Symbole** : Urne qui se verse
+ * **Description** : Humain en robe sortant de la mer, avec des poissons à ses pieds.
+ * **Fait remarquable** : Aurait calmé une tempête et a aidé à rebaptir la cité qu'elle a détuite.
 
 ### Plan de la tempête 
  * **Divinité** : Fuurma, Mère des Tempêtes
@@ -134,14 +134,14 @@ Les plans n'apparaissent qu'en vision à certaines personnes, ils ne savent donc
  * **Fait remarquable** : Il paraît que c'est elle qui a fait la diversité des races dans ce monde.
 
 ### Plan de la lumière, de l'ombre et des couleurs
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
- * **Description** : 
- * **Fait remarquable** : 
+ * **Divinité** : Komorath, le Prisme Brisé
+ * **Alignement** : Chaotique Mauvais
+ * **Domaine** : Tromperie, Illusion, Art, Art obscurs
+ * **Qualités** : Créatif, Imprévisible
+ * **Défauts**  : Cruel, Se délecte du désespoir
+ * **Symbole** : Prisme brisé
+ * **Description** : Un elfe aveugle qui tient un prisme tringulaire brisé dans sa main gauche, et avec une couronne d'épines. Arbore toujours un sourire.
+ * **Fait remarquable** : Aurait plongé une grande armée dans un sommeil sans fin, l'éradiquant durant une guerre.
 
 ### Plan du métal
  * **Divinité** : Ronar, Gardien du Métal
@@ -174,12 +174,12 @@ Les plans n'apparaissent qu'en vision à certaines personnes, ils ne savent donc
  * **Fait remarquable** : 
 
 ### Plan de la vie et de la mort 
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
+ * **Divinité** : Italis, Celui qui Commence et qui Finit
+ * **Alignement** : Chaotique Bon
+ * **Domaine** : La Mort et la Renaissance
+ * **Qualités** : Impulsif, 
+ * **Défauts**  : Injuste, Intervient sans qu'on lui demande
+ * **Symbole** : Une feuille verte et une feuille morte
  * **Description** : 
  * **Fait remarquable** : 
 
