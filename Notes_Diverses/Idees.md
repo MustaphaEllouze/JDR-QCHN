@@ -63,17 +63,7 @@ Les plans n'apparaissent qu'en vision à certaines personnes, ils ne savent donc
 
 ## Plans voisins connus
 
-### Plan du feu 
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
- * **Description** : 
- * **Fait remarquable** : 
-
-### Plan de la lave
+### Plan de la lave et du feu
  * **Divinité** : Ingar, le Forgeron Eternel
  * **Alignement** : Chaotique Neutre
  * **Domaine** : Artisanat et Créativité
@@ -113,15 +103,15 @@ Les plans n'apparaissent qu'en vision à certaines personnes, ils ne savent donc
  * **Description** : Une Strixienne aux yeux lumineux et brillants, ses ailes projettent des éclairs. 
  * **Fait remarquable** : Fuurma a dévié une tornade qui devait dévaster une ville entière.
 
-### Plan du corail
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
- * **Description** : 
- * **Fait remarquable** : 
+### Plan de la distorsion
+ * **Divinité** : Stehr, l'Insaisissable
+ * **Alignement** : Loyal Mauvais
+ * **Domaine** : Corruption, Distorsion de la Réalité
+ * **Qualités** : Machiavélique, Trompeur
+ * **Défauts**  : Cruel
+ * **Symbole** : Un prisme triangulaire déformé
+ * **Description** : Un Saurien à six bras
+ * **Fait remarquable** : A poussé de grands rois à la tyrannie.
 
 ### Plan de la transformation, désintégration et effritement
  * **Divinité** : Muhuta, la Grande Plannificatrice
@@ -143,7 +133,7 @@ Les plans n'apparaissent qu'en vision à certaines personnes, ils ne savent donc
  * **Description** : Un elfe aveugle qui tient un prisme tringulaire brisé dans sa main gauche, et avec une couronne d'épines. Arbore toujours un sourire.
  * **Fait remarquable** : Aurait plongé une grande armée dans un sommeil sans fin, l'éradiquant durant une guerre.
 
-### Plan du métal
+### Plan du métal et de la roche
  * **Divinité** : Ronar, Gardien du Métal
  * **Alignement** : Loyal Bon
  * **Domaine** : Protection des faibles
@@ -153,26 +143,6 @@ Les plans n'apparaissent qu'en vision à certaines personnes, ils ne savent donc
  * **Description** : Un Aquilin-Golem d'Acier qui protège trois personnes de ses ailes.
  * **Fait remarquable** : Il aurait créé un bouclier indestructible que seuls les purs pourraient porter.
 
-### Plan de la léthargie
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
- * **Description** : 
- * **Fait remarquable** : 
-
-### Plan de l'énergie pure
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
- * **Description** : 
- * **Fait remarquable** : 
-
 ### Plan de la vie et de la mort 
  * **Divinité** : Italis, Celui qui Commence et qui Finit
  * **Alignement** : Chaotique Bon
@@ -180,28 +150,18 @@ Les plans n'apparaissent qu'en vision à certaines personnes, ils ne savent donc
  * **Qualités** : Impulsif, 
  * **Défauts**  : Injuste, Intervient sans qu'on lui demande
  * **Symbole** : Une feuille verte et une feuille morte
- * **Description** : 
- * **Fait remarquable** : 
+ * **Description** : Un Saurien, avec une robe en spirale de deux couleurs (couleur feuille verte, et couleur feuille morte). Il a deux doigts en l'air pour saluer.
+ * **Fait remarquable** : Il est responsable de la création de la mort, afin que puisse renaître le monde et ne pas stagner.
 
-### Plan de la roche
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
- * **Description** : 
- * **Fait remarquable** : 
-
-### Plan du vent
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
- * **Description** : 
- * **Fait remarquable** : 
+### Plan de l'oubli et du néant
+ * **Divinité** : Rueva, l'Arracheuse
+ * **Alignement** : Neutre Mauvais
+ * **Domaine** : Oubli, Néant, Perte
+ * **Qualités** : Destructrice, Insaisissable
+ * **Défauts**  : Indifférente à la perte, Sans Emotions
+ * **Symbole** : Un livre avec des pages qui s'envolent
+ * **Description** : Une Saurienne arrachant les pages d'un livre
+ * **Fait remarquable** : Elle a effacé l'histoire des anciens (qui lui ont demandé) car cette histoire était trop lourde à porter.
 
 ### Plan des structures régulières
  * **Divinité** : Tremm, Ordre Incarné
@@ -213,25 +173,15 @@ Les plans n'apparaissent qu'en vision à certaines personnes, ils ne savent donc
  * **Description** : Un elfe qui tient une sphère dans sa main droite.
  * **Fait remarquable** : Aurait aidé à ériger les premières cités.
 
-### Plan du mental
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
- * **Description** : 
- * **Fait remarquable** : 
-
 ### Plan de la gravité
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
- * **Description** : 
- * **Fait remarquable** : 
+ * **Divinité** : Rivea, Maîtresse des Astres
+ * **Alignement** : Loyal Neutre
+ * **Domaine** : Astres, Cieux, Mouvement
+ * **Qualités** : Constante, Calme, Impartiale
+ * **Défauts**  : Impitoyable
+ * **Symbole** : Une sphère entourée de 4 autres petits astres
+ * **Description** : Une strixienne en tailleur sur un globe
+ * **Fait remarquable** : Elle aurait créé le cycle du jour et de la nuit pour rendre les nuits plus tolérables.
 
 ### Plan des états de la matière
  * **Divinité** : Treyo, le Juste
@@ -244,64 +194,57 @@ Les plans n'apparaissent qu'en vision à certaines personnes, ils ne savent donc
  * **Fait remarquable** : A doté les gens du sommeil (pas de la fatigue) afin qu'ils puissent être en paix. 
 
 ### Plan des émotions
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
- * **Description** : 
- * **Fait remarquable** : 
+ * **Divinité** : Hénatra, Semeuse de Sentiments
+ * **Alignement** : Chaotique Bon
+ * **Domaine** : Emotions, Empathie, Emancipation
+ * **Qualités** : Intuitive, Passionnée, Libre
+ * **Défauts**  : Manque d'organisation, Versatile
+ * **Symbole** : Un cercle noir avec un contour arc-en-ciel.
+ * **Description** : Une léonine dans des vêtements amples, grand sourire bienveillant, une fleure à la main
+ * **Fait remarquable** : Aurait libéré tout un peuple de l'oppression de son esclavagiste et les auraient aidé à se révolter.
 
 ### Plan du temps
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
- * **Description** : 
- * **Fait remarquable** : 
-
-### Plan des illusions
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
- * **Description** : 
- * **Fait remarquable** : 
+ * **Divinité** : Porokros
+ * **Alignement** : Neutre Mauvais
+ * **Domaine** : Manipulation, Fatalité, Vieillissement 
+ * **Qualités** : Eternel, Comploteur
+ * **Défauts**  : Insensible
+ * **Symbole** : Un pendule
+ * **Description** : Un homme-rat vieillard, avec un pendule dans sa main symbolisant le passage du temps
+ * **Fait remarquable** : Il aurait toute une civilisation en accélérant le passage du temps pour les tuer de vieillesse.
 
 ### Plan du son et de la musique
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
- * **Description** : 
- * **Fait remarquable** : 
+ * **Divinité** : Maunad, Compositeur des Cieux
+ * **Alignement** : Loyal Bon
+ * **Domaine** : Harmonie, Inspiration Artistique
+ * **Qualités** : Inspiré, Bienveillant
+ * **Défauts**  : Influence les émotions de manière subtile
+ * **Symbole** : Une lyre et trois étoiles
+ * **Description** : Un elfe tenant une lyre, marchant sur un nuage
+ * **Fait remarquable** : Il aurait inspiré un compositeur mortel à créer une musique si douce qu'elle aurait appaisé une région en guerre.
 
-### Plan de l'égarement mental (labyrinthe, rêves, cauchemars)
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
- * **Description** : 
- * **Fait remarquable** : 
+### Plan du mental
+ * **Divinité** : Liireon, le Comploteur
+ * **Alignement** : Chaotique Mauvais
+ * **Domaine** : Cauchemars, Troubles de l'Esprit, Confusion, Illusions
+ * **Qualités** : Malfaisant, Manipulateur
+ * **Défauts**  : Manque de discernement
+ * **Symbole** : Une croix dans une spirale
+ * **Description** : Un humain encapuchonné, une peau flétrie, des yeux noirs, 
+ * **Fait remarquable** : Il aurait renversé des royaumes trop vite grandissants, et tué des dirigeants dans leur sommeil.
 
 ### Plan de la torture
- * **Divinité** : 
- * **Alignement** : 
- * **Domaine** : 
- * **Qualités** : 
- * **Défauts**  : 
- * **Symbole** : 
- * **Description** : 
- * **Fait remarquable** : 
+ * **Divinité** : Kscrucius, Celui qui Endure
+ * **Alignement** : Loyal Neutre
+ * **Domaine** : Discipline, Rédemption via la Souffrance, Douleur
+ * **Qualités** : Discipliné, Equitable
+ * **Défauts**  : Aucune empathie, Indifférent
+ * **Symbole** : Trois clous parallèles
+ * **Description** : Un Strixien aux ailes coupées, et avec trois clous plantés dans chaque ancien emplacement d'ailes
+ * **Fait remarquable** : Il serait intervenu pour donner la justice aux hommes et leur apprendre à expier leurs fautes par les châtiments.
+
+ ### Count :  
+ Loyal Mauvais : 1
 
 
 # >> Fonctionement spécifique D&D
