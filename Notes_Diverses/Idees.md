@@ -4,6 +4,16 @@
 
 Le scénario se passe dans le même univers que la campagne précédente, plusieurs centaines d'années dans le futur.
 
+## Cartes de la campagne
+![Carte globale](carte_globale.jpg)
+![Brumebourg](Brumebourg.jpg)
+
+## Brumebourg
+
+### PNJs
+
+#### XXX - Maire
+
 # >> Worldbuilding <<
 
 ## Espèces peuplant le monde 
