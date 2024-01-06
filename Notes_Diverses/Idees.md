@@ -8,7 +8,7 @@ Le scénario se passe dans le même univers que la campagne précédente, plusie
 
 ## Espèces peuplant le monde 
 
-### Conscientes
+### > Conscientes
 * Elfes
 * Humains
 * Sauriens 
@@ -16,14 +16,26 @@ Le scénario se passe dans le même univers que la campagne précédente, plusie
 * Minotaures
 * Hommes-rats
 * Avemains : Strixiens, Aquilins
+* Sombraurs
 
-### Animales
+### > Animales
 * Dinosaures
 * Rapaces
 * Ours rocheux
 * Hyène des sables
 * Cerfs
 
+#### Sombraur
+* Ce sont des créatures conscientes qui étaient autrefois une autre race (comme des vampires).
+* Ils sont reconaissables à leur marque sur leur bras droit : c'est une marque ressemblant à un tatouage tribal, qui est tricolore (noir, blanc et une autre couleur), marque qui grandit à chaque personne qui succombe à leur aspiration de magie.
+* Ils ont également des écailles de serpents qui se forment sur leur corps.
+* Ils ne se nourissent pas, mais absorbent l'énergie magique des êtres vivants par contact. Lors de l'absoription de l'énergie magique, leurs veines deviennent de la même couleur que la troisième couleur de leur marque.
+* Ils vénèrent le dieu Komorath (domaines de la tromperie, de l'illusion, et des arts obscurs).
+* Ils sont sensibles à l'eau.
+* S'ils restent trop longtemps exposés à la lumière, ils deviennent affaiblis.
+* Ils ont une plus grand longévité que leur race d'origine. Au moins 10 fois.
+* Ils manipulent tous : la magie de l'ombre et de la lumière.
+* Pour se reproduire, il faut effectuer un rituel où trois Sombraur acceptent de créer un nouveau Sombraur. Ils exposent alors la nouvelle recrue à la magie de l'ombre pour la lier à leur dieu, et la marque se forme.
 
 ## Grandes villes
 
@@ -46,6 +58,14 @@ Le scénario se passe dans le même univers que la campagne précédente, plusie
 * Ils sont taillés directement dans un cristal de plus grande taille, doivent être mis en place par un "spécialiste", et doivent recevoir une maintenance régulière pour s'assurer de la solidité du lien entre eux et les leylines environnantes.
 
 * En cas d'absence d'un stabilisateur, ou de la défaillance d'un stabilisateur, les leylines sont suceptibles de bouger toutes les 6 semaines au maximum. Les stabilisateurs agissent comme des points de contrôle : si on perd un stabilisateur, la leyline est assurée de passer par un autre stabilisateur proche, mais est libre du côté du stabilisateur environnant.
+
+* On peut casser un stabilisateur de plusieurs façon : intégrité physique (le casser), intégrité magique (absorber ou perturber sa magie)
+
+* Il est possible de réparer un stabilisateur cassé avec l'aide d'un magicien assez puissant qui puisse insuffler une quantité de magie assez puissante pour rétablir son intégrité magique, ou une magie un peu moins puissante s'il y a un bout de stabilisateur à côté (le morceau cassé, ou un autre).
+
+## Pierre des Occultistes
+
+XXX
 
 ## Cosmologie
 Le plan Matériel (celui où les espèces habitent) est le seul plan qui ait réussi à développer de la vie.
