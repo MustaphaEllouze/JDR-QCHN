@@ -2,7 +2,32 @@
 
 # >> Scénario global <<
 
+## Point de départ
+
 Le scénario se passe dans le même univers que la campagne précédente, plusieurs centaines d'années dans le futur.
+
+Les PJ sont initialement des habitants de Brumebourg. Brumebourg est un petit village de la partie Ouest de la Côte Epineuse, qui dépend beaucoup de l'influence des villes environnantes, notamment Dvolsti (environ 50km à l'Ouest) et Rovtal (100km environ à l'Ouest). 
+
+Rovtal et Caproch sont deux villes majeurs dont la présence n'est permise que grâce à la présenc de deux cristaux naturels stabilisants les leylines. L'ensemble du reste des villes et villages de la région n'est présent que grâce à l'installation de stabilisateurs de mana artificiels.
+
+Brumebourg se caractérise des autres villes par sa taille (beaucoup plus petite), ce qui justifie peu la présence d'un stabilisateur, qui est une denrée rare. 
+
+## Les villes environnantes
+
+|              | Brumebourg | Dvolsti | Rovtal | Caproch |
+| ---          | --- | --- | --- | --- |
+| Taille       | 400 | 3500 | 19500 | 21300 |
+| Spécialité   | Cultures | Cuisiniers | Vins | Tissus |
+| Politique    | Vassal de Rovtal | Vassal de Rovtal | Féodalité | Oligarchie |
+| Organisation | - | Organisation criminelle | Culte de Komortah | Les maçons |
+
+
+
+## Quête 1 : Retrouver les fauteurs de trouble
+## Quête 2 : Réparer le stabilisateur
+## Quête 3 : Défaire l'organisation criminelle
+## Quête 4 : Remonter jusqu'au culte de Komorath
+
 
 ## Cartes de la campagne
 ![Carte globale](carte_globale.jpg)
