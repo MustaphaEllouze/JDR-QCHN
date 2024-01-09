@@ -75,7 +75,7 @@ Les **Tisserands** est une organisation discrète, dont l'existence est attesté
 * Félinoïdes : Léonins(Lion), Tigryliens (Tigre), Panthérans (Panthère), Felicis (Chat)
 * Minotaures
 * Hommes-rats
-* Avemains : Strixiens, Aquilins, Corvidés
+* Avemains : Strixiens, Aquilins, Corvidés, Ibissides
 * Sombraurs
 
 ### > Animales
