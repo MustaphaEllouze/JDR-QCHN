@@ -77,9 +77,20 @@ Dans ce climat, il a été normal de voir apparaître deux organisations pour la
 
 En plus de **Muhuta** et **Itais** qui sont vénérés dans **Rovtal**, le culte de **Kscrucius** est assez commun dans la ville. **Kscrucius**, dieu de la Discipline et de la Douleur, représente une lueur d'espoir dans la vie des habitants de **Dvolsti**, qui estiment que leur situation moins aisée est une souffrance à endurer avant de pouvoir gravir les échelons et un jour pouvoir vivre mieux.
 
-Les **Enfants de la Rue** sont des adeptes de ce crédo, estimant que leur vie plus que modeste n'est qu'une autre épreuve qu'ils doivent endurer et que c'est grâce à leur investissement qu'ils réussiront un jour à s'en sortir. Pendant ce temps, 
+Les **Enfants de la Rue** sont des adeptes de ce crédo, estimant que leur vie plus que modeste n'est qu'une autre épreuve qu'ils doivent endurer et que c'est grâce à leur investissement qu'ils réussiront un jour à s'en sortir. Pendant ce temps, il leur semble logique et juste de faire ce qui leur permet de survivre, quitte à ce que des inconnus en souffrent.
 
 ### Brumebourg
+**Brumebourg** est un petit village situé à 50km à l'Est de **Dvolsti**. Très axé autour de l'agriculture, le village a tout appris deu savoir-faire de Rovtal.Ce sont quelques centaines d'habitants qui travaillent tous les jours aux champs afin de pouvoir produire assez de nourriture qu'ils exportent ensuite aux villes voisines. 
+
+Village assez modeste, tout le monde se connaît très bien et se rassemblent souvent le soir à la tarverne du village, la **Taverne de Brume**, afin de discuter, parler de la journée, et déguster des plats préparés par le tavernier. Plusieurs structures et institutions sont présentes en plein coeur du village : forgeron, école, un hotêl de ville qui abrite l'envoyé de Rovtal, une écurie, etc. 
+
+Outre son agriculture, Brumebourg est également connue pour son chantier naval et son port de passage, positionné directement sur le fleuve mais qui ne connecte malheuresement pas les parties les plus actives de la partie Ouest de la Côte Epineuse.
+
+Les habitants de Brumebourg accordent une grande importance à leur anciens : les plus âgés sont très respectés, et une fête s'organise chaque solstice en l'honneur des défunts : les **Veillées des Ancêtres**. Ces veillées sont très attendues par l'ensemble de la population, et leurs formes changent grandement en fonction de la saison, l'été étant généralement réservé pour les célébrations joyeuses, tandis que l'hiver est réservé pour le recueillement. Sous l'influence de Rovtal, ces veillées sont en été sous la tutelle de **Muhuta**, déesse du Renouveau, et en hiver sous la tutelle d'**Italis**, dieu de la Mort et de la Vie.
+
+De façon générale, la vie à Brumebourg est vue comme une vie assez traditionnelle, puisque le niveau de vie reste assez modeste : on peut encore croiser certains habitants qui souhaitent encore aller chasser ou cueillir dans les environs afin de changer un peu de la nourriture qui est élevées près du village.
+
+Assez régulièrement, certains des habitants feront tout le pélerinage jusqu'à **Dvolsti** afin de récupérer des ressources qu'on ne trouve pas au village (pour l'ensemble des artisans de Brumebourg notamment), et en profitent échanger des ressources produites dans le village contre des nouvelles du monde. 
 
 
 ## Cartes de la campagne
