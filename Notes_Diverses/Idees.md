@@ -26,10 +26,48 @@ En première approche, le **culte de Komorath** ne jugeait pas cette tâche comm
 
 Les **Enfants de la Rue**, qui comporte une branche de "gros bras", décident d'envoyer ces derniers à Brumebourg pour saboter le stabilisateur. C'est dans cette conjoncture que la campagne commence.
 
-## Quête 1 : Retrouver les saboteurs des Enfants de la Rue
-## Quête 2 : Réparer le stabilisateur
-## Quête 3 : Défaire les Enfants de la Rue
-## Quête 4 : Remonter jusqu'au culte de Komorath
+## Quêtes en cours
+
+### Quête : Organiser le Festival des Brumes
+Le **Festival des Brumes** approche ! Tous les printemps, le village de **Brumebourg** organise le Festival des Brumes, célébrant les nouvelles récoltes du village et la fin de l'hiver, marqué par ses brumes permanentes. A cette occasion, tout le village s'anime et tous les habitants se reconvertissent le temps du festival afin de l'organiser. Toutes les festivités sont animés par l'envoyé de **Rovtal** qui fait office de représentant du pouvoir.
+
+
+## Quêtes disponibles
+
+### Quête : Organiser le Festival des Brumes
+
+#### Mission : Aider aux préparations
+L'organisation du festival demande beaucoup de préparation en amont. Le festival durant plusieurs jours, il faut : 
+* Préparer assez de nourriture afin de nourrir tous les visiteurs (voir le cuisinier de la taverne) ;
+* Aider à monter tous les stands dans la place centrale du village et à les décorer (voir le menuisier et une personne en charge d'organiser le festival);
+* S'occuper de rendre les lieux présentables en éliminant la vermine qui prolifère dans le village (il paraît que la taverne est infestée de rats...) (voir le patron de la taverne);
+* Aller récupérer des herbes sauvages qui serviront à la conconction des mets délicats (voir l'herboriste et l'épicier);
+* Aller récolter une contribution financière chez les retardataires (voir un PNJ random) ;
+* Résoudre le conflit sur la présentation des fruits et des légumes des agriculteurs (voir un agriculteur) ;
+* Travailler à la confection d'objets souvenirs (voir le forgeron) ;
+
+#### Mission : Accueillir les visiteurs
+La veille du festival, plusieurs visiteurs viennent de loin et souhaitent parler à des locaux : 
+* Délégation officielle de Rovtal
+* Aventuriers de Dvolsti
+* Cuisiniers de Dvolsti
+* Les marchands d'épices de Rovstal
+* Artistes errants de Blanchécum
+* Nobles en vacances de Blanchécum
+* Le vieux mage du quartier nord de Dvolsti
+
+#### Mission : Enquêter sur les visiteurs
+Certains visiteurs semblent moins bavards que d'autres et participent moins aux activités
+
+#### Mission : Faire la sécurité du Festival des Brumes
+Cette année, les Aventuriers, travaillant d'habitude dans les alentours du village, sont désignés pour monter la garde lors du festival. Ce faisant, ils seront sans doute amenés à gérer des situations délicates.
+
+### Quête : Retrouver les saboteurs des Enfants de la Rue
+### Quête : Réparer le stabilisateur
+### Quête : Défaire les Enfants de la Rue
+### Quête : Remonter jusqu'au culte de Komorath
+
+## Quêtes finies
 
 ## Les villes environnantes
 
@@ -157,6 +195,13 @@ Assez régulièrement, certains des habitants feront tout le pélerinage jusqu'�
 * On peut casser un stabilisateur de plusieurs façon : intégrité physique (le casser), intégrité magique (absorber ou perturber sa magie)
 
 * Il est possible de réparer un stabilisateur cassé avec l'aide d'un magicien assez puissant qui puisse insuffler une quantité de magie assez puissante pour rétablir son intégrité magique, ou une magie un peu moins puissante s'il y a un bout de stabilisateur à côté (le morceau cassé, ou un autre).
+
+## Les sorts de poches
+Parmi les habitants les plus aisés de cet l'univers, certains peuvent fréquemment se payer des sorts de poche. Un magicien assez puissant peut canaliser tout un sort et l'encapulser dans un cristal magique, gravant par la même occasion le sort directement sur le cristal. Une fois soumis de nouveau à la même magie qui a servi à le créer, le cristal s'active et déploir le sort qu'il contient. 
+
+Ce sorts sont très pratiques mais peuvent se révéler assez coûteux, et ne se trouvent pas dans les coins de rue : ils nécessitent déjà l'utilisation d'un cristal, denrée relativement rare, ainsi que l'intervention d'un magicien capable de programmer le sort dans le cristal avec précision. 
+
+Les habitants les plus riches des grandes villes se déplacent avec toute une panoplie de sorts de poches, par exemples afin de créer des abris dans la nature avec un sort de construction de pierre, ou afin de produire de l'eau afin de boire.
 
 ## Pierre des Occultistes
 
