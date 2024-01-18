@@ -146,7 +146,7 @@ Assez régulièrement, certains des habitants feront tout le pélerinage jusqu'�
 * Félinoïdes : Léonins(Lion), Tigryliens (Tigre), Panthérans (Panthère), Felicis (Chat)
 * Minotaures
 * Hommes-rats
-* Avemains : Strixiens, Aquilins, Corvidés, Ibissides
+* Avemains : Strixiens (Hiboux, Chouettes), Aquilins (Ai), Corvidés, Ibissides
 
 ### > Animales
 * Dinosaures
