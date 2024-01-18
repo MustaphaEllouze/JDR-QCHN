@@ -56,11 +56,26 @@ La veille du festival, plusieurs visiteurs viennent de loin et souhaitent parler
 * Nobles en vacances de Blanchécum
 * Le vieux mage du quartier nord de Dvolsti
 
-#### Mission : Enquêter sur les visiteurs
-Certains visiteurs semblent moins bavards que d'autres et participent moins aux activités
-
 #### Mission : Faire la sécurité du Festival des Brumes
 Cette année, les Aventuriers, travaillant d'habitude dans les alentours du village, sont désignés pour monter la garde lors du festival. Ce faisant, ils seront sans doute amenés à gérer des situations délicates.
+
+Avec la boisson et les rivalités qui existaient déjà, certains conflits naissent durant le festival : 
+* Des habitants éméchés commencent à se battre ;
+* Des visiteurs veulent acheter le même objet ;
+* Un plat arrive à cours, un visiteur s'énerve parce que quelqu'un lui avait grillé la priorité dans la queue plus tôt ;
+* Un objet a été volé à un habitant, il commence alors à accuser des visiteurs près de lui et à avoir des remarques non politiquement correctes ;
+* Un visiteur éméché essaye de s'infiltrer dans une maison qui ne lui appartient pas.
+
+#### Mission : Enquêter sur les visiteurs
+Certains visiteurs semblent moins bavards que d'autres et participent moins aux activités. D'autres ne se sont peut-être pas présentés. Et certains mêmes semblent plus que suspects. 
+
+Les **Enfants de la Rue** ont envoyé certains de leurs membres afin de localiser le stabilisateur de leyline de Brumebourg puis de le neutraliser. Le premier soir du **Festival des Brumes** est l'occasion pour les recrues de bas rang de mener l'enquête. On compte celles-ci : 
+* Des colporteurs faisant le tour des stands pour se renseigner et observer ;
+    * Indices : Ils sont relativement peu bavards, posent des questions étranges, essayent de forcer un passage dans des endroits auxquels ils ne sont pas supposés avoir accès.
+* Des voleurs essayant de récupérer les clés et les objets précieux des festivaliers ;
+    * Indices : Ils travaillent à plusieurs et essyant de voler quelqu'un en le distrayant par quelqu'un d'autre.
+* Deux infiltrés qui sont venus monter un stand pour vendre les objets volés dans d'autres villes.
+    * Indices : Ils sont un peu nerveux et des festivaliers peuvent reconnaître des objets qu'on leur a volé récemment.
 
 ### Quête : Retrouver les saboteurs des Enfants de la Rue
 ### Quête : Réparer le stabilisateur
