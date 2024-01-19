@@ -279,6 +279,7 @@ Les plans n'apparaissent qu'en vision à certaines personnes, ils ne savent donc
  * **Fait remarquable** : Aurait aidé à ériger les premières cités.
 
 ### Plan de la vie et de la mort 
+![Italis](Italis_2.png)![Italis](Italis_1.png)
  * **Divinité** : Italis, Celui qui Commence et qui Finit
  * **Alignement** : Chaotique Bon
  * **Domaine** : La Mort et la Renaissance
@@ -319,13 +320,15 @@ Les plans n'apparaissent qu'en vision à certaines personnes, ils ne savent donc
  * **Fait remarquable** : Il serait intervenu pour donner la justice aux hommes et leur apprendre à expier leurs fautes par les châtiments.
 
 ### Plan de la transformation, désintégration et effritement
+![Muhuta](Muhuta_1.png)
+![Muhuta](Muhuta_2.png)
  * **Divinité** : Muhuta, la Grande Plannificatrice
  * **Alignement** : True Neutral
  * **Domaine** : Transformation et Renouveau
  * **Qualités** : Méthaphorique, Curieuse
  * **Défauts**  : Instable, Peut provoquer des catastrophes
  * **Symbole** : Une spirale
- * **Description** : Une divinité à deux têtes opposées, avec des éléments qui tournent autour d'elle. Entre ses mains des filaments. On pense que ces éléments contient l'information essentielle qui fait chaque être (information génétique)
+ * **Description** : Une divinité féminine à très longue robe, avec plusieurs éléments qui orbitent autour d'elle. Elle est souvent représentée avec les deux mains tendues et avec quelque chose qui s'étend entre ses mains (des filaments, de la matière, etc.). On pense que ces éléments contiennent l'information essentielle qui fait chaque être (information génétique)
  * **Fait remarquable** : Il paraît que c'est elle qui a fait la diversité des races dans ce monde.
 
 ### Plan des états de la matière
@@ -399,6 +402,10 @@ Les plans n'apparaissent qu'en vision à certaines personnes, ils ne savent donc
  * **Fait remarquable** : Il aurait toute une civilisation en accélérant le passage du temps pour les tuer de vieillesse.
 
 ### Plan de la lumière, de l'ombre et des couleurs
+
+![Komorath](komorath_2.png)
+![Komorath](komorath_1.png)
+
  * **Divinité** : Komorath, le Prisme Brisé
  * **Alignement** : Chaotique Mauvais
  * **Domaine** : Tromperie, Illusion, Art, Art obscurs
