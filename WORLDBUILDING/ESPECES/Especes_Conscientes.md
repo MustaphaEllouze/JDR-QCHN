@@ -36,11 +36,13 @@
 
 ## Reptiloïde
 ### Saurien
+![Saurien](../../_images/mari_envoyée.png)
 Une pratique saurienne courante est de prendre le nom de famille de son conjoint ou de sa conjointe si sa famille est jugée plus puissante et influente que la sienne.
 
 ## Félinoïde
 ### Panthéran
 ![Panthéran](../../_images/barman.png)
+![Panthéran](../../_images/barman_enfant.png)
 Une espèce assez fière qui culturellement cherche à vivre dans le confort et qui sait saisir toute opportunité afin de pouvoir maintenir son niveau de vie. De ce fait, ils sont vus comme avares et prêt à tout pour monter socialement. 
 
 Les **Panthérans** vivent génralement dans de petites communautés, n'aimant pas le brouhaha des villes. 
@@ -48,6 +50,8 @@ Les **Panthérans** vivent génralement dans de petites communautés, n'aimant p
 Avant l'âge adulte, ils ne portent que le prénom donné par leurs parents. Une fois assez âgés, ils choisissent un deuxième prénom, identique à l'un de leurs proches s'ils l'admirent (y compris leurs parents), ou totalement différent s'ils souhaitent marquer leur individualité. 
 
 ### Felicis
+![Felicis](../../_images/felicis_21.png)
+![Felicis](../../_images/felicis.png)
 Les **Felicis** sont souvent pris de haut par les autres espèces de Félinoïdes, étant clairement la race la plus petite et avec l'espérance de vie la plus courte.
 
 C'est une espèce généralement peu ambitieuse qui aime le confort et ne souhtaite fournir d'efforts qu'en cas de nécessité absolu. On dit souvent qu'un Felicis heureux est un Felicis qui arrive à vivre sans sortir de chez lui.

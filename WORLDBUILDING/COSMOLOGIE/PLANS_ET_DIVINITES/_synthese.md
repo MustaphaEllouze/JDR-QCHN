@@ -2,7 +2,7 @@
 
 | Divinité | Titre | Plan | Alignement | Domaine | Symbole |
 |-|-|-|-|-|-|
-|Maunad|Compositeur des Cieux|Plan du son et de la musique|Loyal Bon|Harmonie & Inspiration artistique|Une lyre et trois étoiles|
+|Maunad|Compositeur des Cieux|Plan du son et de la musique|Loyal Bon|Harmonie & Inspiration artistique|Un tambour et trois étoiles|
 |Ronar|Gardien de Métal|Plan du métal et de la roche|Loyal Bon|Protection des faibles|Une enclume devant une épée|
 |Qwar|Dompteur des Marées|Plan de l'eau|Neutre Bon|Vie Aquatique & Guérison|Urne qui se verse|
 |Tremm|Ordre Incarné|Plan des structures régulières|Neutre Bon|Harmonie et Sagesse|Triangle dans un cercle|

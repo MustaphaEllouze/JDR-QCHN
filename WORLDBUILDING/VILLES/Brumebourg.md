@@ -31,6 +31,7 @@ Chantier naval fluival de Brumebourg, il a été offert par **Rovtal** au villag
 ## PNJ 
 
 ### Therra Sfer - Envoyée de Rovtal
+![Therra Sfer](../../_images/envoyée.png)
 * Nom : **Therra Sfer**
 * Âge : **51 ans**
 * Espèce : **Saurienne**
@@ -42,6 +43,7 @@ Chantier naval fluival de Brumebourg, il a été offert par **Rovtal** au villag
 ---
 
 ### Fern Sfer - Mari de l'Envoyée de Rovtal
+![Fern Sfer](../../_images/mari_envoyée.png)
 * Nom : **Fern Sfer**, né *Fern Héjj*
 * Âge : **42 ans**
 * Espèce : **Saurien**
@@ -78,6 +80,7 @@ Chantier naval fluival de Brumebourg, il a été offert par **Rovtal** au villag
 ---
 
 ### Fego - Enfant
+![Fego](../../_images/barman_enfant.png)
 * Nom : **Fego**
 * Âge : **5 ans**
 * Espèce : **Panthèran** (75%), **Felicis** (25%)
