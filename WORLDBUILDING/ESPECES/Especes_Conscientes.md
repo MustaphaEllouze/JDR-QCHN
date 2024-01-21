@@ -35,6 +35,8 @@
 ## Elfe
 
 ## Reptiloïde
+### Saurien
+Une pratique saurienne courante est de prendre le nom de famille de son conjoint ou de sa conjointe si sa famille est jugée plus puissante et influente que la sienne.
 
 ## Félinoïde
 ### Panthéran

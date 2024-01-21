@@ -25,7 +25,33 @@ L'ensemble des vivres est stocké au sous-sol, tandis que l'ensemble des chambre
 ### Les Cornes d'Acier - Forge, Armurerie
 SItuée sur la place principale du village, elle est tenue par l'imposant minotaure **Vick Ohm**. Le matériel vient souvent à manquer, mais le maître des lieux fait des merveilles avec ce qui lui est donné de manipuler.
 
+### La Fière Barque - Chantier Naval
+Chantier naval fluival de Brumebourg, il a été offert par **Rovtal** au village au moment où le village A CONTINUER
+
 ## PNJ 
+
+### Therra Sfer - Envoyée de Rovtal
+* Nom : **Therra Sfer**
+* Âge : **51 ans**
+* Espèce : **Saurienne**
+* Alignement : **Lawful Neutral**
+* MBTI : **ISFJ**
+* Filiations : **Fern Sfer** (mari)
+* Description : 
+    * Fille d'une famille relativement connue de **Rovtal**, elle aspire à mener une vie paisible à Brumebourg tout en redorant le blason familial grâce à sa bonne gestion du village.
+---
+
+### Fern Sfer - Mari de l'Envoyée de Rovtal
+* Nom : **Fern Sfer**, né *Fern Héjj*
+* Âge : **42 ans**
+* Espèce : **Saurien**
+* Alignement : **Lawful Good**
+* MBTI : **INFP**
+* Filiations : **Therra Sfer** (femme)
+* Description : 
+    * Mari de l'envoyée de Rovtal, il a pris le nom de sa femme afin de s'affilier à sa famille, plus puissante (pratique Saurienne courante).
+    * Il adore profiter du paysage bucolique de Brumebourg et demander si tout va bien à tout le monde.
+---
 
 ### Kramer Grishka - Barman
 ![Kramer Grishka](../../_images/barman.png)
@@ -37,6 +63,7 @@ SItuée sur la place principale du village, elle est tenue par l'imposant minota
 * Filiations : **Lana Spat** (femme), **Fego** (fils)
 * Description : 
     * Un des deux propriétaires du **Chat en Boule**.
+---
 
 ### Lana Spat - Tavernière
 ![Lana Spat](../../_images/taverniere.png)
@@ -48,6 +75,7 @@ SItuée sur la place principale du village, elle est tenue par l'imposant minota
 * Filiations : **Kramer Grishka** (mari), **Fego** (fils)
 * Description :
     * Une des deux propriétaires du **Chat en Boule**.
+---
 
 ### Fego - Enfant
 * Nom : **Fego**
@@ -58,6 +86,7 @@ SItuée sur la place principale du village, elle est tenue par l'imposant minota
 * Filiations : **Kramer Grishka** (père), **Lana Spat** (mère)
 * Description : 
     * Fils des propriétaires du **Chat en Boule**.
+---
 
 ### Vick Ohm - Artisan Forgeron
 ![Vick](../../_images/forgeron.png)
@@ -69,4 +98,15 @@ SItuée sur la place principale du village, elle est tenue par l'imposant minota
 * Filiations : -
 * Description : 
     * Propriétaire de la **Corne d'Acier**.
+---
 
+### XXX - Chef du chantier naval
+* Nom : ****
+* Âge : ****
+* Espèce : ****
+* Alignement : ****
+* MBTI : ****
+* Filiations : -
+* Description : 
+    * 
+---
