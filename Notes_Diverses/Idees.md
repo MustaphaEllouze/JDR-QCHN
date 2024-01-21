@@ -66,6 +66,8 @@ Avec la boisson et les rivalités qui existaient déjà, certains conflits naiss
 * Un objet a été volé à un habitant, il commence alors à accuser des visiteurs près de lui et à avoir des remarques non politiquement correctes ;
 * Un visiteur éméché essaye de s'infiltrer dans une maison qui ne lui appartient pas.
 
+### Quête : Retrouver les saboteurs des Enfants de la Rue
+
 #### Mission : Enquêter sur les visiteurs
 Certains visiteurs semblent moins bavards que d'autres et participent moins aux activités. D'autres ne se sont peut-être pas présentés. Et certains mêmes semblent plus que suspects. 
 
@@ -77,7 +79,23 @@ Les **Enfants de la Rue** ont envoyé certains de leurs membres afin de localise
 * Deux infiltrés qui sont venus monter un stand pour vendre les objets volés dans d'autres villes.
     * Indices : Ils sont un peu nerveux et des festivaliers peuvent reconnaître des objets qu'on leur a volé récemment.
 
-### Quête : Retrouver les saboteurs des Enfants de la Rue
+#### Mission : Chercher et neutraliser les fouineurs
+Certains visiteurs ont été vus traîner dans des endroits où ils ne devraient pas : autour des maisons de certains villageois, dans les espaces de la taverne réservés aux employés, près du temps ou de la maison de l'envoyé de Rovtal.
+
+Les **Enfants de la Rue** comptent certaines recrues assez jeunes qui ne sont pas très obéissantes et qui essayent de profiter de cette mission pour s'en mettre plein les poches plutôt que de se concentrer sur leur mission principale. Ils cherchent des réserves de nourriture, des objets précieux dans les maisons, de l'argent, etc.
+
+Dans tout le village, on peut retrouver des serrures cassées, ou des traces de pas s'éloignant de la place principale où se passe le Festival. De plus, les fouineurs peuvent être des personnes qui ont été précédemment identifiés comme étant problématiques. 
+
+Si confrontés, les **Enfants de la Rue** qui n'ont pas encore grillé leur couverture refusent d'admettre qu'ils connaissent les fouineurs. Cependant, ils n'hésiteront pas à les aider s'ils se retrouvent à l'abri des regard. 
+
+#### Mission : Reporter l'incident à l'envoyé de Rovtal
+Une fois la crise évité, il faut faire son rapport à l'envoyé de Rovtal au village, il aimera sans doute entendre parler de cette affaires pour préparer ses troupes. 
+
+*Récompense : 2 PO par Aventurier + une arme courante*
+
+L'envoyé fera en sorte que le Festival se passe bien par la suite, et préparera le village à faire face à un assaut dans les jours à venir.
+
+### Quête : Préparer Brumebourg à l'assaut futur des Enfants de la Rue
 ### Quête : Réparer le stabilisateur
 ### Quête : Défaire les Enfants de la Rue
 ### Quête : Remonter jusqu'au culte de Komorath
@@ -162,6 +180,7 @@ Assez régulièrement, certains des habitants feront tout le pélerinage jusqu'�
 * Minotaures
 * Hommes-rats
 * Avemains : Strixiens (Hiboux, Chouettes), Aquilins (Ai), Corvidés, Ibissides
+* Centaures
 
 ### > Animales
 * Dinosaures
