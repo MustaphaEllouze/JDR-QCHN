@@ -33,6 +33,8 @@
 ## Humain
 
 ## Elfe
+### Elfe des bois
+![Elfe des bois](../../_images/carpenter_elf.png)
 
 ## Reptiloïde
 ### Saurien
@@ -40,6 +42,9 @@
 Une pratique saurienne courante est de prendre le nom de famille de son conjoint ou de sa conjointe si sa famille est jugée plus puissante et influente que la sienne.
 
 ## Félinoïde
+### Léonins
+Les **Léonins** sont connus pour pour faire rouler les *R* **au fond de leurs gorges** en parlant ([exemple audio](https://en.wikipedia.org/wiki/Voiced_uvular_trill)). Il leur arrive de prononcer ce son tout seul dans le cas où ils sont mécontents. Ils détestent qu'on prenne ce son pour un *ronronnement*.
+
 ### Panthéran
 ![Panthéran](../../_images/barman.png)
 ![Panthéran](../../_images/barman_enfant.png)
@@ -49,18 +54,24 @@ Les **Panthérans** vivent génralement dans de petites communautés, n'aimant p
 
 Avant l'âge adulte, ils ne portent que le prénom donné par leurs parents. Une fois assez âgés, ils choisissent un deuxième prénom, identique à l'un de leurs proches s'ils l'admirent (y compris leurs parents), ou totalement différent s'ils souhaitent marquer leur individualité. 
 
+Lorsqu'ils parlent, les **Panthérans** ont tendance à particulièrement rouler les *R*. De plus, ils ont tendance à transformer tous les *S* en *CH/SH*.
+
 ### Felicis
 ![Felicis](../../_images/felicis_21.png)
 ![Felicis](../../_images/felicis.png)
-Les **Felicis** sont souvent pris de haut par les autres espèces de Félinoïdes, étant clairement la race la plus petite et avec l'espérance de vie la plus courte.
+Les **Felicis** sont souvent pris de haut par les autres espèces de Félinoïdes, étant clairement la race la plus petite et avec l'espérance de vie la plus courte. De plus, les Felicis ronronnent légèrement quand ils s'expriment, ce qui est un trait jugé enfantin chez les autres **Félinoïdes**.
 
 C'est une espèce généralement peu ambitieuse qui aime le confort et ne souhtaite fournir d'efforts qu'en cas de nécessité absolu. On dit souvent qu'un Felicis heureux est un Felicis qui arrive à vivre sans sortir de chez lui.
 
 Il existe néanmoins quelques individus qui rêvent de profiter de leur vie au maximum, les poussant à vivre chaque jour comme si c'était le dernier.
 
+Ils portent généralement le nom qu'ils se sont donnés eux-mêmes.
+
 ## Minotaure
 
 ## Avemain 
+### Strixien 
+![Strixien](../../_images/strixien_clerc.png)
 
 ## Rongeoïde
 ### Surissien

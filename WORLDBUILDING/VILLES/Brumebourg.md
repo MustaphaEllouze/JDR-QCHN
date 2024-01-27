@@ -26,7 +26,16 @@ L'ensemble des vivres est stocké au sous-sol, tandis que l'ensemble des chambre
 SItuée sur la place principale du village, elle est tenue par l'imposant minotaure **Vick Ohm**. Le matériel vient souvent à manquer, mais le maître des lieux fait des merveilles avec ce qui lui est donné de manipuler.
 
 ### La Fière Barque - Chantier Naval
-Chantier naval fluival de Brumebourg, il a été offert par **Rovtal** au village au moment où le village A CONTINUER
+Chantier naval fluival de Brumebourg, il a été offert par **Rovtal** au village au moment où le village s'est allié officiellement à Rovtal.
+
+### Le Bois Vert - Menuiserie
+L'atelier s'occupe également de fournir tout le village en bois. 
+
+### La Langue qui Pique - Epicerie
+La seule épicerie du village, qui se contente généralement d'importer les marchandises des plus grandes villes. Il est arrivé que les propriétaires aient besoin d'aller chercher des végétaux eux-mêmes pour compléter leurs  stock.
+
+### La Ferme de la Colline - Ferme
+Plus grande ferme du village, située sur une colline. Elle est l'établissement qui exporte le plus en dehors du village.
 
 ## PNJ 
 
@@ -103,13 +112,82 @@ Chantier naval fluival de Brumebourg, il a été offert par **Rovtal** au villag
     * Propriétaire de la **Corne d'Acier**.
 ---
 
-### XXX - Chef du chantier naval
-* Nom : ****
-* Âge : ****
-* Espèce : ****
-* Alignement : ****
-* MBTI : ****
+### Grego - Chef du chantier naval
+![Felicis Menuisier](../../_images/felicis_menuisier.png)
+* Nom : **Grego**
+* Âge : **25 ans**
+* Espèce : **Felicis**
+* Alignement : **Lawful Neutral**
+* MBTI : **ENFP**
 * Filiations : -
 * Description : 
-    * 
+    * Propriétaire de **La Fière Barque**.
+    * Malgré le fait qu'il construise des bâteaux, n'a jamais navigué, car il déteste l'eau et avoir le pelage mouillé.
+    * Son agilité lui permet de monter très facilement sur le mât des bâteaux qu'il répare.
+---
+
+### Kaill Kutt - Epicier
+![Epicier](../../_images/epicier_brumebourg.png)
+* Nom : **Kaill Kutt**
+* Âge : **49 ans**
+* Espèce : **Saurien**
+* Alignement : **Loyal Good**
+* MBTI : **ESFJ**
+* Filiations : **Kela Kutt** (femme), **Keno Kutt** (frère)
+* Description : 
+    * Propriétaire de **La Langue qui Pique**.
+    * Originaire de **Rovtal**, il s'est installé à **Brumebourg** avant que son frère soit muté.
+    * Il adore proposer des échantillons gratuits aux gens qu'il apprécie beaucoup.
+---
+
+### Nofret Aalis - Clerc en chef du temple
+![Nofret Aalis](../../_images/strixien_clerc.png)
+* Nom : **Nofret Aalis**
+* Âge : **47 ans**
+* Espèce : **Strixien**
+* Alignement : **Neutral Good**
+* MBTI : **INFJ**
+* Filiations : -
+* Description : 
+    * Vénère [**Italis**](../COSMOLOGIE/PLANS_ET_DIVINITES/Italis.md) (le temple lui est dédié).
+---
+
+### Keno Kutt - Chef de la garde
+![Chef de la garde](../../_images/garde_saurien.png)
+* Nom : **Keno Kutt**
+* Âge : **37 ans**
+* Espèce : **Saurien**
+* Alignement : **Loyal Good**
+* MBTI : **ESTJ**
+* Filiations : **Kaill Kutt** (frère)
+* Description : 
+    * Chef de la garde, envoyé par Rovtal en même temps que [Thera Sfer](#therra-sfer---envoyée-de-rovtal), entre autres pour assurer sa protection.
+    * Il aime bien les villageois de **Brumebourg**, qu'il regarde un peu de haut malgré lui.
+    * Il aimerait bien retourner **Rovtal** s'il en avait l'occasion.
+---
+
+### Klem Thab - Menuisier
+![Menuisier](../../_images/carpenter_elf.png)
+* Nom : **Klem Theb**
+* Âge : **99 ans**
+* Espèce : **Elfe des bois**
+* Alignement : **Chaotic Good**
+* MBTI : **INFP**
+* Filiations : -
+* Description : 
+    * Propriétaire du **Bois Vert**, la menuiserie.
+    * Se lève de bon matin pour aller découper du bois.
+---
+
+### Joland Rouk - Fermier
+![Fermier](../../_images/human_farmer.png)
+* Nom : **Joland Rouk**
+* Âge : **35 ans**
+* Espèce : **Humain**
+* Alignement : **True Neutral**
+* MBTI : **ENTP**
+* Filiations : -
+* Description : 
+    * Il adore avoir des débats inutiles, pour peu qu'il ait le dernier mot.
+    * Propriétaire de **La Ferme de la Colline**.
 ---
