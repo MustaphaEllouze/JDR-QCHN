@@ -63,5 +63,10 @@ Il existe néanmoins quelques individus qui rêvent de profiter de leur vie au m
 ## Avemain 
 
 ## Rongeoïde
+### Surissien
+![Surissien](../../_images/surissien.png)
+
+### Ratussien
+![Ratussien](../../_images/bandit%20ratussien.png)
 
 ## Centaure
