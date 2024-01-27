@@ -6,8 +6,8 @@
 L'organisation du festival demande beaucoup de préparation en amont. Le festival durant plusieurs jours, il faut : 
 * Préparer assez de nourriture afin de nourrir tous les visiteurs (voir le cuisinier de la taverne) ;
 * Aider à monter tous les stands dans la place centrale du village et à les décorer (voir le menuisier et une personne en charge d'organiser le festival);
-* S'occuper de rendre les lieux présentables en éliminant la vermine qui prolifère dans le village (il paraît que la taverne est infestée de rats...) (voir le patron de la taverne);
-* Aller récupérer des herbes sauvages qui serviront à la conconction des mets délicats (voir l'herboriste et l'épicier);
+* S'occuper de rendre les lieux présentables en éliminant la vermine qui prolifère dans le village (il paraît que la taverne est infestée de rats..., [Rencontre || Pièce infestée de rats](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-1---pièce-infestée-de-rats)) (voir le patron de la taverne);
+* Aller récupérer des herbes sauvages qui serviront à la conconction des mets délicats (voir l'herboriste et l'épicier, [Rencontre || Couple de lézards endormis](../RENCONTRES/Plaine.md#rencontre-1---couple-de-lézards-endormis));
 * Aller récolter une contribution financière chez les retardataires (voir un PNJ random) ;
 * Résoudre le conflit sur la présentation des fruits et des légumes des agriculteurs (voir un agriculteur) ;
 * Travailler à la confection d'objets souvenirs (voir le forgeron) ;
@@ -46,9 +46,9 @@ Les **Enfants de la Rue** ont envoyé certains de leurs membres afin de localise
     * Indices : Ils sont un peu nerveux et des festivaliers peuvent reconnaître des objets qu'on leur a volé récemment.
 
 ### Mission : Chercher et neutraliser les fouineurs
-Certains visiteurs ont été vus traîner dans des endroits où ils ne devraient pas : autour des maisons de certains villageois, dans les espaces de la taverne réservés aux employés, près du temps ou de la maison de l'envoyé de Rovtal.
+Certains visiteurs ont été vus traîner dans des endroits où ils ne devraient pas : autour des maisons de certains villageois, dans les espaces de la taverne réservés aux employés, près du temple, de la taverne ou de la maison de l'envoyé de Rovtal.
 
-Les **Enfants de la Rue** comptent certaines recrues assez jeunes qui ne sont pas très obéissantes et qui essayent de profiter de cette mission pour s'en mettre plein les poches plutôt que de se concentrer sur leur mission principale. Ils cherchent des réserves de nourriture, des objets précieux dans les maisons, de l'argent, etc.
+Les **Enfants de la Rue** comptent certaines recrues assez jeunes qui ne sont pas très obéissantes et qui essayent de profiter de cette mission pour s'en mettre plein les poches plutôt que de se concentrer sur leur mission principale. Ils cherchent des réserves de nourriture, des objets précieux dans les maisons, de l'argent, etc. ([Rencontre || Bande de bandits fouineurs](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-2---bande-de-bandits-fouineurs))
 
 Dans tout le village, on peut retrouver des serrures cassées, ou des traces de pas s'éloignant de la place principale où se passe le Festival. De plus, les fouineurs peuvent être des personnes qui ont été précédemment identifiés comme étant problématiques. 
 
