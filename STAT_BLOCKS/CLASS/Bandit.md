@@ -32,7 +32,7 @@
 ![Bandit Felicis](../../_images/bandit_felicis.png)
 * **Classe d'armure** : 12
 * **Points de vie** : 11
-* **Vitesse** : 9 m  
+* **Vitesse** : 7.5 m  
 
 |    |FOR|DEX|CON|INT|SAG|CHA|
 |----|---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 
 * **Classe d'armure** : 12
 * **Points de vie** : 11
-* **Vitesse** : 9 m  
+* **Vitesse** : 7.5 m  
 
 |    |FOR|DEX|CON|INT|SAG|CHA|
 |----|---|---|---|---|---|---|
