@@ -1,7 +1,26 @@
-# Quêtes disponibles
+# Archives
 
 ## Quête : Organiser le Festival des Brumes
 
+### Mission : Aider aux préparations
+L'organisation du festival demande beaucoup de préparation en amont. Le festival durant plusieurs jours, il faut : 
+* Préparer assez de nourriture afin de nourrir tous les visiteurs (voir le cuisinier de la taverne) ;
+* Aider à monter tous les stands dans la place centrale du village et à les décorer (voir le menuisier et une personne en charge d'organiser le festival);
+* S'occuper de rendre les lieux présentables en éliminant la vermine qui prolifère dans le village (il paraît que la taverne est infestée de rats..., [Rencontre || Pièce infestée de rats](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-1---pièce-infestée-de-rats)) (voir le patron de la taverne);
+* Aller récupérer des herbes sauvages qui serviront à la conconction des mets délicats (voir l'herboriste et l'épicier, [Rencontre || Couple de lézards endormis](../RENCONTRES/Plaine.md#rencontre-1---couple-de-lézards-endormis));
+* Aller récolter une contribution financière chez les retardataires (voir un PNJ random) ;
+* Résoudre le conflit sur la présentation des fruits et des légumes des agriculteurs (voir un agriculteur) ;
+* Travailler à la confection d'objets souvenirs (voir le forgeron) ;
+
+### Mission : Accueillir les visiteurs
+La veille du festival, plusieurs visiteurs viennent de loin et souhaitent parler à des locaux : 
+* Délégation officielle de Rovtal
+* Aventuriers de Dvolsti
+* Cuisiniers de Dvolsti
+* Les marchands d'épices de Rovstal
+* Artistes errants de Blanchécum
+* Nobles en vacances de Blanchécum
+* Le vieux mage du quartier nord de Dvolsti
 
 ### Mission : Faire la sécurité du Festival des Brumes
 Cette année, les Aventuriers, travaillant d'habitude dans les alentours du village, sont désignés pour monter la garde lors du festival. Ce faisant, ils seront sans doute amenés à gérer des situations délicates.
@@ -41,8 +60,3 @@ Une fois la crise évité, il faut faire son rapport à l'envoyé de Rovtal au v
 *Récompense : 2 PO par Aventurier + une arme courante*
 
 L'envoyé fera en sorte que le Festival se passe bien par la suite, et préparera le village à faire face à un assaut dans les jours à venir.
-
-## Quête : Préparer Brumebourg à l'assaut futur des Enfants de la Rue
-## Quête : Réparer le stabilisateur
-## Quête : Défaire les Enfants de la Rue
-## Quête : Remonter jusqu'au culte de Komorath
