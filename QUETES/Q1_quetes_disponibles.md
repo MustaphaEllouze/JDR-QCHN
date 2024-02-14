@@ -26,21 +26,27 @@ Les **Enfants de la Rue** ont envoyé certains de leurs membres afin de localise
 * Deux infiltrés qui sont venus monter un stand pour vendre les objets volés dans d'autres villes.
     * Indices : Ils sont un peu nerveux et des festivaliers peuvent reconnaître des objets qu'on leur a volé récemment.
 
-### Mission : Chercher et neutraliser les fouineurs
-Certains visiteurs ont été vus traîner dans des endroits où ils ne devraient pas : autour des maisons de certains villageois, dans les espaces de la taverne réservés aux employés, près du temple, de la taverne ou de la maison de l'envoyé de Rovtal.
-
-Les **Enfants de la Rue** comptent certaines recrues assez jeunes qui ne sont pas très obéissantes et qui essayent de profiter de cette mission pour s'en mettre plein les poches plutôt que de se concentrer sur leur mission principale. Ils cherchent des réserves de nourriture, des objets précieux dans les maisons, de l'argent, etc. ([Rencontre || Bande de bandits fouineurs](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-2---bande-de-bandits-fouineurs))
-
-Dans tout le village, on peut retrouver des serrures cassées, ou des traces de pas s'éloignant de la place principale où se passe le Festival. De plus, les fouineurs peuvent être des personnes qui ont été précédemment identifiés comme étant problématiques. 
-
-Si confrontés, les **Enfants de la Rue** qui n'ont pas encore grillé leur couverture refusent d'admettre qu'ils connaissent les fouineurs. Cependant, ils n'hésiteront pas à les aider s'ils se retrouvent à l'abri des regard. 
-
 ### Mission : Reporter l'incident à l'envoyé de Rovtal
 Une fois la crise évité, il faut faire son rapport à l'envoyé de Rovtal au village, il aimera sans doute entendre parler de cette affaires pour préparer ses troupes. 
 
 *Récompense : 2 PO par Aventurier + une arme courante*
 
 L'envoyé fera en sorte que le Festival se passe bien par la suite, et préparera le village à faire face à un assaut dans les jours à venir.
+
+### Mission : Interroger les fouineurs capturés
+Durant les rondes de sécurité, certains fouineurs ont été capturés. Ils ont été emmenés en prison, où ils sont prêts à être interrogés par la garde et ceux montant la sécurité. 
+
+Parmi ces personnages capturés, on retrouve : 
+* [Grégaa Uut](../WORLDBUILDING/VILLES/Dvolsti.md#grégwa-uut---membre), membre des **Enfants de la Rue**, qui doit surveiller les novices et qui a vu deux de ses novices tuer sous ses yeux par **Patrik**.
+    * Grégaa ne sait pas grand chose du plan des **Enfants de la Rue** à Brumebourg, il sait uniquement qu'il était en charge de canaliser certaines jeunes recrues le temps qu'elles mettent le bazar dans le village, afin qu'elles occupents les *forces de l'ordre*. 
+    * Il sait que certains de ses supérieurs ont été occupés à élaborer un plan à propos de **Brumebourg**, donc il sait que quelque chose se trame sans qu'il le sache. 
+    * Il a cru entendre qu'il y a supposément une distraction qui se prépare lors de la soirée où un *homme de paille sera brûlé*.
+    * Il a cru entendre à un moment qu'un employeur a été en contact avec ses supérieurs, mais il n'a pas fait le lien avec le plan actuel.
+* [Fééli](../WORLDBUILDING/VILLES/Dvolsti.md#fééli---novice), novice des **Enfants de la Rue**, qui s'est faite attrapée alors qu'elle n'avait pas visiblement commis de crime. Elle a cependant remis, sous la pression, une pièce d'or lorsque **Patrik** lui a demandé ce qu'elle a volé.
+    * Elle ne sait pas grand chose de ce qui se passe au-dessus d'elle. Grégaa était suposée la surveiller pendant qu'elle semait le trouble dans le village. 
+* [Minno](../WORLDBUILDING/VILLES/Dvolsti.md#minno---novice), novice des **Enfants de la Rue**, qui s'est fait attrapé en même temps que **Fééli** mais qui n'a rien avoué.
+    * Il ne sait pas grand chose de plus par rapport à **Fééli**.
+    * Il a pu comprendre que quelque chose se tramait au sein de l'organisation (des employeurs assez spéciaux sont entrés en contact avec les **Enfants de la Rue**) mais il ne sait rien de plus.
 
 ## Quête : Préparer Brumebourg à l'assaut futur des Enfants de la Rue
 ## Quête : Réparer le stabilisateur
