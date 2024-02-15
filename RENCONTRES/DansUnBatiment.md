@@ -20,3 +20,21 @@
 **XP** : 300
 
 **Scope** : Moyen au niveau 1
+
+## Rencontre Batiment 3 - Bande plus forte de bandits fouineurs
+* 
+
+**Objectif** : 
+
+**XP** : 
+
+**Scope** : 
+
+## Rencontre Batiment 4 - Opération "Libérer les bandits de la prison"
+* 
+
+**Objectif** : 
+
+**XP** : 
+
+**Scope** : 

@@ -26,13 +26,6 @@ Les **Enfants de la Rue** ont envoyé certains de leurs membres afin de localise
 * Deux infiltrés qui sont venus monter un stand pour vendre les objets volés dans d'autres villes.
     * Indices : Ils sont un peu nerveux et des festivaliers peuvent reconnaître des objets qu'on leur a volé récemment.
 
-### Mission : Reporter l'incident à l'envoyé de Rovtal
-Une fois la crise évité, il faut faire son rapport à l'envoyé de Rovtal au village, il aimera sans doute entendre parler de cette affaires pour préparer ses troupes. 
-
-*Récompense : 2 PO par Aventurier + une arme courante*
-
-L'envoyé fera en sorte que le Festival se passe bien par la suite, et préparera le village à faire face à un assaut dans les jours à venir.
-
 ### Mission : Interroger les fouineurs capturés
 Durant les rondes de sécurité, certains fouineurs ont été capturés. Ils ont été emmenés en prison, où ils sont prêts à être interrogés par la garde et ceux montant la sécurité. 
 
@@ -48,6 +41,17 @@ Parmi ces personnages capturés, on retrouve :
     * Il ne sait pas grand chose de plus par rapport à **Fééli**.
     * Il a pu comprendre que quelque chose se tramait au sein de l'organisation (des employeurs assez spéciaux sont entrés en contact avec les **Enfants de la Rue**) mais il ne sait rien de plus.
 
+### Mission : S'occuper des *Enfants de la Rue* lors de la *Célébration de Feu*
+
+Lors de la [**Célébration de Feu**](../WORLDBUILDING/VILLES/Brumebourg.md#la-célébration-de-feu), l'ensemble des habitants du village et des touristes sont réunis en marge de la place centrale de **Brumebourg** afin de contempler l'allumage de la statue. Cette année, la statue est disposée sur la rive gauche du fleuve. 
+
+Profitant de cet attroupement, certains membres des **Enfants de la Rue** en profitent pour se cacher, explorer des lieux moins bien protégés et échapper aux *forces de l'ordre*. Parmi toutes les troupes déployées, on retrouve : 
+* Le groupe resté près de la **Célébration de Feu**, volant passants et causant du chaos. Ce groupe cherche à attirer à tout prix les gens autour de la statue ([Rencontre](../RENCONTRES/MilieuRural.md#rencontre-rural-1---vol-lors-dune-fête)). 
+* Le groupe retournant au [**Chat en Boule**](../WORLDBUILDING/VILLES/Brumebourg.md#le-chat-en-boule---taverne) afin d'essayer de voler les quelques affaires qui y seraient ([Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-3---bande-plus-forte-de-bandits-fouineurs)). 
+* Le groupe ayant obtenu l'information selon laquelle le stabilisateur de leyline est du côté de l'hôtel de ville, et s'y rendant pour tenter de le trouver ([Rencontre](../RENCONTRES/MilieuRural.md#rencontre-rural-2---dans-les-ruelles-du-village)). 
+* Le groupe se rendant du côté de la prison afin de libérer les éventuels prisonniers ([Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-4---opération-libérer-les-bandits-de-la-prison)).
+
+## Quête : Empêcher que le stabilisateur ne soit détruit
 ## Quête : Préparer Brumebourg à l'assaut futur des Enfants de la Rue
 ## Quête : Réparer le stabilisateur
 ## Quête : Défaire les Enfants de la Rue
