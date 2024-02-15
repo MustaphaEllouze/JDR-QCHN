@@ -3,15 +3,15 @@
 ## Présentation
 **Brumebourg** est un petit village situé à 50km à l'Est de **Dvolsti**. Très axé autour de l'agriculture, le village a tout appris deu savoir-faire de Rovtal.Ce sont quelques centaines d'habitants qui travaillent tous les jours aux champs afin de pouvoir produire assez de nourriture qu'ils exportent ensuite aux villes voisines. 
 
-Village assez modeste, tout le monde se connaît très bien et se rassemblent souvent le soir à la tarverne du village, la **Taverne de Brume**, afin de discuter, parler de la journée, et déguster des plats préparés par le tavernier. Plusieurs structures et institutions sont présentes en plein coeur du village : forgeron, école, un hotêl de ville qui abrite l'envoyé de Rovtal, une écurie, etc. 
+Village assez modeste, tout le monde se connaît très bien et se rassemblent souvent le soir à la tarverne du village, le [Chat en Boule](#le-chat-en-boule---taverne), afin de discuter, parler de la journée, et déguster des plats préparés par le tavernier. Plusieurs structures et institutions sont présentes en plein coeur du village : forgeron, école, un hotêl de ville qui abrite l'envoyé de Rovtal, une écurie, etc. 
 
 Outre son agriculture, Brumebourg est également connue pour son chantier naval et son port de passage, positionné directement sur le fleuve mais qui ne connecte malheuresement pas les parties les plus actives de la partie Ouest de la Côte Epineuse.
 
-Les habitants de Brumebourg accordent une grande importance à leur anciens : les plus âgés sont très respectés, et une fête s'organise chaque solstice en l'honneur des défunts : les **Veillées des Ancêtres**. Ces veillées sont très attendues par l'ensemble de la population, et leurs formes changent grandement en fonction de la saison, l'été étant généralement réservé pour les célébrations joyeuses, tandis que l'hiver est réservé pour le recueillement. Sous l'influence de Rovtal, ces veillées sont en été sous la tutelle de **Muhuta**, déesse du Renouveau, et en hiver sous la tutelle d'**Italis**, dieu de la Mort et de la Vie.
+Les habitants de Brumebourg accordent une grande importance à leur anciens : les plus âgés sont très respectés, et une fête s'organise chaque solstice en l'honneur des défunts : les [Veillées des Ancêtres](#la-veillée-des-ancêtres). Ces veillées sont très attendues par l'ensemble de la population, et leurs formes changent grandement en fonction de la saison, l'été étant généralement réservé pour les célébrations joyeuses, tandis que l'hiver est réservé pour le recueillement. Sous l'influence de Rovtal, ces veillées sont en été sous la tutelle de [Muhuta](../COSMOLOGIE/PLANS_ET_DIVINITES/Muhuta.md), déesse du Renouveau, et en hiver sous la tutelle d'[Italis](../COSMOLOGIE/PLANS_ET_DIVINITES/Italis.md), dieu de la Mort et de la Vie.
 
 De façon générale, la vie à Brumebourg est vue comme une vie assez traditionnelle, puisque le niveau de vie reste assez modeste : on peut encore croiser certains habitants qui souhaitent encore aller chasser ou cueillir dans les environs afin de changer un peu de la nourriture qui est élevées près du village.
 
-Assez régulièrement, certains des habitants feront tout le pélerinage jusqu'à **Dvolsti** afin de récupérer des ressources qu'on ne trouve pas au village (pour l'ensemble des artisans de Brumebourg notamment), et en profitent échanger des ressources produites dans le village contre des nouvelles du monde. 
+Assez régulièrement, certains des habitants feront tout le pélerinage jusqu'à [Dvolsti](./Dvolsti.md) afin de récupérer des ressources qu'on ne trouve pas au village (pour l'ensemble des artisans de Brumebourg notamment), et en profitent échanger des ressources produites dans le village contre des nouvelles du monde. 
 
 ## Cartes
 ![Brumebourg](../../_images/Brumebourg.jpg)
@@ -36,6 +36,22 @@ La seule épicerie du village, qui se contente généralement d'importer les mar
 
 ### La Ferme de la Colline - Ferme
 Plus grande ferme du village, située sur une colline. Elle est l'établissement qui exporte le plus en dehors du village.
+
+## Événements marquants
+
+## Traditions et particularités
+
+### Festival des Brumes
+Tous les printemps, le village de **Brumebourg** organise le Festival des Brumes, célébrant les nouvelles récoltes du village et la fin de l'hiver, marqué par ses brumes permanentes. A cette occasion, tout le village s'anime et tous les habitants se reconvertissent le temps du festival afin de l'organiser. Toutes les festivités sont animés par [l'envoyée de **Rovtal**](#therra-sfer---envoyée-de-rovtal) qui fait office de représentant du pouvoir.
+
+Plusieurs habitants et commerçants montent des stands dans tout le village, et les emplacements à côté de la place centrale sont très convoités. On y retrouve surtout des stands à propos de l'agriculture en général, mais aussi des stands en tout genre (jeux, spectacles, etc.)
+
+#### La Célébration de Feu
+La première nuit de chaque **Festival des Brumes**, une statue gigantesque de bois et paille est brûlée, ce qui constitue l'une des plus grandes attractions du festival. 
+
+Le feu allumée lors de **Célébration de Feu** symbolise les habitants du village qui éloignent les brumes pour l'en délivrer.  
+
+### La Veillée des Ancêtres
 
 ## PNJ 
 
