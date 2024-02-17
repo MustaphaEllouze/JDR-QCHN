@@ -47,6 +47,7 @@ Tous les printemps, le village de **Brumebourg** organise le Festival des Brumes
 Plusieurs habitants et commerçants montent des stands dans tout le village, et les emplacements à côté de la place centrale sont très convoités. On y retrouve surtout des stands à propos de l'agriculture en général, mais aussi des stands en tout genre (jeux, spectacles, etc.)
 
 #### La Célébration de Feu
+![Célébration de Feu](../../_images/celebration_de_feu.webp)
 La première nuit de chaque **Festival des Brumes**, une statue gigantesque de bois et paille est brûlée, ce qui constitue l'une des plus grandes attractions du festival. 
 
 Le feu allumée lors de **Célébration de Feu** symbolise les habitants du village qui éloignent les brumes pour l'en délivrer.  
