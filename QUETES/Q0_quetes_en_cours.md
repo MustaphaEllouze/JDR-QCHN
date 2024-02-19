@@ -7,7 +7,7 @@ Le **Festival des Brumes** approche ! Tous les printemps, le village de **Brumeb
 Cette année, [Therra](../WORLDBUILDING/VILLES/Brumebourg.md#therra-sfer---envoyée-de-rovtal) nous a proposé de remplacer quelques gardes qui ne se sentaient pas bien. 
 > Nous devons continuer de monter la garde jusqu'à la fin du festival.
 
-Afin de nous démarquer dans la foule, [Keno, le chef de la garde](../WORLDBUILDING/VILLES/Brumebourg.md#keno-kutt---chef-de-la-garde), nous a procuré des brassards rouges.
+Afin de nous démarquer dans la foule, [Keno, le chef de la garde](../WORLDBUILDING/VILLES/Brumebourg.md#keno-kutt---chef-de-la-garde-de-therra), nous a procuré des brassards rouges.
 
 Nous avons trouvé un noble fortuné qui avait perdu sa bourse après être allé à la taverne. Nous avons accusé deux bandits Felicis que nous avons attrapé avant d'amener en prison.
 

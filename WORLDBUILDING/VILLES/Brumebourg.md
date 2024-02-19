@@ -66,6 +66,7 @@ Le feu allumée lors de **Célébration de Feu** symbolise les habitants du vill
 * Filiations : **Fern Sfer** (mari)
 * Description : 
     * Fille d'une famille relativement connue de **Rovtal**, elle aspire à mener une vie paisible à Brumebourg tout en redorant le blason familial grâce à sa bonne gestion du village.
+    * Elle voit **Rovtal** et les gens qui y vivent comme supérieurs aux habitants de **Brumebourg**, ce qui lui vaut de sortir quelques remarques racistes de temps en temps. 
 ---
 
 ### Fern Sfer - Mari de l'Envoyée de Rovtal
@@ -91,6 +92,8 @@ Le feu allumée lors de **Célébration de Feu** symbolise les habitants du vill
 * Filiations : **Lana Spat** (femme), **Fego** (fils)
 * Description : 
     * Un des deux propriétaires du **Chat en Boule**.
+    * Ni sait ni lire ni écrire.
+    * A un mauvais accent mexicain.
 ---
 
 ### Lana Spat - Tavernière
@@ -129,7 +132,7 @@ Le feu allumée lors de **Célébration de Feu** symbolise les habitants du vill
     * Propriétaire de la **Corne d'Acier**.
 ---
 
-### Grego - Chef du chantier naval
+### Brego - Chef du chantier naval
 ![Felicis Menuisier](../../_images/felicis_menuisier.png)
 * Nom : **Grego**
 * Âge : **25 ans**
@@ -141,6 +144,7 @@ Le feu allumée lors de **Célébration de Feu** symbolise les habitants du vill
     * Propriétaire de **La Fière Barque**.
     * Malgré le fait qu'il construise des bâteaux, n'a jamais navigué, car il déteste l'eau et avoir le pelage mouillé.
     * Son agilité lui permet de monter très facilement sur le mât des bâteaux qu'il répare.
+    * Il adore tailler des marches en bois, et il est très bon.
 ---
 
 ### Kaill Kutt - Epicier
@@ -169,8 +173,8 @@ Le feu allumée lors de **Célébration de Feu** symbolise les habitants du vill
     * Vénère [**Italis**](../COSMOLOGIE/PLANS_ET_DIVINITES/Italis.md) (le temple lui est dédié).
 ---
 
-### Keno Kutt - Chef de la garde
-![Chef de la garde](../../_images/garde_saurien.png)
+### Keno Kutt - Chef de la garde de [Therra](#therra-sfer---envoyée-de-rovtal)
+![Keno Kutt](../../_images/garde_saurien.png)
 * Nom : **Keno Kutt**
 * Âge : **37 ans**
 * Espèce : **Saurien**
@@ -181,6 +185,33 @@ Le feu allumée lors de **Célébration de Feu** symbolise les habitants du vill
     * Chef de la garde, envoyé par Rovtal en même temps que [Thera Sfer](#therra-sfer---envoyée-de-rovtal), entre autres pour assurer sa protection.
     * Il aime bien les villageois de **Brumebourg**, qu'il regarde un peu de haut malgré lui.
     * Il aimerait bien retourner **Rovtal** s'il en avait l'occasion.
+    * Il s'ennuie un peu lors de son travail, il en profite quelques fois pour faire des siestes, longuement méritées vu qu'il s'octroie souvent les gardes de nuit.
+---
+
+### Trébwon Kwestyon - Membre de la garde de [Therra](#therra-sfer---envoyée-de-rovtal)
+![Trébwon Kwestyon](../../_images/trebwon.webp)
+* Nom : **Trébwon Kwestyon**
+* Âge : **33 ans**
+* Espèce : **Saurien**
+* Alignement : **Lawful Good**
+* MBTI : **ISTJ**
+* Filiations : **Trébyen Kwestyon** (frère)
+* Description : 
+    * Membre de la garde, envoyé par Rovtal en même temps que [Keno](#keno-kutt---chef-de-la-garde-de-therra).
+    * Il adore regarder le feu brûler.
+---
+
+### Trébyen Kwestyon - Membre de la garde de [Therra](#therra-sfer---envoyée-de-rovtal)
+![Trébyen Kwestyon](../../_images/trebyen.webp)
+* Nom : **Trébyen Kwestyon**
+* Âge : **30 ans**
+* Espèce : **Saurien**
+* Alignement : **Neutral Good**
+* MBTI : **ISTP**
+* Filiations : **Trébwon Kwestyon** (frère)
+* Description : 
+    * Membre de la garde, envoyé par Rovtal en même temps que [Keno](#keno-kutt---chef-de-la-garde-de-therra).
+    * C'est un très bon coureur. Il se lève parfois le matin pour faire un jogging tout seul.
 ---
 
 ### Klem Thab - Menuisier
