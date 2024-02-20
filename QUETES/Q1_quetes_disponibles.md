@@ -40,7 +40,16 @@ Profitant de cet attroupement, certains membres des **Enfants de la Rue** en pro
 * Le groupe ayant obtenu l'information selon laquelle le stabilisateur de leyline est du côté de l'hôtel de ville, et s'y rendant pour tenter de le trouver ([Rencontre](../RENCONTRES/MilieuRural.md#rencontre-rural-2---dans-les-ruelles-du-village)). 
 * Le groupe se rendant du côté de la prison afin de libérer les éventuels prisonniers ([Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-4---opération-libérer-les-bandits-de-la-prison)).
 
-## Quête : Empêcher que le stabilisateur ne soit détruit
+## Quête : Arrêter l'assaut des Enfants de la Rue
+
+### Mission : Trouver la raison de la présence des Enfants de la Rue à Brumebourg
+
+### Mission : Retrouver Bakari
+
+### Mission : Empêcher que le stabilisateur ne soit détruit
+
+### Mission : Sauver Therra des mains de Bakari
+
 ## Quête : Préparer Brumebourg à l'assaut futur des Enfants de la Rue
 ## Quête : Réparer le stabilisateur
 ## Quête : Défaire les Enfants de la Rue
