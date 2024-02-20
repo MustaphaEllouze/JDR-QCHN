@@ -89,11 +89,12 @@ Le feu allumée lors de **Célébration de Feu** symbolise les habitants du vill
 * Espèce : **Panthèran**
 * Alignement : **Neutral Good**
 * MBTI : **ISTP**
-* Filiations : **Lana Spat** (femme), **Fego** (fils)
+* Filiations : [**Lana Spat**](#lana-spat---tavernière) (femme), [**Fego**](#fego---enfant) (fils), [**Bakari Mikhaïl**](./Dvolsti.md#bakari-mikhaïl---chef-de-groupe) (cousin)
 * Description : 
     * Un des deux propriétaires du **Chat en Boule**.
     * Ni sait ni lire ni écrire.
     * A un mauvais accent mexicain.
+    * Il vivait à [**Dvolsti**](../VILLES/Dvolsti.md) jusqu'à il y a 15 ans, où il a déménagé avec sa femme pour venir à Brumebourg. Il n'a gardé aucun contact avec sa famille à **Dvolsti**, notamment avec son cousin [Bakari](./Dvolsti.md#bakari-mikhaïl---chef-de-groupe).
 ---
 
 ### Lana Spat - Tavernière
@@ -106,6 +107,7 @@ Le feu allumée lors de **Célébration de Feu** symbolise les habitants du vill
 * Filiations : **Kramer Grishka** (mari), **Fego** (fils)
 * Description :
     * Une des deux propriétaires du **Chat en Boule**.
+    * Elle vivait à [**Dvolsti**](../VILLES/Dvolsti.md) jusqu'à il y a 15 ans, où elle a déménagé avec son mari pour venir à Brumebourg.
 ---
 
 ### Fego - Enfant

@@ -13,6 +13,27 @@ En plus de **Muhuta** et **Italis** qui sont vénérés dans **Rovtal**, le cult
 
 Les **Enfants de la Rue** sont des adeptes de ce crédo, estimant que leur vie plus que modeste n'est qu'une autre épreuve qu'ils doivent endurer et que c'est grâce à leur investissement qu'ils réussiront un jour à s'en sortir. Pendant ce temps, il leur semble logique et juste de faire ce qui leur permet de survivre, quitte à ce que des inconnus en souffrent.
 
+## Les Enfants de la Rue 
+
+### Résumé
+
+Organisation criminelle hautement hiérarchique, les novices et simples membres sont généralement recrutés das la rue et ne sont que très rarement informés des plans qui s'élaborent par leurs supérieurs. 
+
+L'ensemble des membres hautement positionnés portent sur eux un insigne : **une pièce marqué de l'emblème des Enfants de la Rue**.
+
+Les membres les plus bas hiérarchiquement sont souvent considérés comme une simple ressource qui peut s'acquérir, typiquement en proposant du travail aux jeunes dans la rue, d'où le nom de l'organisation.
+
+Les membres en dessous de **Chef de groupe** s'appellent souvent avec des noms fraternels entre eux, mais ce n'est pas le cas des membres les plus haut gradés, avec qui l'aspect familial n'accroche pas conceptuellement.
+
+### Hiérarchie
+* Informateur
+* Novice 
+* Membre
+* Chef de mission
+* Chef de groupe
+* Chef de division 
+* leader
+
 ## PNJ 
 
 ### Les Enfants de la Rue 
@@ -53,5 +74,22 @@ Les **Enfants de la Rue** sont des adeptes de ce crédo, estimant que leur vie p
     * Il a réussi à faire ses preuves récemment au sein des Enfants de la Rue, il a la tâche de surveiller les quelques novices sous ses ordre, dont [Minno](#minno---novice) et [Fééli](#fééli---novice).
     * Il a rejoint les **Enfants de la Rue** parce qu'il voulait sortir de la pauvreté. 
     * Il a été recruté par quelqu'un de plus ancien et plus gradé que lui, et ne sait donc pas grand chose de l'organisation en elle-même.
+    
+---
+
+### Bakari Mikhaïl - Chef de groupe
+![Bakari Mikhaïl](../../_images/chefbandit_pantheran.webp)
+* Nom : **Bakari Mikhaïl**
+* Âge : **40 ans**
+* Espèce : **Panthéran**
+* Alignement : **Neutral Evil**
+* MBTI : **ESTP**
+* Filiations : **Enfants de la Rue** (chef de groupe), [**Kramer Grishka**](./Brumebourg.md#kramer-grishka---barman) (cousin)
+* Description : 
+    * En tant que chef de groupe, il porte toujours sur lui le signe qui lui permet de s'identifier auprès des autres (une pièce avec l'emblème des Enfants de la Rue).
+    * Il provient d'une famille très modeste et s'est tourné vers les **Enfants de la Rue** afin de vivre dans un plus grand luxe. 
+    * Il est facilement appâté par le gain. 
+    * Il a rejoint les **Enfants de la Rue** il y a déjà plus de 13 ans.
+    * Il voit les membres les plus faibles comme une simple ressource.
     
 ---

@@ -15,17 +15,6 @@ Avec la boisson et les rivalités qui existaient déjà, certains conflits naiss
 
 ## Quête : Retrouver les saboteurs des Enfants de la Rue
 
-### Mission : Enquêter sur les visiteurs
-Certains visiteurs semblent moins bavards que d'autres et participent moins aux activités. D'autres ne se sont peut-être pas présentés. Et certains mêmes semblent plus que suspects. 
-
-Les **Enfants de la Rue** ont envoyé certains de leurs membres afin de localiser le stabilisateur de leyline de Brumebourg puis de le neutraliser. Le premier soir du **Festival des Brumes** est l'occasion pour les recrues de bas rang de mener l'enquête. On compte celles-ci : 
-* Des colporteurs faisant le tour des stands pour se renseigner et observer ;
-    * Indices : Ils sont relativement peu bavards, posent des questions étranges, essayent de forcer un passage dans des endroits auxquels ils ne sont pas supposés avoir accès.
-* Des voleurs essayant de récupérer les clés et les objets précieux des festivaliers ;
-    * Indices : Ils travaillent à plusieurs et essyant de voler quelqu'un en le distrayant par quelqu'un d'autre.
-* Deux infiltrés qui sont venus monter un stand pour vendre les objets volés dans d'autres villes.
-    * Indices : Ils sont un peu nerveux et des festivaliers peuvent reconnaître des objets qu'on leur a volé récemment.
-
 ### Mission : Interroger les fouineurs capturés
 Durant les rondes de sécurité, certains fouineurs ont été capturés. Ils ont été emmenés en prison, où ils sont prêts à être interrogés par la garde et ceux montant la sécurité. 
 
