@@ -94,7 +94,7 @@ Les membres en dessous de **Chef de groupe** s'appellent souvent avec des noms f
 ---
 
 ### Djibril Niil - Chef de groupe
-![Djibril Niil](../../_images/)
+![Djibril Niil](../../_images/djibril.webp)
 * Nom : **Djibril Niil**
 * Âge : **33 ans**
 * Espèce : **Alligatoride**
@@ -107,7 +107,7 @@ Les membres en dessous de **Chef de groupe** s'appellent souvent avec des noms f
 ---
 
 ### Bakari Phéroh - Chef de division
-![Bakari Phéroh](../../_images/)
+![Bakari Phéroh](../../_images/bakari_pheroh.webp)
 * Nom : **Bakari Mikhaïl**
 * Âge : **40 ans**
 * Espèce : **Alligatoride**
@@ -120,15 +120,28 @@ Les membres en dessous de **Chef de groupe** s'appellent souvent avec des noms f
 ## Les Enfants de la Rue - Division de renseignements
 
 
-### Griffes-Rouges - Cheffe de groupe
-![Griffes-Rouges](../../_images/)
+### Griffes-Rouges - Cheffe de division
+![Griffes-Rouges](../../_images/griffes_rouges.webp)
 * Nom : **Griffes-Rouges**
-* Âge : **23 ans**
+* Âge : **26 ans**
 * Espèce : **Felicis**
 * Alignement : **Lawful Neutral**
 * MBTI : **INFJ**
-* Filiations : **Enfants de la Rue** (chef de groupe)
+* Filiations : **Enfants de la Rue** (cheffe de division)
 * Description : 
-    * A été recrutée au même moment que [Bakari Mikhaïl](#bakari-mikhaïl---chef-de-groupe).
+    * 
+    
+---
+
+### Paumes-Bleues - Chef de division
+![Paumes-Bleues](../../_images/paumes_bleues.webp)
+* Nom : **Paumes-Bleues**
+* Âge : **26 ans**
+* Espèce : **Felicis**
+* Alignement : **Lawful Neutral**
+* MBTI : **INTJ**
+* Filiations : **Enfants de la Rue** (chef de division)
+* Description : 
+    * 
     
 ---
