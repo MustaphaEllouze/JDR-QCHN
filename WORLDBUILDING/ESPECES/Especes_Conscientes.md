@@ -65,7 +65,7 @@ C'est une espèce généralement peu ambitieuse qui aime le confort et ne souhta
 
 Il existe néanmoins quelques individus qui rêvent de profiter de leur vie au maximum, les poussant à vivre chaque jour comme si c'était le dernier.
 
-Ils portent généralement le nom qu'ils se sont donnés eux-mêmes.
+Ils portent généralement le prénom qu'ils se sont donnés eux-mêmes, une fois la vie adulte atteinte. Ce prénom est très souvent constitué de deux syllabes uniquement. 
 
 ## Minotaure
 

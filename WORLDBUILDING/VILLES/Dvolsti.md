@@ -26,17 +26,15 @@ Les membres les plus bas hiérarchiquement sont souvent considérés comme une s
 Les membres en dessous de **Chef de groupe** s'appellent souvent avec des noms fraternels entre eux, mais ce n'est pas le cas des membres les plus haut gradés, avec qui l'aspect familial n'accroche pas conceptuellement.
 
 ### Hiérarchie
-* Informateur
 * Novice 
 * Membre
-* Chef de mission
 * Chef de groupe
 * Chef de division 
-* leader
+* Leader
 
 ## PNJ 
 
-### Les Enfants de la Rue 
+### Les Enfants de la Rue - Division Armée
 
 ### Minno - Novice
 ![Minno](../../_images/Minno.webp)
@@ -80,16 +78,57 @@ Les membres en dessous de **Chef de groupe** s'appellent souvent avec des noms f
 ### Bakari Mikhaïl - Chef de groupe
 ![Bakari Mikhaïl](../../_images/chefbandit_pantheran.webp)
 * Nom : **Bakari Mikhaïl**
-* Âge : **40 ans**
+* Âge : **29 ans**
 * Espèce : **Panthéran**
 * Alignement : **Neutral Evil**
 * MBTI : **ESTP**
-* Filiations : **Enfants de la Rue** (chef de groupe), [**Kramer Grishka**](./Brumebourg.md#kramer-grishka---barman) (cousin)
+* Filiations : **Enfants de la Rue** (chef de groupe), [**Kramer Grishka**](./Brumebourg.md#kramer-grishka---barman) (cousin), [**Bakari Phéroh**](#bakari-phéroh---chef-de-division) (mentor)
 * Description : 
     * En tant que chef de groupe, il porte toujours sur lui le signe qui lui permet de s'identifier auprès des autres (une pièce avec l'emblème des Enfants de la Rue).
     * Il provient d'une famille très modeste et s'est tourné vers les **Enfants de la Rue** afin de vivre dans un plus grand luxe. 
     * Il est facilement appâté par le gain. 
     * Il a rejoint les **Enfants de la Rue** il y a déjà plus de 13 ans.
     * Il voit les membres les plus faibles comme une simple ressource.
+    * Il a choisi son prénom d'adulte en hommage à son mentor, [Bakari Phréoh](#bakari-phéroh---chef-de-division), qui l'a introduit au monde de la criminalité.
+    
+---
+
+### Djibril Niil - Chef de groupe
+![Djibril Niil](../../_images/)
+* Nom : **Djibril Niil**
+* Âge : **33 ans**
+* Espèce : **Alligatoride**
+* Alignement : **Chaotic Evil**
+* MBTI : **INTP**
+* Filiations : **Enfants de la Rue** (chef de groupe)
+* Description : 
+    * C'est le rival *cordial* de [Bakari Mikhaïl](#bakari-mikhaïl---chef-de-groupe).
+    
+---
+
+### Bakari Phéroh - Chef de division
+![Bakari Phéroh](../../_images/)
+* Nom : **Bakari Mikhaïl**
+* Âge : **40 ans**
+* Espèce : **Alligatoride**
+* Alignement : **Lawful Evil**
+* MBTI : **ENTJ**
+* Filiations : **Enfants de la Rue** (chef de division), [**Bakari Mikhaïl**](#bakari-mikhaïl---chef-de-groupe) (pupille)
+* Description : 
+    * 
+
+## Les Enfants de la Rue - Division de renseignements
+
+
+### Griffes-Rouges - Cheffe de groupe
+![Griffes-Rouges](../../_images/)
+* Nom : **Griffes-Rouges**
+* Âge : **23 ans**
+* Espèce : **Felicis**
+* Alignement : **Lawful Neutral**
+* MBTI : **INFJ**
+* Filiations : **Enfants de la Rue** (chef de groupe)
+* Description : 
+    * A été recrutée au même moment que [Bakari Mikhaïl](#bakari-mikhaïl---chef-de-groupe).
     
 ---
