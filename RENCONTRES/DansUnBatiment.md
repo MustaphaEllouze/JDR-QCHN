@@ -33,7 +33,7 @@
 **Scope** : Difficile au niveau 2
 
 ## Rencontre Batiment 4 - Opération "Libérer les bandits de la prison"
-* 1 [Capitaine Bandit Panthéran](../STAT_BLOCKS/CLASS/CapitaineBandit.md#capitaine-bandit-panthéran)
+* 2 [Malfrats](../STAT_BLOCKS/CLASS/Malfrat.md#malfrat)
 * 2 [Bandits Félicis](../STAT_BLOCKS/CLASS/Bandit.md#bandit-felicis)
 * 2 [Bandits Ratussiens](../STAT_BLOCKS/CLASS/Bandit.md#bandit-felicis)
 
@@ -43,6 +43,6 @@
 
 **Objectif** : Les bandits cherchent à libérer leurs alliés qui sont emprisonnés. Ils ne doivent pas réussir à libérer leurs alliés.
 
-**XP** : 410 XP
+**XP** : 300 XP
 
-**Scope** : Mortelle au niveau 2
+**Scope** : Moyenne au niveau 2

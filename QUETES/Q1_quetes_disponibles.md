@@ -37,14 +37,22 @@ Lors de la [**Célébration de Feu**](../WORLDBUILDING/VILLES/Brumebourg.md#la-c
 Profitant de cet attroupement, certains membres des **Enfants de la Rue** en profitent pour se cacher, explorer des lieux moins bien protégés et échapper aux *forces de l'ordre*. Parmi toutes les troupes déployées, on retrouve : 
 * Le groupe resté près de la **Célébration de Feu**, volant passants et causant du chaos. Ce groupe cherche à attirer à tout prix les gens autour de la statue ([Rencontre](../RENCONTRES/MilieuRural.md#rencontre-rural-1---vol-lors-dune-fête)). 
 * Le groupe retournant au [**Chat en Boule**](../WORLDBUILDING/VILLES/Brumebourg.md#le-chat-en-boule---taverne) afin d'essayer de voler les quelques affaires qui y seraient ([Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-3---bande-plus-forte-de-bandits-fouineurs)). 
-* Le groupe ayant obtenu l'information selon laquelle le stabilisateur de leyline est du côté de l'hôtel de ville, et s'y rendant pour tenter de le trouver ([Rencontre](../RENCONTRES/MilieuRural.md#rencontre-rural-2---dans-les-ruelles-du-village)). 
 * Le groupe se rendant du côté de la prison afin de libérer les éventuels prisonniers ([Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-4---opération-libérer-les-bandits-de-la-prison)).
+
+Pendant ce temps, un groupe plus grand de bandits se dirige vers l'hôtel de ville afin de saboter le stabilisateur de leyline. Le groupe est mené par [Bakari Mikhaïl](../WORLDBUILDING/VILLES/Dvolsti.md#bakari-mikhaïl---chef-de-groupe), chef de la bande déployée à Dvolsti.
 
 ## Quête : Arrêter l'assaut des Enfants de la Rue
 
 ### Mission : Trouver la raison de la présence des Enfants de la Rue à Brumebourg
+**Les Enfants de la Rue** ont profité de la pagaille causée lors de la [**Célébration de Feu**](../WORLDBUILDING/VILLES/Brumebourg.md#la-célébration-de-feu) afin de se déchaîner dans le village. Plusieurs petits groupes se sont dispersés à travers le village, et notamment : 
+* Groupe cherchant à piller le maximum possible
+* Groupe cherchant à libérer les prisionnier
+* Groupe cherchant à saboter le stabilisateur de leyline
+
+L'objectif véritable des **Enfants de la Rue** est le sabotage du stabilisateur. [Bakari](../WORLDBUILDING/VILLES/Dvolsti.md#bakari-mikhaïl---chef-de-groupe) mène ce groupe-là et a envoyé les autres semer la pagaille dans le reste du village.
 
 ### Mission : Retrouver Bakari
+
 
 ### Mission : Empêcher que le stabilisateur ne soit détruit
 

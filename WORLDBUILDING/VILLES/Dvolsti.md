@@ -89,7 +89,7 @@ Les membres en dessous de **Chef de groupe** s'appellent souvent avec des noms f
     * Il est facilement appâté par le gain. 
     * Il a rejoint les **Enfants de la Rue** il y a déjà plus de 13 ans.
     * Il voit les membres les plus faibles comme une simple ressource.
-    * Il a choisi son prénom d'adulte en hommage à son mentor, [Bakari Phréoh](#bakari-phéroh---chef-de-division), qui l'a introduit au monde de la criminalité.
+    * Il a choisi son prénom d'adulte en hommage à son mentor, [Bakari Phéroh](#bakari-phéroh---chef-de-division), qui l'a introduit au monde de la criminalité.
     
 ---
 
