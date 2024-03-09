@@ -65,14 +65,14 @@ L'envoyé fera en sorte que le Festival se passe bien par la suite, et préparer
 Durant les rondes de sécurité, certains fouineurs ont été capturés. Ils ont été emmenés en prison, où ils sont prêts à être interrogés par la garde et ceux montant la sécurité. 
 
 Parmi ces personnages capturés, on retrouve : 
-* [Grégaa Uut](../WORLDBUILDING/VILLES/Dvolsti.md#grégwa-uut---membre), membre des **Enfants de la Rue**, qui doit surveiller les novices et qui a vu deux de ses novices tuer sous ses yeux par **Patrik**.
+* [Grégaa Uut](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#grégwa-uut---membre), membre des **Enfants de la Rue**, qui doit surveiller les novices et qui a vu deux de ses novices tuer sous ses yeux par **Patrik**.
     * Grégaa ne sait pas grand chose du plan des **Enfants de la Rue** à Brumebourg, il sait uniquement qu'il était en charge de canaliser certaines jeunes recrues le temps qu'elles mettent le bazar dans le village, afin qu'elles occupents les *forces de l'ordre*. 
     * Il sait que certains de ses supérieurs ont été occupés à élaborer un plan à propos de **Brumebourg**, donc il sait que quelque chose se trame sans qu'il le sache. 
     * Il a cru entendre qu'il y a supposément une distraction qui se prépare lors de la soirée où un *homme de paille sera brûlé*.
     * Il a cru entendre à un moment qu'un employeur a été en contact avec ses supérieurs, mais il n'a pas fait le lien avec le plan actuel.
-* [Fééli](../WORLDBUILDING/VILLES/Dvolsti.md#fééli---novice), novice des **Enfants de la Rue**, qui s'est faite attrapée alors qu'elle n'avait pas visiblement commis de crime. Elle a cependant remis, sous la pression, une pièce d'or lorsque **Patrik** lui a demandé ce qu'elle a volé.
+* [Fééli](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#fééli---novice), novice des **Enfants de la Rue**, qui s'est faite attrapée alors qu'elle n'avait pas visiblement commis de crime. Elle a cependant remis, sous la pression, une pièce d'or lorsque **Patrik** lui a demandé ce qu'elle a volé.
     * Elle ne sait pas grand chose de ce qui se passe au-dessus d'elle. Grégaa était suposée la surveiller pendant qu'elle semait le trouble dans le village. 
-* [Minno](../WORLDBUILDING/VILLES/Dvolsti.md#minno---novice), novice des **Enfants de la Rue**, qui s'est fait attrapé en même temps que **Fééli** mais qui n'a rien avoué.
+* [Minno](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#minno---novice), novice des **Enfants de la Rue**, qui s'est fait attrapé en même temps que **Fééli** mais qui n'a rien avoué.
     * Il ne sait pas grand chose de plus par rapport à **Fééli**.
     * Il a pu comprendre que quelque chose se tramait au sein de l'organisation (des employeurs assez spéciaux sont entrés en contact avec les **Enfants de la Rue**) mais il ne sait rien de plus.
 
@@ -83,5 +83,6 @@ Lors de la [**Célébration de Feu**](../WORLDBUILDING/VILLES/Brumebourg.md#la-c
 Profitant de cet attroupement, certains membres des **Enfants de la Rue** en profitent pour se cacher, explorer des lieux moins bien protégés et échapper aux *forces de l'ordre*. Parmi toutes les troupes déployées, on retrouve : 
 * Le groupe resté près de la **Célébration de Feu**, volant passants et causant du chaos. Ce groupe cherche à attirer à tout prix les gens autour de la statue ([Rencontre](../RENCONTRES/MilieuRural.md#rencontre-rural-1---vol-lors-dune-fête)). 
 * Le groupe retournant au [**Chat en Boule**](../WORLDBUILDING/VILLES/Brumebourg.md#le-chat-en-boule---taverne) afin d'essayer de voler les quelques affaires qui y seraient ([Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-3---bande-plus-forte-de-bandits-fouineurs)). 
-* Le groupe ayant obtenu l'information selon laquelle le stabilisateur de leyline est du côté de l'hôtel de ville, et s'y rendant pour tenter de le trouver ([Rencontre](../RENCONTRES/MilieuRural.md#rencontre-rural-2---dans-les-ruelles-du-village)). 
 * Le groupe se rendant du côté de la prison afin de libérer les éventuels prisonniers ([Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-4---opération-libérer-les-bandits-de-la-prison)).
+
+Pendant ce temps, un groupe plus grand de bandits se dirige vers l'hôtel de ville afin de saboter le stabilisateur de leyline. Le groupe est mené par [Bakari Mikhaïl](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#bakari-mikhaïl---chef-de-groupe), chef de la bande déployée à Dvolsti.
