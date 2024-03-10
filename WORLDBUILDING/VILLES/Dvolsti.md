@@ -19,7 +19,9 @@ Les **Enfants de la Rue** sont des adeptes de ce crédo, estimant que leur vie p
 
 Organisation criminelle hautement hiérarchique, les novices et simples membres sont généralement recrutés das la rue et ne sont que très rarement informés des plans qui s'élaborent par leurs supérieurs. 
 
-L'ensemble des membres hautement positionnés portent sur eux un insigne : **une pièce marqué de l'emblème des Enfants de la Rue**.
+L'ensemble des membres hautement positionnés portent sur eux un insigne : **une pièce marqué de l'emblème des Enfants de la Rue** (un triangle inversé).
+
+![Pièce des Enfants de la Rue](../../_images/enfants_de_la_rue_coin.png)
 
 Les membres les plus bas hiérarchiquement sont souvent considérés comme une simple ressource qui peut s'acquérir, typiquement en proposant du travail aux jeunes dans la rue, d'où le nom de l'organisation.
 

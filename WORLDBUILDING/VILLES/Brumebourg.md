@@ -17,6 +17,11 @@ Assez régulièrement, certains des habitants feront tout le pélerinage jusqu'�
 ![Brumebourg](../../_images/Brumebourg.jpg)
 
 ## Lieux
+### L'hôtel de ville
+![Hôtel de ville](../../_images/interior_town_hall_brumebourg.png)
+![Sous-sol](../../_images/town_hall_basement.png)
+Siège du pouvoir de Brumebourg, on y retrouve l'envoyé de Rovtal qui a son bureau à l'étage, ainsi que le stabilisateur de leyline qui se trouve au sous-sol.
+
 ### Le Chat en Boule - Taverne 
 La seule taverne du village idéalement située sur la place principale, elle est tenue par un couple de Félinoïdes, **Lana Spat** et son mari **Kramer Grishka**. Ils ont un fils, **Fego**, toujours près à aider ses parents pour apporter des boissons aux clients.
 
@@ -36,6 +41,10 @@ La seule épicerie du village, qui se contente généralement d'importer les mar
 
 ### La Ferme de la Colline - Ferme
 Plus grande ferme du village, située sur une colline. Elle est l'établissement qui exporte le plus en dehors du village.
+
+### Le stabilisateur de leyline - Hôtel de ville
+![Stabilisateur de leyline](../../_images/cristal_brumebourg.png)
+C'est l'ouvrage artificiel qui assure la stabilité des leylines autour de Brumebourg, ce qui assure donc la sûreté et la pérénnité de la ville. Il se trouve au sous-sol de l'hôtel de ville, et cette information n'est pas connue du grand public.
 
 ## Événements marquants
 

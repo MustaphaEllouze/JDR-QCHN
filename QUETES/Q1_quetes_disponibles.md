@@ -46,8 +46,8 @@ Pendant ce temps, un groupe plus grand de bandits se dirige vers l'hôtel de vil
 ### Mission : Trouver la raison de la présence des Enfants de la Rue à Brumebourg
 **Les Enfants de la Rue** ont profité de la pagaille causée lors de la [**Célébration de Feu**](../WORLDBUILDING/VILLES/Brumebourg.md#la-célébration-de-feu) afin de se déchaîner dans le village. Plusieurs petits groupes se sont dispersés à travers le village, et notamment : 
 * Groupe cherchant à piller le maximum possible
-* Groupe cherchant à libérer les prisionnier
-* Groupe cherchant à saboter le stabilisateur de leyline
+* Groupe cherchant à libérer les prisionnier ([Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-4---opération-libérer-les-bandits-de-la-prison))
+* Groupe cherchant à saboter le stabilisateur de leyline ([Rencontre](../RENCONTRES/BossFights.md#bakari-à-lassaut-du-stabilisateur-de-brumebourg))
 
 L'objectif véritable des **Enfants de la Rue** est le sabotage du stabilisateur. [Bakari](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#bakari-mikhaïl---chef-de-groupe) mène ce groupe-là et a envoyé les autres semer la pagaille dans le reste du village.
 

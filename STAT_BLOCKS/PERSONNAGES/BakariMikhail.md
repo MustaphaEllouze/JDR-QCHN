@@ -14,7 +14,7 @@
 * **Jets de sauvegarde** : For +4, Dex +5, Sag +2
 * **Compétences** : Athlétisme +4, Tromperie +4
 * **Sens** : Perception passive 10
-* **Langue** : Deux langues au choix
+* **Langue** : Commun et Panthéran
 * **Facteur de puissance** 2 (450 PX)
 
 #### > Actions
@@ -40,4 +40,4 @@
 *Parade* : Bakari ajoute 2 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
 #### > Objets 
-* 5 sorts de poche explosifs qui peuvent être lancés : 2d6 de dégâts de feu
+* 5 sorts de poche explosifs qui peuvent être lancés : 2d6 de dégâts de force
