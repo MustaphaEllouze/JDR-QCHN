@@ -53,11 +53,23 @@ L'objectif véritable des **Enfants de la Rue** est le sabotage du stabilisateur
 
 ### Mission : Retrouver Bakari
 
-[**Bakari**](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#bakari-mikhaïl---chef-de-groupe) mène le groupe visant à détruire le stabilisateur. Il a réussi à localiser ce dernier grâce à l'aide de [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#griffes-rouges---cheffe-de-division) qui a fait le déplacement jusqu'à _Brumebourg_ afin d'aider Bakari (ancienne dette dont elle veut s'acquitter).
+[**Bakari**](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#bakari-mikhaïl---chef-de-groupe) mène le groupe visant à détruire le stabilisateur. Il a réussi à localiser ce dernier grâce à l'aide de [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#griffes-rouges---cheffe-de-division) qui a fait le déplacement jusqu'à **Brumebourg** afin d'aider **Bakari** (ancienne dette dont elle veut s'acquitter). **Griffes-Rouges** n'a pas été mandatée pour réaliser l'assaut, se faisant elle partira très rapidement rejoindre **Dvolsti**.
+
+Pendant que ses hommes s'ocuppent de faire régner le désordre partout dans le village et à la [Célébration de Feu](../WORLDBUILDING/VILLES/Brumebourg.md#la-célébration-de-feu), **Bakari** en profite pour se préparer à prendre d'assaut l'hôtel de ville, bâtiment contenant le stabilisateur de leyline selon les informations de **Griffes-Rouges**.
+
+**Bakari** possède sur lui plusieurs [sorts de poche](../WORLDBUILDING/TECHNOLOGIE/Sorts_de_poche.md) lui permettant d'accéder plus facilement à  l'intérieur de l'hôtel de ville, notamment des sorts de poche explosifs.
+
+### Mission : Sauver Therra des mains de Bakari
+
+Après son infiltration dans l'hôtel de ville, [**Bakari**](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#bakari-mikhaïl---chef-de-groupe) prend soin de localiser le plus rapidement possible le stabilisateur au sein du bâtiment. La seule personne présente dans le bâtiment lors de la [Célébration de Feu](../WORLDBUILDING/VILLES/Brumebourg.md#la-célébration-de-feu) est [Therra](../WORLDBUILDING/PERSONNAGES/PNJ/Brumebourg.md#therra-sfer---envoyée-de-rovtal), qui est prise en otage par **Bakari** afin de localiser l'objet de sa mission.
+
+**Bakari** ayant reçu l'ordre de ne pas laisser de trace de sa mission secrète sait très bien qu'il doit tuer tout témoin qui le verrait en train de chercher le stabilisateur de leyline, dont **Therra**. Si elle veut s'en sortir, il lui faudra une aide extérieur.
 
 ### Mission : Empêcher que le stabilisateur ne soit détruit
 
-### Mission : Sauver Therra des mains de Bakari
+Une fois le stabilisateur de leyline localiser, [**Bakari**](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#bakari-mikhaïl---chef-de-groupe) cherche en priorité à remplir sa mission : endommager sévèrement le stabilisateur de leyline ([Rencontre]()). 
+
+En cas de mission accomplie, le village de **Brumebourg** ne pourra pas survivre longtemps car les leylines se remettront inévitablement à bouger, et le village se retrouvera en dehors de la portée du stabilisateur le plus proche.
 
 ## Quête : Préparer Brumebourg à l'assaut futur des Enfants de la Rue
 ## Quête : Réparer le stabilisateur
