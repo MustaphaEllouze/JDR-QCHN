@@ -30,22 +30,34 @@
 |               |Ratussien|1m50|55 kg|40 ans|
 | Centaure      |---|2m10|500 kg|120 ans|
 
-## Humain
+## Humains
+![Humain](../../_images/human_farmer.png)
 
-## Elfe
-### Elfe des bois
+## Elfes
+### Elfes des bois
 ![Elfe des bois](../../_images/carpenter_elf.png)
+### Elfes de feu
 
-## Reptiloïde
-### Saurien
+## Reptiloïdes
+### Sauriens
 ![Saurien](../../_images/mari_envoyée.png)
 Une pratique saurienne courante est de prendre le nom de famille de son conjoint ou de sa conjointe si sa famille est jugée plus puissante et influente que la sienne.
+
+### Alligatorides
+![Alligatoride](../../_images/djibril.webp)
+
+### Tortuguéens
+![Tortuguéen](../../_images/Arkolapoulos.png)
+
+### Varanides
 
 ## Félinoïde
 ### Léonins
 Les **Léonins** sont connus pour pour faire rouler les *R* **au fond de leurs gorges** en parlant ([exemple audio](https://en.wikipedia.org/wiki/Voiced_uvular_trill)). Il leur arrive de prononcer ce son tout seul dans le cas où ils sont mécontents. Ils détestent qu'on prenne ce son pour un *ronronnement*.
 
-### Panthéran
+### Tigryliens
+
+### Panthérans
 ![Panthéran](../../_images/barman.png)
 ![Panthéran](../../_images/barman_enfant.png)
 Une espèce assez fière qui culturellement cherche à vivre dans le confort et qui sait saisir toute opportunité afin de pouvoir maintenir son niveau de vie. De ce fait, ils sont vus comme avares et prêt à tout pour monter socialement. 
@@ -67,11 +79,16 @@ Il existe néanmoins quelques individus qui rêvent de profiter de leur vie au m
 
 Ils portent généralement le prénom qu'ils se sont donnés eux-mêmes, une fois la vie adulte atteinte. Ce prénom est très souvent constitué de deux syllabes uniquement. 
 
-## Minotaure
+## Minotaures
+### Minotaures des plaines
 
-## Avemain 
-### Strixien 
+## Avemains
+### Strixiens 
 ![Strixien](../../_images/strixien_clerc.png)
+
+### Aquilins
+### Corvidés
+### Ibisside
 
 ## Rongeoïde
 ### Surissien
@@ -80,4 +97,12 @@ Ils portent généralement le prénom qu'ils se sont donnés eux-mêmes, une foi
 ### Ratussien
 ![Ratussien](../../_images/bandit%20ratussien.png)
 
-## Centaure
+## Centaures
+![Centaur](../../_images/centaur_0.webp)
+
+Les **centaures** vivent généralement en clan nomade, se déplaçant de zone stable magiquement à une autre, s'arrêtant parfois à la lisière de villes peuplées pour échanger des ressources. 
+
+Les centaures ont un système de nommage de leurs membres assez particulière puisque composé de trois noms : 
+* Leur prénom, donné à la naissance par leurs parents ;
+* Leur nom de famille, transmis par le père ;
+* Un surnom, qui peut évoluer avec l'âge et leurs accomplissements.

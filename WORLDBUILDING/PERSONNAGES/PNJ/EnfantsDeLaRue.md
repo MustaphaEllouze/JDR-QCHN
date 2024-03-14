@@ -6,6 +6,7 @@
 ![Minno](../../../_images/Minno.webp)
 * Nom : **Minno**
 * Âge : **17 ans**
+* Situation : **Emprisonné** ([Brumebourg](../../VILLES/Brumebourg.md))
 * Espèce : **Felicis** (M)
 * Alignement : **Chaotic Neutral**
 * MBTI : **INTP**
@@ -18,6 +19,7 @@
 ![Fééli](../../../_images/Fééli.webp)
 * Nom : **Fééli**
 * Âge : **18 ans**
+* Situation : **Emprisonné** ([Brumebourg](../../VILLES/Brumebourg.md))
 * Espèce : **Felicis** (F)
 * Alignement : **Chaotic Evil**
 * MBTI : **ENFP**
@@ -30,6 +32,7 @@
 ![Grééga](../../../_images/bandit_ombre.webp)
 * Nom : **Grégwa Uut**
 * Âge : **27 ans**
+* Situation : **Emprisonné** ([Brumebourg](../../VILLES/Brumebourg.md))
 * Espèce : **Humain**
 * Alignement : **True Neutral**
 * MBTI : **ISTJ**
@@ -45,6 +48,7 @@
 ![Bakari Mikhaïl](../../../_images/chefbandit_pantheran.webp)
 * Nom : **Bakari Mikhaïl**
 * Âge : **29 ans**
+* Situation : **Décédé** ([Brumebourg](../../VILLES/Brumebourg.md))
 * Espèce : **Panthéran**
 * Alignement : **Neutral Evil**
 * MBTI : **ESTP**
@@ -56,6 +60,7 @@
     * Il a rejoint les **Enfants de la Rue** il y a déjà plus de 13 ans.
     * Il voit les membres les plus faibles comme une simple ressource.
     * Il a choisi son prénom d'adulte en hommage à son mentor, [Bakari Phéroh](#bakari-phéroh---chef-de-division), qui l'a introduit au monde de la criminalité.
+    * Il a été tué par [**Patrik**](../PJ/Patrik.md) alors qu'il menait un assaut sur le stabilisateur de leyline de [**Brumebourg**](../../VILLES/Brumebourg.md).
     
 ---
 
@@ -83,8 +88,7 @@
 * Description : 
     * 
 
-## Les Enfants de la Rue - Division de renseignements
-
+## Les Enfants de la Rue - Division des Renseignements
 
 ### Griffes-Rouges - Cheffe de division
 ![Griffes-Rouges](../../../_images/griffes_rouges.webp)
@@ -110,5 +114,44 @@
 * Filiations : **Enfants de la Rue** (chef de division), [**Griffes-Rouges**](#griffes-rouges---cheffe-de-division) (soeur)
 * Description : 
     * Il occupe le rôle de chef de division en binôme avec sa soeur.
+
+## Les Enfants de la Rue - Division Logistique
+
+### Elvira Phrodita - Cheffe de division
+![Elvira Phrodita](../../../_images/Elvira_Phrodita.webp)
+* Nom : **Elvira Phrodita**
+* Âge : **37 ans**
+* Espèce : **Saurienne**
+* Alignement : **True Neutral**
+* MBTI : **ENTP**
+* Filiations : **Enfants de la Rue** (cheffe de division)
+* Description : 
+    * 
+
+## Les Enfants de la Rue - Etat Major
+
+### Arkolapoulos Prunos - Leader
+![Arkolapoulos Prunos](../../../_images/Arkolapoulos.png)
+* Nom : **Arkolapoulos Prunos**
+* Âge : **185 ans**
+* Espèce : **Tortuguéen**
+* Alignement : **Lawful Evil**
+* MBTI : **ENFJ**
+* Filiations : **Enfants de la Rue** (Leader)
+* Description : 
+    * 
+    
+---
+
+### Cicéron Prunos Pupillus - Bras Droit
+![Arkolapoulos Prunos](../../../_images/centaur_0.webp)
+* Nom : **Arkolapoulos Prunos**
+* Âge : **32 ans**
+* Espèce : **Centaure**
+* Alignement : **True Neutral**
+* MBTI : **ISFP**
+* Filiations : **Enfants de la Rue** (Bras Droit)
+* Description : 
+    * 
     
 ---

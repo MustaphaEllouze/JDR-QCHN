@@ -33,3 +33,28 @@ Les membres en dessous de **Chef de groupe** s'appellent souvent avec des noms f
 * Chef de groupe
 * Chef de division 
 * Leader
+
+### Divisions
+L'organisation est séparée en plusieurs groupes, appelés **divisions**, chacune ayant sa spécialité.
+
+#### Division Armée
+Cette **division** s'occupe d'intervenir sur le terrain et de mener les missions offensives à bien.
+
+Le **chef de division** est [**Bakari Phéroh**](../PERSONNAGES/PNJ/EnfantsDeLaRue.md#bakari-phéroh---chef-de-division).
+
+#### Division des Renseignements
+Cette **division** s'occupe d'infiltrer l'ensemble des cibles de l'organisation et de récupérer toute information jugée cruciale pour mener les missions à leur terme.
+
+Les **chefs de division** sont les frère et soeur [**Griffes-Rouges**](../PERSONNAGES/PNJ/EnfantsDeLaRue.md#griffes-rouges---cheffe-de-division) et [**Paumes-Bleues**](../PERSONNAGES/PNJ/EnfantsDeLaRue.md#paumes-bleues---chef-de-division).
+
+#### Division Logistique 
+
+Cette **division** s'occupe de recruter les nouveaux membres, approvisionner les troupes en matériel et de revendre tous les objets volés.
+
+La **chef de division** est [**Elvira Phrodita**](../PERSONNAGES/PNJ/EnfantsDeLaRue.md#elvira-phrodita---cheffe-de-division).
+
+#### Etat-Major 
+
+Ce groupe comprend l'ensemble des membres les plus hauts placés dans la hiérarchie de l'organisation : les chefs de division, le leader, et les membres proches du leader.
+
+Le leader de l'organisation est [**Arkolapoulos Prunos**](../PERSONNAGES/PNJ/EnfantsDeLaRue.md#arkolapoulos-prunos---leader).
