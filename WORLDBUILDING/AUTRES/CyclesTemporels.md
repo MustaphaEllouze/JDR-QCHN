@@ -17,17 +17,20 @@ On dit que les Lunes se passent le flambeau comme deux astres jumeaux, une finie
 Vu l'orbite des lunes l'une autour de l'autre, les mois sont marqués lorsqu'une des deux lunes passent devant l'autre. En fonction de la parité de l'année, les mois ne sont pas entamés par le même astre.
 
 L'année compte 11 mois de 18 jours (ce qui coïncide avec les 198 jours de l'année). Ils sont les suivants :
-1. a nouvelles lunes début (lunes superposées) solstice hiver - mois du froid - catastrophe 2
-2. b mois hiver 1
-3. c moitié de lune (premier) - equinoxe printemps - mois hiver 2
-4. d moitié de lune (premier) - equinoxe printemps - mois printemps 1
-5. e mois printemps 2
-6. f mois des pleines lunes (lunes jumelles) solstice été - mois du renouveau
-7. g mois été 1
-8. h moitié de lune (dernier) - equinoxe automne - mois été 2
-9. i moitié de lune (dernier) - equinoxe automne - mois automne 1
-10. j mois automne 2
-11. k nouvelles lunes fin (lunes superposées) solstice hiver - mois de la mort - catastrophe 1
+
+| Mois | Numéro | Autre nom | Evénement solaire | Evénement lunaire | Saison | Jours |
+| --- | --- | --- | --- | --- | --- | --- |
+| Ehr-Kelr | 1  | Mois du froid | Nouvel an | Nouvelles lunes superposées | Catastrophes | 1-18 |
+| Ehr-Bemr | 2  | Mois de l'obscurité | Solstice de la nuit longue (J20) | --- | Hiver | 19-36 |
+| Ehr-Kemth | 3  | Mois de la glace | --- | Premiers quartiers se chevauchant | Hiver | 37-54 |
+| Ehr-Tewl | 4  | Mois de la vie | Equinoxe du renouveau (J70) | --- | Printemps | 55-72 |
+| Ehr-Dewd | 5  | Mois du bois | --- | --- | Printemps | 73-90 |
+| Ehr-Kegn | 6  | Mois du renouveau | --- | Pleines lunes adjacentes | Renouveau | 91-108|
+| Ehr-Dhens | 7  | Mois de la clémence | Solstice du jour long (J119) | --- | Eté | 109-126 |
+| Ehr-Geshn | 8  | Mois du feu | --- | --- | Eté | 127-144 |
+| Ehr-Melt | 9  | Mois du métal | --- | Derniers quartiers se chevauchant | Automne | 145-162 |
+| Ehr-Zegr | 10 | Mois du sang | Equinoxe de la mort (J169) | --- | Automne | 163-180 |
+| Ehr-Fepr | 11 | Mois de l'épreuve | --- | Nouvelles lunes superposées | Catastrophes | 181-198 |
 
 ### Semaines
 Il y a deux semaines dans chaque mois, et 9 jours par semaine.
@@ -35,15 +38,12 @@ Il y a deux semaines dans chaque mois, et 9 jours par semaine.
 La première semaine voit les deux astres s'éloigner les uns des autres, tandis que la deuxième semaine du mois les voit se rapprocher. On les appelle donc : **Semaine de l'Éloignement** et **Semaine du Rapprochement**
 
 Voici les noms des jours de la semaine : 
-1. a
-2. b
-3. c
-4. d
-5. e
-6. f
-7. g
-8. h
-9. i
-
-## Saisons
-L'année compte 4 saisons. Puisque les deux lunes mettent deux fois moins de temps à faire le tour de Velta que Velta met à faire le tour du soleil, il y a deux nouvelles lunes et deux pleins lunes par an, ce qui correspond exactement au cycle des saisons.
+1. Enm-Dhewch
+2. Enm-Geshn
+3. Enm-Gezl
+4. Enm-Kemth
+5. Enm-Kerth
+6. Enm-Dehb
+7. Enm-Dewd
+8. Enm-Jebr
+9. Enm-Dhenm
