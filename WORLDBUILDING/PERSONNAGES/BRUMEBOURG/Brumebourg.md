@@ -1,16 +1,6 @@
 # Brumebourg
 
-### Therra Sfer - Envoyée de Rovtal
-![Therra Sfer](../../../_images/envoyée.png)
-* Nom : **Therra Sfer**
-* Âge : **51 ans**
-* Espèce : **Saurienne**
-* Alignement : **Lawful Neutral**
-* MBTI : **ISFJ**
-* Filiations : **Fern Sfer** (mari)
-* Description : 
-    * Fille d'une famille relativement connue de **Rovtal**, elle aspire à mener une vie paisible à Brumebourg tout en redorant le blason familial grâce à sa bonne gestion du village.
-    * Elle voit **Rovtal** et les gens qui y vivent comme supérieurs aux habitants de **Brumebourg**, ce qui lui vaut de sortir quelques remarques racistes de temps en temps. 
+
 ---
 
 ### Fern Sfer - Mari de l'Envoyée de Rovtal
