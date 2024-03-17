@@ -1,4 +1,4 @@
-# [Bakari Mikhaïl](../../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#bakari-mikhaïl---chef-de-groupe)
+# [Bakari Mikhaïl](../../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Mikhail.md)
 
 ![Bakari Mikhaïl](../../_images/chefbandit_pantheran.webp)
 

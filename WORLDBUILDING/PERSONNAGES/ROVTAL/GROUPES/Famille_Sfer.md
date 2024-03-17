@@ -5,4 +5,4 @@ Il s'agit de l'une des plus grandes familles de [**Rovtal**](../../../VILLES/Rov
 
 ## Membres
 * [Therra Sfer](../../BRUMEBOURG/Therra_Sfer.md)
-* [Fern Sfer](../../BRUMEBOURG/Fern_Sfer.md) (par alliances)
+* [Fern Sfer](../../BRUMEBOURG/Fern_Sfer.md) (par alliance)
