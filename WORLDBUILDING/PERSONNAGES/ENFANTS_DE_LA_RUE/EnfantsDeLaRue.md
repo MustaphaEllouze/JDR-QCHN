@@ -44,26 +44,6 @@
     
 ---
 
-### Bakari Mikhaïl - Chef de groupe
-![Bakari Mikhaïl](../../../_images/chefbandit_pantheran.webp)
-* Nom : **Bakari Mikhaïl**
-* Âge : **29 ans**
-* Situation : **Décédé** ([Brumebourg](../../VILLES/Brumebourg.md))
-* Espèce : **Panthéran**
-* Alignement : **Neutral Evil**
-* MBTI : **ESTP**
-* Filiations : **Enfants de la Rue** (chef de groupe), [**Kramer Grishka**](./Brumebourg.md#kramer-grishka---barman) (cousin), [**Bakari Phéroh**](#bakari-phéroh---chef-de-division) (mentor)
-* Description : 
-    * En tant que chef de groupe, il porte toujours sur lui le signe qui lui permet de s'identifier auprès des autres (une pièce avec l'emblème des Enfants de la Rue).
-    * Il provient d'une famille très modeste et s'est tourné vers les **Enfants de la Rue** afin de vivre dans un plus grand luxe. 
-    * Il est facilement appâté par le gain. 
-    * Il a rejoint les **Enfants de la Rue** il y a déjà plus de 13 ans.
-    * Il voit les membres les plus faibles comme une simple ressource.
-    * Il a choisi son prénom d'adulte en hommage à son mentor, [Bakari Phéroh](#bakari-phéroh---chef-de-division), qui l'a introduit au monde de la criminalité.
-    * Il a été tué par [**Patrik**](../PJ/Patrik.md) alors qu'il menait un assaut sur le stabilisateur de leyline de [**Brumebourg**](../../VILLES/Brumebourg.md).
-    
----
-
 ### Djibril Niil - Chef de groupe
 ![Djibril Niil](../../../_images/djibril.webp)
 * Nom : **Djibril Niil**
