@@ -1,22 +1,22 @@
-# Bakari Phéroh - Chef de division
-![Bakari Phéroh](../../../_images/bakari_pheroh.webp)
+# Paumes-Bleues - Chef de division
+![Paumes-Bleues](../../../_images/paumes_bleues.webp)
 
 ## Infos 
 | Âge | Espèce | Occupation | Alignement | MBTI |
 | --- | ------ | ---------- | ---------- | ---- |
-| 40 ans | Alligatoride | Chef de division | Lawful Evil | ENTJ |
+| 26 ans | Felicis | Chef de division | Lawful Neutral | INTJ |
 
 ## Localisation actuelle
 [Dvolsti](../../VILLES/Dvolsti.md)
 
 ## Filiations
-* [Bakari Mikhaïl](./Bakari_Mikhail.md) (pupille)
+* [Paumes-Bleues](./Paumes_Bleues.md) (frère)
 
 ## Groupes 
 [Les Enfants de la Rue](./_Organisation.md)
 
 ## Caractéristiques
-* C'est le rival *cordial* de [Bakari Mikhaïl ](./Bakari_Mikhail.md).
+* Il occupe le rôle de chef de division en binôme avec sa soeur.
 
 ## Événements marquants
 
