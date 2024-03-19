@@ -48,10 +48,12 @@ C'est l'ouvrage artificiel qui assure la stabilité des leylines autour de Brume
 
 ## Événements marquants
 
+* **9 Kegn 432** : Lors du **Festival des Brumes**, plus précisément lors de la **Célébration du Feu**, l'organisation criminelle des [**Enfants de la Rue**](./Dvolsti.md#les-enfants-de-la-rue) a attaqué **Brumebourg**, profitant de la confusion pour s'en prendre au stabilisateur de leyline, ainsi qu'a [Therra](../PERSONNAGES/BRUMEBOURG/Therra_Sfer.md), l'envoyée de Rovtal. Tous les habitants en sont ressortis indemnes, mais le stabilisateur a été gravement amoché.
+
 ## Traditions et particularités
 
 ### Festival des Brumes
-Tous les printemps, le village de **Brumebourg** organise le Festival des Brumes, célébrant les nouvelles récoltes du village et la fin de l'hiver, marqué par ses brumes permanentes. A cette occasion, tout le village s'anime et tous les habitants se reconvertissent le temps du festival afin de l'organiser. Toutes les festivités sont animés par [l'envoyée de **Rovtal**](../PERSONNAGES/PNJ/Brumebourg.md#therra-sfer---envoyée-de-rovtal) qui fait office de représentant du pouvoir.
+Tous les printemps, le village de **Brumebourg** organise le Festival des Brumes, célébrant les nouvelles récoltes du village et la fin de l'hiver, marqué par ses brumes permanentes. A cette occasion, tout le village s'anime et tous les habitants se reconvertissent le temps du festival afin de l'organiser. Toutes les festivités sont animés par [l'envoyée de **Rovtal**](../PERSONNAGES/BRUMEBOURG/Therra_Sfer.md) qui fait office de représentant du pouvoir.
 
 Plusieurs habitants et commerçants montent des stands dans tout le village, et les emplacements à côté de la place centrale sont très convoités. On y retrouve surtout des stands à propos de l'agriculture en général, mais aussi des stands en tout genre (jeux, spectacles, etc.)
 

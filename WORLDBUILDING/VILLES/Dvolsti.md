@@ -36,6 +36,28 @@ Au coeur de la ville, la **place du marché**, aussi la **Place Dum**, est l'end
 
 Parmi les stands les plus connus, on retrouve notamment ceux de [**Olives et Sardines**](#olives-et-sardines), des stands tenus par les cuisiniers encore en formation, et certains marchands venus de **Brumebourg**. On y croise souvent des acheteurs venus de [**Blanchécum**](./Blanchécum.md) afin de rapporter des produits de qualité à leur maîtres.
 
+## Quartiers
+
+### Quartier Nord - Le quartier du port de commerce
+### Quartier Est - Le quartier résidentiel
+### Quartier Ouest - Le quartier du marché
+### Quartier Sud - Le quartier du port de pêche
+### Quartier Central - Le quartier administratif
+
+## Événements marquants
+
+## Personnages importants de la ville
+
+### [Arkolapoulos Prunos](../PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md)
+Plus grand entrepreneur de la ville, il est vu de tous comme étant la personne la plus gentille, serviable et généreuse de la ville.
+
+### Les magiciens des quartiers de la ville
+Autrefois tous amis, ce groupe de magiciens s'est chamaillé, si bien qu'ils ont tous décidé de s'exiler dans un des quartiers de la ville. 
+
+On nomme : 
+* [Serdj Hichééz](../PERSONNAGES/DVOLSTI/Serdj_Hichééz.md), situé au Quartier Nord ;
+* [Krista Békar](../PERSONNAGES/DVOLSTI/Krista_Békar.md), située au Quartier Sud ;
+
 ## Les Enfants de la Rue 
 
 ### Résumé
