@@ -4,7 +4,7 @@
 
 **Dvolsti** est un petite ville située non loin de Rovtal, étant son vassal. Par rapport à **Rovtal**, Dvolsti est relativement récente : elle a été créée autour d'un stabilisateur artificiel de leyline, et le besoin de la création de cette ville s'est fait sentir suite à l'expansion de Rovtal.
 
-Située sur la rive droite du fleuve, **Dvolsti** reste quand même connectée à sa ville mère via un pont, et s'excentre un peu afin de profiter à la fois des ressources fluviales et d'avantage d'espace pour s'étendre sur l'autre rive. Ville relativement modeste en taille et au niveau pécunier, la différence d'ambiance se fait sentir avec Rovtal, qui est *de facto* la capitale : les rues sont plus spacieuses, mais moins bien entretenues, la population est plus pauvre. Une source de revenus certain reste **Blanchécum** qui se trouve en aval, et qui est considérée comme *la* ville de villégiature par excellence de Rovtal. 
+Située sur la rive droite du fleuve, **Dvolsti** reste quand même connectée à sa ville mère via des traversées régulières du fleuve, et s'excentre un peu afin de profiter à la fois des ressources fluviales et d'avantage d'espace pour s'étendre sur l'autre rive. Ville relativement modeste en taille et au niveau pécunier, la différence d'ambiance se fait sentir avec Rovtal, qui est *de facto* la capitale : les rues sont plus spacieuses, mais moins bien entretenues, la population est plus pauvre. Une source de revenus certain reste **Blanchécum** qui se trouve en aval, et qui est considérée comme *la* ville de villégiature par excellence de Rovtal. 
 
 Dans ce climat, il a été normal de voir apparaître deux organisations pour laquelle **Dvolsti** est connue : 
 * **L'école de cuisine**, qui profite de l'abondance des ressources avoisinantes. Les meilleurs cuisiniers vont ensuite travailler dans les villes voisines, **Blanchécum** se réservant les meilleurs parmi les meilleurs ; 
@@ -37,6 +37,12 @@ Au coeur de la ville, la **place du marché**, aussi la **Place Dum**, est l'end
 
 Parmi les stands les plus connus, on retrouve notamment ceux de [**Olives et Sardines**](#olives-et-sardines), des stands tenus par les cuisiniers encore en formation, et certains marchands venus de **Brumebourg**. On y croise souvent des acheteurs venus de [**Blanchécum**](./Blanchécum.md) afin de rapporter des produits de qualité à leur maîtres.
 
+### Consulat Rovtalien
+Situé au beau milieu du quartier administratif, le **Consulat** est le lieu obligatoire pour tout habitant souhaitant être en règle avec les lois rovtaliennes : taxes, impôts, papiers d'identité, droits de construction, etc.
+
+### Les Oliveraies
+La ville est entourée de plusieurs oliveraies gigantesques, qui sont pour la plupart la propriété directe de [**Arkolapoulos**](../PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md). On les retrouve majoritairement à l'Est de la ville, loin de l'encombrement de la ville et du fleuve.
+
 ## Quartiers
 
 ### Quartier Nord - Le quartier du port de commerce
@@ -50,7 +56,12 @@ Parmi les stands les plus connus, on retrouve notamment ceux de [**Olives et Sar
 ### Quartier Central - Le quartier administratif
 ![Dvolsti administratif](../../_images/dvolsti6.png)
 
-## Événements marquants
+## Traditions et particularités
+
+### Lois Rovtaliennes en vigueur
+* Chaque habitant se doit de posséder des papiers d'identité sur lui afin de pouvoir s'identifier si jamais ils se font contrôler par les autorités.
+    * Cette loi a été mise en place récemment afin de contrer la présence des [**Enfants de la Rue**](#les-enfants-de-la-rue) dans la ville, et afin de mieux contrôler les activités des citoyens dans les quartiers les moins sûrs de la ville.
+    * Il est possible de faire faire ses papiers d'identité au [Consulat](#consulat-rovtalien) contre la somme de **50 pièces d'or**.
 
 ## Personnages importants de la ville
 
@@ -87,6 +98,8 @@ Les membres en dessous de **Chef de groupe** s'appellent souvent avec des noms f
 * Chef de division 
 * Leader
 
+Tous les nouveaux membres entrent au rang de **Novice**, et ne peuvent être recrutés que par des membres qui sont au rang de **Membre** ou plus élevés. Ils restent à ce niveau jusqu'à ce qu'ils soient confirmés par un **Chef de groupe**.
+
 ### Activités criminelles
 Parmi toutes les activités illégales des Enfants de la Rue, on retrouve : 
 * **Trafic de cristaux magiques**, activité la plus lucrative. Les cristaux, qui ont fait tout le trajet depuis [Caproch](./Caproch.md) sont récupérés depuis les ports de [Blanchécum](./Blanchécum.md) avant d'être revendus aux plus offrants pour les plus gros, et dans la rue pour les cristaux de piètre qualité.
@@ -118,3 +131,6 @@ La **chef de division** est [**Elvira Phrodita**](../PERSONNAGES/PNJ/EnfantsDeLa
 Ce groupe comprend l'ensemble des membres les plus hauts placés dans la hiérarchie de l'organisation : les chefs de division, le leader, et les membres proches du leader.
 
 Le leader de l'organisation est [**Arkolapoulos Prunos**](../PERSONNAGES/PNJ/EnfantsDeLaRue.md#arkolapoulos-prunos---leader).
+
+## Événements marquants
+* **16 Tewl 432** : Mise en place de mesures de la part de **Rovtal** afin de contre-carrer la présence des **Enfants de la Rue** dans la ville (notamment mise en place d'obligation de porter ses papiers d'identité)

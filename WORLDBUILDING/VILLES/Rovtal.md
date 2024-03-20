@@ -20,10 +20,12 @@ Malgré la prévalence des cultes de **Italis** et **Muhuta**, d'autres cultes e
 ## Personnages importants de la ville
 
 ### La famille royale
+* [Famille Andreadis](../PERSONNAGES/ROVTAL/GROUPES/Famille_Andreadis.md)
 
 ### Les familles nobles
 * [Famille Sfer](../PERSONNAGES/ROVTAL/GROUPES/Famille_Sfer.md)
 * [Famille Kutt](../PERSONNAGES/ROVTAL/GROUPES/Famille_Kutt.md)
+* [Famille Alexandros](../PERSONNAGES/ROVTAL/GROUPES/Famille_Alexandros.md)
 
 ### Les familles prestigieuses
 * [Famille Kwestyon](../PERSONNAGES/ROVTAL/GROUPES/Famille_Kwestyon.md)
