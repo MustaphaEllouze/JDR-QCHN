@@ -1,6 +1,7 @@
 # Dvolsti
 
 ## Présentation
+
 **Dvolsti** est un petite ville située non loin de Rovtal, étant son vassal. Par rapport à **Rovtal**, Dvolsti est relativement récente : elle a été créée autour d'un stabilisateur artificiel de leyline, et le besoin de la création de cette ville s'est fait sentir suite à l'expansion de Rovtal.
 
 Située sur la rive droite du fleuve, **Dvolsti** reste quand même connectée à sa ville mère via un pont, et s'excentre un peu afin de profiter à la fois des ressources fluviales et d'avantage d'espace pour s'étendre sur l'autre rive. Ville relativement modeste en taille et au niveau pécunier, la différence d'ambiance se fait sentir avec Rovtal, qui est *de facto* la capitale : les rues sont plus spacieuses, mais moins bien entretenues, la population est plus pauvre. Une source de revenus certain reste **Blanchécum** qui se trouve en aval, et qui est considérée comme *la* ville de villégiature par excellence de Rovtal. 
@@ -39,10 +40,15 @@ Parmi les stands les plus connus, on retrouve notamment ceux de [**Olives et Sar
 ## Quartiers
 
 ### Quartier Nord - Le quartier du port de commerce
+![Dvolsti commerce](../../_images/dvolsti3.png)
 ### Quartier Est - Le quartier résidentiel
+![Dvolsti Résidentiel](../../_images/dvolsti5.png)
 ### Quartier Ouest - Le quartier du marché
+![Dvolsti marché](../../_images/dvolsti7.png)
 ### Quartier Sud - Le quartier du port de pêche
+![Dvolsti pêche](../../_images/dvolsti4.png)
 ### Quartier Central - Le quartier administratif
+![Dvolsti administratif](../../_images/dvolsti6.png)
 
 ## Événements marquants
 
@@ -52,11 +58,13 @@ Parmi les stands les plus connus, on retrouve notamment ceux de [**Olives et Sar
 Plus grand entrepreneur de la ville, il est vu de tous comme étant la personne la plus gentille, serviable et généreuse de la ville.
 
 ### Les magiciens des quartiers de la ville
-Autrefois tous amis, ce groupe de magiciens s'est chamaillé, si bien qu'ils ont tous décidé de s'exiler dans un des quartiers de la ville. 
+Autrefois tous amis, ce groupe de magiciens s'est chamaillé, si bien qu'ils ont tous décidé de s'exiler dans un des quartiers de la ville, ne se partageant pas la clientèle. 
 
 On nomme : 
 * [Serdj Hichééz](../PERSONNAGES/DVOLSTI/Serdj_Hichééz.md), situé au Quartier Nord ;
 * [Krista Békar](../PERSONNAGES/DVOLSTI/Krista_Békar.md), située au Quartier Sud ;
+* [Ioannis Krel](../PERSONNAGES/DVOLSTI/Ioannis_Krel.md), situé au Quartier Est ;
+* [Hafez Luxor](../PERSONNAGES/DVOLSTI/Hafez_Luxor.md), situé au Quartier Ouest.
 
 ## Les Enfants de la Rue 
 
