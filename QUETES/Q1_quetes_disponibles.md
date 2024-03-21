@@ -67,6 +67,13 @@ A **Dvolsti**, n'importe qui peut se faire recruter pour faire partie des [**Enf
 En ce moment, c'est surtout la **Division Armée** des **Enfants de la Rue** qui recrute, notamment le groupe de [**Djibril Niil**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md), spécialisé dans le meutre de sang-froid.
 
 ### Mission : Trouver les quartiers de l'organisation
+Afin d'infiltrer au mieux l'organisation, rien de tel que de trouver le centre des opérations. Les **Enfants de la Rue** ont plusieurs bases partout à travers la ville, souvent différente en fonction des divisions.
+
+* **La Division Armée** se retrouve souvent dans l'entrepôt de la [*Taverne Familiale*](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale), ayant reçu les clés par [Arkolapoulos](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) ; 
+* **La Division des Renseignements** se retrouve sur les toits de **la place du marché**, là où personne ne peuvent les attraper.
+* **La Division Logistique**, assez petite en nombre, se retrouve dans le sous-sol d'une taverne affiliée, non-loin du **Quartier administratif**.
+* **L'État-Major** se rencontre directement dans le [Manoir d'Arkolapoulos](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md).
+
 ### Mission : Se renseigner sur les missions actuelles
 * Assassinant du Consul 
 * Infiltration des maisons nobles de Rovtal
