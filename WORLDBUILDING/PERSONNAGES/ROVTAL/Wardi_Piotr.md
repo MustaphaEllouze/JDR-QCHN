@@ -19,6 +19,7 @@
 
 ## Caractéristiques
 * Mage émérite, il s'est hissé très vite dans la police de **Rovtal** grâce à ses facultés de déduction, de persuasion, et à sa magie.
+* Il est alcoolique.
 
 ## Événements marquants
 * **410** : Lorsqu'il était enfant, ses expérimentations sur ses capacités magiques ont mal tourné, et tout son pelage noir est devenu rose. C'est après cet événement qu'il a décidé de s'appeler **Wardi** qui est un mot **Alligatoride** voulant dire *rose*.

@@ -10,6 +10,9 @@ De rudes tensions existent entre la **Famille Sfer** et la [**Famille Alexandros
 * [Fern Sfer](../../BRUMEBOURG/Fern_Sfer.md) (par alliance)
 * [Emiliano Sfer](../../DVOLSTI/Emiliano_Sfer.md)
 
+## Eléménts distinctifs
+Tous les membres de la famille portent un vêtement rouge.
+
 ## Evénements marquants
 * **1 Dewd 432** : Les **Enfants de la Rue** sont employés par la famille **Sfer** afin de suivre la famille [**Alexandros**](./Famille_Alexandros.md) de près, afin de profiter d'une faiblesse éventuelle pour placer [**Emiliano**](../../DVOLSTI/Emiliano_Sfer.md) au rang de Consul.
     * La majorité de la famille souhaite que l'opprobre soit jeté sur [**Élèctre Alexandros**](../../DVOLSTI/Elèctre_Alexandros.md) pour sa mauvaise gestion de la ville (argumentée par la prévalence des **Enfants de la Rue** dans la ville). 

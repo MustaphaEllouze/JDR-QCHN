@@ -13,12 +13,13 @@
 
 ## Filiations
 * [**Fern Sfer**](./Fern_Sfer.md) (mari)
+* [**Emiliano Sfer**](../DVOLSTI/Emiliano_Sfer.md) (cousin)
 
 ## Groupes 
 * [**Famille Sfer**](../ROVTAL/GROUPES/Famille_Sfer.md)
 
 ## Caractéristiques
-* Fille d'une [famille relativement connue de Rovtal](../ROVTAL/GROUPES/Famille_Sfer.md),  elle aspire à mener une vie paisible à **Brumebourg** tout en redorant le blason familial grâce à sa bonne gestion du village.
+* Fille d'une [famille noble de Rovtal](../ROVTAL/GROUPES/Famille_Sfer.md),  elle aspire à mener une vie paisible à **Brumebourg** tout en redorant le blason familial grâce à sa bonne gestion du village.
 
 * Elle voit **Rovtal** et les gens qui y vivent comme supérieurs aux habitants de **Brumebourg**, ce qui lui vaut de sortir quelques remarques racistes de temps en temps. 
 

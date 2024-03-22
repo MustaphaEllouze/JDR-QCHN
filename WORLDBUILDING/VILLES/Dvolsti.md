@@ -40,6 +40,14 @@ Parmi les stands les plus connus, on retrouve notamment ceux de [**Olives et Sar
 ### Consulat Rovtalien
 Situé au beau milieu du quartier administratif, le **Consulat** est le lieu obligatoire pour tout habitant souhaitant être en règle avec les lois rovtaliennes : taxes, impôts, papiers d'identité, droits de construction, etc.
 
+### La Brasserie du Consulat
+Cette brasserie, située en plein coeur du quartier administratif, juste en face du Consulat, sert souvent de lieu pour déjeuner pour l'ensemble des travailleurs du quartier. 
+
+Il se trouve que cette brasserie est également affiliée aux **Enfants de la Rue**, comme beaucoup d'autres commerces de la ville, et sa cave sert souvent de repère pour les réunions de la **Division Logistique** des Enfants de la Rue.
+
+### L'auberge du poisson frétillant
+Cette auberge est tenue par [Rueko](../PERSONNAGES/DVOLSTI/Rueko.md) et [Mila](../PERSONNAGES/DVOLSTI/Mila.md), qui ont pris un prêt chez les [**Enfants de la Rue**](#les-enfants-de-la-rue), à un taux usurier qu'ils ne peuvent pas payer. Depuis ce prêt, les **Enfants de la Rue** essayent de mettre la main sur eux pour leur extorquer de l'argent, mais cela risque de vite tourner au vinaigre.
+
 ### Les Oliveraies
 La ville est entourée de plusieurs oliveraies gigantesques, qui sont pour la plupart la propriété directe de [**Arkolapoulos**](../PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md). On les retrouve majoritairement à l'Est de la ville, loin de l'encombrement de la ville et du fleuve.
 
