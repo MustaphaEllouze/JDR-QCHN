@@ -25,7 +25,7 @@ Dans la mesure où le coût de réparation est très cher, il est possible de se
 
 L'ensemble du stock de cristaux magiques est contrôlé par **Rovtal**, et c'est la [**Consule à Dvolsti**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md) qui est en charge de répartir le stock au sein de Dvolsti.
 
-D'un autre côté, plusieurs cristaux illégaux circulent en ville, le traffic étant contrôlé par les **Enfants de la Rue**. Les cristaux les plus gros sont détenus par le leader de l'organisation [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), qu'il garde dans les sous-sols de son manoir.
+D'un autre côté, plusieurs cristaux illégaux circulent en ville, le traffic étant contrôlé par les **Enfants de la Rue**. Les cristaux les plus gros sont détenus par le leader de l'organisation [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), qu'il garde dans les sous-sols de son manoir pour les plus petits, et dans une grotte en marge de la ville pour les plus grands.
 
 ## Quête : Visiter Rovtal
 
@@ -124,5 +124,9 @@ D'un autre côté, [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emil
 ### Mission : Défaire la Division des Renseignements
 ### Mission : Défaire la Division Logistique
 ### Mission : Anéantir les Enfants de la Rue
+
+## Quête : Désamorcer les tensions entre les familles Alexandros et Sfer
+### Mission : Ecouter ce que la Consule a à dire
+La Consule est méfiante envers son adjoint qui a l'air de se comporter bizarrement depuis quelques temps à ses côtés. Il semble plus nerveux.
 
 ## Quête : Remonter jusqu'au culte de Komorath
