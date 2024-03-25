@@ -16,7 +16,15 @@
 [Les Enfants de la Rue](./_Organisation.md)
 
 ## Caractéristiques
+* Il est timide et rêveur
+* Il se touche beaucoup les cheveux quand il parle
+* Il ne s'implique pas beaucoup dans les activités fortement illégales des **Enfants de la Rue**, uniquement dans le trafic de cristaux et les trafics d'animaux exotiques. Les activités d'usure et de trafic de personnes lui sont cachées.
 
 ## Événements marquants
 
 ## Combat
+
+## Roleplay
+* Se touche les cheveux en parlant
+* Marquer de longues pauses rêveuses en parlant
+* Voix douce

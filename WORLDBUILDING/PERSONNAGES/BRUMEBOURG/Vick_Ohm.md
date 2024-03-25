@@ -1,4 +1,4 @@
-# Vick Ohm - Artisan FOrgeron
+# Vick Ohm - Artisan Forgeron
 ![Vick](../../../_images/forgeron.png)
 
 ## Infos 
@@ -21,3 +21,8 @@
 
 ## Combat
 S.O.
+
+## Roleplay
+* Parler avec une grosse voix
+* Poser la main sur l'épaule des personnages
+* Rigoler à grands coups

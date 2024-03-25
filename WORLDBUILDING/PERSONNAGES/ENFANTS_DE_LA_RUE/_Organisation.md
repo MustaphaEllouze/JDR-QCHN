@@ -16,6 +16,8 @@ Cf. [ici](../../VILLES/Dvolsti.md#les-enfants-de-la-rue)
 * [Paumes-Bleues](./Paumes_Bleues.md), Cheffe de division
 
 ## Division logistique
+* [Gaultier Lavigne](./Gaultier_Lavigne.md), Membre
+* [Tibo Lavesse](./Tibo_Lavesse.md), Membre
 * [Elvira Phrodita](./Elvira_Phrodita.md), Cheffe de division
 
 ## Etat-Major

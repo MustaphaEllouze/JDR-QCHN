@@ -20,7 +20,13 @@
 * Fondateur du restaurant caritatif [**la Taverne Familiale**](../../VILLES/Dvolsti.md#la-taverne-familiale).
 * C'est le plus grand chef d'entreprise de tout **Dvolsti**, et son manoir est de fait le plus beau bâtiment de toute la ville.
 * Son fils adoptif, **Cicéron**,  est issu de l'activité de **trafic de personnes** qui est orchestrée par les **Enfants de la Rue**. Il ne le sait cependant pas.
+* Il cache à son fils adoptif les activités de trafic de personnes et d'usure.
 
 ## Événements marquants
 
 ## Combat
+
+## Roleplay
+* Se montrer très gentil envers les interlocuteurs
+* Voix traînante
+* Parler de sa jeunesse

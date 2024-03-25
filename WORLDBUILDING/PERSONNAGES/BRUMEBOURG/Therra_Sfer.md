@@ -23,9 +23,17 @@
 
 * Elle voit **Rovtal** et les gens qui y vivent comme supérieurs aux habitants de **Brumebourg**, ce qui lui vaut de sortir quelques remarques racistes de temps en temps. 
 
+* Elle adore boire seule
+
 ## Événements marquants
 * **429** : Est arrivée à **Brumebourg** pour représenter Rovtal.
 * **9 Kegn 432** : A été sauvée par [Arilius](../Arilius.md) lors de l'attaque de l'hôtel de ville de **Brumebourg** par [Bakari Mikhaïl](../ENFANTS_DE_LA_RUE/Bakari_Mikhail.md).
 
 ## Combat
 S.O.
+
+## Roleplay
+* Marquer des pauses sauriennes
+* Abuser des "Bon", "Hein", "Voilà"
+* Être ivre si proche de la soirée
+* Se montrer un peu raciste intériorisé

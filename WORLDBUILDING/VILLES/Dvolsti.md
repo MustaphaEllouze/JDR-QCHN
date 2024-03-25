@@ -29,6 +29,8 @@ On y mange souvent des plats à base d'huile d'olive et de sardines, étant les 
 
 Plusieurs cusiniers en étude ou diplômés de [l'école du couteau affûté](#lécole-du-couteau-affûté) participent à la préparation des plats régulièrement. Ils sont cependant souvent mal vus par leurs pairs.
 
+La *Taverne Familiale* se situe dans le [Quartier Nord](#quartier-nord---le-quartier-du-port-de-commerce) de la ville, près de tous les autres entrepôts du port.
+
 ### L'école du couteau affûté
 Pôle d'attractivité majeur, **l'école du couteau affûté** est l'école de cuisine la plus connue de toute la région. Profitant de produits de qualité locaux (notamment ceux de [Rovtal](./Rovtal.md) et de [Brumebourg](./Brumebourg.md)), elles est *de facto* l'école où se forment toutes les cuisiniers les plus renommés, qui sont ensuite employées par les grandes maisons nobles de **Rovtal**.
 
@@ -38,7 +40,7 @@ Au coeur de la ville, la **place du marché**, aussi la **Place Dum**, est l'end
 Parmi les stands les plus connus, on retrouve notamment ceux de [**Olives et Sardines**](#olives-et-sardines), des stands tenus par les cuisiniers encore en formation, et certains marchands venus de **Brumebourg**. On y croise souvent des acheteurs venus de [**Blanchécum**](./Blanchécum.md) afin de rapporter des produits de qualité à leur maîtres.
 
 ### Consulat Rovtalien
-Situé au beau milieu du quartier administratif, le **Consulat** est le lieu obligatoire pour tout habitant souhaitant être en règle avec les lois rovtaliennes : taxes, impôts, papiers d'identité, droits de construction, etc.
+Situé au beau milieu du quartier administratif, le **Consulat** est le lieu obligatoire pour tout habitant souhaitant être en règle avec les lois rovtaliennes : taxes, impôts, cristaux d'identité, droits de construction, etc.
 
 ### La Brasserie du Consulat
 Cette brasserie, située en plein coeur du quartier administratif, juste en face du Consulat, sert souvent de lieu pour déjeuner pour l'ensemble des travailleurs du quartier. 
@@ -47,6 +49,9 @@ Il se trouve que cette brasserie est également affiliée aux **Enfants de la Ru
 
 ### L'auberge du poisson frétillant
 Cette auberge est tenue par [Rueko](../PERSONNAGES/DVOLSTI/Rueko.md) et [Mila](../PERSONNAGES/DVOLSTI/Mila.md), qui ont pris un prêt chez les [**Enfants de la Rue**](#les-enfants-de-la-rue), à un taux usurier qu'ils ne peuvent pas payer. Depuis ce prêt, les **Enfants de la Rue** essayent de mettre la main sur eux pour leur extorquer de l'argent, mais cela risque de vite tourner au vinaigre.
+
+### La brasserie de l'Entrepôt
+Située juste en face de la [*Taverne Familiale*](#la-taverne-familiale), cette brasserie est tenue par les [**Enfants de la Rue**](#les-enfants-de-la-rue) et leur sert de façade. On y trouve souvent [**Gaultier**](../PERSONNAGES/ENFANTS_DE_LA_RUE/Gaultier_Lavigne.md), fabriquant de faux papiers, et [**Tibo**](../PERSONNAGES/ENFANTS_DE_LA_RUE/Tibo_Lavesse.md) qui tient le bar.
 
 ### Les Oliveraies
 La ville est entourée de plusieurs oliveraies gigantesques, qui sont pour la plupart la propriété directe de [**Arkolapoulos**](../PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md). On les retrouve majoritairement à l'Est de la ville, loin de l'encombrement de la ville et du fleuve.
@@ -67,9 +72,9 @@ La ville est entourée de plusieurs oliveraies gigantesques, qui sont pour la pl
 ## Traditions et particularités
 
 ### Lois Rovtaliennes en vigueur
-* Chaque habitant se doit de posséder des papiers d'identité sur lui afin de pouvoir s'identifier si jamais ils se font contrôler par les autorités.
+* Chaque habitant se doit de posséder des cristaux d'identité sur lui afin de pouvoir s'identifier si jamais ils se font contrôler par les autorités.
     * Cette loi a été mise en place récemment afin de contrer la présence des [**Enfants de la Rue**](#les-enfants-de-la-rue) dans la ville, et afin de mieux contrôler les activités des citoyens dans les quartiers les moins sûrs de la ville.
-    * Il est possible de faire faire ses papiers d'identité au [Consulat](#consulat-rovtalien) contre la somme de **50 pièces d'or**.
+    * Il est possible de faire faire ses cristaux d'identité au [Consulat](#consulat-rovtalien) contre la somme de **50 pièces d'or**.
 
 ## Personnages importants de la ville
 
@@ -141,4 +146,4 @@ Ce groupe comprend l'ensemble des membres les plus hauts placés dans la hiérar
 Le leader de l'organisation est [**Arkolapoulos Prunos**](../PERSONNAGES/PNJ/EnfantsDeLaRue.md#arkolapoulos-prunos---leader).
 
 ## Événements marquants
-* **16 Tewl 432** : Mise en place de mesures de la part de **Rovtal** afin de contre-carrer la présence des **Enfants de la Rue** dans la ville (notamment mise en place d'obligation de porter ses papiers d'identité)
+* **16 Tewl 432** : Mise en place de mesures de la part de **Rovtal** afin de contre-carrer la présence des **Enfants de la Rue** dans la ville (notamment mise en place d'obligation de porter ses cristaux d'identité)

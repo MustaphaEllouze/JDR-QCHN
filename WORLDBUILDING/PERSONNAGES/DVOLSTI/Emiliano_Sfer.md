@@ -25,3 +25,7 @@
 * **1 Dewd 432** : A profité de la prise de contact de sa famille avec les [**Enfants de la Rue**](../../VILLES/Dvolsti.md#les-enfants-de-la-rue) afin d'organiser avec eux le meurtre d'[**Elèctre Alexandros**](./Elèctre_Alexandros.md) si sa famille venait à échouer la mission qui visait à la discréditer.
 ## Combat
 S.O.
+
+## Roleplay
+* Avoir l'air fatigué et ennuyé
+* Marquer des pauses sauriennes dans la phrase

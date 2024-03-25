@@ -23,3 +23,6 @@
 
 ## Combat
 S.O.
+
+## Roleplay
+* Ronronner les R
