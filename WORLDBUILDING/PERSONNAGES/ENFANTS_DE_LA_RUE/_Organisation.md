@@ -12,8 +12,9 @@ Cf. [ici](../../VILLES/Dvolsti.md#les-enfants-de-la-rue)
 * [Bakari Phéroh](./Bakari_Phéroh.md), Chef de division
 
 ## Division des Renseignements
+* [Misha Vladimov](./Misha_Vladimov.md), Chef de groupe
 * [Griffes-Rouges](./Griffes_Rouges.md), Cheffe de division
-* [Paumes-Bleues](./Paumes_Bleues.md), Cheffe de division
+* [Paumes-Bleues](./Paumes_Bleues.md), Chef de division
 
 ## Division logistique
 * [Gaultier Lavigne](./Gaultier_Lavigne.md), Membre
