@@ -13,6 +13,9 @@ Malgré la prévalence des cultes de **Italis** et **Muhuta**, d'autres cultes e
 
 ## Lieux 
 
+## Les Sombres Artistes
+Culte de [**Komorath**](../COSMOLOGIE/PLANS_ET_DIVINITES/Komorath.md)
+
 ## Événements marquants
 
 ## Traditions et particularités

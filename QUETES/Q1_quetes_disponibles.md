@@ -114,9 +114,20 @@ C'est la **Division des Renseignements** qui est chargée de placer ses pions, n
 
 D'un autre côté, [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md) a lui même contacté les **Enfants de la Rue** afin que, si le temps manque, ils assassinent [**Elèctre Alexandros**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md). Il prendrait alors de fait la place de **Consul**, au moins par intérim.
 
-## Quête : Comprendre pourquoi Brumebourg a été attaquée
+## Quête : Comprendre pourquoi Brumebourg a été attaqué
 ### Mission : Enquêter sur les intentions des Enfants de la Rue
+L'attaque de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) par les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) semblait beaucoup trop organisée et ciblée pour que ce soit une simple coïncidence. Les **Enfants de la Rue** ont un but bien précis qui les a motivés à mener cette attaque. 
+
+Un [employeur mystérieux](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes) a contacté les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) en la personne d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) pour leur proposer un marché : réduire à néant le stabilisateur de leyline de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md), en échange de la transformation de la personne de son choix en [**Sombraur**](../WORLDBUILDING/ESPECES/Especes_Magiques.md#sombraur).
+
+L'ensemble des **chefs de groupes** sont au courant de la mission d'anéantissement du stabilisateur.
+
 ### Mission : Enquêter sur l'employeur mystérieux
+L'**employeur mystérieux** qui a contacté [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) n'est autre que  [les Sombres Artistes](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes). Ce culte prend ses racines à [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md). 
+
+Dans l'organistion des **Enfants de la Rue**, seuls [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) et [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md) sont au courant de leur identité.
+
+Quant à savoir pourquoi [les Sombres Artistes](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes) veulent s'en prendre à [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md), cela reste un mystère.
 
 ## Quête : Défaire les Enfants de la Rue
 ### Mission : Atteindre les leaders
@@ -125,8 +136,15 @@ D'un autre côté, [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emil
 ### Mission : Défaire la Division Logistique
 ### Mission : Anéantir les Enfants de la Rue
 
+### Mission : S'allier avec Griffes-Rouges et Paumes-Bleues
+[**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) et [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md) ont eu vent du marché passé entre [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et les [**Sombres Artistes**](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes), et sont entrés en contact avec ce dernier qui leur a promis de les transformer tous deux en [**Sombraurs**](../WORLDBUILDING/ESPECES/Especes_Magiques.md#sombraur) pour peu qu'ils sèment le chaos dans [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md) en plus de détruire le stabilisateur de leyline de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md).
+
+Pour ce faire, **Griffes-Rouges** et **Paumes-Bleues** sont bien décidés à : 
+* Mener à bien la mission de destruction du **Stabilisateur de leyline** ; 
+* Assassiner [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), ce qui déstabilisera les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) et plongera dans le chaos la ville.
+
+En apprenant que les Aventuriers veulent venir à bout d'**Arkolapoulos**, c'est tout naturellement qu'ils proposeront leur aide afin de tuer le vieux leader.
+
 ## Quête : Désamorcer les tensions entre les familles Alexandros et Sfer
 ### Mission : Ecouter ce que la Consule a à dire
 La Consule est méfiante envers son adjoint qui a l'air de se comporter bizarrement depuis quelques temps à ses côtés. Il semble plus nerveux.
-
-## Quête : Remonter jusqu'au culte de Komorath

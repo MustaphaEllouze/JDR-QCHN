@@ -146,4 +146,5 @@ Ce groupe comprend l'ensemble des membres les plus hauts placés dans la hiérar
 Le leader de l'organisation est [**Arkolapoulos Prunos**](../PERSONNAGES/PNJ/EnfantsDeLaRue.md#arkolapoulos-prunos---leader).
 
 ## Événements marquants
+* **17 Kemth 432** : Les [**Enfants de la Rue**](#les-enfants-de-la-rue) sont contactés par les [**Sombres Artistes**](./Rovtal.md#les-sombres-artistes) afin de détruire le **stabilisateur de leyline** de [**Brumebourg**](./Brumebourg.md). La récompense promise, communiquée au seul [**Arkolapoulos**](../PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), leader des **Enfants de la Rue**, est de permettre à la personne de son choix de devenir un [**Sombraur**](../ESPECES/Especes_Magiques.md#sombraur).
 * **16 Tewl 432** : Mise en place de mesures de la part de **Rovtal** afin de contre-carrer la présence des **Enfants de la Rue** dans la ville (notamment mise en place d'obligation de porter ses cristaux d'identité)
