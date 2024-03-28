@@ -38,14 +38,14 @@ Cette fois-ci, c'est au tour de [Kramer](../WORLDBUILDING/PERSONNAGES/BRUMEBOURG
 
 Le départ de **Kramer** vers la ville peut se faire en parallèle de celui des aventuriers, si ceux-ci acceptent de l'accueillir dans leur groupe. 
 
-Le voyage de **Kramer** durera au plus deux ou trois jours sur place, le temps de tout récupérer. Il en profitera également pour récupérer les nouvelles des grandes villes afin de teni les **brumebourgeois** informés.
+Le voyage de **Kramer** durera au plus deux ou trois jours sur place, le temps de tout récupérer. Il en profitera également pour récupérer les nouvelles des grandes villes afin de tenir les **brumebourgeois** informés.
 
 ### Mission : Retrouver le contact de Therra
 Après l'attaque de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) par les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue), [Therra](../WORLDBUILDING/PERSONNAGES/BRUMEBOURG/Therra_Sfer.md) a mandaté les aventuriers pour aller à [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md) afin de trouver quelqu'un pour réparer le stabilisateur de leylines.
 
 Afin de leur faciliter la tâche, elle peut contacter un des membres de sa famille, qui sert d'**adjoint** à la [**Consule**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md) : un saurien du nom de [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md). Celui-ci fera en sorte de s'assurer qu'ils arrivent au moins à bon port, et qu'ils aient de quoi subsister les premiers jours.
 
-### Mission : Faire ses papiers au Consulat
+### Mission : Faire ses cristaux d'identité au Consulat
 Tôt ou tard à [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md), chacun finit par tomber sur un membre de la police locale qui lui demande ses papiers. Cette mesure a été prise il y a de cela quelques semaines par [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md) afin de pouvoir mieux contrôler la population et pouvoir prévenir les futurs soucis causés par les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue).
 
 Le seul moyen de faire ses papiers est de passer à Consulat et y faire la queue. Une fois la queue enfin terminée, il est possible d'obtenir ses papiers de plusieurs façons : 
