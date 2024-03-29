@@ -83,7 +83,7 @@ Nous avons des doutes vis-à-vis de l'utilisation de cet entrepôt de nuit, nous
 En l'approchant de nuit, nous avons vu que de la lumière s'en échapper. Un corbeau avec qui nous avons discuté nous a dit qu'il avait sans doute vu des insignes ressemblant à ceux des **Enfants de la Rue** dans les parages.
 
 ### Mission : Visiter le manoir d'Arkolapoulos
-Le manoir étant la construction qui surplombe la ville, nous l'avons tout de suite repérée, et nous avons décidé de faire un tour du côté du manoir d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md).
+Le manoir étant la construction qui surplombe la ville, nous l'avons tout de suite repéré, et nous avons décidé de faire un tour du côté du manoir d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md).
 
 En passant devant, nous avons vu qu'il n'était pas possible d'y entrer et que des gardes protégeaient de toute intrusion.
 

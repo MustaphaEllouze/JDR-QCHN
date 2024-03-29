@@ -64,6 +64,15 @@ Lors de la visite de la **Taverne Familiale**, plusieurs conflits peuvent éclat
 
 [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et son fils [**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md) sont souvent là pour faire régner l'ordre.
 
+### Mission : Visiter le manoir d'Arkolapoulos
+Le manoir étant la construction qui surplombe la ville, il est tout de suite repérable, et il est possible de faire un tour devant le manoir d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md).
+
+En passant devant, des gardes se positionnent devant afin de protéger l'entrée. Le reste de la propriété est entouré d'un haut mur, qui fait qu'il est difficile d'y entrer simplement.
+
+En trouvant [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), il est possible de le convaincre de visiter son manoir, pour peu qu'il se prenne d'intérêt pour son interlocuteur.
+
+Il est également possible de trouver des moyens détournés d'y entrer, en exploitant des faiblesses dans les murs, en forçant le passage au niveau des gardes, en se propulsant au dessus des murs, etc.
+
 ## Quête : Meutre à l'Auberge
 ### Mission : Confronter l'enquêteur
 Certains commerçants sont affiliés aux [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue), et certains leur doivent de l'argent (les Enfants de la Rue étant des usuriers). Certains commerçants n'ont pas les moyens de rembourser les **Enfants de la Rue**, en dans les cas extrêmes, c'est la dernière bêtise qu'ils comettent de leur vie. 
@@ -128,6 +137,33 @@ L'**employeur mystérieux** qui a contacté [**Arkolapoulos**](../WORLDBUILDING/
 Dans l'organistion des **Enfants de la Rue**, seuls [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) et [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md) sont au courant de leur identité.
 
 Quant à savoir pourquoi [les Sombres Artistes](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes) veulent s'en prendre à [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md), cela reste un mystère.
+
+## Quête : Infiltrer le manoir d'Arkolapoulos
+### Mission : Décider de la façon de faire
+Il est totalement possible d'entrer de la maison du plus grand magnat de la ville. Encore faut-il en trouver le moyen.
+
+Le moyen le plus facile est de se faire inviter par l'un des deux habitants officiels du manoir : [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) lui même ou son fils adoptif [**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md). Généralement, les invités ne sont aurotisés qu'à visiter le rez-de-chaussée, et les pièces qui sont ouvertes au public, soit : la cour intérieure, le salon des invités, le salon d'honneur, la cuisine, et les toilettes.
+
+Il est également possible de s'infiltrer à l'intérieur n'ayant aucune invitation. Dans ce cas-là : 
+* La paroi qui fait le tour du manoir est relativement fragile, et il est possible d'en casser une, pour peu qu'on accepte de faire du bruit ;
+* Il est possible de sauter par dessus le mur, mais celui-ci est relativement haut (plus de 3 mètres) ;
+* Il est possible de défaire les gardes qui montent la garde juste devant le manoir et de s'emparer de leurs clés pour ouvrir la porte ;
+* Etc.
+
+### Mission : Fouiller la maison
+Le manoir d' [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) est organisé de la façon suivante : 
+* **Cour d'entrée**
+* **Jardin extérieur**
+* **Rez-de-chaussée** : Cour intérieure (avec fontaine), salon des invités, salon pour les officiels (salon d'honneur), cuisine, toilettes, salle à manger
+* **Etage** (escaliers sur le côté pour monter) : Cambre d'**Arkolapoulos**, Chambre de **Cicéron**, Bureau d'**Arkolapoulos**, Chambre d'invités, Bibliothèque
+* **Sous-sol** (secret, entrée cachée dans la cuisine): Entrepôt secret, Salon de réunion
+
+Les objets suivants peuvent être trouvés en fouillant :
+* **Cristal de correspondance** entre **Arkolapoulos** et les [**Sombres Artistes**](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes) qui témoigne de l'implication des deux ensembles
+* **Cristal de correspondance** avec les nobles de [**Blanchécum**](../WORLDBUILDING/VILLES/Blanchécum.md) qui veulent des animaux exotiques
+* **Registre** des prêts à taux usuriers à différentes personnes de **Dvolsti**
+* **Registre** caché avec plusieurs fléchages de livraison d'esclaves vers des nobles du coin (dont des esclaves centaures)
+* **Cristaux magiques** de bonne qualité, pouvant intéresser les magiciens de la ville
 
 ## Quête : Défaire les Enfants de la Rue
 ### Mission : Atteindre les leaders
