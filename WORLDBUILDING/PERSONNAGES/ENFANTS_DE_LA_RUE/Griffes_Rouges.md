@@ -28,4 +28,4 @@
 * **9 Kegn 432** : A aidé [Bakari Mikhaïl](./Bakari_Mikhail.md) pour son assaut de l'hôtel de ville de [**Brumebourg**](../../VILLES/Brumebourg.md).
 
 ## Combat
-
+[Stats](../../../STAT_BLOCKS/PERSONNAGES/GriffeRouges.md)

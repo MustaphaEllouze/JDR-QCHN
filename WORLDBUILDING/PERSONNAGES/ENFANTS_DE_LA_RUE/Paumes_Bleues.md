@@ -26,4 +26,4 @@
 * **16 Tewl 432** : Avec sa soeur, entre en contact avec les [**Sombres Artistes**](../../VILLES/Rovtal.md#les-sombres-artistes) qui lui promettent de la transformer lui et sa soeur en **Sombraurs** pour peu qu'ils fassent régner le chaos dans [**Dvolsti**](../../VILLES/Dvolsti.md) en plus de détruire le stabilisateur de [**Brumebourg**](../../VILLES/Brumebourg.md). Cette promesse reviendrait à trahir [**Arkolapoulos**](./Arkolapoulos_Prunos.md)
 
 ## Combat
-
+[Stats](../../../STAT_BLOCKS/PERSONNAGES/PaumesBleues.md)

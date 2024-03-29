@@ -21,4 +21,5 @@
 ## Événements marquants
 
 ## Combat
+[Stats](../../../STAT_BLOCKS/PERSONNAGES/BakariPhéroh.md)
 

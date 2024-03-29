@@ -23,4 +23,5 @@
 ## Événements marquants
 
 ## Combat
+[Stats](../../../STAT_BLOCKS/PERSONNAGES/DjibrilNiil.md)
 
