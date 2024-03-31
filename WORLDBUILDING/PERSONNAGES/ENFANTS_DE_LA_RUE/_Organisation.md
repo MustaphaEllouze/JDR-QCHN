@@ -7,6 +7,7 @@ Cf. [ici](../../VILLES/Dvolsti.md#les-enfants-de-la-rue)
 * [Minno](./Minno.md), Novice
 * [Fééli](./Fééli.md), Novice
 * [Grégwa Uut](./Grégwa_Uut.md), Membre
+* [Phane Miton](./Phane_Miton.md), Membre
 * [Bakari Mikhaïl](./Bakari_Mikhail.md), Chef de groupe
 * [Djibril Niil](./Djibril_Niil.md), Chef de groupe
 * [Bakari Phéroh](./Bakari_Phéroh.md), Chef de division

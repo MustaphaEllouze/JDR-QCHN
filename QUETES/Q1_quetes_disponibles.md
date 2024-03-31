@@ -106,6 +106,15 @@ A **Dvolsti**, n'importe qui peut se faire recruter pour faire partie des [**Enf
 
 En ce moment, c'est surtout la **Division Armée** des **Enfants de la Rue** qui recrute, notamment le groupe de [**Djibril Niil**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md), spécialisé dans le meutre de sang-froid.
 
+Les missions qui sont possibles pour s'attirer les bonnes faveurs des **Enfants de la Rue** sont : 
+* Intimidation de marins afin de réquisitionner leurs cargaisons de **cristaux magiques** (certains marins pourront riposter) ;
+* Vol à effectuer dans le [**Consulat**](../WORLDBUILDING/VILLES/Dvolsti.md#consulat-rovtalien) : les **Enfants de la Rue** cherchent à trouver de quoi incriminer la **Consule** (pour la mission confiée par [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md)) : il n'y a pas grand chose à voler qui incrimine la [**Consule**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md), mis à part sa mauvaise gestion de l'argent de la ville. 
+    * Des gardes sont positionnés autour et dans le **Consulat**, ils risqueront donc de tomber sur des intrus.
+
+Un **membre** des **Enfants de la Rue** suit forcément tout novice qui chercherait à faire ses preuves (par exemple [Phane Miton](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Phane_Miton.md)). 
+
+Pour chaque information récupérée ou marin intimidé, les **Enfants de la Rue** sont prêts à payer **50 pièces d'or**.
+
 ### Mission : Trouver les quartiers de l'organisation
 Afin d'infiltrer au mieux l'organisation, rien de tel que de trouver le centre des opérations. Les **Enfants de la Rue** ont plusieurs bases partout à travers la ville, souvent différente en fonction des divisions.
 
@@ -138,7 +147,7 @@ Dans l'organistion des **Enfants de la Rue**, seuls [**Arkolapoulos**](../WORLDB
 
 Quant à savoir pourquoi [les Sombres Artistes](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes) veulent s'en prendre à [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md), cela reste un mystère.
 
-## Quête : Infiltrer le manoir d'Arkolapoulos
+## Quête : Infiltrer les propriétés d'Arkolapoulos
 ### Mission : Décider de la façon de faire
 Il est totalement possible d'entrer de la maison du plus grand magnat de la ville. Encore faut-il en trouver le moyen.
 
@@ -165,6 +174,8 @@ Les objets suivants peuvent être trouvés en fouillant :
 * **Registre** caché avec plusieurs fléchages de livraison d'esclaves vers des nobles du coin (dont des esclaves centaures)
 * **Cristaux magiques** de bonne qualité, pouvant intéresser les magiciens de la ville
 
+### Mission : Fouiller les Oliveraies
+
 ## Quête : Défaire les Enfants de la Rue
 ### Mission : Atteindre les leaders
 ### Mission : Défaire la Division Armée
@@ -180,6 +191,12 @@ Pour ce faire, **Griffes-Rouges** et **Paumes-Bleues** sont bien décidés à :
 * Assassiner [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), ce qui déstabilisera les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) et plongera dans le chaos la ville.
 
 En apprenant que les Aventuriers veulent venir à bout d'**Arkolapoulos**, c'est tout naturellement qu'ils proposeront leur aide afin de tuer le vieux leader.
+
+### Mission : S'alllier avec [Wardi Piotr](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md)
+
+L'enquêteur rovtalien est prêt à tout pour défaire les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) afin de pouvoir revenir triomphant dans sa ville. Il est prêt notamment à trouver des alliés plus qu'improbables pour en venir à bout. 
+
+Il passe son temps quelque part en ville, dans une taverne prestigieuse du [Quartier Administratif](../WORLDBUILDING/VILLES/Dvolsti.md#quartier-central---le-quartier-administratif).
 
 ## Quête : Désamorcer les tensions entre les familles Alexandros et Sfer
 ### Mission : Ecouter ce que la Consule a à dire

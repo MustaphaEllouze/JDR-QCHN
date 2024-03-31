@@ -115,7 +115,7 @@ Tous les nouveaux membres entrent au rang de **Novice**, et ne peuvent être rec
 
 ### Activités criminelles
 Parmi toutes les activités illégales des Enfants de la Rue, on retrouve : 
-* **Trafic de cristaux magiques**, activité la plus lucrative. Les cristaux, qui ont fait tout le trajet depuis [Caproch](./Caproch.md) sont récupérés depuis les ports de [Blanchécum](./Blanchécum.md) avant d'être revendus aux plus offrants pour les plus gros, et dans la rue pour les cristaux de piètre qualité.
+* **Trafic de cristaux magiques**, activité la plus lucrative. Les cristaux, qui ont fait tout le trajet depuis [Caproch](./Caproch.md) sont récupérés depuis les ports de [Blanchécum](./Blanchécum.md) avant d'être revendus aux plus offrants pour les plus gros, et dans la rue pour les cristaux de piètre qualité. Les cristaux de grande qualité servent surtout à alimenter les rivalités entre les grandes familles de [**Rovtal**](./Rovtal.md).
 * **Trafic d'animaux**, activité quasiment intégralement justifiée par la proximité avec [Blanchécum](./Blanchécum.md), où les animaux les plus exotiques sont vendus à des prix exorbitants.
 * **Trafic de personnes**, les espèces les plus rares (centaures, avemains) sont souvent kidnappées très jeunes pour être revendues à des nobles peu scrupuleux.
 * **Prêts usuriers**, certaines personnes incapables de payer les intérêts de leurs prêts peuvent en payer le prix par leur vie.
