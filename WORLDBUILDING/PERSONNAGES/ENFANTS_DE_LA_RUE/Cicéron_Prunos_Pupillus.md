@@ -28,3 +28,4 @@
 * Se touche les cheveux en parlant
 * Marquer de longues pauses rêveuses en parlant
 * Voix douce
+* Joue les gamins un peu bête quand il est en présence de personnes pas au courant de son implication avec les Enfants de la Rue

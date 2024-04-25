@@ -56,6 +56,9 @@ Située juste en face de la [*Taverne Familiale*](#la-taverne-familiale), cette 
 ### Les Oliveraies
 La ville est entourée de plusieurs oliveraies gigantesques, qui sont pour la plupart la propriété directe de [**Arkolapoulos**](../PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md). On les retrouve majoritairement à l'Est de la ville, loin de l'encombrement de la ville et du fleuve.
 
+### Taverne du Faucon Bleu - Taverne
+A côté du Poisson Frétillant.
+
 ## Quartiers
 
 ### Quartier Nord - Le quartier du port de commerce
@@ -143,7 +146,7 @@ La **chef de division** est [**Elvira Phrodita**](../PERSONNAGES/PNJ/EnfantsDeLa
 
 Ce groupe comprend l'ensemble des membres les plus hauts placés dans la hiérarchie de l'organisation : les chefs de division, le leader, et les membres proches du leader.
 
-Le leader de l'organisation est [**Arkolapoulos Prunos**](../PERSONNAGES/PNJ/EnfantsDeLaRue.md#arkolapoulos-prunos---leader).
+Le leader de l'organisation est [**Arkolapoulos Prunos**](../PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md).
 
 ## Événements marquants
 * **17 Kemth 432** : Les [**Enfants de la Rue**](#les-enfants-de-la-rue) sont contactés par les [**Sombres Artistes**](./Rovtal.md#les-sombres-artistes) afin de détruire le **stabilisateur de leyline** de [**Brumebourg**](./Brumebourg.md). La récompense promise, communiquée au seul [**Arkolapoulos**](../PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), leader des **Enfants de la Rue**, est de permettre à la personne de son choix de devenir un [**Sombraur**](../ESPECES/Especes_Magiques.md#sombraur).

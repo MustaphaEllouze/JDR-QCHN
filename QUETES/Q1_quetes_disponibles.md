@@ -164,7 +164,7 @@ Le manoir d' [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/A
 * **Cour d'entrée**
 * **Jardin extérieur**
 * **Rez-de-chaussée** : Cour intérieure (avec fontaine), salon des invités, salon pour les officiels (salon d'honneur), cuisine, toilettes, salle à manger
-* **Etage** (escaliers sur le côté pour monter) : Cambre d'**Arkolapoulos**, Chambre de **Cicéron**, Bureau d'**Arkolapoulos**, Chambre d'invités, Bibliothèque
+* **Etage** (escaliers sur le côté pour monter) : Chambre d'**Arkolapoulos**, Chambre de **Cicéron**, Bureau d'**Arkolapoulos**, Chambre d'invités, Bibliothèque
 * **Sous-sol** (secret, entrée cachée dans la cuisine): Entrepôt secret, Salon de réunion
 
 Les objets suivants peuvent être trouvés en fouillant :
