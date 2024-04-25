@@ -240,7 +240,35 @@ C'est la **Division des Renseignements** qui est chargée de placer ses pions, n
 
 D'un autre côté, [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md) a lui même contacté les **Enfants de la Rue** afin que, si le temps manque, ils assassinent [**Elèctre Alexandros**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md). Il prendrait alors de fait la place de **Consul**, au moins par intérim.
 
-## Quête : Comprendre pourquoi Brumebourg a été attaqué
+
+## Quête : Défaire les Enfants de la Rue
+### Mission : CARNAGE
+![CARNAGE](../_images/CARNAGE.avif)
+### Mission : Atteindre et défaire les leaders
+La quête consiste à découvrir l'organisation globale des **Enfants de la Rue**, notamment la présence des différentes **divisions**, et la tête de chacun d'entre elles.
+* **Division armée** : [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md)
+* **Division logistique** : [**Elvira**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Elvira_Phrodita.md) 
+* **Division des renseignements** : [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) et [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md)
+* **Etat-Major** : [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md)
+
+Chaque division tient quasiment que par la force de son leader. L'organisation entière tient par la force [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md). Si une partie venait à perdre son chef, un membre en dessous d'un niveau essaiera de prendre la tête.
+
+### Mission : S'allier avec Griffes-Rouges et Paumes-Bleues
+[**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) et [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md) ont eu vent du marché passé entre [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et les [**Sombres Artistes**](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes), et sont entrés en contact avec ce dernier qui leur a promis de les transformer tous deux en [**Sombraurs**](../WORLDBUILDING/ESPECES/Especes_Magiques.md#sombraur) pour peu qu'ils sèment le chaos dans [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md) en plus de détruire le stabilisateur de leyline de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md).
+
+Pour ce faire, **Griffes-Rouges** et **Paumes-Bleues** sont bien décidés à : 
+* Mener à bien la mission de destruction du **Stabilisateur de leyline** ; 
+* Assassiner [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), ce qui déstabilisera les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) et plongera dans le chaos la ville.
+
+En apprenant que les Aventuriers veulent venir à bout d'**Arkolapoulos**, c'est tout naturellement qu'ils proposeront leur aide afin de tuer le vieux leader.
+
+### Mission : S'alllier avec [Wardi Piotr](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md)
+
+L'enquêteur rovtalien est prêt à tout pour défaire les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) afin de pouvoir revenir triomphant dans sa ville. Il est prêt notamment à trouver des alliés plus qu'improbables pour en venir à bout. 
+
+Il passe son temps quelque part en ville, dans une taverne prestigieuse du [Quartier Administratif](../WORLDBUILDING/VILLES/Dvolsti.md#quartier-central---le-quartier-administratif).
+
+## Quête : Comprendre pourquoi Brumebourg a été attaquée
 ### Mission : Enquêter sur les intentions des Enfants de la Rue
 L'attaque de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) par les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) semblait beaucoup trop organisée et ciblée pour que ce soit une simple coïncidence. Les **Enfants de la Rue** ont un but bien précis qui les a motivés à mener cette attaque. 
 

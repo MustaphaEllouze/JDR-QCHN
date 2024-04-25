@@ -96,9 +96,18 @@ C'est la **Division des Renseignements** qui est chargée de placer ses pions, n
 D'un autre côté, [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md) a lui même contacté les **Enfants de la Rue** afin que, si le temps manque, ils assassinent [**Elèctre Alexandros**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md). Il prendrait alors de fait la place de **Consul**, au moins par intérim.
 
 ### Mission : Assister à la réunion à la Taverne Familiale
-TODO : COMPLETER CECI
+Après avoir prouver leurs valeurs, les toutes nouvelles recrures ayant décider de s'allier aux **Enfants de la Rue** et à leur **Division Armée** sont invitées à se présenter formellement aux hauts gradés à la [**Taverne Familiale**](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale).
 
-## Quête : Comprendre pourquoi Brumebourg a été attaqué
+Cette invitation est l'occasion rêvée d'en apprendre plus sur les **Enfants de la Rue**. Les informations qui peuvent être dites durant la réunion sont les suivantes :
+* **Informations sur la hiérarchie directe de la Division Armée** : [**Bakari Phéroh**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) est à la tête, et ses deux lieutenants les plus proches sont [**Phane Miton**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Phane_Miton.md) et [**Djibril Niil**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md).
+* **Informations sur la situation à Brumebourg** : Les informations sur la mort de [**Bakari Mikhaïl**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Mikhail.md) et sur l'échec de sa mission
+* **Nomination d'un nouveau chef de groupe** : Suite à la mort de **Bakari Mikhaïl**, **Bakari Phéroh** décide de nommer un nouveau chef de groupe à sa place
+* **Préparation de l'attaque de Brumebourg** : [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) commence à réunir et organiser ses troupes pour qu'elles fassent un autre assaut sur [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md)
+* **Informations sur Wardi** : [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) décide de mettre la tête de [**Wardi Piotr**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md) à prix
+
+[**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md) et [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) sont également présents à la réunion car ce sont eux qui ont récupéré l'information sur la mort de [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Mikhail.md). Ils pourront essayer d'accoster les nouvelles recrues car **Griffes-Rouges** les avait repérés à [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) lors de leur départ, et leur proposeront [un marché](#mission--sallier-avec-griffes-rouges-et-paumes-bleues).
+
+## Quête : Comprendre pourquoi Brumebourg a été attaquée
 ### Mission : Enquêter sur les intentions des Enfants de la Rue
 L'attaque de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) par les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) semblait beaucoup trop organisée et ciblée pour que ce soit une simple coïncidence. Les **Enfants de la Rue** ont un but bien précis qui les a motivés à mener cette attaque. 
 
@@ -135,11 +144,14 @@ Les objets suivants peuvent être trouvés en fouillant :
 ## Quête : Défaire les Enfants de la Rue
 ### Mission : CARNAGE
 ![CARNAGE](../_images/CARNAGE.avif)
-### Mission : Atteindre les leaders
-### Mission : Défaire la Division Armée
-### Mission : Défaire la Division des Renseignements
-### Mission : Défaire la Division Logistique
-### Mission : Anéantir les Enfants de la Rue
+### Mission : Atteindre et défaire les leaders
+La quête consiste à découvrir l'organisation globale des **Enfants de la Rue**, notamment la présence des différentes **divisions**, et la tête de chacun d'entre elles.
+* **Division armée** : [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md)
+* **Division logistique** : [**Elvira**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Elvira_Phrodita.md) 
+* **Division des renseignements** : [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) et [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md)
+* **Etat-Major** : [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md)
+
+Chaque division tient quasiment que par la force de son leader. L'organisation entière tient par la force [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md). Si une partie venait à perdre son chef, un membre en dessous d'un niveau essaiera de prendre la tête.
 
 ### Mission : S'allier avec Griffes-Rouges et Paumes-Bleues
 [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) et [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md) ont eu vent du marché passé entre [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et les [**Sombres Artistes**](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes), et sont entrés en contact avec ce dernier qui leur a promis de les transformer tous deux en [**Sombraurs**](../WORLDBUILDING/ESPECES/Especes_Magiques.md#sombraur) pour peu qu'ils sèment le chaos dans [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md) en plus de détruire le stabilisateur de leyline de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md).

@@ -21,6 +21,7 @@
 * Ses armes préférées sont celles qu'il invoque au bout de ses bras via un sort de métal. Elles peuvent prendre plusieurs formes différentes, mais la plus courante est sans doute une forme de croissant de lune accrochée à son bras.
 
 ## Événements marquants
+* **13 Kegn 432** : Meurtre de [**Rueko**](../DVOLSTI/Rueko.md) et [**Mila**](../DVOLSTI/Mila.md)
 
 ## Combat
 [Stats](../../../STAT_BLOCKS/PERSONNAGES/DjibrilNiil.md)

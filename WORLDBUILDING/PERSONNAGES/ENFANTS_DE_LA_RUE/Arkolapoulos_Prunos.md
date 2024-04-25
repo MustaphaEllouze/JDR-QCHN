@@ -25,6 +25,7 @@
 * En cas de réussite de sa mission, il compte garder pour lui la récompense de transformation en [**Sombraur**](../../ESPECES/Especes_Magiques.md#sombraur).
 
 ## Événements marquants
+* **403** : Kidnappe [**Cicéron**](./Cicéron_Prunos_Pupillus.md) et ses parents, l'adopte et revend ses parents à des esclavagistes
 * **17 Kemth 432** : Il est contacté par les [**Sombres Artistes**](../../VILLES/Rovtal.md#les-sombres-artistes) afin de détruire le **stabilisateur de leyline** de [**Brumebourg**](../../VILLES/Brumebourg.md). Il est à ce moment-là le seul membre des [**Enfants de la Rue**](../../VILLES/Dvolsti.md#les-enfants-de-la-rue) à être au courant. La récompense promise est de permettre à la personne de son choix de devenir un [**Sombraur**](../../ESPECES/Especes_Magiques.md#sombraur).
 
 ## Combat

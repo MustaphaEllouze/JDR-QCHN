@@ -21,6 +21,7 @@
 * Il ne s'implique pas beaucoup dans les activités fortement illégales des **Enfants de la Rue**, uniquement dans le trafic de cristaux et les trafics d'animaux exotiques. Les activités d'usure et de trafic de personnes lui sont cachées.
 
 ## Événements marquants
+* **403** : Est kidnappé avec ses parents par [**Arkolapoulos**](./Arkolapoulos_Prunos.md), ses parents sont revendus en tant qu'esclaves, tandis qu'il est adopté par **Arkolapoulos**.
 
 ## Combat
 

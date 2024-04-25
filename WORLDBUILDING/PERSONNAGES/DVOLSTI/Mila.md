@@ -1,4 +1,4 @@
-# Mila - Aubergiste
+# :skull::skull::skull: Mila - Aubergiste :skull::skull::skull:
 ![Mila](../../../_images/Mila.png)
 
 ## Infos 
@@ -20,6 +20,7 @@
 
 ## Événements marquants
 * **431** : A contracté un prêt avec son mari pour pouvoir vivre selon leurs hauts standards de vie.
+* **13 Kegn 432** : Meurtre par [**Djibril Niil**](../ENFANTS_DE_LA_RUE/Djibril_Niil.md)
 
 ## Combat
 S.O.
