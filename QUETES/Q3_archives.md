@@ -267,7 +267,7 @@ Il est également possible de s'infiltrer à l'intérieur n'ayant aucune invitat
 * Il est possible de défaire les gardes qui montent la garde juste devant le manoir et de s'emparer de leurs clés pour ouvrir la porte ;
 * Etc.
 
-### Mission : Fouiller la maison
+### Mission : Fouiller le manoir
 Le manoir d' [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) est organisé de la façon suivante : 
 * **Cour d'entrée**
 * **Jardin extérieur**

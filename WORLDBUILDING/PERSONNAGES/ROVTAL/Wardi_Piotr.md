@@ -27,3 +27,7 @@
 
 ## Combat
 S.O.
+
+## Roleplay
+* Parler avec beaucoup de manières devant toute personne qu'il cherche à impressionner, notamment ses subordonnés
+* Parler normalement en privé

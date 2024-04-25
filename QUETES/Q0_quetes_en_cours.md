@@ -34,6 +34,8 @@ Le coût de réparation du stabilisateur est très cher : 10.000 pièces d'or. H
 
 [**Ioannis**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Ioannis_Krel.md) nous a appris que les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) baignaient dans le trafic de cristaux magiques, et que tout flux non contrôlé par [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md) passaient nécessairement par eux.
 
+Nous avons appris que certains marins présents dans le quartier Nord de la ville, près du port, transportent de petits cristaux vierges de tout sort dans leur cargaison. Malheureusement, les cristaux trouvés dans cette cargaison étaient trop petits pour pouvoir réparer le stabilisateur de **Brumebourg**.
+
 ## Quête : Visiter Rovtal
 
 ### Mission : Escorter les habitants de Brumebourg
@@ -60,6 +62,8 @@ Après nous avoir confié la mission de réparation du stabilisateur de leyline 
 
 **Emiliano** nous a aussi indiqué que **Dvolsti** était actuellement dans une sorte de crise financière.
 
+Nous avons entendu les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) parler du fait qu'**Emiliano** les avait contacté pour un contrat, sans en prévenir la consule, [**Elèctre**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md).
+
 ### Mission : Faire ses cristaux d'identité au Consulat
 Sous les conseils d'[**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md), le Consul Adjoint de [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md), nous avons essayé de faire faire nos [**cristaux d'identité**](../WORLDBUILDING/TECHNOLOGIE/Cristaux_d_identite.md) au **Consulat**. 
 
@@ -67,7 +71,7 @@ Le prix à payer était trop élevé pour nous : 50 pièces d'or par personne, o
 
 > Nous pouvous retourner au **Consulat** pour faire faire nos cristaux d'identité.
 
-La personne à l'accueil nous a indiqué qu'il était possible de faire faire de faux-papiers dans la rue...
+La personne à l'accueil nous a indiqué qu'il était possible de faire faire de faux-papiers dans la rue. C'est ce que nous avons fait pour le moment.
 
 ### Mission : Visiter la *Taverne Familiale*
 Lors de notre visite à [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md), et plus particulièrement près du **Manoir d'Arkalopoulos**, on nous a indiqué qu'il existait un vieil entrepot qui a été réaménagé afin de pouvoir servir *trois fois par semaine* les plus démunis en nourriture. 
@@ -82,39 +86,62 @@ Nous avons des doutes vis-à-vis de l'utilisation de cet entrepôt de nuit, nous
 
 En l'approchant de nuit, nous avons vu que de la lumière s'en échapper. Un corbeau avec qui nous avons discuté nous a dit qu'il avait sans doute vu des insignes ressemblant à ceux des **Enfants de la Rue** dans les parages.
 
-### Mission : Visiter le manoir d'Arkolapoulos
-Le manoir étant la construction qui surplombe la ville, nous l'avons tout de suite repéré, et nous avons décidé de faire un tour du côté du manoir d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md).
+Nous avons essayé de nous infiltrer dans la **Taverne Famliale**, en espionnant la conversation des **Enfants de la Rue** qui y étaient présents. Nous avons vu beaucoup de monde, notamment [**Bakari Phéroh**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) avec qui nous avions déjà discuté, ainsi que deux de ses lieutenants, [**Djibril**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md) et [**Phane Miton**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Phane_Miton.md). Nous avons pu apprendre plusieurs choses sur les **Enfants de la Rue**, outre l'identité de certains d'entre eux, notamment d'un certain contrat entre eux et [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md), le Consul adjoint de la ville.
 
-En passant devant, nous avons vu qu'il n'était pas possible d'y entrer et que des gardes protégeaient de toute intrusion.
+Notre indiscrétion nous a trahi (quelle idée de laisser traîner le cadenas que nous avons cassé par terre...), et nous avons dû nous échapper avant qu'ils n'aient réussi à boucler le périmètre entièrement.
 
-En visitant la [Taverne Familiale](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale), [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) s'est pris d'intérêt pour [**Arilius**](../WORLDBUILDING/PERSONNAGES/Arilius.md). Il lui a proposé de passer par chez lui pour discuter.
-
-[**Patrik**](../WORLDBUILDING/PERSONNAGES/Patrik.md) a eu des doutes quant à la bonne foi d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et quant à son implication avec les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue).
-
-> Nous pouvons accéder au **manoir** via l'invitation d'**Arkolapoulos**, ou tenter de nous y infiltrer.
 
 ## Quête : Infiltrer les Enfants de la Rue
 
-### Mission : Trouver un membre des Enfants de la Rue
-En arrivant à [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue), nous avons tout de suite remarqué qu'il ne serait pas très compliqué de chercher les membres de l'organisation, tant elle est implantée fortement dans tous les coins de rue. 
+### Mission : Assister à la réunion à la Taverne Familiale
+Après avoir réussi à se faire employer par [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md), ce dernier nous a invité à venir à la réunion des **Enfants de la Rue** à la [**Taverne Familiale**](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale). 
 
-> Nous pouvons continuer à chercher pour tomber sur d'autres membres.
-
-En cherchant à faire faire nos [**cristaux d'identité**](../WORLDBUILDING/TECHNOLOGIE/Cristaux_d_identite.md), nous sommes arrivés à une taverne miteuse : [**la Brasserie de l'Entrepôt**](../WORLDBUILDING/VILLES/Dvolsti.md#la-brasserie-de-lentrepôt). Là-dedans, nous avons trouvé deux Ratussiens ([**le tavernier**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Tibo_Lavesse.md) et [**celui qui faisait de la contrefaçon de cristaux d'identité**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Gaultier_Lavigne.md)) ainsi qu'un [**Alligatoride**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) qui semblait être leur chef.
-
-### Mission : Réussir à se faire employer
-En traînant dans la [**Brasserie de l'Entrepôt**](../WORLDBUILDING/VILLES/Dvolsti.md#la-brasserie-de-lentrepôt), le chef [**Alligatoride**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) des **Enfants de la Rue** nous a proposé du travail. Nous pourrions profiter de cette occasion pour nous y infiltrer.
-
-> L'[**Alligatoride**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) nous a donné rendez-vous le lendemain au matin dans la brasserie pour nous donner des missions.
+> Nous devrions aller à la réunion afin d'en apprendre plus sur l'organisation.
 
 ### Mission : Trouver les quartiers de l'organisation
 Les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) doivent bien se terrer quelque part en ville...
 
-> Nous devrions enquêter pour les débusquer.
+En enquêtant près de [**la Taverne Familiale**](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale), nous avons eu l'impression que plusieurs personnes y étaient alors que le lieu était supposé être fermé. Nous y avons vu une réunion des membres des **Enfants de la Rue**.
 
-En enquêtant près de [**la Taverne Familiale**](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale), nous avons eu l'impression que plusieurs personnes y étaient alors que le lieu était supposé être fermé.
+> Il y a peut-être d'autres endroits où les membres se réunissent. Nous pouvons continuer à chercher si nécessaire.
 
 ### Mission : Se renseigner sur les missions actuelles
 L'attaque de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) et de son stabilisateur ne doit pas être anodine, les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) devaient avoir quelque chose en tête. D'autres activités doivent les occuper également.
 
 > Nous pouvons essayer de nous renseigner sur leurs missions et leurs intentions.
+
+Nous savons que les **Enfants de la Rue** sont dans le trafic de cristaux de poches vierges et qu'ils s'en procurent *a minima* en rackettant des marins du port.
+
+## Quête : Infiltrer les propriété d'Arkolapoulos
+
+### Mission : Décider de la façon de faire
+Nous nous sommes rendus au manoir d'Arkolapoulos de manière officielle. Nous avons pu discuté longuement avec [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et plus succinctement avec son fils [**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md), et nous avons pu parlé de la façon dont les deux se sont rencontrés, et du passé d'Arkolapoulos plus généralement. 
+
+Nous doutons de la véracité de certaines informations que les deux nous ont données, d'autant plus que le comportement de Cicéron nous a semblé étrange : il était étrangement émotif à l'évocation de son passé, mais ne l'était plus dès qu'il s'est éloigné de nous. 
+
+> Nous pouvons toujours revenir, l'invitation d'Arkolapoulos tient toujours. 
+
+> Nous pouvons tenter de se renseigner sur les autres propriétés d'Arkolapoulos.
+
+### Mission : Fouiller le manoir
+Le manoir d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) semble renfermer plusieurs secrets... Nous n'avons pas pu enquêter aussi bien que nous le voulions.
+
+> Nous pouvons également continuer notre infiltration pour essayer de découvrir tous les secrets que pourrait renfermer le manoir.
+
+Nous avons tenté de nous infiltrer dans la maison afin de creuser le comportement étrange de ses habitants. Malheuresement, [**Arilius**](../WORLDBUILDING/PERSONNAGES/Arilius.md), qui avait pris la possession du corps d'un chat, s'est faite rapidement repérée pendant qu'**Arkolapoulos** parcourait des documents dans son bureau.
+
+Avant de partir définitivement du manoir, **Arilius** a détecté la présence d'une pièce en dessous des cuisines, qui ne semble pas être une cave...
+
+## Quête : Défaire les Enfants de la Rue 
+
+### Mission : S'allier avec Wardi Piotr
+Après la résolution du double meutre à l'[**Auberge du Poisson Frétillant**](../WORLDBUILDING/VILLES/Dvolsti.md#lauberge-du-poisson-frétillant), l'enquêteur, [**Wardit Piotr**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md) nous a informé qu'il faisait partie de la police de [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md), et qu'il était  sur la trace des **Enfants de la Rue** afin de remonter à leur source.
+
+Il est preneur de toute information qu'il peut avoir afin d'avancer son enquête.
+
+> Nous pouvons le retrouver à l'auberge à laquelle il loge, l'[**Élégante Colombe**](../WORLDBUILDING/VILLES/Dvolsti.md#lauberge-de-lélégante-colombe), afin de le tenir informer de nos avancées.
+
+### Mission : CARNAGE
+**TUER TUER TUER**
+![CARNAGE](../_images/CARNAGE.avif)
+**TUER TUER TUER**

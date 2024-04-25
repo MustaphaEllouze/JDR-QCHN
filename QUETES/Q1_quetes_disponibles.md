@@ -45,6 +45,8 @@ Après l'attaque de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) par 
 
 Afin de leur faciliter la tâche, elle peut contacter un des membres de sa famille, qui sert d'**adjoint** à la [**Consule**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md) : un saurien du nom de [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md). Celui-ci fera en sorte de s'assurer qu'ils arrivent au moins à bon port, et qu'ils aient de quoi subsister les premiers jours.
 
+**Emiliano** a pris contact avec les **Enfants de la Rue** pour une mission d'assassinat de la Consule, [**Elèctre Alexandros**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md).
+
 ### Mission : Faire ses cristaux d'identité au Consulat
 Tôt ou tard à [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md), chacun finit par tomber sur un membre de la police locale qui lui demande ses papiers. Cette mesure a été prise il y a de cela quelques semaines par [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md) afin de pouvoir mieux contrôler la population et pouvoir prévenir les futurs soucis causés par les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue).
 
@@ -73,47 +75,8 @@ En trouvant [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Ar
 
 Il est également possible de trouver des moyens détournés d'y entrer, en exploitant des faiblesses dans les murs, en forçant le passage au niveau des gardes, en se propulsant au dessus des murs, etc.
 
-## Quête : Meutre à l'Auberge
-### Mission : Confronter l'enquêteur
-Certains commerçants sont affiliés aux [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue), et certains leur doivent de l'argent (les Enfants de la Rue étant des usuriers). Certains commerçants n'ont pas les moyens de rembourser les **Enfants de la Rue**, en dans les cas extrêmes, c'est la dernière bêtise qu'ils comettent de leur vie. 
-
-Après une nuit dans une [auberge](../WORLDBUILDING/VILLES/Dvolsti.md#lauberge-du-poisson-frétillant), au moins un de ses deux gérants se voit tué par un des membres des [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) : [Djibriil Niil](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md). Ce meurtre est motivé par le prêt qu'ont contracté les gérants auprès des **Enfants de la Rue** et qui n'a jamais été remboursé. Le meurtre ne se passe pas sans mal, car **Djibriil** n'est pas connu pour être particulièrement discret dans ses actions, et risque donc de faire s'éveiller toute l'auberge.
-
-Au plus tard au petit matin, le détective mandaté par **Rovtal** pour enquêter sur les **Enfants de la Rue** fait le déplacement pour venir constater les faits : [**Wardi Piotr**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md).
-
-Etant précautionneux, le **détective** s'efforcera de garder tout le monde à l'oeil, et soupçonnera les aventueriers à moins qu'ils ne lui présentent des preuves de leur innocence.
-
-### Mission : S'innocenter et trouver le coupable
-Plusieurs preuves se situent à l'intérieur et autour de l'auberge et permettent d'identifier le véritable coupable ([Djibriil Niil](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md)).
-* **Porte enfoncée** : Le meurtirer venait de l'extérieur (**Djibriil** venait de l'extérieur et la porte était fermée à son arrivée);
-* **Blessures / Gorge tranchée** : Le meurtrier possédait des armes perforantes et tranchantes (**Djibriil** invoque souvent des lames perforantes le long de ses bras pour combattre);
-* **Témoins** : Certains témoins ont vu une silouhette encapuchonnée avec des écailles sortir de l'auberge tard la nuit (**Djibriil** s'est enfui après le meutre).
-* **Morceau de tissu violette** : Un morceau de tissu a été arraché par un défaut du comptoir (**Djibriil** a eu sa cape violette arrachée)
-* **Traces de magie** : De légères traces de magie sont encore perceptibles dans la pièce, notamment autour des blessures des victimes (**Djibriil** a invoqué magiquement ses lames).
-* **Membre des Enfants de la Rue** : Un enfant engagé par les **Enfants de la Rue** est présent pour observer la scène de loin. (**Djibriil** lui a demandé de vérifier que l'enquête n'aboutisse pas)
-* **Dettes des gérants** : Les gérants avaient beaucoup de dettes qu'ils écrivaient toutes dans leur registre, qui est derrière le comptoir (**Djibriil** a été mandaté pour les tuer justement à cause d'un prêt pour couvrir leurs dettes)
 
 ## Quête : Infiltrer les Enfants de la Rue
-### Mission : Trouver un membre des Enfants de la Rue
-Les membres des [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) grouillent dans la rue, comme leur nom l'indique. Encore faut-il les trouver...
-
-* Plusieurs membres trainent dans les rues afin de voler aux passant les plus fortunés (quitte à se faire courser par la police dans la rue);
-* D'autres membres cherchent à se faire de l'argent en vendants les objets volés sur le marché ; 
-* D'autres cherchent à vendre de faux papiers dans la rue, notamment aux personnes trop pauvres pour s'en procurer.
-
-### Mission : Réussir à se faire employer
-A **Dvolsti**, n'importe qui peut se faire recruter pour faire partie des [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue), par n'importe quelle personne qui a déjà fait ses preuves. A ce moment-là, la nouvelle recrue entre au rang de **Novice**, et y reste jusqu'à qu'elle ait fait ses preuves.
-
-En ce moment, c'est surtout la **Division Armée** des **Enfants de la Rue** qui recrute, notamment le groupe de [**Djibril Niil**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md), spécialisé dans le meutre de sang-froid.
-
-Les missions qui sont possibles pour s'attirer les bonnes faveurs des **Enfants de la Rue** sont : 
-* Intimidation de marins afin de réquisitionner leurs cargaisons de **cristaux magiques** (certains marins pourront riposter) ;
-* Vol à effectuer dans le [**Consulat**](../WORLDBUILDING/VILLES/Dvolsti.md#consulat-rovtalien) : les **Enfants de la Rue** cherchent à trouver de quoi incriminer la **Consule** (pour la mission confiée par [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md)) : il n'y a pas grand chose à voler qui incrimine la [**Consule**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md), mis à part sa mauvaise gestion de l'argent de la ville. 
-    * Des gardes sont positionnés autour et dans le **Consulat**, ils risqueront donc de tomber sur des intrus.
-
-Un **membre** des **Enfants de la Rue** suit forcément tout novice qui chercherait à faire ses preuves (par exemple [Phane Miton](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Phane_Miton.md)). 
-
-Pour chaque information récupérée ou marin intimidé, les **Enfants de la Rue** sont prêts à payer **50 pièces d'or**.
 
 ### Mission : Trouver les quartiers de l'organisation
 Afin d'infiltrer au mieux l'organisation, rien de tel que de trouver le centre des opérations. Les **Enfants de la Rue** ont plusieurs bases partout à travers la ville, souvent différente en fonction des divisions.
@@ -132,6 +95,9 @@ C'est la **Division des Renseignements** qui est chargée de placer ses pions, n
 
 D'un autre côté, [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md) a lui même contacté les **Enfants de la Rue** afin que, si le temps manque, ils assassinent [**Elèctre Alexandros**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md). Il prendrait alors de fait la place de **Consul**, au moins par intérim.
 
+### Mission : Assister à la réunion à la Taverne Familiale
+TODO : COMPLETER CECI
+
 ## Quête : Comprendre pourquoi Brumebourg a été attaqué
 ### Mission : Enquêter sur les intentions des Enfants de la Rue
 L'attaque de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) par les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) semblait beaucoup trop organisée et ciblée pour que ce soit une simple coïncidence. Les **Enfants de la Rue** ont un but bien précis qui les a motivés à mener cette attaque. 
@@ -148,18 +114,8 @@ Dans l'organistion des **Enfants de la Rue**, seuls [**Arkolapoulos**](../WORLDB
 Quant à savoir pourquoi [les Sombres Artistes](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes) veulent s'en prendre à [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md), cela reste un mystère.
 
 ## Quête : Infiltrer les propriétés d'Arkolapoulos
-### Mission : Décider de la façon de faire
-Il est totalement possible d'entrer de la maison du plus grand magnat de la ville. Encore faut-il en trouver le moyen.
 
-Le moyen le plus facile est de se faire inviter par l'un des deux habitants officiels du manoir : [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) lui même ou son fils adoptif [**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md). Généralement, les invités ne sont aurotisés qu'à visiter le rez-de-chaussée, et les pièces qui sont ouvertes au public, soit : la cour intérieure, le salon des invités, le salon d'honneur, la cuisine, et les toilettes.
-
-Il est également possible de s'infiltrer à l'intérieur n'ayant aucune invitation. Dans ce cas-là : 
-* La paroi qui fait le tour du manoir est relativement fragile, et il est possible d'en casser une, pour peu qu'on accepte de faire du bruit ;
-* Il est possible de sauter par dessus le mur, mais celui-ci est relativement haut (plus de 3 mètres) ;
-* Il est possible de défaire les gardes qui montent la garde juste devant le manoir et de s'emparer de leurs clés pour ouvrir la porte ;
-* Etc.
-
-### Mission : Fouiller la maison
+### Mission : Fouiller le manoir
 Le manoir d' [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) est organisé de la façon suivante : 
 * **Cour d'entrée**
 * **Jardin extérieur**
@@ -177,6 +133,8 @@ Les objets suivants peuvent être trouvés en fouillant :
 ### Mission : Fouiller les Oliveraies
 
 ## Quête : Défaire les Enfants de la Rue
+### Mission : CARNAGE
+![CARNAGE](../_images/CARNAGE.avif)
 ### Mission : Atteindre les leaders
 ### Mission : Défaire la Division Armée
 ### Mission : Défaire la Division des Renseignements

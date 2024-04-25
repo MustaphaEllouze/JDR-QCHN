@@ -148,3 +148,59 @@ Nous avons réussi à l'empêcher de le détruire totalement, cependant certains
 Lors du combat, **Bakari** a succombé sous nos coups (achevé alors qu'il était ligotté) par [**Patrik**](../WORLDBUILDING/PERSONNAGES/PJ/Patrik.md).
 
 [Therra](../WORLDBUILDING/PERSONNAGES/PNJ/Brumebourg.md#therra-sfer---envoyée-de-rovtal) nous a demandé de garder l'assaut et les dégâts sur le stabilisateur secret, et nous a mandaté pour aller chercher quelqu'un en mesure de le réparer.
+
+## Quête : Visiter Dvolsti
+### Mission : Visiter le manoir d'Arkolapoulos
+Le manoir étant la construction qui surplombe la ville, nous l'avons tout de suite repéré, et nous avons décidé de faire un tour du côté du manoir d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md).
+
+En passant devant, nous avons vu qu'il n'était pas possible d'y entrer et que des gardes protégeaient de toute intrusion.
+
+En visitant la [Taverne Familiale](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale), [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) s'est pris d'intérêt pour [**Arilius**](../WORLDBUILDING/PERSONNAGES/Arilius.md). Il lui a proposé de passer par chez lui pour discuter.
+
+[**Patrik**](../WORLDBUILDING/PERSONNAGES/Patrik.md) a eu des doutes quant à la bonne foi d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et quant à son implication avec les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue).
+
+Nous nous sommes rendus sur place de manière officielle. Nous avons pu discuté longuement avec [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et plus succinctement avec son fils [**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md), et nous avons pu parlé de la façon dont les deux se sont rencontrés, et du passé d'Arkolapoulos plus généralement. 
+
+## Quête : Meutre à l'Auberge
+### Mission : Confronter l'enquêteur
+Après une nuit à l'[**auberge du poisson frétillant**](../WORLDBUILDING/VILLES/Dvolsti.md#lauberge-du-poisson-frétillant), nous nous sommes réveillés avec un étonnante surprise : les deux gérants, [**Rueko**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Rueko.md) et [**Mila**](../WORLDBUILDING/PERSONNAGES//DVOLSTI/Mila.md), ont été retrouvés assassinés au rez-de-chausée. 
+
+Toutes les personnes logeant avec nous ont été suspectées. Nous avons fait la rencontre d'un enquêteur venu de [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md), [**Wardi Piotr**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md), qui a enchaîné tout le monde avec sa magie. 
+
+Après négociation avec lui, il nous a laissé champ libre pour enquêter à sa place le temps qu'il aille chercher son petit-déjeuner.
+
+### Mission : S'innocenter et trouver le coupable
+
+L'enquêteur [**Wardi**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md) nous a laissé l'occasion de nous innocenter en enquêtant sur les lieux du crime. 
+
+En faisant attention à tous les indices, nous avons trouvé les choses suivantes : 
+* Le meurtrier a utilisé la magie afin d'invoquer les armes du crime ; 
+* Les armes du crime étaient à la fois tranchantes et perforantes, en en jugeant par les blessures des deux victimes ; 
+* Vues les traces de pas maculées de sang, et l'absence de poils sous les griffes des victimes, le meurtrier est sans doute un **Alligatoride** ; 
+* Nous avons découvert le registre des deux gérants, prouvant qu'ils étaient couverts de dettes.
+
+Nous en avons conclu que le meurtrier n'était autre qu'un des lieutenants des [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue), [**Djibril Niil**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md).
+
+Nous avons prévenu l'enquêteur de nos soupçons, et il nous a laissé partir. Il nous a dit qu'il était sur la trace de **Enfants de la Rue** et qu'il serait donc preneur de toute information les concernant. 
+
+## Quête : Infiltrer les Enfants de la Rue
+
+### Mission : Trouver un membre des Enfants de la Rue
+En arrivant à [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue), nous avons tout de suite remarqué qu'il ne serait pas très compliqué de chercher les membres de l'organisation, tant elle est implantée fortement dans tous les coins de rue. 
+
+En cherchant à faire faire nos [**cristaux d'identité**](../WORLDBUILDING/TECHNOLOGIE/Cristaux_d_identite.md), nous sommes arrivés à une taverne miteuse : [**la Brasserie de l'Entrepôt**](../WORLDBUILDING/VILLES/Dvolsti.md#la-brasserie-de-lentrepôt). Là-dedans, nous avons trouvé deux Ratussiens ([**le tavernier**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Tibo_Lavesse.md) et [**celui qui faisait de la contrefaçon de cristaux d'identité**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Gaultier_Lavigne.md)) ainsi qu'un [**Alligatoride**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) qui semblait être leur chef.
+
+Nous avons appris que cet Alligatoride s'appelle [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) et semblait être le chef de l'ensemble des membres des **Enfants de la Rue** que nous avons rencontré jusqu'alors.
+
+### Mission : Réussir à se faire employer
+En traînant dans la [**Brasserie de l'Entrepôt**](../WORLDBUILDING/VILLES/Dvolsti.md#la-brasserie-de-lentrepôt), le chef [**Alligatoride**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) des **Enfants de la Rue** nous a proposé du travail. Nous pourrions profiter de cette occasion pour nous y infiltrer.
+
+L'[**Alligatoride**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) nous a donné rendez-vous le lendemain au matin dans la brasserie pour nous donner des missions.
+
+Nous y sommes retournés et il nous a confié la mission suivante : aller *rappeler* à des marins du port qui étaient les "véritables" destinataires de leur cargaison. [**Phane**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Phane_Miton.md) a été chargé par [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md), l'Alligatoride en question, de nous accompagner. Nous ne sommes pas supposés regarder le contenu des caisses.
+
+Nous avons retrouvé les marins et nous les avons "convaincu" (moyennant l'utilisation d'un sort de Charme-Personne) de nous donner la cargaison qu'ils devaient aux **Enfants de la Rue**, en remplaçant le fond des caisses par autre chose. La cargaison s'est révélée être de petits cristaux de poches vierges.
+
+Nous avons apporté ces caisses à [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md), et [**Phane**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Phane_Miton.md) a confirmé malgré lui que la cargaison était conforme. 
+
+Nous faison maintenant partie des **novices** des **Enfants de la Rue**, et [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) nous a demandé de venir à la [**Taverne Familiale**](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale) cette nuit.

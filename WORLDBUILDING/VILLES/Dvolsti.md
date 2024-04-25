@@ -53,6 +53,9 @@ Cette auberge est tenue par [Rueko](../PERSONNAGES/DVOLSTI/Rueko.md) et [Mila](.
 ### La brasserie de l'Entrepôt
 Située juste en face de la [*Taverne Familiale*](#la-taverne-familiale), cette brasserie est tenue par les [**Enfants de la Rue**](#les-enfants-de-la-rue) et leur sert de façade. On y trouve souvent [**Gaultier**](../PERSONNAGES/ENFANTS_DE_LA_RUE/Gaultier_Lavigne.md), fabriquant de faux papiers, et [**Tibo**](../PERSONNAGES/ENFANTS_DE_LA_RUE/Tibo_Lavesse.md) qui tient le bar.
 
+### L'auberge de l'Élégante Colombe
+Auberge la plus huppée de la ville, elle se situe en plein coeur du [**quartier administratif**](#quartier-central---le-quartier-administratif). Tous les officiels et envoyés y logent.
+
 ### Les Oliveraies
 La ville est entourée de plusieurs oliveraies gigantesques, qui sont pour la plupart la propriété directe de [**Arkolapoulos**](../PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md). On les retrouve majoritairement à l'Est de la ville, loin de l'encombrement de la ville et du fleuve.
 
