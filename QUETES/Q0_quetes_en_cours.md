@@ -135,7 +135,7 @@ Avant de partir définitivement du manoir, **Arilius** a détecté la présence 
 ## Quête : Défaire les Enfants de la Rue 
 
 ### Mission : S'allier avec Wardi Piotr
-Après la résolution du double meutre à l'[**Auberge du Poisson Frétillant**](../WORLDBUILDING/VILLES/Dvolsti.md#lauberge-du-poisson-frétillant), l'enquêteur, [**Wardit Piotr**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md) nous a informé qu'il faisait partie de la police de [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md), et qu'il était  sur la trace des **Enfants de la Rue** afin de remonter à leur source.
+Après la résolution du double meutre à l'[**Auberge du Poisson Frétillant**](../WORLDBUILDING/VILLES/Dvolsti.md#lauberge-du-poisson-frétillant), l'enquêteur, [**Wardi Piotr**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md) nous a informé qu'il faisait partie de la police de [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md), et qu'il était  sur la trace des **Enfants de la Rue** afin de remonter à leur source.
 
 Il est preneur de toute information qu'il peut avoir afin d'avancer son enquête.
 
