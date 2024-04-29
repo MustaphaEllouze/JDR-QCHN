@@ -20,12 +20,21 @@ Chacun des magiciens de **Dvolsti** peut facilement être embauché pour faire l
 
 Cette somme est surtout justifiée par le coût des matières premières (les cristaux magiques à l'origine des stabilisateurs). Fournir les cristaux au magicien abaissera le coût de l'intervention à **1.000 pièces d'or**.
 
-### Mission : Trouver des cristaux
-Dans la mesure où le coût de réparation est très cher, il est possible de se procurer des **cristaux magiques** afin de faire baisser le prix de l'intervention. Cependant, il est assez dur de se procurer les cristaux facilement.
+## Quête : Trouver des cristaux
 
-L'ensemble du stock de cristaux magiques est contrôlé par **Rovtal**, et c'est la [**Consule à Dvolsti**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md) qui est en charge de répartir le stock au sein de Dvolsti.
+### Mission : Identifier la localisation des cristaux
+Dans la mesure où le coût de réparation du stabilisateur de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) est très cher, il est possible de se procurer des **cristaux magiques** afin de faire baisser le prix de l'intervention. Cependant, il est assez dur de se procurer les cristaux facilement.
 
-D'un autre côté, plusieurs cristaux illégaux circulent en ville, le traffic étant contrôlé par les **Enfants de la Rue**. Les cristaux les plus gros sont détenus par le leader de l'organisation [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), qu'il garde dans les sous-sols de son manoir pour les plus petits, et dans une grotte en marge de la ville pour les plus grands.
+L'ensemble du stock de cristaux magiques est contrôlé par [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md), et c'est la [**Consule à Dvolsti**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md) qui est en charge de répartir le stock au sein de Dvolsti.
+
+D'un autre côté, plusieurs cristaux illégaux circulent en ville, le traffic étant contrôlé par les **Enfants de la Rue**. Les cristaux les plus gros sont détenus par le leader de l'organisation [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), qu'il garde dans les sous-sols de son manoir pour les plus petits, et dans les entrepôts des [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies) pour les plus grands.
+
+### Missions : Voler des cristaux aux Enfants de la Rue
+Les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) gardent plusieurs cristaux en ville et aux alentours, et font en sorte de récupérer les cargaisons les plus intéressantes au port. 
+
+* **Au port** : Les **Enfants de la Rue** récupèrent de façon régulière des cristaux du port. Ceci se passe via des accords qu'ils passent avec les villes voisines (notamment [**Blanchécum**](../WORLDBUILDING/VILLES/Blanchécum.md), les cristaux arrivant directement depuis [**Caproch**](../WORLDBUILDING/VILLES/Caproch.md)). Ces cristaux sont initialement prévus pour les gouvernements de [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md) et [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md), mais sont récupérés des fois par la force afin d'alimenter directement les rivalités internes des familles nobles de **Rovtal**.
+    * [**Djibril**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md) est souvent mandaté avec ses hommes afin d'aller récupérer les cristaux au port. Il est accompagné de certains de ses hommes de mains, au cas où les tentatives d'intimidation tournent mal.
+* **Aux Oliveraies** : Les plus gros cristaux sont ensuite amenés aux [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies), afin d'y être stockés, puis revendus aux plus offrants.
 
 ## Quête : Visiter Rovtal
 
@@ -104,6 +113,7 @@ Cette invitation est l'occasion rêvée d'en apprendre plus sur les **Enfants de
 * **Nomination d'un nouveau chef de groupe** : Suite à la mort de **Bakari Mikhaïl**, **Bakari Phéroh** décide de nommer un nouveau chef de groupe à sa place
 * **Préparation de l'attaque de Brumebourg** : [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) commence à réunir et organiser ses troupes pour qu'elles fassent un autre assaut sur [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md)
 * **Informations sur Wardi** : [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) décide de mettre la tête de [**Wardi Piotr**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md) à prix
+* **Préparation de la réception des gros cristaux** : Un grand cristal arrive au port, et [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) mandate [**Djibril**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md) pour aller le récupérer, par la force s'il le faut. **Djibril** est supposé livrer ensuite le cristal aux [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies), et **Bakari** est supposé rester aux **Oliveraies** pour réceptionner le colis.
 
 [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md) et [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) sont également présents à la réunion car ce sont eux qui ont récupéré l'information sur la mort de [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Mikhail.md). Ils pourront essayer d'accoster les nouvelles recrues car **Griffes-Rouges** les avait repérés à [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) lors de leur départ, et leur proposeront [un marché](#mission--sallier-avec-griffes-rouges-et-paumes-bleues).
 
@@ -140,6 +150,14 @@ Les objets suivants peuvent être trouvés en fouillant :
 * **Cristaux magiques** de bonne qualité, pouvant intéresser les magiciens de la ville
 
 ### Mission : Fouiller les Oliveraies
+Les [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies) sont organisées de la façon suivante : 
+* Des **oliviers** plantés à perte de vue ;
+* Plusieurs **petites maisons** servant de lieux de repos pour les travailleurs (qui ne sont là qu'en journée) ;
+* Plusieurs **entrepôts** servant à stocker les récoltes et les différents outils ;
+* Un entrepôt secret, avec de **très grands cristaux**, avec un **système d'alarme magique** permettant d'alerter de n'importe quelle intrusion.
+* **Maison secondaire d'[Arkolapoulos](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md)**, avec aussi un sous-sol secret avec salon, permettant de retrouver ses différents lieutenants.
+
+On peut retrouver des indices similaires sur les activités des [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) dans les **Oliveraies** et dans le Manoir d'**Arkolapoulos (cf. [Fouiller le manoir](#mission--fouiller-le-manoir)).
 
 ## Quête : Défaire les Enfants de la Rue
 ### Mission : CARNAGE

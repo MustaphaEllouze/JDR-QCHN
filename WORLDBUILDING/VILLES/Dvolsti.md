@@ -59,8 +59,10 @@ Auberge la plus huppée de la ville, elle se situe en plein coeur du [**quartier
 ### Les Oliveraies
 La ville est entourée de plusieurs oliveraies gigantesques, qui sont pour la plupart la propriété directe de [**Arkolapoulos**](../PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md). On les retrouve majoritairement à l'Est de la ville, loin de l'encombrement de la ville et du fleuve.
 
+Dans la partie qui est détenue par **Arkolapoulos**, il existe plusieurs entrepôts qui permettent de stocker toutes les récoltes des terres. Certains de ces entrepôts sont également des façades afin de contenir des **cristaux magiques** de grande taille, qui seront revendus plus tard aux plus offrants, généralement des nobles de [**Rovtal**](./Rovtal.md).
+
 ### Taverne du Faucon Bleu - Taverne
-A côté du Poisson Frétillant.
+A côté du Poisson Frétillant, au coin de la rue.
 
 ## Quartiers
 
