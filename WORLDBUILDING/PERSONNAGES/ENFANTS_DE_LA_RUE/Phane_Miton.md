@@ -1,4 +1,4 @@
-# Phane Miton - Membre
+# :skull::skull::skull: Phane Miton - Membre :skull::skull::skull:
 ![Phane Miton](../../../_images/bandit_cache.webp)
 
 ## Infos 
@@ -21,7 +21,7 @@
 * A un grief contre [**Bakari Mikhaïl**](./Bakari_Mikhail.md)
 
 ## Événements marquants
-* 
+* **14 Kegn 432** : Assassinat par les **Aventuriers**
 
 ## Combat
 [Stats](../../../STAT_BLOCKS/CLASS/CapitaineBandit.md)

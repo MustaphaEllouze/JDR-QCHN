@@ -1,13 +1,6 @@
 # Quêtes en cours
 
 ## Quête : Réparer le stabilisateur
-### Mission : Trouver un moyen de réparer le stabilisateur
-Suite à l'attaque du stabilisateur de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md), [Therra](../WORLDBUILDING/PERSONNAGES/BRUMEBOURG/Therra_Sfer.md) nous a demandé de partir à la recherche de quelqu'un d'assez compétent qui serait en mesure de le réparer.
-
-> Il y a surement du monde à [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md) qui serait en mesure de nous aider, on devrait continuer à chercher.
-
-Nous avons trouvé un mage du nom de [Ioannis Krel](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Ioannis_Krel.md) qui semble avoir les compétences requises pour réparer le stabilisateur. Selon lui, le rituel durera un jour entier.
-
 ### Mission : Trouver un magicien compétent
 Nous avons appris qu'il y avait plusieurs magiciens en ville, et le Consul Adjoint [Emiliano Sfer](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md) nous appris qu'ils étaient tous autrefois collègues de travail et amis. 
 
@@ -30,11 +23,13 @@ Nous avons réussi à convaincre **Ioannis** de ne remplacer le paiement des 1.0
 ### Mission : Trouver des cristaux 
 Le coût de réparation du stabilisateur est très cher : 10.000 pièces d'or. Heureusement, ce montant peut être revu à la baisse en fournissant des cristaux magiques au magicien. 
 
-> Nous devrions en apprendre plus sur comment obtenir des cristaux en quantité et quailté suffisante. 
-
 [**Ioannis**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Ioannis_Krel.md) nous a appris que les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) baignaient dans le trafic de cristaux magiques, et que tout flux non contrôlé par [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md) passaient nécessairement par eux.
 
 Nous avons appris que certains marins présents dans le quartier Nord de la ville, près du port, transportent de petits cristaux vierges de tout sort dans leur cargaison. Malheureusement, les cristaux trouvés dans cette cargaison étaient trop petits pour pouvoir réparer le stabilisateur de **Brumebourg**.
+
+Nous avons appris que les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) sont dans le trafic de cristaux, et qu'ils allaient bientôt recevoir de gros cristaux venant de [**Blanchécum**](../WORLDBUILDING/VILLES/Blanchécum.md).
+
+> Nous pouvons récupérer le cristal arrivant par voie maritime. Il faudra en trouver d'autres de la même qualité pour pouvoir réparer le stabilisateur. 
 
 ## Quête : Visiter Rovtal
 
@@ -45,7 +40,7 @@ Cette fois-ci, c'est au tour de [Kramer](../WORLDBUILDING/PERSONNAGES/BRUMEBOURG
 
 Nous avons décidé d'aller à **Dvolsti** en compagnie de **Kramer**. 
 
-> **Kramer** est encore sur place pendant quelques jours. Nous pouvons le trouver le soir à l'[auberge du poisson frétillant](../WORLDBUILDING/VILLES/Dvolsti.md#lauberge-du-poisson-frétillant).
+> **Kramer** est encore sur place pendant quelques jours. Nous pouvons le trouver le soir à la [taverne du Faucon Bleu](../WORLDBUILDING/VILLES/Dvolsti.md#taverne-du-faucon-bleu---taverne).
 
 **Kramer** sera sans doute capable de faire le chemin du retour tout seul.
 
@@ -73,35 +68,13 @@ Le prix à payer était trop élevé pour nous : 50 pièces d'or par personne, o
 
 La personne à l'accueil nous a indiqué qu'il était possible de faire faire de faux-papiers dans la rue. C'est ce que nous avons fait pour le moment.
 
-### Mission : Visiter la *Taverne Familiale*
-Lors de notre visite à [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md), et plus particulièrement près du **Manoir d'Arkalopoulos**, on nous a indiqué qu'il existait un vieil entrepot qui a été réaménagé afin de pouvoir servir *trois fois par semaine* les plus démunis en nourriture. 
-
-En visitant, nous sommes tombés nez à nez avec [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et son fils [**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md), avec qui nous avons fait connaissance.
-
-[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) semblait spécialement s'intéresser à [**Arilius**](../WORLDBUILDING/PERSONNAGES/Arilius.md) pour sa qualité de **centaure**, vu qu'elle est de la même espèce que son fils. Il lui a proposé de passer le voir à son manoir. 
-
-Nous avons des doutes vis-à-vis de l'utilisation de cet entrepôt de nuit, nous avons décidé d'investiguer.
-
-> Nous pouvons investiguer la **Taverne Familiale**.
-
-En l'approchant de nuit, nous avons vu que de la lumière s'en échapper. Un corbeau avec qui nous avons discuté nous a dit qu'il avait sans doute vu des insignes ressemblant à ceux des **Enfants de la Rue** dans les parages.
-
-Nous avons essayé de nous infiltrer dans la **Taverne Famliale**, en espionnant la conversation des **Enfants de la Rue** qui y étaient présents. Nous avons vu beaucoup de monde, notamment [**Bakari Phéroh**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) avec qui nous avions déjà discuté, ainsi que deux de ses lieutenants, [**Djibril**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md) et [**Phane Miton**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Phane_Miton.md). Nous avons pu apprendre plusieurs choses sur les **Enfants de la Rue**, outre l'identité de certains d'entre eux, notamment d'un certain contrat entre eux et [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md), le Consul adjoint de la ville.
-
-Notre indiscrétion nous a trahi (quelle idée de laisser traîner le cadenas que nous avons cassé par terre...), et nous avons dû nous échapper avant qu'ils n'aient réussi à boucler le périmètre entièrement.
-
-
 ## Quête : Infiltrer les Enfants de la Rue
 
-### Mission : Assister à la réunion à la Taverne Familiale
-Après avoir réussi à se faire employer par [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md), ce dernier nous a invité à venir à la réunion des **Enfants de la Rue** à la [**Taverne Familiale**](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale). 
-
-> Nous devrions aller à la réunion afin d'en apprendre plus sur l'organisation.
 
 ### Mission : Trouver les quartiers de l'organisation
 Les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) doivent bien se terrer quelque part en ville...
 
-En enquêtant près de [**la Taverne Familiale**](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale), nous avons eu l'impression que plusieurs personnes y étaient alors que le lieu était supposé être fermé. Nous y avons vu une réunion des membres des **Enfants de la Rue**.
+En enquêtant près de [**la Taverne Familiale**](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale), nous avons eu l'impression que plusieurs personnes y étaient alors que le lieu était supposé être fermé. Nous y avons vu une réunion des membres des **Enfants de la Rue**. Nous avons réussi à infiltrer une de leurs réunions.
 
 > Il y a peut-être d'autres endroits où les membres se réunissent. Nous pouvons continuer à chercher si nécessaire.
 
@@ -111,6 +84,10 @@ L'attaque de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) et de son s
 > Nous pouvons essayer de nous renseigner sur leurs missions et leurs intentions.
 
 Nous savons que les **Enfants de la Rue** sont dans le trafic de cristaux de poches vierges et qu'ils s'en procurent *a minima* en rackettant des marins du port.
+
+Nous savons que les **Enfants de la Rue** sont en contact avec [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md).
+
+Nous savons que les **Enfants de la Rue** préparent un nouvel assaut sur [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md).
 
 ## Quête : Infiltrer les propriété d'Arkolapoulos
 

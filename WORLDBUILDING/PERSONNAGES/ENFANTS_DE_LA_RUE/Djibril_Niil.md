@@ -1,4 +1,4 @@
-# Djibril Niil - Chef de groupe
+# :skull::skull::skull: Djibril Niil - Chef de groupe :skull::skull::skull:
 ![Djibril Niil](../../../_images/djibril.webp)
 
 ## Infos 
@@ -22,6 +22,7 @@
 
 ## Événements marquants
 * **13 Kegn 432** : Meurtre de [**Rueko**](../DVOLSTI/Rueko.md) et [**Mila**](../DVOLSTI/Mila.md)
+* **14 Kegn 432** : Tué par le **Aventuriers**, [**Paumes Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md) et [**Griffes Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md)
 
 ## Combat
 [Stats](../../../STAT_BLOCKS/PERSONNAGES/DjibrilNiil.md)

@@ -149,6 +149,14 @@ Lors du combat, **Bakari** a succombé sous nos coups (achevé alors qu'il étai
 
 [Therra](../WORLDBUILDING/PERSONNAGES/PNJ/Brumebourg.md#therra-sfer---envoyée-de-rovtal) nous a demandé de garder l'assaut et les dégâts sur le stabilisateur secret, et nous a mandaté pour aller chercher quelqu'un en mesure de le réparer.
 
+## Quête : Réparer le stabilisateur
+
+### Mission : Trouver un moyen de réparer le stabilisateur
+Suite à l'attaque du stabilisateur de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md), [Therra](../WORLDBUILDING/PERSONNAGES/BRUMEBOURG/Therra_Sfer.md) nous a demandé de partir à la recherche de quelqu'un d'assez compétent qui serait en mesure de le réparer.
+
+Nous avons trouvé un mage du nom de [Ioannis Krel](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Ioannis_Krel.md) qui semble avoir les compétences requises pour réparer le stabilisateur. Selon lui, le rituel durera un jour entier.
+
+
 ## Quête : Visiter Dvolsti
 ### Mission : Visiter le manoir d'Arkolapoulos
 Le manoir étant la construction qui surplombe la ville, nous l'avons tout de suite repéré, et nous avons décidé de faire un tour du côté du manoir d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md).
@@ -159,7 +167,24 @@ En visitant la [Taverne Familiale](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne
 
 [**Patrik**](../WORLDBUILDING/PERSONNAGES/Patrik.md) a eu des doutes quant à la bonne foi d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et quant à son implication avec les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue).
 
-Nous nous sommes rendus sur place de manière officielle. Nous avons pu discuté longuement avec [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et plus succinctement avec son fils [**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md), et nous avons pu parlé de la façon dont les deux se sont rencontrés, et du passé d'Arkolapoulos plus généralement. 
+Nous nous sommes rendus sur place de manière officielle. Nous avons pu discuté longuement avec [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et plus succinctement avec son fils [**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md), et nous avons pu parlé de la façon dont les deux se sont rencontrés, et du passé d'Arkolapoulos plus généralement.
+
+### Mission : Visiter la *Taverne Familiale*
+Lors de notre visite à [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md), et plus particulièrement près du **Manoir d'Arkalopoulos**, on nous a indiqué qu'il existait un vieil entrepot qui a été réaménagé afin de pouvoir servir *trois fois par semaine* les plus démunis en nourriture. 
+
+En visitant, nous sommes tombés nez à nez avec [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et son fils [**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md), avec qui nous avons fait connaissance.
+
+[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) semblait spécialement s'intéresser à [**Arilius**](../WORLDBUILDING/PERSONNAGES/Arilius.md) pour sa qualité de **centaure**, vu qu'elle est de la même espèce que son fils. Il lui a proposé de passer le voir à son manoir. 
+
+Nous avons des doutes vis-à-vis de l'utilisation de cet entrepôt de nuit, nous avons décidé d'investiguer.
+
+En l'approchant de nuit, nous avons vu que de la lumière s'en échapper. Un corbeau avec qui nous avons discuté nous a dit qu'il avait sans doute vu des insignes ressemblant à ceux des **Enfants de la Rue** dans les parages.
+
+Nous avons essayé de nous infiltrer dans la **Taverne Famliale**, en espionnant la conversation des **Enfants de la Rue** qui y étaient présents. Nous avons vu beaucoup de monde, notamment [**Bakari Phéroh**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) avec qui nous avions déjà discuté, ainsi que deux de ses lieutenants, [**Djibril**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md) et [**Phane Miton**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Phane_Miton.md). Nous avons pu apprendre plusieurs choses sur les **Enfants de la Rue**, outre l'identité de certains d'entre eux, notamment d'un certain contrat entre eux et [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md), le Consul adjoint de la ville.
+
+Notre indiscrétion nous a trahi (quelle idée de laisser traîner le cadenas que nous avons cassé par terre...), et nous avons dû nous échapper avant qu'ils n'aient réussi à boucler le périmètre entièrement.
+
+Nous avons réussi à infiltrer les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) et à nous faire inviter officiellement à une de ces réunions. 
 
 ## Quête : Meutre à l'Auberge
 ### Mission : Confronter l'enquêteur
@@ -204,3 +229,15 @@ Nous avons retrouvé les marins et nous les avons "convaincu" (moyennant l'utili
 Nous avons apporté ces caisses à [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md), et [**Phane**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Phane_Miton.md) a confirmé malgré lui que la cargaison était conforme. 
 
 Nous faison maintenant partie des **novices** des **Enfants de la Rue**, et [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) nous a demandé de venir à la [**Taverne Familiale**](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale) cette nuit.
+
+### Mission : Assister à la réunion à la Taverne Familiale
+Après avoir réussi à se faire employer par [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md), ce dernier nous a invité à venir à la réunion des **Enfants de la Rue** à la [**Taverne Familiale**](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale). 
+
+Nous nous sommes rendus à la réunion afin de nous présenter et nous en avons appris beaucoup malgré nous, notamment :
+* Les **Enfants de la Rue** sont au courant de l'échec de la mission de [**Bakari Mikhaïl**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Mikhail.md), et de sa mort ; 
+* Les **Enfants de la Rue** sont au courant de l'identité de [**Wardi Piotr**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md) et ont mis sa tête à prix (1000 PO) ;
+* Les **Enfants de la Rue** sont dans le trafic de cristaux de grande qualité, et ont prévu d'en récupérer un le lendemain au port, il devra par la suite arriver jusqu'aux [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies) ;
+* Les **Enfants de la Rue** préparent un nouvel assaut sur [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) ;
+* La hiérarchie globale des **Enfants de la Rue** : l'organisation compte plusieurs divisions, notamment la **Division Armée** dont [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) est le chef et la **Division des Renseignements** dont [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md) et [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) sont les chefs.
+
+[**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) nous a chargés d'accompagner [**Djibril**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md), son lieutenant, afin de récupérer les gros cristaux.

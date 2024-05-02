@@ -29,3 +29,6 @@
 
 ## Combat
 [Stats](../../../STAT_BLOCKS/PERSONNAGES/GriffeRouges.md)
+
+## Roleplay 
+* Ronronner les R

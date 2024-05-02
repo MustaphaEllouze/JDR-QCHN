@@ -2,11 +2,6 @@
 
 ## Quête : Réparer le stabilisateur
 
-### Mission : Trouver un moyen de réparer le stabilisateur
-[Therra](../WORLDBUILDING/PERSONNAGES/BRUMEBOURG/Therra_Sfer.md) a demandé aux aventuriers de partir à la recherche de quelqu'un d'assez compétent afin de réparer les dégâts faits au stabilisateur.
-
-Fort heureusement, plusieurs magiciens compétents sont présents à **Dvolsti**, et vendent leurs services. Les matières premières seront sans doute à fournir également, à moins que leurs frais d'achat ne soit couvert.
-
 ### Mission : Trouver un magicien compétent
 **Dvolsti** est connue pour ses quatre grands magiciens qui se sont disputés il y a quelques années. Ils se sont tous répartis à travers les quarties de la ville, afin de ne pas partager leur clientèle. Ils sont tous en mesure de réparer le cristal, mais la conjonction d'au moins deux d'entre eux serait l'idéal.
 
@@ -65,15 +60,6 @@ Le seul moyen de faire ses papiers est de passer à Consulat et y faire la queue
 * Essayer de négocier avec [la personne derrière le comptoir](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Elvira_Phrodita.md).
 
 Fort heureusement, il est tout à fait possible de se procurer des faux papiers dans la rue...
-
-### Mission : Visiter la *Taverne Familiale*
-La [*Taverne familiale*](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale) est un des pivots centraux de la ville de **Dvolsti** est il serait dommage de ne pas y aller faire un tour. 
-
-Il s'agit d'un grand local aménagé par l'entreprise d'un grand magnat adoré de tous, [*Arkolapoulos*](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md). C'est un lieu qui réunit un jour sur trois l'ensemble des personnes aux revenus trop modestes pour manger à leur fin. On y sert surtout des plats basiques et des produits qu'on trouve en grande quantité dans la ville, notamment les **olives** et les **sardines** (cf. [*Olives et Sardines*](../WORLDBUILDING/VILLES/Dvolsti.md#olives-et-sardines)).
-
-Lors de la visite de la **Taverne Familiale**, plusieurs conflits peuvent éclater, notamment puisque les personnes y mangeant peuvent se montrer aggressives les unes envers les autres.
-
-[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et son fils [**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md) sont souvent là pour faire régner l'ordre.
 
 ### Mission : Visiter le manoir d'Arkolapoulos
 Le manoir étant la construction qui surplombe la ville, il est tout de suite repérable, et il est possible de faire un tour devant le manoir d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md).
