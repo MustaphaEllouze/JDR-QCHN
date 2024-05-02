@@ -27,3 +27,7 @@
 
 ## Combat
 [Stats](../../../STAT_BLOCKS/PERSONNAGES/PaumesBleues.md)
+
+## Roleplay
+* Thothoter
+* Ronronner les R
