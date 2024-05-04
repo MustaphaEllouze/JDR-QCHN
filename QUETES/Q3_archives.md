@@ -240,6 +240,19 @@ C'est la **Division des Renseignements** qui est chargée de placer ses pions, n
 
 D'un autre côté, [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md) a lui même contacté les **Enfants de la Rue** afin que, si le temps manque, ils assassinent [**Elèctre Alexandros**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md). Il prendrait alors de fait la place de **Consul**, au moins par intérim.
 
+### Mission : Assister à la réunion à la Taverne Familiale
+Après avoir prouver leurs valeurs, les toutes nouvelles recrures ayant décider de s'allier aux **Enfants de la Rue** et à leur **Division Armée** sont invitées à se présenter formellement aux hauts gradés à la [**Taverne Familiale**](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale).
+
+Cette invitation est l'occasion rêvée d'en apprendre plus sur les **Enfants de la Rue**. Les informations qui peuvent être dites durant la réunion sont les suivantes :
+* **Informations sur la hiérarchie directe de la Division Armée** : [**Bakari Phéroh**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) est à la tête, et ses deux lieutenants les plus proches sont [**Phane Miton**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Phane_Miton.md) et [**Djibril Niil**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md).
+* **Informations sur la situation à Brumebourg** : Les informations sur la mort de [**Bakari Mikhaïl**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Mikhail.md) et sur l'échec de sa mission
+* **Nomination d'un nouveau chef de groupe** : Suite à la mort de **Bakari Mikhaïl**, **Bakari Phéroh** décide de nommer un nouveau chef de groupe à sa place
+* **Préparation de l'attaque de Brumebourg** : [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) commence à réunir et organiser ses troupes pour qu'elles fassent un autre assaut sur [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md)
+* **Informations sur Wardi** : [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) décide de mettre la tête de [**Wardi Piotr**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md) à prix
+* **Préparation de la réception des gros cristaux** : Un grand cristal arrive au port, et [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) mandate [**Djibril**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md) pour aller le récupérer, par la force s'il le faut. **Djibril** est supposé livrer ensuite le cristal aux [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies), et **Bakari** est supposé rester aux **Oliveraies** pour réceptionner le colis.
+
+[**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md) et [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) sont également présents à la réunion car ce sont eux qui ont récupéré l'information sur la mort de [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Mikhail.md). Ils pourront essayer d'accoster les nouvelles recrues car **Griffes-Rouges** les avait repérés à [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) lors de leur départ, et leur proposeront [un marché](#mission--sallier-avec-griffes-rouges-et-paumes-bleues).
+
 
 ## Quête : Défaire les Enfants de la Rue
 ### Mission : CARNAGE

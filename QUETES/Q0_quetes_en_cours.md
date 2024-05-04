@@ -20,16 +20,24 @@ Nous avons réussi à convaincre **Ioannis** de ne remplacer le paiement des 1.0
 > * Avancer 1.000 pièces d'or et fournir les cristaux nécessaires pour la réparation du stabilisateur
 > * Fournir les cristaux pour la réparation et payer **Ioannis** en cristaux.
 
-### Mission : Trouver des cristaux 
+### Mission : Identifier la localisation des cristaux
 Le coût de réparation du stabilisateur est très cher : 10.000 pièces d'or. Heureusement, ce montant peut être revu à la baisse en fournissant des cristaux magiques au magicien. 
 
 [**Ioannis**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Ioannis_Krel.md) nous a appris que les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) baignaient dans le trafic de cristaux magiques, et que tout flux non contrôlé par [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md) passaient nécessairement par eux.
 
 Nous avons appris que certains marins présents dans le quartier Nord de la ville, près du port, transportent de petits cristaux vierges de tout sort dans leur cargaison. Malheureusement, les cristaux trouvés dans cette cargaison étaient trop petits pour pouvoir réparer le stabilisateur de **Brumebourg**.
 
-Nous avons appris que les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) sont dans le trafic de cristaux, et qu'ils allaient bientôt recevoir de gros cristaux venant de [**Blanchécum**](../WORLDBUILDING/VILLES/Blanchécum.md).
+Nous avons appris que les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) sont dans le trafic de cristaux, et qu'ils allaient bientôt recevoir de gros cristaux venant de [**Blanchécum**](../WORLDBUILDING/VILLES/Blanchécum.md), qu'ils allaient ensuite entreposer aux [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies).
+
+> Ce cristal ne suffira pas, on devra continuer à en chercher d'autres.
+
+### Missions : Voler des cristaux aux Enfants de la Rue
+
+Nous avons appris que les **Enfants de la Rue** allaient bientôt recevoir un très gros cristal qui pourrait servir de réparation (en partie) pour le stabilisateur de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md). Le cristal arrive depuis voie maritime depuis [**Blanchécum**](../WORLDBUILDING/VILLES/Blanchécum.md).
 
 > Nous pouvons récupérer le cristal arrivant par voie maritime. Il faudra en trouver d'autres de la même qualité pour pouvoir réparer le stabilisateur. 
+
+Les **Enfants de la Rue** étant dans le trafic de cristaux magiques, ils en gardent sans doute ailleurs...
 
 ## Quête : Visiter Rovtal
 
@@ -89,7 +97,22 @@ Nous savons que les **Enfants de la Rue** sont en contact avec [**Emiliano Sfer*
 
 Nous savons que les **Enfants de la Rue** préparent un nouvel assaut sur [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md).
 
-## Quête : Infiltrer les propriété d'Arkolapoulos
+## Quête : Comprendre pourquoi Brumebourg a été attaquée
+### Mission : Enquêter sur les intentions des Enfants de la Rue
+Suite à notre alliance avec [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) et [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md), ces derniers nous ont révélé que [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) a été attaqué suite à la prise de contact d'un **employeur mystérieux** avec [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md). Ce contrat implique la destruction du **stabilisateur de leyline** de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md), contre une récompense.
+
+> Nous pouvons enquêter sur la récompense.
+
+[**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) et [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md) sont au courant de la nature de la récompense, et sont entrés en contact avec cet **employeur**. Ils nous ont révélé qu'ils avaient passé un marché avec eux, de s'accaparer la récompense à la place d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md).
+
+### Mission : Enquêter sur l'employeur mystérieux
+[**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) et [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md) nous ont dit qu'**employeur mystérieux**  a contacté [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) afin de lui demander de réduire à néant le stabilisateur de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md).
+
+> Nous pouvons enquêter sur cet employeur afin de prévenir toute nouvelle attaque contre le village.
+
+Nous savons que [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) et [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md) sont au courant de l'identité de l'employeur puisqu'ils sont rentrés en contact avec eux.
+
+## Quête : Infiltrer les propriétés d'Arkolapoulos
 
 ### Mission : Décider de la façon de faire
 Nous nous sommes rendus au manoir d'Arkolapoulos de manière officielle. Nous avons pu discuté longuement avec [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et plus succinctement avec son fils [**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md), et nous avons pu parlé de la façon dont les deux se sont rencontrés, et du passé d'Arkolapoulos plus généralement. 
@@ -100,6 +123,8 @@ Nous doutons de la véracité de certaines informations que les deux nous ont do
 
 > Nous pouvons tenter de se renseigner sur les autres propriétés d'Arkolapoulos.
 
+Nous avons appris qu'**Arkolapoulos** était l'un des chefs des [**Enfants de la Rue**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/).
+
 ### Mission : Fouiller le manoir
 Le manoir d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) semble renfermer plusieurs secrets... Nous n'avons pas pu enquêter aussi bien que nous le voulions.
 
@@ -108,6 +133,13 @@ Le manoir d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Ar
 Nous avons tenté de nous infiltrer dans la maison afin de creuser le comportement étrange de ses habitants. Malheuresement, [**Arilius**](../WORLDBUILDING/PERSONNAGES/Arilius.md), qui avait pris la possession du corps d'un chat, s'est faite rapidement repérée pendant qu'**Arkolapoulos** parcourait des documents dans son bureau.
 
 Avant de partir définitivement du manoir, **Arilius** a détecté la présence d'une pièce en dessous des cuisines, qui ne semble pas être une cave...
+
+Nous sommes revenus sur place et nous avons pu envoyer le familier d'[**Arilius**](../WORLDBUILDING/PERSONNAGES/Arilius.md) dans la pièce afin de pouvoir voir ce qui s'y trouve. La pièce semble contenir plusieurs documents suspects. Nous avons également découvert l'existence d'une pièce secrète dans cette même pièce secrète.
+
+### Mission : Infiltrer les Oliveraies
+Nous avons appris de la part de [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) que les **gros cristaux** arrivant au port allaient se diriger vers les [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies).
+
+> Nous pouvons tenter de nous rendre sur place afin de préparer notre plan.
 
 ## Quête : Défaire les Enfants de la Rue 
 
@@ -118,7 +150,39 @@ Il est preneur de toute information qu'il peut avoir afin d'avancer son enquête
 
 > Nous pouvons le retrouver à l'auberge à laquelle il loge, l'[**Élégante Colombe**](../WORLDBUILDING/VILLES/Dvolsti.md#lauberge-de-lélégante-colombe), afin de le tenir informer de nos avancées.
 
+Nous avons informé **Wardi** que sa tête était mise à prix.
+
+Nous avons informé **Wardi** des découvertes que nous avons faites sur les **Enfants de la Rue**.
+
+### Mission : Atteindre et défaire les leaders
+Nous en avons appris un peu plus sur chacun des leaderds de l'organisation.
+
+> Nous pouvons essayer de mettre tous les leaders hors d'état de nuire.
+
+Nous avons appris que : 
+* La **Division Armée** était dirigée par [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) ;
+* La **Division des Renseignements** est dirigé par [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) et [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md), deux frère et soeur ;
+* La tête de l'organisation est [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et [**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md).
+
+### Mission : S'allier avec Cicéron
+Malgré sa position à la tête de l'organisation, nous avons appris que [**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md) n'était pas au courant de l'ensemble des activités de l'organisation, notamment le trafic d'être vivants. 
+
+> Nous pouvons essayer d'approcher **Cicéron** avec cette information afin de voir s'il veut s'allier à nous.
+
+### Mission : S'allier avec Griffes-Rouges et Paumes-Bleues
+[**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) et [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md), chefs de la **Division de Renseignements**, nous ont approchés en nous révélant qu'ils suivaient nos activités depuis notre départ de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md), et qu'ils n'avaient rien révélé aux autres membres de l'organiastion. Ils nous ont proposé une alliance.
+
+> Nous devons résoudre la situation : respecter tous les termes du marché passés avec eux, ou trouver une autre solution.
+
+Nous nous sommes mis d'accord avec eux sur le marché suivant : faire croire aux employeurs des **Enfants de la Rue** que le stabilisateur de **Brumebourg** a bien été détruit, en échange de l'aide des deux chefs de division afin de défaire l'organisation.
+
+Selon les dires de [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) et [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md), c'est également dans leur intérêt de semer la zizanie et le chaos au sein de l'organisation.
+
 ### Mission : CARNAGE
-**TUER TUER TUER**
 ![CARNAGE](../_images/CARNAGE.avif)
-**TUER TUER TUER**
+
+> TUER TUER TUER
+
+Nous avons assassiné [**Phane Miton**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Phane_Miton.md) dans une de ses planques.
+
+Nous avons assassiné [**Djibril Niil**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md) après une réunion à la [**Taverne Familiale**](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale), grâce à l'aide de [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) et [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md).

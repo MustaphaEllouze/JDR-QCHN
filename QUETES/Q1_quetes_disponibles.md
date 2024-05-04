@@ -61,16 +61,6 @@ Le seul moyen de faire ses papiers est de passer à Consulat et y faire la queue
 
 Fort heureusement, il est tout à fait possible de se procurer des faux papiers dans la rue...
 
-### Mission : Visiter le manoir d'Arkolapoulos
-Le manoir étant la construction qui surplombe la ville, il est tout de suite repérable, et il est possible de faire un tour devant le manoir d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md).
-
-En passant devant, des gardes se positionnent devant afin de protéger l'entrée. Le reste de la propriété est entouré d'un haut mur, qui fait qu'il est difficile d'y entrer simplement.
-
-En trouvant [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), il est possible de le convaincre de visiter son manoir, pour peu qu'il se prenne d'intérêt pour son interlocuteur.
-
-Il est également possible de trouver des moyens détournés d'y entrer, en exploitant des faiblesses dans les murs, en forçant le passage au niveau des gardes, en se propulsant au dessus des murs, etc.
-
-
 ## Quête : Infiltrer les Enfants de la Rue
 
 ### Mission : Trouver les quartiers de l'organisation
@@ -89,19 +79,6 @@ Un très gros sujet les occupe en ce moment : les **rivalités** entre les famil
 C'est la **Division des Renseignements** qui est chargée de placer ses pions, notamment au sein des travailleurs des maisons. Pour ce faire, plusieurs membres de la division sont actuellement en déplacement, notamment [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md), un des deux chefs de la division.
 
 D'un autre côté, [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md) a lui même contacté les **Enfants de la Rue** afin que, si le temps manque, ils assassinent [**Elèctre Alexandros**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md). Il prendrait alors de fait la place de **Consul**, au moins par intérim.
-
-### Mission : Assister à la réunion à la Taverne Familiale
-Après avoir prouver leurs valeurs, les toutes nouvelles recrures ayant décider de s'allier aux **Enfants de la Rue** et à leur **Division Armée** sont invitées à se présenter formellement aux hauts gradés à la [**Taverne Familiale**](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale).
-
-Cette invitation est l'occasion rêvée d'en apprendre plus sur les **Enfants de la Rue**. Les informations qui peuvent être dites durant la réunion sont les suivantes :
-* **Informations sur la hiérarchie directe de la Division Armée** : [**Bakari Phéroh**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) est à la tête, et ses deux lieutenants les plus proches sont [**Phane Miton**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Phane_Miton.md) et [**Djibril Niil**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md).
-* **Informations sur la situation à Brumebourg** : Les informations sur la mort de [**Bakari Mikhaïl**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Mikhail.md) et sur l'échec de sa mission
-* **Nomination d'un nouveau chef de groupe** : Suite à la mort de **Bakari Mikhaïl**, **Bakari Phéroh** décide de nommer un nouveau chef de groupe à sa place
-* **Préparation de l'attaque de Brumebourg** : [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) commence à réunir et organiser ses troupes pour qu'elles fassent un autre assaut sur [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md)
-* **Informations sur Wardi** : [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) décide de mettre la tête de [**Wardi Piotr**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md) à prix
-* **Préparation de la réception des gros cristaux** : Un grand cristal arrive au port, et [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) mandate [**Djibril**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md) pour aller le récupérer, par la force s'il le faut. **Djibril** est supposé livrer ensuite le cristal aux [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies), et **Bakari** est supposé rester aux **Oliveraies** pour réceptionner le colis.
-
-[**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md) et [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) sont également présents à la réunion car ce sont eux qui ont récupéré l'information sur la mort de [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Mikhail.md). Ils pourront essayer d'accoster les nouvelles recrues car **Griffes-Rouges** les avait repérés à [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) lors de leur départ, et leur proposeront [un marché](#mission--sallier-avec-griffes-rouges-et-paumes-bleues).
 
 ## Quête : Comprendre pourquoi Brumebourg a été attaquée
 ### Mission : Enquêter sur les intentions des Enfants de la Rue
@@ -165,6 +142,13 @@ Pour ce faire, **Griffes-Rouges** et **Paumes-Bleues** sont bien décidés à :
 * Assassiner [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), ce qui déstabilisera les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) et plongera dans le chaos la ville.
 
 En apprenant que les Aventuriers veulent venir à bout d'**Arkolapoulos**, c'est tout naturellement qu'ils proposeront leur aide afin de tuer le vieux leader.
+
+### Mission : S'allier avec Cicéron
+[**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md), bien qu'à la tête de l'organisation, n'est pas au fait de l'ensemble des activités, notamment pas celle de trafic d'être vivants.
+
+Ses parents ont été victimes de ce trafic, et [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) l'a juste recueilli pour le plaisir d'avoir un enfant centaure à ses côtés.
+
+Il est possible d'appuyer sur ce que lui cache son père adoptif afin de le ranger à ses côtés.
 
 ### Mission : S'alllier avec [Wardi Piotr](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md)
 
