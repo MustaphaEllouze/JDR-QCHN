@@ -1,6 +1,6 @@
 # [Griffes-Rouges](../../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md)
 
-![Griffes-Rouges](../../_images/griffes_rouges.webp)
+![Griffes-Rouges](../../_images/griffes_rouges.png)
 
 * **Classe d'armure** : 12 (15 avec armure du mage)
 * **Points de vie** : 40

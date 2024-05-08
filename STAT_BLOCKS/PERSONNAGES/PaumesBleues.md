@@ -1,6 +1,6 @@
 # [Paumes-Bleues](../../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md)
 
-![Paumes Bleues](../../_images/paumes_bleues.webp)
+![Paumes Bleues](../../_images/paumes_bleues.png)
 
 * **Classe d'armure** : 16
 * **Points de vie** : 63

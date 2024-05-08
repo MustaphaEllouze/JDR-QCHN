@@ -1,5 +1,5 @@
 # Trébyen Kwestyon - Membre de la garde de [Therra](./Therra_Sfer.md)
-![Trébyen Kwestyon](../../../_images/trebyen.webp)
+![Trébyen Kwestyon](../../../_images/trebyen.png)
 
 ## Infos 
 

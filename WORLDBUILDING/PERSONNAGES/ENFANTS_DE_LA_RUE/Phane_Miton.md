@@ -1,5 +1,5 @@
 # :skull::skull::skull: Phane Miton - Membre :skull::skull::skull:
-![Phane Miton](../../../_images/bandit_cache.webp)
+![Phane Miton](../../../_images/bandit_cache.png)
 
 ## Infos 
 | Âge | Espèce | Occupation | Alignement | MBTI |

@@ -1,5 +1,5 @@
 # Griffes-Rouges - Cheffe de division
-![Griffes-Rouges](../../../_images/griffes_rouges.webp)
+![Griffes-Rouges](../../../_images/griffes_rouges.png)
 
 ## Infos 
 | Âge | Espèce | Occupation | Alignement | MBTI |
