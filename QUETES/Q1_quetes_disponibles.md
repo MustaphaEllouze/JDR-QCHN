@@ -24,13 +24,6 @@ L'ensemble du stock de cristaux magiques est contrôlé par [**Rovtal**](../WORL
 
 D'un autre côté, plusieurs cristaux illégaux circulent en ville, le traffic étant contrôlé par les **Enfants de la Rue**. Les cristaux les plus gros sont détenus par le leader de l'organisation [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), qu'il garde dans les sous-sols de son manoir pour les plus petits, et dans les entrepôts des [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies) pour les plus grands.
 
-### Missions : Voler des cristaux aux Enfants de la Rue
-Les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) gardent plusieurs cristaux en ville et aux alentours, et font en sorte de récupérer les cargaisons les plus intéressantes au port. 
-
-* **Au port** : Les **Enfants de la Rue** récupèrent de façon régulière des cristaux du port. Ceci se passe via des accords qu'ils passent avec les villes voisines (notamment [**Blanchécum**](../WORLDBUILDING/VILLES/Blanchécum.md), les cristaux arrivant directement depuis [**Caproch**](../WORLDBUILDING/VILLES/Caproch.md)). Ces cristaux sont initialement prévus pour les gouvernements de [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md) et [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md), mais sont récupérés des fois par la force afin d'alimenter directement les rivalités internes des familles nobles de **Rovtal**.
-    * [**Djibril**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md) est souvent mandaté avec ses hommes afin d'aller récupérer les cristaux au port. Il est accompagné de certains de ses hommes de mains, au cas où les tentatives d'intimidation tournent mal.
-* **Aux Oliveraies** : Les plus gros cristaux sont ensuite amenés aux [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies), afin d'y être stockés, puis revendus aux plus offrants.
-
 ## Quête : Visiter Rovtal
 
 ### Mission : Escorter les habitants de Brumebourg

@@ -20,6 +20,7 @@ Nous avons réussi à convaincre **Ioannis** de ne remplacer le paiement des 1.0
 > * Avancer 1.000 pièces d'or et fournir les cristaux nécessaires pour la réparation du stabilisateur
 > * Fournir les cristaux pour la réparation et payer **Ioannis** en cristaux.
 
+## Quête : Trouver des cristaux
 ### Mission : Identifier la localisation des cristaux
 Le coût de réparation du stabilisateur est très cher : 10.000 pièces d'or. Heureusement, ce montant peut être revu à la baisse en fournissant des cristaux magiques au magicien. 
 
@@ -29,15 +30,7 @@ Nous avons appris que certains marins présents dans le quartier Nord de la vill
 
 Nous avons appris que les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) sont dans le trafic de cristaux, et qu'ils allaient bientôt recevoir de gros cristaux venant de [**Blanchécum**](../WORLDBUILDING/VILLES/Blanchécum.md), qu'ils allaient ensuite entreposer aux [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies).
 
-> Ce cristal ne suffira pas, on devra continuer à en chercher d'autres.
-
-### Missions : Voler des cristaux aux Enfants de la Rue
-
-Nous avons appris que les **Enfants de la Rue** allaient bientôt recevoir un très gros cristal qui pourrait servir de réparation (en partie) pour le stabilisateur de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md). Le cristal arrive depuis voie maritime depuis [**Blanchécum**](../WORLDBUILDING/VILLES/Blanchécum.md).
-
-> Nous pouvons récupérer le cristal arrivant par voie maritime. Il faudra en trouver d'autres de la même qualité pour pouvoir réparer le stabilisateur. 
-
-Les **Enfants de la Rue** étant dans le trafic de cristaux magiques, ils en gardent sans doute ailleurs...
+> Ce cristal suffira pour la réparation du cristal de **Brumebourg**, mais ne paiera pas le magicien, on devra continuer à en chercher d'autres.
 
 ## Quête : Visiter Rovtal
 
@@ -154,6 +147,8 @@ Nous avons informé **Wardi** que sa tête était mise à prix.
 
 Nous avons informé **Wardi** des découvertes que nous avons faites sur les **Enfants de la Rue**.
 
+Nous avons était rejoint par un collaborateur de **Wardi**, [**Berto Castellanos**](../WORLDBUILDING/PERSONNAGES/Berto.md)
+
 ### Mission : Atteindre et défaire les leaders
 Nous en avons appris un peu plus sur chacun des leaderds de l'organisation.
 
@@ -178,6 +173,8 @@ Nous nous sommes mis d'accord avec eux sur le marché suivant : faire croire aux
 
 Selon les dires de [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) et [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md), c'est également dans leur intérêt de semer la zizanie et le chaos au sein de l'organisation.
 
+Nous avons demandé à [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md) de nous aider à pister les différents membres de l'organisation qui sont au courant de notre trahison.
+
 ### Mission : CARNAGE
 ![CARNAGE](../_images/CARNAGE.avif)
 
@@ -186,3 +183,5 @@ Selon les dires de [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_
 Nous avons assassiné [**Phane Miton**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Phane_Miton.md) dans une de ses planques.
 
 Nous avons assassiné [**Djibril Niil**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md) après une réunion à la [**Taverne Familiale**](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale), grâce à l'aide de [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) et [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md).
+
+Nous avons monté les **Enfants de la Rue** contre des marins, ce qui a eu pour conséquence la mort de **quatre** membres.

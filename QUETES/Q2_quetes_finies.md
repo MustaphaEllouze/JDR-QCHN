@@ -156,6 +156,17 @@ Suite à l'attaque du stabilisateur de [**Brumebourg**](../WORLDBUILDING/VILLES/
 
 Nous avons trouvé un mage du nom de [Ioannis Krel](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Ioannis_Krel.md) qui semble avoir les compétences requises pour réparer le stabilisateur. Selon lui, le rituel durera un jour entier.
 
+## Quête : Trouver des cristaux
+### Mission : Voler des cristaux aux Enfants de la Rue
+
+Nous avons appris que les **Enfants de la Rue** allaient bientôt recevoir un très gros cristal qui pourrait servir de réparation (en partie) pour le stabilisateur de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md). Le cristal arrive depuis voie maritime depuis [**Blanchécum**](../WORLDBUILDING/VILLES/Blanchécum.md).
+
+Nous avons accosté le bateau qui amenait le cristal, et nous avons créé une rixe entre les **Enfants de la Rue** et les marins qui livraient le cristal. Nous avons réussi à nous enfuir avec le cristal : tous les marins ont survécu, et tous les **Enfants de la Rue** sauf un ont péri.
+
+Nous avons contacté [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md) afin qu'il élimine la personne qui a réussi à s'échapper.
+
+Les **Enfants de la Rue** étant dans le trafic de cristaux magiques, ils en gardent sans doute ailleurs...
+
 
 ## Quête : Visiter Dvolsti
 ### Mission : Visiter le manoir d'Arkolapoulos
