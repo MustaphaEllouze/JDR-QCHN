@@ -1,5 +1,5 @@
 # Capitaine Bandit
-![Capitaine Bandit](../../_images/capitaine_bandit.webp)
+![Capitaine Bandit](../../_images/capitaine_bandit.png)
 
 * **Classe d'armure** : 15
 * **Points de vie** : 65

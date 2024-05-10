@@ -1,5 +1,5 @@
 # Trébwon Kwestyon - Membre de la garde de [Therra](./Therra_Sfer.md)
-![Trébwon Kwestyon](../../../_images/trebwon.webp)
+![Trébwon Kwestyon](../../../_images/trebwon.png)
 
 ## Infos 
 

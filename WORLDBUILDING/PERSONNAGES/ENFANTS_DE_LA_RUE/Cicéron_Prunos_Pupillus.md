@@ -1,5 +1,5 @@
 # Cicéron Prunos Pupillus - Bras Droit
-![Arkolapoulos Prunos](../../../_images/centaur_0.webp)
+![Arkolapoulos Prunos](../../../_images/centaur_0.png)
 
 ## Infos 
 | Âge | Espèce | Occupation | Alignement | MBTI |

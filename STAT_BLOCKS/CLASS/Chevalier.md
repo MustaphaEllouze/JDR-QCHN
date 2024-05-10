@@ -1,5 +1,5 @@
 # Chevalier
-![Chevalier](../../_images/chevalier.webp)
+![Chevalier](../../_images/chevalier.png)
 
 * **Classe d'armure** : 18
 * **Points de vie** : 52

@@ -98,7 +98,7 @@ Ils portent généralement le prénom qu'ils se sont donnés eux-mêmes, une foi
 ![Ratussien](../../_images/bandit%20ratussien.png)
 
 ## Centaures
-![Centaur](../../_images/centaur_0.webp)
+![Centaur](../../_images/centaur_0.png)
 
 Les **centaures** vivent généralement en clan nomade, se déplaçant de zone stable magiquement à une autre, s'arrêtant parfois à la lisière de villes peuplées pour échanger des ressources. 
 

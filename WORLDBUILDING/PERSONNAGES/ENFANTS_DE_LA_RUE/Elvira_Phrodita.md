@@ -1,5 +1,5 @@
 # Elvira Phrodita - Cheffe de division
-![Elvira Phrodita](../../../_images/Elvira_Phrodita.webp)
+![Elvira Phrodita](../../../_images/Elvira_Phrodita.png)
 
 ## Infos 
 | Âge | Espèce | Occupation | Alignement | MBTI |

@@ -1,6 +1,6 @@
 # [Bakari Phéroh](../../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md)
 
-![Bakari Phéroh](../../_images/bakari_pheroh.webp)
+![Bakari Phéroh](../../_images/bakari_pheroh.png)
 
 * **Classe d'armure** : 14 (armure de cuir clouté)
 * **Points de vie** : 112
