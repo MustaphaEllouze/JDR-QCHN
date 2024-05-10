@@ -29,6 +29,7 @@
 * **17 Kemth 432** : Il est contacté par les [**Sombres Artistes**](../../VILLES/Rovtal.md#les-sombres-artistes) afin de détruire le **stabilisateur de leyline** de [**Brumebourg**](../../VILLES/Brumebourg.md). Il est à ce moment-là le seul membre des [**Enfants de la Rue**](../../VILLES/Dvolsti.md#les-enfants-de-la-rue) à être au courant. La récompense promise est de permettre à la personne de son choix de devenir un [**Sombraur**](../../ESPECES/Especes_Magiques.md#sombraur).
 
 ## Combat
+[Stats](../../../STAT_BLOCKS/PERSONNAGES/ArkolapoulosPrunos.md)
 
 ## Roleplay
 * Se montrer très gentil envers les interlocuteurs
