@@ -1,4 +1,5 @@
 # Ioannis Krel
+![Ioannis Krel](../../../_images/ioannis.png)
 
 ## Caractéristiques
 * Tient beaucoup à sa réputation
