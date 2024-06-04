@@ -18,7 +18,7 @@
 *Tactique de groupe* - Le malfrat est avantagé lors d'un jet d'attaque effectué contre une créature si au moins un des alliés du malfrat se trouve à 1.50m ou moins de la créature qu'il attaque et qu'il n'est pas neutralisé.
 
 #### > Actions
-*Attaques multiples* : L'éclaireur effectue deux attaques au corps à corps.
+*Attaques multiples* : Le malfrat effectue deux attaques au corps à corps.
 
 *Arbalète lourde* : 
 * Attaque d'arme à distance

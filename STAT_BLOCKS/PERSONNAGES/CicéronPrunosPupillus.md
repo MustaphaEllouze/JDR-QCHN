@@ -1,5 +1,6 @@
 # [Cicéron Prunos Pupillus ](../../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md)
-![Cicéron](../../_images/centaur_0.webp)
+
+![Cicéron](../../_images/centaur_0.png)
 
 * **Classe d'armure** : 14 (Armure naturelle)
 * **Points de vie** : 72

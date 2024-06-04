@@ -29,7 +29,7 @@
     * +7 pour toucher
     * Allonge 1.50m 
     * Une cible
-    * *Touché* : 2d8+4 dégâts tranchants
+    * *Touché* : 2d8+4 dégâts tranchants (lancer 2d6)
 
 *Parade* - Bakari ajoute 3 à sa CA contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
 
