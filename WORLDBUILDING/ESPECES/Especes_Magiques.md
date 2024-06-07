@@ -12,3 +12,4 @@
 * Ils ont une plus grand longévité que leur race d'origine. Au moins 10 fois.
 * Ils manipulent tous : la magie de l'ombre et de la lumière.
 * Pour se reproduire, il faut effectuer un rituel où trois Sombraur acceptent de créer un nouveau Sombraur. Ils exposent alors la nouvelle recrue à la magie de l'ombre pour la lier à leur dieu, et la marque se forme.
+* Ont le sang noir
