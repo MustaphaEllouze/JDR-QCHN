@@ -1,5 +1,6 @@
 # Paumes-Bleues - Chef de division
 ![Paumes-Bleues](../../../_images/paumes_bleues.png)
+![Paumes-Bleues](../../../_images/paumes_bleues_2.png)
 
 ## Infos 
 | Âge | Espèce | Occupation | Alignement | MBTI |

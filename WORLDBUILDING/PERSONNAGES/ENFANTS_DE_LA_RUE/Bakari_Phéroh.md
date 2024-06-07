@@ -1,5 +1,6 @@
 # Bakari Phéroh - Chef de division
 ![Bakari Phéroh](../../../_images/bakari_pheroh.png)
+![Bakari Phéroh](../../../_images/dead_bakari.png)
 
 ## Infos 
 | Âge | Espèce | Occupation | Alignement | MBTI |
