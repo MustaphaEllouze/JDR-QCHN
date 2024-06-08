@@ -56,6 +56,7 @@ Une pratique saurienne courante est de prendre le nom de famille de son conjoint
 Les **Léonins** sont connus pour pour faire rouler les *R* **au fond de leurs gorges** en parlant ([exemple audio](https://en.wikipedia.org/wiki/Voiced_uvular_trill)). Il leur arrive de prononcer ce son tout seul dans le cas où ils sont mécontents. Ils détestent qu'on prenne ce son pour un *ronronnement*.
 
 ### Tigryliens
+![Tigrylien](../../_images/trigylien.png)
 
 ### Panthérans
 ![Panthéran](../../_images/barman.png)

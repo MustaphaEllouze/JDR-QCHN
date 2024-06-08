@@ -10,6 +10,8 @@ Convaincus qu'ils passent un pacte avec la déité [Komorath](../../COSMOLOGIE/P
 ## Transformation
 Le **rituel** visant à transformer une personne en **Sombraur** est à la fois très lent et requiert une grande précision dans son exécution.
 
+![Sombraur Ritual](../../../_images/sombraur_ritual.png)
+
 Durant plus de **8 heures de temps**, il nécessite l'intervention d'un mage très puissant, ou d'un **Sombraur**. Pour le mener, plusieurs ingrédients doivent être réunis : 
 * **Une source magique** de grande puissance, comme un cristal magique, un alignement astral, ou une leyline puissante à proximité dans laquelle on puisse puiser ;
 * **Un sacrifice de chair** sur la personne sur laquelle est mené le rituel (généralement une pointe de l'oreille) ;
@@ -33,8 +35,11 @@ L'incantation suivante doit être prononcée en **langage magique** au moins 10 
 
 Une fois l'incantation prononcée, la magie pénètre à travers la blessure et commence à **modifier** le corps de l'initié. Au terme du rituel, une petite spirale **blanche**, **noire** et de **couleur** apparaît sur son bras gauche.
 
+![Sombraur tatoo](../../../_images/sombraur_tatoo.png)
+
 ## Caractéristiques
 ### Soif de magie
+![Soif de magie](../../../_images/sombraur%20soif.png)
 Les **Sombraurs**, une fois transformés, acquièrent la possibilité d'absorber l'énergie magique d'être vivants par simple contact.
 
 Un **Sombraur** peut survivre jusqu'à 4 jours sans absorber une seule goutte de magie. Passés ces 4 jours, ils se déssèchent petit à petit jusqu'à entrer en hibernation, qui ne cesse que lorsqu'ils entrent en contact avec une autre source de magie.
@@ -50,6 +55,7 @@ Le processus de **vieillissement** des **Sombraurs** est fortement ralenti une f
 Le retard provoqué dans le vieillissement est d'autant plus important que la qualité de la magie qu'ils absorbe est grande : un **Sombraur** se nourrissant que de d'énergie végétale vieillira à pein plus vite qu'une personne normale.
 
 ### Pouvoirs magiques supplémentaires
+![Pouvoirs supplémentaires](../../../_images/sombraur_pouvoirs.png)
 Les **Sombraurs** acquièrent des pouvoirs magiques supplémentaires à leur transformation, grâce à leur connexion plus grande avec la source magique avec laquelle ils se sont liés.
 
 ### Caractéristiques physiques
