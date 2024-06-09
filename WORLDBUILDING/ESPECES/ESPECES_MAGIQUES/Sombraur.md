@@ -35,8 +35,6 @@ L'incantation suivante doit être prononcée en **langage magique** au moins 10 
 
 Une fois l'incantation prononcée, la magie pénètre à travers la blessure et commence à **modifier** le corps de l'initié. Au terme du rituel, une petite spirale **blanche**, **noire** et de **couleur** apparaît sur son bras gauche.
 
-![Sombraur tatoo](../../../_images/sombraur_tatoo.png)
-
 ## Caractéristiques
 ### Soif de magie
 ![Soif de magie](../../../_images/sombraur%20soif.png)
@@ -45,9 +43,6 @@ Les **Sombraurs**, une fois transformés, acquièrent la possibilité d'absorber
 Un **Sombraur** peut survivre jusqu'à 4 jours sans absorber une seule goutte de magie. Passés ces 4 jours, ils se déssèchent petit à petit jusqu'à entrer en hibernation, qui ne cesse que lorsqu'ils entrent en contact avec une autre source de magie.
 
 Plus la magie provient d'un être vivant à l'âme **complexe** (une personne ayant une âme plus complexe qu'un animal, qui a lui même une âme plus complexe qu'un végatal ou de la magie pure), plus cette magie nourrit efficacement le **Sombraur**, et lui redonne des forces. Ainsi, un **Sombraur** *végétarien* sera plus faible qu'un qui ne s'impose pas ce régime.
-
-### Aversion à la nourriture
-En échange de leur capacité d'absorption de l'énergie magique, ils exècrent toute nouriture et toute boisson, leur goût devenant **insupportable**. Ils peuvent cependant toujours manger et boire normalement, leurs corps gardant intactes leurs faculté de digestion.
 
 ### Longévité
 Le processus de **vieillissement** des **Sombraurs** est fortement ralenti une fois transformés : ils vieillissent entre 10 et 20 fois plus lentement que leur espèce d'origine ; et ne vieillissent pas lors qu'ils sont en **hibernation**.
@@ -58,19 +53,60 @@ Le retard provoqué dans le vieillissement est d'autant plus important que la qu
 ![Pouvoirs supplémentaires](../../../_images/sombraur_pouvoirs.png)
 Les **Sombraurs** acquièrent des pouvoirs magiques supplémentaires à leur transformation, grâce à leur connexion plus grande avec la source magique avec laquelle ils se sont liés.
 
-### Caractéristiques physiques
-### Points faibles
-### Autres
+Ils peuvent manipuler plusieurs types de magie différentes avec une grande aisance, toute avec un lien très étroit avec les couleurs, la lumière, la vision et les illusions.
 
-## Notes
-* Ce sont des créatures conscientes qui étaient autrefois une autre race (comme des vampires).
-* Ils sont reconaissables à leur marque sur leur bras droit : c'est une marque ressemblant à un tatouage tribal, qui est tricolore (noir, blanc et une autre couleur), marque qui grandit à chaque personne qui succombe à leur aspiration de magie.
-* Ils ont également des écailles de serpents qui se forment sur leur corps.
-* Ils ne se nourissent pas, mais absorbent l'énergie magique des êtres vivants par contact. Lors de l'absoription de l'énergie magique, leurs veines deviennent de la même couleur que la troisième couleur de leur marque.
-* Ils vénèrent le dieu Komorath (domaines de la tromperie, de l'illusion, et des arts obscurs).
-* Ils sont sensibles à l'eau.
-* S'ils restent trop longtemps exposés à la lumière, ils deviennent affaiblis.
-* Ils ont une plus grand longévité que leur race d'origine. Au moins 10 fois.
-* Ils manipulent tous : la magie de l'ombre et de la lumière.
-* Pour se reproduire, il faut effectuer un rituel où trois Sombraur acceptent de créer un nouveau Sombraur. Ils exposent alors la nouvelle recrue à la magie de l'ombre pour la lier à leur dieu, et la marque se forme.
-* Ont le sang noir
+On comptera par exemple :
+
+* Création d'**illusions** ;
+* **Hallucinations** ;
+* Changement de l'apparence d'une **personne** ou d'un **objet** ;
+* **Obstruction de la vision**.
+
+### Vitesse et force augmentées
+![Sombraur Vitesse](../../../_images/sombraur_vitesse.png)
+
+Les **Sombraurs** sont plus rapides et plus forts après leur transformation.
+
+Leur **force** est comparable à celle des plus puissants membres de son espèce d'origine.
+
+Leur **vitesse** peut être augmentée l'espace d'un court instant, juste assez pour disparaître aux yeux de leurs adversaires, donnant l'impression de s'être téléporté.
+
+### Régénération accélérée
+
+Les **Sombraurs** bénificient d'une **régénration** accélérée pour leurs blessures : en l'espace de quelques minutes, ils peuvent faire se refermer une blessure béante ; en l'espace d'une heure, ils peuvent resouder une partie de leur corps qui a été sectionnée.
+
+### Marque des ombres
+![Sombraur tatoo](../../../_images/sombraur_tatoo.png)
+
+Chaque **Sombraur** porte sur l'un de ses bras la **Marque des Ombres**, un attribut physique qu'il reçoit lors de la complétion de sa transformation.
+
+Cette marque est légèrement différente pour chaque individu, mais elle se manifeste systématiquement comme une spirale colorée, qui zèbre le bras de noir et/ou blanc, ainsi que d'une autre couleur.
+
+Cette marque agit comme **catalyseur** de la magie du **Sombraur**, et commence en étant assez petite, située au niveau du poignet. Elle remonte le bras de son propriétaire à mesure qu'il vieillit. Au moment où elle touche enfin le coeur de l'individu, ce dernier ressent une douleur intense : elle signe son arrêt de mort dans les semaines à venir.
+
+### Changement de la couleur des yeux et du sang
+![Sombraur eyes](../../../_images/sombraur%20eyes.png)
+La couleur du **sang** des **Sombraur** est d'un noir intense.
+
+Au repos, les yeux des **Sombraurs** semblent parfaitement normaux. Cependant, dès qu'ils utilisent les pouvoirs qu'ils ont acquis à travers leur transformation, leurs yeux changent subitement de couleur pour la durée de l'incantation et ils s'injectent de leur sang noir. On peut discerner un crépitement au fond de leur regard.
+
+### Léthalité des éléments chlorés
+![Sombraur Dissolving](../../../_images/sombraur_dissolve.png)
+Les **Sombraur** sont sensibles au **chlore** et à toutes les substances qui en sont composées : le simple contact leur provoque une brûlure intense, qui peut conduire jusqu'à la mort si le composé n'est pas évacuer.
+
+On note notamment :
+* Sel ; 
+* Eau salée ;
+* Algues marines ;
+* Chlore gazeux ; 
+* Etc.
+
+### Hypersensibilité à la lumière naturelle
+![Sombraur Hypersensitivity](../../../_images/sombraur%20hypersensitivity.png)
+
+Les **Sombraurs** souffrent tous de **photophobie** et d'une **hypersensibilité** à la lumière naturelle. 
+
+Il leur est possible de rester dans un environnement lumineux quelques instants, mais au bout d'une **dizaine** de minutes, leurs yeux commencent à rougir et à produire des larmes, et ils commencent à ressentir des **démengeaisons** et leur **peau qui brûle**.
+
+### Aversion à la nourriture
+En échange de leur capacité d'absorption de l'énergie magique, ils exècrent toute nouriture et toute boisson, leur goût devenant **insupportable**. Ils peuvent cependant toujours manger et boire normalement, leurs corps gardant intactes leurs faculté de digestion.
