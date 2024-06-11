@@ -12,9 +12,15 @@ Le temps passant, la ville s'est agrandie et hiérarchisée. Les terrains cultiv
 Malgré la prévalence des cultes de **Italis** et **Muhuta**, d'autres cultes existent dans Rovtal, mais leurs traditions et croyances sont moins connues du grand public. On citera notamment le culte de **Komorath**, dieu de la Tromperie et des Arts Obscurs, qui se font appeler les **Sombres Peintres**, qui voient d'un mauvais oeil l'expansion toujours constante de la ville, prêchant que la stabilité ne peut engendrer que la ruine. Dans le secret, ce culte comprend des **Sombraurs** en son sein, des créatures se nourissant de la magie d'autrui pour survivre, créatures qui ont été créées (et qui le sont toujours) via un long rituel à la gloire de **Komorath**. Dans l'imaginaire des **Peintres** et des **Sombraurs** : le Chaos mène à la Liberté, la Liberté mène à l'Art, l'Art mène au Plaisir.
 
 ## Lieux 
+### La guilde des ingénieurs
+![Rovtal](../../_images/Rovtal15.png)
+
+### L'Ecole des Mages
+
+![Rovtal](../../_images/Rovtal7.png)
 
 ## Les Sombres Artistes
-Culte de [**Komorath**](../COSMOLOGIE/PLANS_ET_DIVINITES/Komorath.md)
+Culte de [**Komorath**](../COSMOLOGIE/PLANS_ET_DIVINITES/Komorath.md).
 
 ## Événements marquants
 
@@ -54,12 +60,10 @@ Culte de [**Komorath**](../COSMOLOGIE/PLANS_ET_DIVINITES/Komorath.md)
 ![Rovtal](../../_images/Rovtal22.png)
 ![Rovtal](../../_images/Rovtal23.png)
 ### Lieux spéciaux
-![Rovtal](../../_images/Rovtal7.png)
 ![Rovtal](../../_images/Rovtal8.png)
 ![Rovtal](../../_images/Rovtal10.png)
 ![Rovtal](../../_images/Rovtal25.png)
 ![Rovtal](../../_images/Rovtal27.png)
-![Rovtal](../../_images/Rovtal15.png)
 ![Rovtal](../../_images/Rovtal26.png)
 ![Rovtal](../../_images/Rovtal24.png)
 ### Personnes
