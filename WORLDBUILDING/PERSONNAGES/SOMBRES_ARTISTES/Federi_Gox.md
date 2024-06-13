@@ -25,6 +25,7 @@
 * Il rencontre quelques années après [Alvaro Shenzi](./Alvaro_Shenzi.md) et [Maria Ufassa](./Maria_Ufassa.md), avec qui il s'installe à [**Rovtal**](../../VILLES/Rovtal.md) de façon définitive.
 * Il noue des liens avec les différentes familles nobles de **Rovtal**, notamment avec la famille [**Sfer**](../ROVTAL/GROUPES/Famille_Sfer.md), et le fils du chef de famille, [**Ethérios Sfer**](./Ethérios_Sfer.md) alors très jeune, qu'il transformera plus tard en **Sombraur**.
 * Il travaille depuis sur des moyens d'ouvrir pérénnement des portails vers le [plan des Lumières et des Ombres](../../COSMOLOGIE/PLANS_ET_DIVINITES/Komorath.md), sans succès.
+* Il passe son temps à **Rovtal** à créer des artefacts magiques qu'il peut vendre pour subsister à ses besoins. 
 
 
 ## Événements marquants
@@ -40,6 +41,7 @@
 * **95** : Il s'installe à [**Rovtal**](../../VILLES/Rovtal.md) et se rapproche progressivement des instances de décision de la ville, notamment les familles nobles. 
 * **115** : Il transforme [Ethérios Sfer](./Ethérios_Sfer.md) âgé de **35 ans** en [**Sombraur**](../../ESPECES/ESPECES_MAGIQUES/Sombraur.md).
 * **117** : Remonte un nouveau *clan*, [**les Sombres Artistes**](../../VILLES/Rovtal.md#les-sombres-artistes), sous l'impulsion et grâce à [Ethérios Sfer](./Ethérios_Sfer.md).
+* **380** : Propose ses services à la famille royale en tant que **Conseiller de la Magie**. Il est attaché à la famille [**Zografos**](../ROVTAL/GROUPES/Famille_Zografos.md).
 
 ## Combat
 
