@@ -29,6 +29,7 @@
 ## Événements marquants
 * **112** : Il a un enfant, **Etherios II**.
 * **115** : A **35 ans**, se fait transformer par [**Federi Gox**](./Federi_Gox.md) en **Sombraur**.
+* **117** : Il pousse [**Federi Gox**](./Federi_Gox.md) à refonder son ancien clan, sous le nouveau nom des [**Sombres Artistes**](../../VILLES/Rovtal.md#les-sombres-artistes).
 * **132** : Devient le chef de la [**famille Sfer**](../ROVTAL/GROUPES/Famille_Sfer.md) à la mort de son oncle.
 * **161** : **Etherios II** a un enfant, **Etherios III**.
 * **166** : Il assassine son fils et son petit-fils, se fait passer pour mort, et prend la place de son fils en tant que dirigeant légitime de la famille, tout en maintenant une illusion sur son apparence et sur son petit-fils. Il enchaîne à travers les années ce cycle, en se faisant passer pour mort.
@@ -41,4 +42,5 @@
 ## Roleplay
 * Pauses sauriennes
 * Parler avec des archaïsmes langagiers
+* Voix rauque
 * Être extrêmement poli

@@ -23,6 +23,9 @@
 * L'**isolement** prolongé l'affecte de plus en plus, et il devient obsédé par le fait de trouver un moyen de se rendre pérènnement dans le plan de son *dieu*, pour ne plus être seul.
 * Il a créé son propre clan **nomade**, où il a transformé certaines personnes en **Sombraurs** et a gardé les autres en tant que cultistes. Cependant, ce clan a été décimé lors de la [**catastrophe magique**](../../AUTRES/CatastropheMagique.md) qu'il y a eu lors de la création des **stabilisateurs magiques**.
 * Il rencontre quelques années après [Alvaro Shenzi](./Alvaro_Shenzi.md) et [Maria Ufassa](./Maria_Ufassa.md), avec qui il s'installe à [**Rovtal**](../../VILLES/Rovtal.md) de façon définitive.
+* Il noue des liens avec les différentes familles nobles de **Rovtal**, notamment avec la famille [**Sfer**](../ROVTAL/GROUPES/Famille_Sfer.md), et le fils du chef de famille, [**Ethérios Sfer**](./Ethérios_Sfer.md) alors très jeune, qu'il transformera plus tard en **Sombraur**.
+* Il travaille depuis sur des moyens d'ouvrir pérénnement des portails vers le [plan des Lumières et des Ombres](../../COSMOLOGIE/PLANS_ET_DIVINITES/Komorath.md), sans succès.
+
 
 ## Événements marquants
 * **-233** : Naissance
@@ -31,7 +34,8 @@
 * **-187** : Il réussit à créer de nouveaux **Sombraurs**.
 * **-94** : Il crée son propre clan pour éviter l'**isolement**.
 * **0** : [**Catastrophe magique**](../../AUTRES/CatastropheMagique.md), le clan est décimé.
-* **26** : Rencontre avec [Alvaro Shenzi](./Alvaro_Shenzi.md), puis transformation.
+* **1** : Recueille [Alvaro Shenzi](./Alvaro_Shenzi.md) alors âgé d'un an, après avoir décimé son clan.
+* **21** : Transformation d'[Alvaro](./Alvaro_Shenzi.md).
 * **37** : Rencontre avec [Maria Ufassa](./Maria_Ufassa.md) puis transformation.
 * **95** : Il s'installe à [**Rovtal**](../../VILLES/Rovtal.md) et se rapproche progressivement des instances de décision de la ville, notamment les familles nobles. 
 * **115** : Il transforme [Ethérios Sfer](./Ethérios_Sfer.md) âgé de **35 ans** en [**Sombraur**](../../ESPECES/ESPECES_MAGIQUES/Sombraur.md).
@@ -41,3 +45,4 @@
 
 ## Roleplay
 * Accent italien
+* Très calme
