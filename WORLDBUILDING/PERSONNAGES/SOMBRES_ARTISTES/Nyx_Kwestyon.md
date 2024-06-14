@@ -1,2 +1,2 @@
-# Nyx Alexandros
+# Nyx Kwestyon
 ![Nyx](../../../_images/Nyx.png)
