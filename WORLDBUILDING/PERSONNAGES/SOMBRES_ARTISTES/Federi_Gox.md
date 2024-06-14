@@ -1,5 +1,6 @@
 # Federi Gox - Main Noire
 ![Federi Gox](../../../_images/federi.png)
+![Federix Gox](../../../_images/federi_2.png)
 
 ## Infos 
 | Âge | Espèce | Occupation | Alignement | MBTI |
