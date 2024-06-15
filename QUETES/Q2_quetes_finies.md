@@ -156,7 +156,37 @@ Suite à l'attaque du stabilisateur de [**Brumebourg**](../WORLDBUILDING/VILLES/
 
 Nous avons trouvé un mage du nom de [Ioannis Krel](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Ioannis_Krel.md) qui semble avoir les compétences requises pour réparer le stabilisateur. Selon lui, le rituel durera un jour entier.
 
+### Mission : Trouver un magicien compétent
+Nous avons appris qu'il y avait plusieurs magiciens en ville, et le Consul Adjoint [Emiliano Sfer](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md) nous appris qu'ils étaient tous autrefois collègues de travail et amis. 
+
+Il nous a pointer vers le mage le plus proche de son bureau, un certain [Ioannis Krel](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Ioannis_Krel.md).
+
+Nous avons décidé de faire affaire avec **Ioannis**.
+
+### Mission : Convaincre le magicien
+[Ioannis](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Ioannis_Krel.md) a bien voulu nous aider, contre un somme d'argent exhorbitante : 10.000 pièces d'or ; somme qu'il ne souhaite pas avancer en fournissant de sa poche l'ensemble des matières premières pour le rituel. 
+
+Selon lui, les cristaux magiques qu'il lui faut pour accomplir le rituel sont la source première de dépense : plus de 9.000 pièces d'or. 
+
+Nous avons réussi à convaincre **Ioannis** de ne remplacer le paiement des 1.000 pièces d'or restantes en lui fournissant des cristaux de bonnes qualité. 
+
+Nous avons fourni à **Ioannis** deux grands cristaux de grande qualité. Il a accepté d'aller à [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) avec [**Kramer**](../WORLDBUILDING/PERSONNAGES/BRUMEBOURG/Kramer_Grishka.md) pour aller réparer le stabilisateur.
+
+
 ## Quête : Trouver des cristaux
+### Mission : Identifier la localisation des cristaux
+Le coût de réparation du stabilisateur est très cher : 10.000 pièces d'or. Heureusement, ce montant peut être revu à la baisse en fournissant des cristaux magiques au magicien. 
+
+[**Ioannis**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Ioannis_Krel.md) nous a appris que les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) baignaient dans le trafic de cristaux magiques, et que tout flux non contrôlé par [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md) passaient nécessairement par eux.
+
+Nous avons appris que certains marins présents dans le quartier Nord de la ville, près du port, transportent de petits cristaux vierges de tout sort dans leur cargaison. Malheureusement, les cristaux trouvés dans cette cargaison étaient trop petits pour pouvoir réparer le stabilisateur de **Brumebourg**.
+
+Nous avons appris que les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) sont dans le trafic de cristaux, et qu'ils allaient bientôt recevoir de gros cristaux venant de [**Blanchécum**](../WORLDBUILDING/VILLES/Blanchécum.md), qu'ils allaient ensuite entreposer aux [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies).
+
+Nous avons également appris que les **Oliveraies** stockaient déjà des cristaux de la sorte.
+
+Nous avons obtenu tous les cristaux qu'ils nous fallaient.
+
 ### Mission : Voler des cristaux aux Enfants de la Rue
 
 Nous avons appris que les **Enfants de la Rue** allaient bientôt recevoir un très gros cristal qui pourrait servir de réparation (en partie) pour le stabilisateur de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md). Le cristal arrive depuis voie maritime depuis [**Blanchécum**](../WORLDBUILDING/VILLES/Blanchécum.md).
@@ -196,6 +226,19 @@ Nous avons essayé de nous infiltrer dans la **Taverne Famliale**, en espionnant
 Notre indiscrétion nous a trahi (quelle idée de laisser traîner le cadenas que nous avons cassé par terre...), et nous avons dû nous échapper avant qu'ils n'aient réussi à boucler le périmètre entièrement.
 
 Nous avons réussi à infiltrer les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) et à nous faire inviter officiellement à une de ces réunions. 
+
+### Mission : Escorter les habitants de Brumebourg
+Au moins deux fois par an, certains membres de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) mandantent au moins des leurs pour aller faire les courses au [marché de Dvolsti](../WORLDBUILDING/VILLES/Dvolsti.md#la-place-du-marché-la-place-dum).
+
+Cette fois-ci, c'est au tour de [Kramer](../WORLDBUILDING/PERSONNAGES/BRUMEBOURG/Kramer_Grishka.md) d'y aller, et son départ a été précipité par [**Therra**](../WORLDBUILDING/PERSONNAGES/BRUMEBOURG/Therra_Sfer.md) suite au fiasco du [Festival des Brumes](../WORLDBUILDING/VILLES/Brumebourg.md#festival-des-brumes). 
+
+Nous avons décidé d'aller à **Dvolsti** en compagnie de **Kramer**. 
+
+**Kramer** sera sans doute capable de faire le chemin du retour tout seul.
+
+Nous avons demandé à **Kramer** s'il était d'accord d'attendre quelques jours le temps que nous convainquions [**Ioannis**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Ioannis_Krel.md) de partir réparer le stabilisateur à **Brumebourg**. Ils se sont croisés à l'auberge et se sont entendus.
+
+**Kramer** est parti en compagnie de **Ioannis** en direction de **Brumebourg**.
 
 ## Quête : Meutre à l'Auberge
 ### Mission : Confronter l'enquêteur
@@ -252,3 +295,60 @@ Nous nous sommes rendus à la réunion afin de nous présenter et nous en avons 
 * La hiérarchie globale des **Enfants de la Rue** : l'organisation compte plusieurs divisions, notamment la **Division Armée** dont [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) est le chef et la **Division des Renseignements** dont [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md) et [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) sont les chefs.
 
 [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) nous a chargés d'accompagner [**Djibril**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md), son lieutenant, afin de récupérer les gros cristaux.
+
+### Mission : Trouver les quartiers de l'organisation
+Les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) doivent bien se terrer quelque part en ville...
+
+En enquêtant près de [**la Taverne Familiale**](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale), nous avons eu l'impression que plusieurs personnes y étaient alors que le lieu était supposé être fermé. Nous y avons vu une réunion des membres des **Enfants de la Rue**. Nous avons réussi à infiltrer une de leurs réunions.
+
+Nous avons défait la tête pensante des **Enfants de la Rue**.
+
+### Mission : Se renseigner sur les missions actuelles
+L'attaque de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) et de son stabilisateur ne doit pas être anodine, les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) devaient avoir quelque chose en tête. D'autres activités doivent les occuper également.
+
+Nous savons que les **Enfants de la Rue** sont dans le trafic de cristaux de poches vierges et qu'ils s'en procurent *a minima* en rackettant des marins du port.
+
+Nous savons que les **Enfants de la Rue** sont en contact avec [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md).
+
+Nous savons que les **Enfants de la Rue** préparent un nouvel assaut sur [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md).
+
+Nous avons défait la tête pensante des **Enfants de la Rue**.
+
+## Quête : Infiltrer les propriétés d'Arkolapoulos
+
+### Mission : Décider de la façon de faire
+Nous nous sommes rendus au manoir d'Arkolapoulos de manière officielle. Nous avons pu discuté longuement avec [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et plus succinctement avec son fils [**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md), et nous avons pu parlé de la façon dont les deux se sont rencontrés, et du passé d'Arkolapoulos plus généralement. 
+
+Nous doutons de la véracité de certaines informations que les deux nous ont données, d'autant plus que le comportement de Cicéron nous a semblé étrange : il était étrangement émotif à l'évocation de son passé, mais ne l'était plus dès qu'il s'est éloigné de nous. 
+
+Nous avons appris qu'**Arkolapoulos** était l'un des chefs des [**Enfants de la Rue**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/).
+
+Nous avons mené un assaut contre le manoir d'**Arkolapoulos**.
+
+### Mission : Infiltrer les Oliveraies
+Nous avons appris de la part de [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Phéroh.md) que les **gros cristaux** arrivant au port allaient se diriger vers les [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies).
+
+Nous avons pris d'assaut les **Oliveraies** après avoir volé les cristaux aux **Enfants de la Rue** au port. Nous avons trouvé **Bakari**, que nous avons tué, et nous avons volé un **cristal** qui était entreposé là-bas.
+
+Nous avons laissé le **carnage** en place pour envoyer un message à ceux qui voudraient nous défier.
+
+## Quête : Défaire les Enfants de la Rue 
+
+### Mission : S'allier avec Wardi Piotr
+Après la résolution du double meutre à l'[**Auberge du Poisson Frétillant**](../WORLDBUILDING/VILLES/Dvolsti.md#lauberge-du-poisson-frétillant), l'enquêteur, [**Wardi Piotr**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md) nous a informé qu'il faisait partie de la police de [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md), et qu'il était  sur la trace des **Enfants de la Rue** afin de remonter à leur source.
+
+Il est preneur de toute information qu'il peut avoir afin d'avancer son enquête.
+
+Nous avons informé **Wardi** que sa tête était mise à prix.
+
+Nous avons informé **Wardi** des découvertes que nous avons faites sur les **Enfants de la Rue**.
+
+Nous avons était rejoint par un collaborateur de **Wardi**, [**Berto Castellanos**](../WORLDBUILDING/PERSONNAGES/Berto.md).
+
+Nous avons décidé de faire équipe avec quelqu'un d'autre pour prendre d'assaut le manoir d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md).
+
+
+### Mission : S'allier avec Cicéron
+Malgré sa position à la tête de l'organisation, nous avons appris que [**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md) n'était pas au courant de l'ensemble des activités de l'organisation, notamment le trafic d'être vivants. 
+
+Nous avons décidé de nous allier avec quelqu'un d'autre et d'affronter **Cicéron**.

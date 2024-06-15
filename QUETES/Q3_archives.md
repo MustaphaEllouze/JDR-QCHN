@@ -144,7 +144,7 @@ Dans la mesure où le coût de réparation du stabilisateur de [**Brumebourg**](
 
 L'ensemble du stock de cristaux magiques est contrôlé par [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md), et c'est la [**Consule à Dvolsti**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md) qui est en charge de répartir le stock au sein de Dvolsti.
 
-D'un autre côté, plusieurs cristaux illégaux circulent en ville, le traffic étant contrôlé par les **Enfants de la Rue**. Les cristaux les plus gros sont détenus par le leader de l'organisation [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), qu'il garde dans les sous-sols de son manoir pour les plus petits, et dans les entrepôts des [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies) pour les plus grands.
+D'un autre côté, plusieurs cristaux illégaux circulent en ville, le traffic étant contrôlé par les **Enfants de la Rue**. Les cristaux les plus gros sont détenus par le leader de l'organisation [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), qu'il garde dans les sous-sols de son manoir pour les plus petits, et dans les entrepôts des [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies) pour les plus grands. D'autres cristaux sont également acheminés vers le port depuis [**Blanchécum**](../WORLDBUILDING/VILLES/Blanchécum.md).
 
 ### Mission : Voler des cristaux aux Enfants de la Rue
 Les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) gardent plusieurs cristaux en ville et aux alentours, et font en sorte de récupérer les cargaisons les plus intéressantes au port. 
@@ -284,6 +284,13 @@ Pour ce faire, **Griffes-Rouges** et **Paumes-Bleues** sont bien décidés à :
 
 En apprenant que les Aventuriers veulent venir à bout d'**Arkolapoulos**, c'est tout naturellement qu'ils proposeront leur aide afin de tuer le vieux leader.
 
+### Mission : S'allier avec Cicéron
+[**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md), bien qu'à la tête de l'organisation, n'est pas au fait de l'ensemble des activités, notamment pas celle de trafic d'être vivants.
+
+Ses parents ont été victimes de ce trafic, et [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) l'a juste recueilli pour le plaisir d'avoir un enfant centaure à ses côtés.
+
+Il est possible d'appuyer sur ce que lui cache son père adoptif afin de le ranger à ses côtés.
+
 ### Mission : S'alllier avec [Wardi Piotr](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md)
 
 L'enquêteur rovtalien est prêt à tout pour défaire les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) afin de pouvoir revenir triomphant dans sa ville. Il est prêt notamment à trouver des alliés plus qu'improbables pour en venir à bout. 
@@ -305,7 +312,7 @@ Dans l'organistion des **Enfants de la Rue**, seuls [**Arkolapoulos**](../WORLDB
 
 Quant à savoir pourquoi [les Sombres Artistes](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes) veulent s'en prendre à [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md), cela reste un mystère.
 
-## Quête : Infiltrer le manoir d'Arkolapoulos
+## Quête : Infiltrer les propriétés d'Arkolapoulos
 ### Mission : Décider de la façon de faire
 Il est totalement possible d'entrer de la maison du plus grand magnat de la ville. Encore faut-il en trouver le moyen.
 
@@ -331,3 +338,19 @@ Les objets suivants peuvent être trouvés en fouillant :
 * **Registre** des prêts à taux usuriers à différentes personnes de **Dvolsti**
 * **Registre** caché avec plusieurs fléchages de livraison d'esclaves vers des nobles du coin (dont des esclaves centaures)
 * **Cristaux magiques** de bonne qualité, pouvant intéresser les magiciens de la ville
+
+### Mission : Fouiller les Oliveraies
+Les [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies) sont organisées de la façon suivante : 
+* Des **oliviers** plantés à perte de vue ;
+* Plusieurs **petites maisons** servant de lieux de repos pour les travailleurs (qui ne sont là qu'en journée) ;
+* Plusieurs **entrepôts** servant à stocker les récoltes et les différents outils ;
+* Un entrepôt secret, avec de **très grands cristaux**, avec un **système d'alarme magique** permettant d'alerter de n'importe quelle intrusion.
+* **Maison secondaire d'[Arkolapoulos](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md)**, avec aussi un sous-sol secret avec salon, permettant de retrouver ses différents lieutenants.
+
+On peut retrouver des indices similaires sur les activités des [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) dans les **Oliveraies** et dans le Manoir d'**Arkolapoulos (cf. [Fouiller le manoir](#mission--fouiller-le-manoir)).
+
+## Quête : Désamorcer les tensions entre les familles Alexandros et Sfer
+### Mission : Prévenir la Consule des plans d'Emiliano
+[**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md) a pris contact avec les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) pour essayer de défaire la **Consule de Dvolsti**, [**Elèctre Alexandros**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md).
+
+Cette histoire peut tourner au vinaigre si rien n'est fait pour empêcher cela. Le contrat d'**Emiliano** comprend le fait de tuer la **Consule**.

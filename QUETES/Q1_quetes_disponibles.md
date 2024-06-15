@@ -1,41 +1,6 @@
 # Quêtes disponibles
 
-## Quête : Réparer le stabilisateur
-
-### Mission : Trouver un magicien compétent
-**Dvolsti** est connue pour ses quatre grands magiciens qui se sont disputés il y a quelques années. Ils se sont tous répartis à travers les quarties de la ville, afin de ne pas partager leur clientèle. Ils sont tous en mesure de réparer le cristal, mais la conjonction d'au moins deux d'entre eux serait l'idéal.
-
-* [Hafez Luxor](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Hafez_Luxor.md), spécialisé en magie de combat ([Quartier Sud](../WORLDBUILDING/VILLES/Dvolsti.md#quartier-sud---le-quartier-du-port-de-pêche)) ;
-* [Ioannis Krel](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Ioannis_Krel.md), spécialisé en magie utilitaire ([Quartier Ouest](../WORLDBUILDING/VILLES/Dvolsti.md#quartier-ouest---le-quartier-du-marché)) ;
-* [Krista Békar](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Krista_Békar.md), spécialisée en objets magiques ([Quartier Est](../WORLDBUILDING/VILLES/Dvolsti.md#quartier-est---le-quartier-résidentiel)) ;
-* [Serdj Hichééz](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Serdj_Hichééz.md), spécialisé en potions et alchimie ([Quartier Nord](../WORLDBUILDING/VILLES/Dvolsti.md#quartier-nord---le-quartier-du-port-de-commerce)).
-
-### Mission : Convaincre le magicien
-Chacun des magiciens de **Dvolsti** peut facilement être embauché pour faire le travail, mais la somme que chacun demande est assez élevée : **10.000 pièces d'or**.
-
-Cette somme est surtout justifiée par le coût des matières premières (les cristaux magiques à l'origine des stabilisateurs). Fournir les cristaux au magicien abaissera le coût de l'intervention à **1.000 pièces d'or**.
-
-## Quête : Trouver des cristaux
-
-### Mission : Identifier la localisation des cristaux
-Dans la mesure où le coût de réparation du stabilisateur de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) est très cher, il est possible de se procurer des **cristaux magiques** afin de faire baisser le prix de l'intervention. Cependant, il est assez dur de se procurer les cristaux facilement.
-
-L'ensemble du stock de cristaux magiques est contrôlé par [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md), et c'est la [**Consule à Dvolsti**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md) qui est en charge de répartir le stock au sein de Dvolsti.
-
-D'un autre côté, plusieurs cristaux illégaux circulent en ville, le traffic étant contrôlé par les **Enfants de la Rue**. Les cristaux les plus gros sont détenus par le leader de l'organisation [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), qu'il garde dans les sous-sols de son manoir pour les plus petits, et dans les entrepôts des [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies) pour les plus grands.
-
 ## Quête : Visiter Rovtal
-
-### Mission : Escorter les habitants de Brumebourg
-Au moins deux fois par an, certains membres de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) mandantent au moins des leurs pour aller faire les courses au [marché de Dvolsti](../WORLDBUILDING/VILLES/Dvolsti.md#la-place-du-marché-la-place-dum).
-
-Cette fois-ci, c'est au tour de [Kramer](../WORLDBUILDING/PERSONNAGES/BRUMEBOURG/Kramer_Grishka.md) d'y aller, afin d'aller chercher :
-* Des épices pour sa taverne et pour [Kaill Kutt](../WORLDBUILDING/PERSONNAGES/BRUMEBOURG/Kaill_Kutt.md) ;
-* Des matières premières pour le [forgeron](../WORLDBUILDING/PERSONNAGES/BRUMEBOURG/Vick_Ohm.md) et le [charpentier](../WORLDBUILDING/PERSONNAGES/BRUMEBOURG/Brego.md) : du cuir de bon qualité, quelques lingots de fer et d'acier, etc.
-
-Le départ de **Kramer** vers la ville peut se faire en parallèle de celui des aventuriers, si ceux-ci acceptent de l'accueillir dans leur groupe. 
-
-Le voyage de **Kramer** durera au plus deux ou trois jours sur place, le temps de tout récupérer. Il en profitera également pour récupérer les nouvelles des grandes villes afin de tenir les **brumebourgeois** informés.
 
 ### Mission : Retrouver le contact de Therra
 Après l'attaque de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) par les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue), [Therra](../WORLDBUILDING/PERSONNAGES/BRUMEBOURG/Therra_Sfer.md) a mandaté les aventuriers pour aller à [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md) afin de trouver quelqu'un pour réparer le stabilisateur de leylines.
@@ -53,25 +18,6 @@ Le seul moyen de faire ses papiers est de passer à Consulat et y faire la queue
 * Essayer de négocier avec [la personne derrière le comptoir](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Elvira_Phrodita.md).
 
 Fort heureusement, il est tout à fait possible de se procurer des faux papiers dans la rue...
-
-## Quête : Infiltrer les Enfants de la Rue
-
-### Mission : Trouver les quartiers de l'organisation
-Afin d'infiltrer au mieux l'organisation, rien de tel que de trouver le centre des opérations. Les **Enfants de la Rue** ont plusieurs bases partout à travers la ville, souvent différente en fonction des divisions.
-
-* **La Division Armée** se retrouve souvent dans l'entrepôt de la [*Taverne Familiale*](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale), ayant reçu les clés par [Arkolapoulos](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) ; 
-* **La Division des Renseignements** se retrouve sur les toits de **la place du marché**, là où personne ne peuvent les attraper.
-* **La Division Logistique**, assez petite en nombre, se retrouve dans le sous-sol d'une taverne affiliée, [**la Brasserie du Consulat**](../WORLDBUILDING/VILLES/Dvolsti.md#la-brasserie-du-consulat), en plein coeur du **Quartier administratif**.
-* **L'État-Major** se rencontre directement dans le [Manoir d'Arkolapoulos](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md).
-
-### Mission : Se renseigner sur les missions actuelles
-Les **Enfants de la Rue** ont toujours du travail sur la planche dans les villes environnentes.
-
-Un très gros sujet les occupe en ce moment : les **rivalités** entre les familles [Sfer](../WORLDBUILDING/PERSONNAGES/ROVTAL/GROUPES/Famille_Sfer.md) et [Alexandros](../WORLDBUILDING/PERSONNAGES/ROVTAL/GROUPES/Famille_Alexandros.md). Ces familles ont toujours été rivales, mais les tensions sont plus fortes que jamais en ce moment : la famille **Sfer** souhaite placer [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md), actuellement **Consul adjoint**, au rôle de **Consul**, à la place d'[**Elèctre Alexandros**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md). 
-
-C'est la **Division des Renseignements** qui est chargée de placer ses pions, notamment au sein des travailleurs des maisons. Pour ce faire, plusieurs membres de la division sont actuellement en déplacement, notamment [**Paumes-Bleues**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Paumes_Bleues.md), un des deux chefs de la division.
-
-D'un autre côté, [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md) a lui même contacté les **Enfants de la Rue** afin que, si le temps manque, ils assassinent [**Elèctre Alexandros**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md). Il prendrait alors de fait la place de **Consul**, au moins par intérim.
 
 ## Quête : Comprendre pourquoi Brumebourg a été attaquée
 ### Mission : Enquêter sur les intentions des Enfants de la Rue
@@ -105,16 +51,6 @@ Les objets suivants peuvent être trouvés en fouillant :
 * **Registre** caché avec plusieurs fléchages de livraison d'esclaves vers des nobles du coin (dont des esclaves centaures)
 * **Cristaux magiques** de bonne qualité, pouvant intéresser les magiciens de la ville
 
-### Mission : Fouiller les Oliveraies
-Les [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies) sont organisées de la façon suivante : 
-* Des **oliviers** plantés à perte de vue ;
-* Plusieurs **petites maisons** servant de lieux de repos pour les travailleurs (qui ne sont là qu'en journée) ;
-* Plusieurs **entrepôts** servant à stocker les récoltes et les différents outils ;
-* Un entrepôt secret, avec de **très grands cristaux**, avec un **système d'alarme magique** permettant d'alerter de n'importe quelle intrusion.
-* **Maison secondaire d'[Arkolapoulos](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md)**, avec aussi un sous-sol secret avec salon, permettant de retrouver ses différents lieutenants.
-
-On peut retrouver des indices similaires sur les activités des [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) dans les **Oliveraies** et dans le Manoir d'**Arkolapoulos (cf. [Fouiller le manoir](#mission--fouiller-le-manoir)).
-
 ## Quête : Défaire les Enfants de la Rue
 ### Mission : CARNAGE
 ![CARNAGE](../_images/CARNAGE.avif)
@@ -136,19 +72,8 @@ Pour ce faire, **Griffes-Rouges** et **Paumes-Bleues** sont bien décidés à :
 
 En apprenant que les Aventuriers veulent venir à bout d'**Arkolapoulos**, c'est tout naturellement qu'ils proposeront leur aide afin de tuer le vieux leader.
 
-### Mission : S'allier avec Cicéron
-[**Cicéron**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Cicéron_Prunos_Pupillus.md), bien qu'à la tête de l'organisation, n'est pas au fait de l'ensemble des activités, notamment pas celle de trafic d'être vivants.
-
-Ses parents ont été victimes de ce trafic, et [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) l'a juste recueilli pour le plaisir d'avoir un enfant centaure à ses côtés.
-
-Il est possible d'appuyer sur ce que lui cache son père adoptif afin de le ranger à ses côtés.
-
-### Mission : S'alllier avec [Wardi Piotr](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md)
-
-L'enquêteur rovtalien est prêt à tout pour défaire les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) afin de pouvoir revenir triomphant dans sa ville. Il est prêt notamment à trouver des alliés plus qu'improbables pour en venir à bout. 
-
-Il passe son temps quelque part en ville, dans une taverne prestigieuse du [Quartier Administratif](../WORLDBUILDING/VILLES/Dvolsti.md#quartier-central---le-quartier-administratif).
-
 ## Quête : Désamorcer les tensions entre les familles Alexandros et Sfer
-### Mission : Ecouter ce que la Consule a à dire
-La Consule est méfiante envers son adjoint qui a l'air de se comporter bizarrement depuis quelques temps à ses côtés. Il semble plus nerveux.
+### Mission : Prévenir la Consule des plans d'Emiliano
+[**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md) a pris contact avec les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) pour essayer de défaire la **Consule de Dvolsti**, [**Elèctre Alexandros**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md).
+
+Cette histoire peut tourner au vinaigre si rien n'est fait pour empêcher cela. Le contrat d'**Emiliano** comprend le fait de tuer la **Consule**.
