@@ -42,7 +42,7 @@
 * **95** : Il s'installe à [**Rovtal**](../../VILLES/Rovtal.md) et se rapproche progressivement des instances de décision de la ville, notamment les familles nobles. 
 * **115** : Il transforme [Ethérios Sfer](./Ethérios_Sfer.md) âgé de **35 ans** en [**Sombraur**](../../ESPECES/ESPECES_MAGIQUES/Sombraur.md).
 * **117** : Remonte un nouveau *clan*, [**les Sombres Artistes**](../../VILLES/Rovtal.md#les-sombres-artistes), sous l'impulsion et grâce à [Ethérios Sfer](./Ethérios_Sfer.md).
-* **380** : Propose ses services à la famille royale en tant que **Conseiller de la Magie**. Il est attaché à la famille [**Zografos**](../ROVTAL/GROUPES/Famille_Zografos.md).
+* **380** : Se met en hibernation car pense qu'il ne trouvera pas tout de suite réponse à ses questions sur l'ouverture du portail.
 
 ## Combat
 
