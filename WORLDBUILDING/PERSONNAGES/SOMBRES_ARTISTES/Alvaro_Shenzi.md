@@ -1,10 +1,10 @@
-# Alvaro Shenzi
+# Alvaro Shenzi - Main Noire
 ![Alvaro Shenzi](../../../_images/alvaro.png)
 
 ## Infos 
 | Âge | Espèce | Occupation | Alignement | MBTI |
 | --- | ------ | ---------- | ---------- | ---- |
-| 432 ans | Léonin / Sombraur | Main Noire | Chaotic Evil | ENTP |
+| 432 ans | Léonin / Sombraur | Main Noire | Neutral Evil | ENTP |
 
 ## Localisation actuelle
 [Rovtal](../../VILLES/Rovtal.md)
