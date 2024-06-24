@@ -153,7 +153,7 @@ Les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la
     * [**Djibril**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Djibril_Niil.md) est souvent mandaté avec ses hommes afin d'aller récupérer les cristaux au port. Il est accompagné de certains de ses hommes de mains, au cas où les tentatives d'intimidation tournent mal.
 * **Aux Oliveraies** : Les plus gros cristaux sont ensuite amenés aux [**Oliveraies**](../WORLDBUILDING/VILLES/Dvolsti.md#les-oliveraies), afin d'y être stockés, puis revendus aux plus offrants.
 
-## Quête : Visiter Rovtal
+## Quête : Visiter Dvolsti
 
 ### Mission : Escorter les habitants de Brumebourg
 Au moins deux fois par an, certains membres de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) mandantent au moins des leurs pour aller faire les courses au [marché de Dvolsti](../WORLDBUILDING/VILLES/Dvolsti.md#la-place-du-marché-la-place-dum).
@@ -171,6 +171,8 @@ Après l'attaque de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md) par 
 
 Afin de leur faciliter la tâche, elle peut contacter un des membres de sa famille, qui sert d'**adjoint** à la [**Consule**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md) : un saurien du nom de [**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md). Celui-ci fera en sorte de s'assurer qu'ils arrivent au moins à bon port, et qu'ils aient de quoi subsister les premiers jours.
 
+**Emiliano** a pris contact avec les **Enfants de la Rue** pour une mission d'assassinat de la Consule, [**Elèctre Alexandros**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md).
+
 ### Mission : Faire ses cristaux d'identité au Consulat
 Tôt ou tard à [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md), chacun finit par tomber sur un membre de la police locale qui lui demande ses papiers. Cette mesure a été prise il y a de cela quelques semaines par [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md) afin de pouvoir mieux contrôler la population et pouvoir prévenir les futurs soucis causés par les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue).
 
@@ -180,6 +182,7 @@ Le seul moyen de faire ses papiers est de passer à Consulat et y faire la queue
 * Essayer de négocier avec [la personne derrière le comptoir](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Elvira_Phrodita.md).
 
 Fort heureusement, il est tout à fait possible de se procurer des faux papiers dans la rue...
+
 
 ### Mission : Visiter la *Taverne Familiale*
 La [*Taverne familiale*](../WORLDBUILDING/VILLES/Dvolsti.md#la-taverne-familiale) est un des pivots centraux de la ville de **Dvolsti** est il serait dommage de ne pas y aller faire un tour. 
@@ -329,7 +332,7 @@ Le manoir d' [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/A
 * **Cour d'entrée**
 * **Jardin extérieur**
 * **Rez-de-chaussée** : Cour intérieure (avec fontaine), salon des invités, salon pour les officiels (salon d'honneur), cuisine, toilettes, salle à manger
-* **Etage** (escaliers sur le côté pour monter) : Cambre d'**Arkolapoulos**, Chambre de **Cicéron**, Bureau d'**Arkolapoulos**, Chambre d'invités, Bibliothèque
+* **Etage** (escaliers sur le côté pour monter) : Chambre d'**Arkolapoulos**, Chambre de **Cicéron**, Bureau d'**Arkolapoulos**, Chambre d'invités, Bibliothèque
 * **Sous-sol** (secret, entrée cachée dans la cuisine): Entrepôt secret, Salon de réunion
 
 Les objets suivants peuvent être trouvés en fouillant :
