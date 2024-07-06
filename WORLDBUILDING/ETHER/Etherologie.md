@@ -127,7 +127,7 @@ Des éthers maintenus en position coordonnée éthérique légèrement décalée
 
 > **Note** :
 > 
-> Les éthers **solvants** sont la classe d'éthers sont capables d'agencer un grand nombre d'autres éthers orthogonalement, de les maintenir en position, et sont ceux qui, facilement, peuvent rester dans le plan courant.
+> Les éthers **solvants** sont la classe d'éthers sont capables d'agencer un grand nombre d'autres éthers orthogonalement, de les maintenir en position, et sont ceux qui, facilement, peuvent rester dans le plan courant. On note généralement leur *zone d'influence* via la distance $\Delta\varepsilon_{max}.$
 
 ### Principe de décharge éthérique
 
