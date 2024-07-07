@@ -130,10 +130,22 @@ Des éthers maintenus en position coordonnée éthérique légèrement décalée
 > Les éthers **solvants** sont la classe d'éthers sont capables d'agencer un grand nombre d'autres éthers orthogonalement, de les maintenir en position, et sont ceux qui, facilement, peuvent rester dans le plan courant. On note généralement leur *zone d'influence* via la distance $\Delta\varepsilon_{max}.$
 
 ### Principe de décharge éthérique
+L'ensemble des **éthers** disposent de plusieurs niveaux d'énergie, et peuvent être excités afin de monter à un niveau d'énergie supérieure, notamment par un manipulateur d'éther.
 
-> **Note** :
-> 
-> Ethers dynamique / élémentaire
+Naturellement ensuite, les **éthers** peuvent passer à un niveau d'énergie inférieure, tout en transformant cette énergie libérée en un autre type d'énergie
+
+> Note :
+> * Les éthers **dynamiques** transforment cette énergie en **énergie cinétique** afin de se mettre en mouvement ;
+> * Les éthers **élémentaires** transforment cette énergie en **énergie éthérique**, afin de tirer de la matière depuis un plan dans lequel il seraient plus stables.
+
+On distingue généralement deux constantes :
+* $\tau_d$ : le temps de **demi-vie de décharge**, temps au bout duquel la moitié des éthers se sont déchargés ;
+* $\alpha_{cin}$ : coefficient cinétique, pourcentage d'énergie qui est transformée en énergie cinétique pure.
+
 
 ### Stabilisation des éthers
 En dehors de l'attraction *naturelle* des plans, il est possible d'agir sur les **éthers** afin de les stabiliser.
+
+En général, cela consiste en la combinaison des **éthers** avec d'autres **éthers** plus stables dans le plan de stabilisation, ou qui sont moins stables dans le plan vers lequel les autres sont attirés. Ainsi, la combinaison de tous ces éthers à tendance à être moins *réactive* que les éthers seuls.
+
+Certains sont éthers sont également beaucoup plus efficaces à emprisonner d'autres éthers en leur sein.
