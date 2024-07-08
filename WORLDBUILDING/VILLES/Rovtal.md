@@ -17,7 +17,7 @@ Malgré la prévalence des cultes de **Italis** et **Muhuta**, d'autres cultes e
 ### La guilde des ingénieurs
 ![Rovtal](../../_images/Rovtal15.png)
 
-### L'Ecole des Mages
+### L'Ecole d'Ethérologie
 
 ![Rovtal](../../_images/Rovtal7.png)
 
@@ -26,6 +26,11 @@ Malgré la prévalence des cultes de **Italis** et **Muhuta**, d'autres cultes e
 
 ### Maison de la [Famille Sfer](../PERSONNAGES/ROVTAL/GROUPES/Famille_Sfer.md)
 ![Rovtal](../../_images/Rovtal25.png)
+
+### Le Réseau de Caves
+La ville de Rovtal ayant son centre-ville caché dans un gouffre gigantesque, elle abrite naturellement un système de caves très complexe dans ses **Tréfonds**.
+
+Ces caves sont peu *civilisées* et sont occupées par des animaux et bêtes en tout genre, ainsi que des citoyens pauvres.
 
 ## Les Sombres Artistes
 ![Culte](../../_images/sombraur_ritual.png)
@@ -39,8 +44,8 @@ De nos jours, ils essayent également de développer leur sens de la communauté
 
 ## Événements marquants
 * **95** : Arrivée de [Federi Gox](../PERSONNAGES/SOMBRES_ARTISTES/Federi_Gox.md), [Alvaro Shenzi](../PERSONNAGES/SOMBRES_ARTISTES/Alvaro_Shenzi.md) et [Maria Ufassa](../PERSONNAGES/SOMBRES_ARTISTES/Maria_Ufassa.md).
-* **162** : Création de l'[**Ecole des Mages**](#lecole-des-mages).
-* **173** : Invention des **stabilisateurs artificiels** de leyline par la toute naissante [**Ecole des Mages**](#lecole-des-mages).
+* **162** : Création de l'[**Ecole d'Ethérologie**](#lecole-dethérologie).
+* **173** : Invention des **stabilisateurs artificiels** de leyline par la toute naissante [**Ecole d'Ethérologie**](#lecole-dethérologie).
 
 ## Traditions et particularités
 ### La Surface, les Flancs et les Tréfonds
