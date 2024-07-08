@@ -5,7 +5,7 @@
 ## Infos 
 | Âge | Espèce | Occupation | Alignement | MBTI |
 | --- | ------ | ---------- | ---------- | ---- |
-| 26 ans | Felicis | Chef de division | Lawful Neutral | INTJ |
+| 26 ans | Felicis/Sombraur | - | Lawful Neutral | INTJ |
 
 ## Localisation actuelle
 [Dvolsti](../../VILLES/Dvolsti.md)
@@ -25,6 +25,9 @@
 ## Événements marquants
 * **13 Tewl 432** : A appris avec sa soeur l'identité des employeurs des [**Enfants de la Rue**](../../VILLES/Dvolsti.md#les-enfants-de-la-rue) pour la destruction du **stabilisateur de leyline** de [**Brumebourg**](../../VILLES/Brumebourg.md) : les [**Sombres Artistes**](../../VILLES/Rovtal.md#les-sombres-artistes) ; ainsi que la nature de la récompense promise à [**Arkolapoulos**](./Arkolapoulos_Prunos.md) : devenir un [**Sombraur**](../../ESPECES/Especes_Magiques.md#sombraur).
 * **16 Tewl 432** : Avec sa soeur, entre en contact avec les [**Sombres Artistes**](../../VILLES/Rovtal.md#les-sombres-artistes) qui lui promettent de la transformer lui et sa soeur en **Sombraurs** pour peu qu'ils fassent régner le chaos dans [**Dvolsti**](../../VILLES/Dvolsti.md) en plus de détruire le stabilisateur de [**Brumebourg**](../../VILLES/Brumebourg.md). Cette promesse reviendrait à trahir [**Arkolapoulos**](./Arkolapoulos_Prunos.md)
+* **14 Kegn 432** : S'allie avec sa soeur aux Aventuriers pour défaire [**Arkolapoulos**](../ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md).
+* **16 Kegn 432** : Découvre les expériences d'**Arkolapoulos** sur l'extraction de l'énergie magique des êtres vivants et le communique aux [Sombres Artistes](../../VILLES/Rovtal.md#les-sombres-artistes).
+* **18 Kegn 432** : Devient un Sombraur après avoir livré les résultats des expériences d'Arkolapoulos à [**Federi Gox**](../SOMBRES_ARTISTES/Federi_Gox.md).
 
 ## Combat
 [Stats](../../../STAT_BLOCKS/PERSONNAGES/PaumesBleues.md)

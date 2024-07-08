@@ -19,9 +19,12 @@
 * Il est timide et rêveur
 * Il se touche beaucoup les cheveux quand il parle
 * Il ne s'implique pas beaucoup dans les activités fortement illégales des **Enfants de la Rue**, uniquement dans le trafic de cristaux et les trafics d'animaux exotiques. Les activités d'usure et de trafic de personnes lui sont cachées.
+* Il est parfois contrôlé magiquement par son père adoptif, [Arkolapoulos](./Arkolapoulos_Prunos.md). Il ne garde alors pas de souvenir.
 
 ## Événements marquants
-* **403** : Est kidnappé avec ses parents par [**Arkolapoulos**](./Arkolapoulos_Prunos.md), ses parents sont revendus en tant qu'esclaves, tandis qu'il est adopté par **Arkolapoulos**.
+* **403** : Est kidnappé avec ses parents par [**Arkolapoulos**](./Arkolapoulos_Prunos.md), ses parents sont utilisés dans les expériences d'Arkolapoulos, tandis qu'il est adopté par **Arkolapoulos**.
+* **15 Kegn 432** : Lors de l'assaut du manoir d'[Arkolapoulos](./Arkolapoulos_Prunos.md), il est assomé puis *kidnappé* par les Aventuriers pour aller lui expliquer que son père le manipulait et le contrôlait mentalement. Une mauvaise approche fait qu'il ne leur fait pas confiance et fuit.
+* **16 Kegn 432** : Il se cache dans les **Oliveraies**, avant que les Aventuriers ne le trouvent et ne lui expliquent la vérité. Il ne leur fait cependant pas encore totalement confiance.
 
 ## Combat
 
@@ -29,4 +32,3 @@
 * Se touche les cheveux en parlant
 * Marquer de longues pauses rêveuses en parlant
 * Voix douce
-* Joue les gamins un peu bête quand il est en présence de personnes pas au courant de son implication avec les Enfants de la Rue

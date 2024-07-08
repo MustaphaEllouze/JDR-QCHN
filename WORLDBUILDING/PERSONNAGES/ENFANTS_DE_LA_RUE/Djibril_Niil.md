@@ -1,4 +1,4 @@
-# :skull::skull::skull: Djibril Niil - Chef de groupe :skull::skull::skull:
+# :skull::skull::skull: Djibril Niil :skull::skull::skull: - Chef de groupe
 ![Djibril Niil](../../../_images/djibril.webp)
 
 ## Infos 

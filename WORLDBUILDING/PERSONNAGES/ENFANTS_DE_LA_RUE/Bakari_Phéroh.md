@@ -1,4 +1,4 @@
-# Bakari Phéroh - Chef de division
+# :skull::skull::skull: Bakari Phéroh :skull::skull::skull: - Chef de division
 ![Bakari Phéroh](../../../_images/bakari_pheroh.png)
 ![Bakari Phéroh](../../../_images/dead_bakari.png)
 
@@ -20,6 +20,7 @@
 * C'est le rival *cordial* de [Bakari Mikhaïl ](./Bakari_Mikhail.md).
 
 ## Événements marquants
+* **15 Kegn 432** : Tué par les Aventuriers lors de l'assaut des [Oliveraies](../../VILLES/Dvolsti.md#les-oliveraies).
 
 ## Combat
 [Stats](../../../STAT_BLOCKS/PERSONNAGES/BakariPhéroh.md)

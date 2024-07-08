@@ -1,4 +1,4 @@
-# :skull::skull::skull: Phane Miton - Membre :skull::skull::skull:
+# :skull::skull::skull: Phane Miton :skull::skull::skull: - Membre
 ![Phane Miton](../../../_images/bandit_cache.png)
 
 ## Infos 
