@@ -9,10 +9,11 @@
 |               |Elfe de feu|1m70|70 kg|210 ans|
 |               |Elfe de bois|1m85|70 kg|250 ans|
 | Reptiloïde    |||||
-|               |Saurien|1m55|70 kg|60 ans|
+|               |Saurien|1m55|65 kg|80 ans|
 |               |Alligatoride|1m80|110 kg|70 ans|
 |               |Tortuguéen|1m50|140 kg|200 ans|
 |               |Varanide|1m70|75 kg|90 ans|
+|               |Camélonide|1m55|50 kg|70 ans|
 | Félinoïde     |||||
 |               |Léonin|1m85|120 kg|80 ans|
 |               |Tigrylien|1m75|100 kg|70 ans|
