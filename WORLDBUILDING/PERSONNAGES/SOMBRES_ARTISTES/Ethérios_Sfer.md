@@ -25,6 +25,7 @@
     * Etherios II et Etherios III étaient véritablement quelqu'un d'autre, son fils qu'il a eu avant de se transformer en Sombraur, et le fils de ce dernier. 
     * Etherios II a eu le temps d'avoir d'autres enfants, qui ont assuré la préservation de la lignée.
     * **Etherios** a assassiné son fils et son petit-fils et les a remplacé par des illusions lorsqu'il a senti qu'il devenait trop vieux pour continuer à vivre sans que les autres ne se posent de question quant à sa longévité.
+* Il est mécène des l'[Ecole de l'Ethérologie](../../VILLES/Rovtal.md#lecole-dethérologie), dans laquelle il investit car il s'intéresse aux expériences qui peuvent aider les [Mains Noires](../../VILLES/Rovtal.md#les-sombres-artistes).
 
 ## Événements marquants
 * **112** : Il a un enfant, **Etherios II**.

@@ -1,4 +1,5 @@
 # Nyx Kwestyon - Main Noire / Chef de la police de Rovtal
+![Nyx](../../../_images/nyx2.png)
 ![Nyx](../../../_images/Nyx.png)
 
 ## Infos 
