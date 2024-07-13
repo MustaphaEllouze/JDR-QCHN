@@ -1,6 +1,6 @@
 # Lazaros Alexandros - Main Noire
+![Lazaros Alexandros](../../../_images/lazaros3.png)
 ![Lazaros Alexandros](../../../_images/lazaros.png)
-![Lazaros Alxandros](../../../_images/lazaros_2.png)
 
 ## Infos 
 | Âge | Espèce | Occupation | Alignement | MBTI |

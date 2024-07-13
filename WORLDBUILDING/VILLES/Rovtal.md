@@ -19,13 +19,26 @@ Malgré la prévalence des cultes de **Italis** et **Muhuta**, d'autres cultes e
 
 ### L'Ecole d'Ethérologie
 
-![Rovtal](../../_images/Rovtal7.png)
+![Rovtal](../../_images/ecole_etherologie.png)
+![Rovtal](../../_images/ecole_etherologie2.png)
+![Rovtal](../../_images/ecole_etherologie3.png)
 
 ### Le Pont du Détroit
-![Rovtal](../../_images/Rovtal8.png)
+![Rovtal](../../_images/ponte_detroit.png)
+
+Le **Pont du Détroit** est l'un des premières structures que l'on peut rencontrer en venant à **Rovtal** depuis l'**Est**.
+
+**Rovtal** étant construite autour d'un gouffre, il est assez difficile de descendre dans les **Tréfonds** sans passer par des points de contrôles bien gardés. Vers l'Est, c'est le **Pont du Détroit** qui assure cette position.
+
+Situé un peu en marge de la ville, il est entouré de plusieurs arcades (côté ville), sous lesquelles se trouvent plusieurs étales, qui servent de commerce pour toute personne venant près de la ville sans vouloir y entrer.
+
+Des membres de la garde sont présents près du pont, mais cela n'empêche pas quelque brutes locales, les **Brigands du Détroit**, de sévir, notamment grâce à leur chef [**Edem Kurt**](../PERSONNAGES/ROVTAL/EdemKurt.md), qui n'hésite pas à les corrompre.
 
 ### Maison de la [Famille Sfer](../PERSONNAGES/ROVTAL/GROUPES/Famille_Sfer.md)
 ![Rovtal](../../_images/Rovtal25.png)
+
+### Le Stabilisateur Naturel
+![Stabilisateur](../../_images/cristal_rovtal.png)
 
 ### Le Réseau de Caves
 La ville de Rovtal ayant son centre-ville caché dans un gouffre gigantesque, elle abrite naturellement un système de caves très complexe dans ses **Tréfonds**.
@@ -41,6 +54,13 @@ Derrière cette organisation, se cache les **Mains Noires**, la tête pensante d
 Les intentions des **Sombres Artistes** n'est pas très claire. Ils partagent cependant tous une idéologie commune : ils voient dans leur dieu, **Komorath**, une sorte de **sauveur** qui leur donne une raison d'exister au-delà de leur simple individualité.
 
 De nos jours, ils essayent également de développer leur sens de la communauté afin de contrer l'influence des **familles nobles** dans la ville, qui n'a pas grand-chose à faire de la *populace*. Leurs actions servent également à faciliter la vie de leurs **leaders** dans la société.
+
+## Les Brigands du Détroit
+Cette organisation est une bande de voleurs locaux, sévissant près du [Pont du Détroit](#le-pont-du-détroit), qui profitent de l'ignorance de certains visiteurs de la ville pour s'enrichir. 
+
+Ils essaient de rester loin de toute garde près du **Pont**, mais cela ne leur empêche pas de corrompre certains d'entre eux.
+
+Ils sont dirigés par [**Èdem Kurt**](../PERSONNAGES/ROVTAL/EdemKurt.md).
 
 ## Événements marquants
 * **95** : Arrivée de [Federi Gox](../PERSONNAGES/SOMBRES_ARTISTES/Federi_Gox.md), [Alvaro Shenzi](../PERSONNAGES/SOMBRES_ARTISTES/Alvaro_Shenzi.md) et [Maria Ufassa](../PERSONNAGES/SOMBRES_ARTISTES/Maria_Ufassa.md).

@@ -12,3 +12,5 @@ Le système politique de Caproch s'organise autour de ses grandes familles. Rég
 Il y a déjà plus d'une centaine d'années, des tisserands (activité généralement peu pratiquée par les grandes familles) de la population générale se sont réunis afin de faire valoir leur intérêt propre. Cette organisation, qui se nomma alors simplement **les Tisserands**, pris de plus en plus d'ampleur au fur et à mesure des années, si bien qu'elle devint *de facto* l'organisation qui influence le plus Caproch, et qui ose mener des pratiques parfois mal vues par les grandes familles. 
 
 Les **Tisserands** est une organisation discrète, dont l'existence est attestée, dont les membres se renouvellent par initiation : un nouveau membre peut être proposé par un membre actuel, et après maintes "épreuves", la nouvelle recrue est intégrée. Dans sa jeunesse, cette organisation a longtemps éviter à ce que les grandes familles l'infiltrent ; de nos jours, c'est un endroit où les grandes familles peuvent cotoyer le peuple, et où la plupart des membres ne sont plus tisserands.
+
+## Les Tisserands

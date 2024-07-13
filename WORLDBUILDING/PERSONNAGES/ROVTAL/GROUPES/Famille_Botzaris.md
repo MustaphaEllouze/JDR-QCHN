@@ -8,3 +8,4 @@ Elle est en conflit avec la famille [**Zografos**](./Famille_Zografos.md), chacu
 
 ## Membres
 * [Alexander Botzaris](../../SOMBRES_ARTISTES/Alexander_Botzaris.md)
+* [Valéria Botzaris](../../SOMBRES_ARTISTES/Valéria_Botzaris.md)

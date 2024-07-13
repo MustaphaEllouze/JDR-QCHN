@@ -5,7 +5,7 @@
 |   ---      |   ---  |    ---     |    ---    |          ---       |
 | Brumebourg | 240    | Cultures | Vassal de Rovtal | - |
 | Dvolsti    | 3500   | Cuisiniers | Vassal de Rovtal | Les Enfants de la Rue |
-| Rovtal     | 28500  | Vins | Féodalité | Les Sombres Peintres |
+| Rovtal     | 28500  | Vins | Féodalité | Les Sombres Artistes |
 | Caproch    | 17300  | Tissus, Livres, Cartes| Oligarchie | Les Tisserands |
 
 ## Grandes villes

@@ -1,5 +1,8 @@
 # Maria Ufassa - Main Noire
+![Maria Ufassa](../../../_images/maria3.png)
 ![Maria Ufassa](../../../_images/maria.png)
+![Maria Ufassa](../../../_images/maria2.png)
+![Maria Ufassa](../../../_images/maria4.png)
 
 ## Infos 
 | Âge | Espèce | Occupation | Alignement | MBTI |

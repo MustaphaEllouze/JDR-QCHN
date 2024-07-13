@@ -1,4 +1,5 @@
 # Alvaro Shenzi - Main Noire
+![Alvaro Shenzi](../../../_images/alvaro2.png)
 ![Alvaro Shenzi](../../../_images/alvaro.png)
 
 ## Infos 

@@ -51,6 +51,12 @@ Une pratique saurienne courante est de prendre le nom de famille de son conjoint
 ![Tortuguéen](../../_images/Arkolapoulos.png)
 
 ### Varanides
+![Varanide](../../_images/scraps/varanid_city_guard.png)
+Les **Varanides** portent généralement des noms rappelant les sonorités **turques**.
+
+### Camélonide
+![Camélonide](../../_images/scientific.png)
+Les **Camélonides** portent généralement des noms rappelant les sonorités d'**Europe de l'Est**.
 
 ## Félinoïde
 ### Léonins

@@ -10,4 +10,4 @@ Famille guerrière, elle aspire un jour s'élever au rang de noblesse, pour peu 
 ## Membres
 * [**Trébwon Kwestyon**](../../BRUMEBOURG/Trébwon_Kwestyon.md)
 * [**Trébyen Kwestyon**](../../BRUMEBOURG/Trébyen_Kwestyon.md)
-* [**Valéria Kwestyon**](../../SOMBRES_ARTISTES/Valéria_Kwestyon.md)
+* [**Nyx Kwestyon**](../../SOMBRES_ARTISTES/Nyx_Kwestyon.md)

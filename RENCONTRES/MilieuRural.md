@@ -19,3 +19,14 @@
 **XP** : 250 XP
 
 **Scope** : Difficile au niveau 2.
+
+## Rencontre Rural 3 - Au niveau d'un pont
+* 1 [Gladiateur](../STAT_BLOCKS/CLASS/Gladiateur.md)
+* 2 [Chevalier](../STAT_BLOCKS/CLASS/Chevalier.md)
+* 2 [Malfrat](../STAT_BLOCKS/CLASS/Malfrat.md)
+
+**Objectif** : Aider un PNJ en détresse
+
+**XP** : 3000
+
+**Scope** : Difficile au niveau 5

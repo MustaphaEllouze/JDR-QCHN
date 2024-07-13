@@ -8,4 +8,4 @@ Elle a toujours eu des relations assez tendues avec les autres familles nobles, 
 
 ## Membres
 * [Elèctre Alexandros](../../DVOLSTI/Elèctre_Alexandros.md)
-* [Nyx Alexandros](../../SOMBRES_ARTISTES/Nyx_Alexandros.md)
+* [Lazaros Alexandros](../../SOMBRES_ARTISTES/Lazaros_Alexandros.md)
