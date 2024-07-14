@@ -66,3 +66,41 @@ A la récupération du **cristal de sang**, **Stjepan** s'attèle à essayer son
 Grâce à cette **source d'éther**, il réussit son expérience d'ouverture d'un portail vers un plan. Il n'arrive pas à maintenir le portail ouvert très longtemps, juste assez pour que les Aventuriers puissent l'observer.
 
 Cette expérience n'est concluante que parce que le cristal a été utilisé. **Stjepan** va essayer de se renseigner sur le cristal, mais sa nature aurait tendance à l'inquiéter.
+
+## Quête : Disparitions aux temples
+### Mission : Enquêter sur les disparitions auprès du temple d'Italis
+Un prêtre d'Italis a disparu, il était en *échange* avec le temple de Muhuta. Il disparaît peu de temps après.
+
+Il a retrouvé des affaires de son prêtre près du temple de Muhuta, donc accuse ce dernier.
+
+Cependant, il a aussi été au centre d'une dispute avec le prêtre qui a disparu, car il n'était pas d'accord sur les finances du temple. Le prêtre a disparu quelques jours après la dispute.
+
+Le grand prêtre a tardé a révéler la disparition, car il avait peur qu'on le lie à lui. Des rumeurs courent que le grand prêtre voulait faire une purification du temple pour revenir à des techniques les plus orthodoxes, mais ce n'est pas vrai.
+### Mission : Fouiller le temple d'Italis
+La chambre du prêtre qui a disparu : des notes de comme quoi il a peur qu'il y ait des gens qui fassent des rituels occultes dans le temple de Muhuta, il a vu des choses
+
+En fouillant la chambre du prêtre qui a disparu, on trouve de fausses lettres écrites par un prêtre jaloux qui essaye d'inculper le grand prêtre d'Italis. Ce sont des lettres de menace envers le prêtre qui a disparu. Elles l'accusent de ne pas être assez proche de sa foi orthodoxe.
+
+### Mission : Interroger les prêtes de Muhuta
+La grande prêtresse de Muhuta fait des potions qui ont pas l'air très conventionnelles. Elle a reçu la personne qui a disparu, juste avant qu'elle se fasse enlever, mais elle refuse de l'admettre.
+
+D'autres prêtres disent ce qu'elle refuse d'admettre.
+### Mission : Fouiller le temple de Muhuta
+En allant dans le bureau de la prêtresse, clairement il y a des traces de potions bizarroïdes.
+
+Elle en voulait en fait à quelque d'autre, son mari, et elle a tenté de faire une potion afin de lui faire admettre des choses. Mais du coup il y a des recettes très bizarres dans son bureau.
+
+### Mission : Interroger les prêtres de Komorath
+Les prêtres de Komorath sont connus pour ne pas être très appréciés, leur culte est toléré mais pas officiel. Il dit que Komorath est souvent injustement accusé de tous les maux de la terre.
+
+Il y a déjà eu des tensions avec leurs autres membres de autres cultes. Notamment, parce le culte n'est pas subventionné par la couronne.
+### Mission : Fouiller le temple de Komorath
+En y allant la nuit, on peut découvrir certains membres du temple qui font partie des Sombres Artistes fait des réunions secrètes s'entretenant des nouvelles missions qui viennent des Tréfonds (de la part d'Etherios).
+
+Possibilité de trouver des pièces fermées et cachées dans les sous-sol.
+
+### Mission : Retrouver le kidnapper
+C'est un prêtre de Komorath.
+
+### Mission : Comprendre les missions du kidnapper
+Il a kidnappé pour donner des vies à consommer pour Griffes Rouges et Paumes Bleues.

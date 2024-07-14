@@ -9,11 +9,6 @@ Des histoires de confrontation avec ces templs existent, d'autant plus que c'est
 ### Mission : Trouver un Fils-des-Ombres
 
 ## Quête : Visiter Rovtal
-### Mission : Visiter l'Ecole d'Etherologie
-* Assister à une séance théorique sur l'éther
-* Rencontrer Stjepan
-* Asssister à une séance pratique
-* Etherios passe faire un coucou à l'Ecole car c'est un des mécènes
 ### Mission : Visiter la Surface
 Aller au marché
 
@@ -71,12 +66,6 @@ Trouver des preuves des atrocités qu'il commet
 Infiltration de la prison secrète de Nyx
 
 Trouver des anciens 
-
-## Quête : Le Culte de Komorath
-### Mission : Enquêter la place du culte en ville
-Découvrir des personnes qui font partie du culte
-### Mission : Enquêter sur l'organisation du culte
-Assister à une séance religieuse du culte
 
 --- 
 
