@@ -5,7 +5,7 @@
 
 | Âge | Espèce | Occupation | Alignement | MBTI |
 | --- | ------ | ---------- | ---------- | ---- |
-| 39 ans | Camélonide | Ethérologiste | Chaotic Good | ENFP |
+| 39 ans | Camélonide | Ethérologiste, Professeur | Chaotic Good | ENFP |
 
 ## Localisation actuelle
 [**Rovtal**](../../VILLES/Rovtal.md)
@@ -22,6 +22,7 @@
 * Il adore tester de nouvelles théories, mais s'énerve vite quand il n'arrive pas à trouver.
 * N'est absolument pas religieux, contrairement à sa ville de résidence.
 * Depuis quelques années, il se concentre sur l'ouverture d'un portail pour accéder à d'autres plans, mais cette recherche est mal vue.
+* Il occupe un poste de **professeur** à temps plein, où il enseigne l'éthérologie aux débutants.
 
 ## Événements marquants
 * **393** : Naissance à [**Verbourg**](../../VILLES/Verbourg.md)
@@ -34,4 +35,10 @@ S.O.
 
 ## Roleplay
 * Faire des bruits de langues
+* Bégaye
 * Très enthusiaste
+
+## Images
+
+### Son bureau
+![Bureau](../../../_images/bureau%20stjepan.png)

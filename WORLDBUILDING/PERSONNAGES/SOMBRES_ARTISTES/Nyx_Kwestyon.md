@@ -22,6 +22,7 @@
 * Chef de la police de [**Rovtal**](../../VILLES/Rovtal.md)
 * Il s'est servi de ses pouvoirs de **Sombraur** pour accéder plus simplement au poste de **chef de police**.
 * Est connu pour réussir à extraire n'importe quel information de la part d'un malfaiteur. En réalité, il torture les prisonniers de la police jusqu'à ce qu'ils parlent.
+* Il est le **Chef de la Police de Rovtal**, notamment du **District des Tréfonds**. Il se rend parfois à la **Surface** pour certaines affaires, mais préfère rester dans les **Tréfonds**.
 
 ## Événements marquants
 * **367** : Naissance

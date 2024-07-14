@@ -45,8 +45,24 @@ La **source** est détenue par une créature géante, un **Aigle-Corbeau Géant*
 Ce **cristal de sang** est issu des expériences menées par les [**Sombres Artistes**](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes), suite à l'obtention des écrits des expériences d'[Arkolapoulos](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md). Il porte une magie puissante en lui, issue de l'extraction à partir d'êtres vivants. Ce cristal a été volé par l'**Aigle-Corbeau** en passant par les parois des grottes environnantes, car attiré par cette magie singulière.
 
 ### Mission : Aller rencontrer Stjepan à l'Ecole d'Ethérologie
-Parler des nouvelles technologies en cours de développement
+[Stjepan](../WORLDBUILDING/PERSONNAGES/ROVTAL/Stjepan_Lugari.md) donne rendez-vous aux aventuriers s'ils ont bien voulu l'aider à l'[Ecole d'Ethérologie](../WORLDBUILDING/VILLES/Rovtal.md#lecole-dethérologie), à laquelle il est professeur et dans laquelle il a un bureau.
 
-### Mission : Aider Stjepan à trouver une source d'éther
-### Mission : Assister Stjepan lors de son expérience
-### Mission : Empêcher la fuite de ses découvertes
+L'entrée de l'école est ouverte au public dans les parties communes, cependant l'accès au bureau et aux salles de cours des étudiants avancés est interdite. **Stjepan** peut cependant donner l'autorisation pour l'accès aux parties sensibles.
+
+Il est reconnaissant envers les **Aventuriers** s'ils l'ont aidé à trouver la **source d'éther** qu'il cherchait avec son détecteur de magie. Il peut offrir plusieurs objets magiques différents, mais aura tendance à proposer sa nouvelle invention : [une Carafe Intarissable](../RECOMPENSES/PEU_COURANTES.md#carafe-intarissable).
+
+Il peut également sentir l'étrangeté de la magie contenue dans la source d'éther, qui est un **cristal de sang**, un cristal magique créé à partir de la magie extraite d'un être vivant et intelligent. Il n'arrive cependant pas à déterminer ce que c'est précisément.
+
+Il peut parler également de son métier, car il adore parler de l'éthérologie. Les sujets qu'il peut évoquer font en apprendre plus aux Aventuriers sur la magie :
+* *(Sujet discret)* Il travaille actuellement sur une technologie d'ouverture de portails entre le **Plan Matériel** et un autre **plan**, car il pense que l'ouverture de petits portails locaux pourrait servir de **source** d'éther intarissable ;
+    * Ce sujet est très mal vu par ses collègues.
+* Il peut proposer d'assister à un cours de débutants sur les **éthers** (cf. [Ethérologie](../WORLDBUILDING/ETHER/Etherologie.md)) ;
+* Il évoque la possiblité d'infuser et stabiliser de l'éther à l'intérieur des êtres vivant afin d'augmenter temporairement leurs capacités. Cela pourrait servir pour des raisons médicales, mais il n'est pas expert de la question ;
+* Il est extrêmement intéressé par les centaures car ils possèdent une énergie magique supérieure à celle des aux êtres vivants, et peuvent plus facilement manipuler l'éther.
+
+### Mission : Assister à l'expérience de Stjepan
+A la récupération du **cristal de sang**, **Stjepan** s'attèle à essayer son expérience ; qu'il met environ une **journée** à mettre son expérience en place.
+
+Grâce à cette **source d'éther**, il réussit son expérience d'ouverture d'un portail vers un plan. Il n'arrive pas à maintenir le portail ouvert très longtemps, juste assez pour que les Aventuriers puissent l'observer.
+
+Cette expérience n'est concluante que parce que le cristal a été utilisé. **Stjepan** va essayer de se renseigner sur le cristal, mais sa nature aurait tendance à l'inquiéter.

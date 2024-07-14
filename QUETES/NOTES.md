@@ -30,21 +30,6 @@ Prévoir des mouvements d'argent suspects.
 ### Mission : Visiter le Journal de Rovtal
 Visiter
 
-## Quête : L'Etherologiste révolutionnaire
-### Mission : Parler à [Stjepan Lugari](../WORLDBUILDING/PERSONNAGES/ROVTAL/Stjepan_Lugari.md)
-Technologie sur les portails entre plans
-
-Parler du fait qu'il est possible d'infuser et de stabiliser de l'éther dans les personnes, augmentant alors temporairement leurs capacités.
-
-Stjepan est extrêmement intéressé par les centaures car ils possèdent une énergie magique qui est supérieure aux autres êtres vivants, et donc peuvent plus facilement manipuler les éthers (nativement).
-### Mission : Trouver une source d'énergie considérable
-Trouver un objet qu'a perdu Stjepan dans le réseau de Caves
-
-Traquer une créature mystique qui renfere une grande énergie.
-### Mission : Assister à l'expérience de Stjepan
-### Mission : Empêcher la fuite de son expérience
-Empêcher le culte de Komorath d'atteindre les recherches de Stjepan
-
 ## Quête : Les Tensions entre Nobles
 ### Mission : Se renseigner sur la situation à Dvolsti
 Trouver des informations en les grapillant aux serviteurs ou aux nobles. Tensions entre Alexandros et les Sfer, et les Sfer savent des choses secrètes.
@@ -74,6 +59,8 @@ Lors du bal qu'ils organisent. Ils peuvent trouver des indices sur les tombes, a
 ## Quête : La Police de Rovtal
 ### Mission : Retrouver les disparus
 Dans le Réseau de Caves, retrouver des mineurs piégés --> Tombent sur un repère du culte
+
+Ou sinon premières vies prises par PB et GR
 ### Mission : Résoudre le souci des aggressions
 ### Mission : S'entretenir avec Nyx Kwestyon
 
@@ -94,11 +81,11 @@ Assister à une séance religieuse du culte
 --- 
 
 Déroulé : 
-* Arrivée par le Pont : rencontre avec Stejpan
+<!--- * Arrivée par le Pont : rencontre avec Stejpan -->
 * Arrivée à la Surface, visite des maisons, du marché
-* Ils doivent entendre parler des Fils des Ombres à ce moment
-* Visite de l'Ecole d'Etherologie, rencontre avec Stjepan
-* Quête pour aller chercher l'objet de Stjepan
+<!--- !!! * Ils doivent entendre parler des Fils des Ombres à ce moment -->
+<!--- !!! * Visite de l'Ecole d'Etherologie, rencontre avec Stjepan -->
+<!--- !!! * Quête pour aller chercher l'objet de Stjepan -->
 * Rencontre dans l'Ecole avec Etherios car mécène
 * Quête pour obtenir l'autorisation de descendre dans les tréfonds
 * Descente, aller trouver les quêtes de la police

@@ -18,10 +18,26 @@ Malgré la prévalence des cultes de **Italis** et **Muhuta**, d'autres cultes e
 ![Rovtal](../../_images/Rovtal15.png)
 
 ### L'Ecole d'Ethérologie
+L'**Ecole d'éthérologie**, située à la **Surface**, est l'une des principales sources d'attrait de la ville  de **Rovtal**. Plusieurs habitants de la région s'y rendent pour y apprendre plus sur la magie qui a fait la renommée de la ville, ainsi que pour apprendre plus sur les éthers.
 
+L'**Ethérologie** reste une science profondément inscrite dans la **religion**, puisqu'on pense que ce sont les **dieux** qui prête leurs magies aux mortels.
+
+L'entrée de l'école est **libre** pour chacun, l'accès au hall principal est ouvert à tous, et l'amphithéâtre des étudiants débutants est ouvert au public. Les autres lieux demeurent interdits d'accès, mais une autorisation de la part de n'importe quel professeur suffit à y accéder en sa compagnie.
+
+#### Vue de l'extérieur
 ![Rovtal](../../_images/ecole_etherologie.png)
+
+#### Vue du hall principal
 ![Rovtal](../../_images/ecole_etherologie2.png)
+
+#### Vue de la salle de cours principale
 ![Rovtal](../../_images/ecole_etherologie3.png)
+
+#### Amphithéâtre principale
+![Amphithéâtre](../../_images/amphitheater.png)
+
+#### Salle de travaux pratiques
+![Salle de trauvaux pratiques](../../_images/salle_de_tp.png)
 
 ### Le Pont du Détroit
 ![Rovtal](../../_images/ponte_detroit.png)
@@ -33,6 +49,15 @@ Le **Pont du Détroit** est l'un des premières structures que l'on peut rencont
 Situé un peu en marge de la ville, il est entouré de plusieurs arcades (côté ville), sous lesquelles se trouvent plusieurs étales, qui servent de commerce pour toute personne venant près de la ville sans vouloir y entrer.
 
 Des membres de la garde sont présents près du pont, mais cela n'empêche pas quelque brutes locales, les **Brigands du Détroit**, de sévir, notamment grâce à leur chef [**Edem Kurt**](../PERSONNAGES/ROVTAL/EdemKurt.md), qui n'hésite pas à les corrompre.
+
+### Entrée de la ville - La Porte du Pont
+![Entrée de la ville](../../_images/Rovtal6.png)
+
+### Ascenseur vers les Tréfonds
+![Ascenseur](../../_images/ascenseur.png)
+
+### Cristaux de lumière et de chaleur
+![Cristaux de lumières et de chaleur](../../_images/lampadaire_magiques.png)
 
 ### Maison de la [Famille Sfer](../PERSONNAGES/ROVTAL/GROUPES/Famille_Sfer.md)
 ![Rovtal](../../_images/Rovtal25.png)
@@ -72,8 +97,29 @@ Ils sont dirigés par [**Èdem Kurt**](../PERSONNAGES/ROVTAL/EdemKurt.md).
 
 ### Place des familles nobles et prestigieuses
 
-### La Garde de la ville
-L'ensemble des gardes de la ville...
+### La Police de Rovtal
+La **Police de Rovtal** est l'organisme qui s'occupe de faire régner l'ordre dans la ville. Plusieurs districts existent, et opèrent de façon plus au moins indépendante. Les deux plus grands districts sont :
+* Le **District de la Surface** ;
+* Le **District des Tréfonds**.
+
+Le **District des Tréfonds** s'occupe quasiment exclusivement des problèmes liés aux nobles.
+
+Le **District de la Surface** abrite la plus grande prison, dans laquelle sont entassés les prisonniers du **District des Tréfonds** également.
+
+La plupart des membres de la police souhaitent être promus pour aller exercer au **District des Tréfonds**.
+
+#### District de la Surface
+![Rovtal](../../_images/rovtal_surface.png)
+
+#### District des Tréfonds
+![Rovtal](../../_images/Rovtal23.png)
+
+### Fortes inégalités entre les quartiers
+![Inégalités](../../_images/lizard_inequality.png)
+
+**Rovtal** est connu pour être très inégalitaire, et cela se voit lorsqu'on se balade dans les différentes quartiers de la ville.
+
+Les **Tréfonds** sont connus pour être le vieux quartier de la ville et où se trouvent l'ensemble des **familles nobles**, et donc par extension le quartier richer, alors que c'est à la **Surface** où se trouvent les autres individus, notamment les habitants qui ne sont pas originaires de **Rovtal**.
 
 ### Place de l'agriculture dans la ville
 
@@ -98,7 +144,6 @@ L'ensemble des gardes de la ville...
 
 ## Images
 ### Surface
-![Rovtal](../../_images/Rovtal6.png)
 ![Rovtal](../../_images/Rovtal3.png)
 ![Rovtal](../../_images/Rovtal9.png)
 ![Rovtal](../../_images/Rovtal13.png)
@@ -115,7 +160,6 @@ L'ensemble des gardes de la ville...
 ![Rovtal](../../_images/Rovtal20.png)
 ![Rovtal](../../_images/Rovtal21.png)
 ![Rovtal](../../_images/Rovtal22.png)
-![Rovtal](../../_images/Rovtal23.png)
 ### Lieux spéciaux
 ![Rovtal](../../_images/Rovtal10.png)
 ![Rovtal](../../_images/Rovtal27.png)
