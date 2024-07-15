@@ -38,6 +38,8 @@ Ayant été titillé par les [**Brigands du Détroit**](../WORLDBUILDING/VILLES/
 
 La source d'éther se trouve en contre-bas du [**Pont du Détroit**](../WORLDBUILDING/VILLES/Rovtal.md#le-pont-du-détroit). L'escalade depuis le bout du **Pont** se fait naturellement, avec un DD de Dextérité 15, sous peine de recevoir 2d4 dégâts liés à la fatigue.
 
+L'entrée d'une grotte se fait voir juste après l'ecalade. A l'intérieur, les Aventuriers doivent suivre les signaux envoyés par l'invetion de **Stjepan** pour pouvoir retrouver la source (cf. [énigme interactive](../_scripts/enigme_morse.py)). En cas de trop nombreux échecs, il est possible de provoquer une rencontre aléatoire avec des créatures sauvages.
+
 La **source** est détenue par une créature géante, un **Aigle-Corbeau Géant** ([stats](../STAT_BLOCKS/ANIMAUX/AigleCorbeauGeant.md)). Elle est très protectrice d'un gros cristal qu'elle garde, car elle se sent mieux en sa présence. 
 
 ![Cristal de sang](../_images/red_cristal.png)
