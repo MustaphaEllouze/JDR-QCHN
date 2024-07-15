@@ -22,7 +22,7 @@ tous_sons = [
     Son(L, L, C),
 ]
 
-# random.shuffle(tous_sons)
+random.shuffle(tous_sons)
 
 step = 0
 success = 0
