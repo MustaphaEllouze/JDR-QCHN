@@ -25,21 +25,20 @@ tous_sons = [
 random.shuffle(tous_sons)
 
 step = 0
-success = 0
+success = 1
 required_success = 7
 nb_sounds = len(tous_sons)
 
 while success < required_success :
     mod_step = step%nb_sounds
-    if mod_step + success > nb_sounds:
+    if mod_step + success >= nb_sounds:
         first_propal = tous_sons[mod_step:]+tous_sons[:(mod_step+success+1)%nb_sounds]
     else:
         first_propal = tous_sons[mod_step:mod_step+success+1]
-    if mod_step+1-success < 0:
-        second_propal = tous_sons[0:mod_step+2][::-1] + tous_sons[-(mod_step+1-success):][::-1]
-    else:
-        second_propal = tous_sons[(mod_step+1-success):mod_step+2][::-1]
     
+    second_propal = random.choices(population=tous_sons, k=success+1)
+
+    random.shuffle(second_propal)
     liste_shuffle = [(1, first_propal), (2, second_propal)]
     random.shuffle(liste_shuffle)
     (answer1, shuff1), (answer2, shuff2) = liste_shuffle
@@ -61,8 +60,8 @@ while success < required_success :
         success += 1
     else:
         print('FAILURE !')
-        success = 0
+        success = 1
 
-    step += 1
+    step = (step + 1+ int(nb_sounds*random.random()))%nb_sounds
 
 print('THE END ! CONGRATS')
