@@ -9,3 +9,4 @@ Elle a toujours eu des relations assez tendues avec les autres familles nobles, 
 ## Membres
 * [Elèctre Alexandros](../../DVOLSTI/Elèctre_Alexandros.md)
 * [Lazaros Alexandros](../../SOMBRES_ARTISTES/Lazaros_Alexandros.md)
+* [Kroisos Alexandros](../../ROVTAL/Kroisos_Alexandros.md)

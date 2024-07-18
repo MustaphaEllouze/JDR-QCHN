@@ -2,4 +2,7 @@
 
 Il s'agit de l'une des **familles nobles** de [Rovtal](../../../VILLES/Rovtal.md).
 
-Elle est chargée de gérer l['**Ecole de Mages**](../../../VILLES/Rovtal.md#lecole-des-mages) de la ville de **Rovtal**, pour le compte de la couronne, la [**famille Andreadis**](./Famille_Andreadis.md).
+Elle est chargée de gérer l['**Ecole d'Ethérologie**](../../../VILLES/Rovtal.md#lecole-dethérologie) de la ville de **Rovtal**, pour le compte de la couronne, la [**famille Andreadis**](./Famille_Andreadis.md).
+
+## Membres
+* [**Matthaios Zografos**](../Maathaios_Zografos.md), directeur de l'[Ecole d'Ethérologie](../../../VILLES/Rovtal.md#lecole-dethérologie)

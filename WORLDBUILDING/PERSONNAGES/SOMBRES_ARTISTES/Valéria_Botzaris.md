@@ -1,4 +1,5 @@
 # Valéria Botzaris - Main Noire
+![Valéria](../../../_images/valéria_3.png)
 ![Valéria](../../../_images/valeria_botzaris.png)
 ![Valéria](../../../_images/valeria_botzaris2.png)
 

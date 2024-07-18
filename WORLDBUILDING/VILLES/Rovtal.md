@@ -53,6 +53,18 @@ Des membres de la garde sont présents près du pont, mais cela n'empêche pas q
 ### Entrée de la ville - La Porte du Pont
 ![Entrée de la ville](../../_images/Rovtal6.png)
 
+### Le Temple d'Italis (Surface)
+![Temple d'Italis](../../_images/temple_italis.png)
+
+### Le Temple de Muhuta (Surface)
+![Temple de Muhuta](../../_images/temple_muhuta.png)
+
+### Le Temple de Komorath (Surface)
+![Temple de Komorath](../../_images/temple_komorath.png)
+
+### Marché de Rovtal
+![Marché](../../_images/marché_rovtal.png)
+
 ### Ascenseur vers les Tréfonds
 ![Ascenseur](../../_images/ascenseur.png)
 
