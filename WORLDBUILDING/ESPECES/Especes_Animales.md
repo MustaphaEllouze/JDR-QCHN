@@ -16,3 +16,5 @@ Ils ont une affinité naturelle à la magie, qui leur permet de lancer des sorts
 Ces créatures vivent généralement dans les montagnes, et aiment bien faire leur nid dans des grottes, car elles ne supportent pas être observées.
 
 Elles se nourrissent de tout ce qu'elles peuvent trouver, notamment les personnes qui s'aventureraient trop loin toutes seules.
+
+## Renard change-forme / Renard-caméléon
