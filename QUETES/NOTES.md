@@ -70,11 +70,6 @@ Trouver des anciens
 --- 
 
 Déroulé : 
-<!--- * Arrivée par le Pont : rencontre avec Stejpan -->
-* Arrivée à la Surface, visite des maisons, du marché
-<!--- !!! * Ils doivent entendre parler des Fils des Ombres à ce moment -->
-<!--- !!! * Visite de l'Ecole d'Etherologie, rencontre avec Stjepan -->
-<!--- !!! * Quête pour aller chercher l'objet de Stjepan -->
 * Rencontre dans l'Ecole avec Etherios car mécène
 * Quête pour obtenir l'autorisation de descendre dans les tréfonds
 * Descente, aller trouver les quêtes de la police

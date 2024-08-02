@@ -20,19 +20,12 @@ Durant les événements qui se sont passés à Dvolsti et la chute des têtes pe
 Pour accomplir ce nouveau plan, de nombreux tests sont nécessaires, et l'ensemble des relations dans la ville de **Rovtal** sont mobilisées. [Federi Gox](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Federi_Gox.md) n'a pas encore été sorti de sa longue hibernation...
 
 ## Quête : L'Éthérologiste révolutionnaire, [**Stjepan**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Stjepan_Lugari.md)
-### Mission : Sauver Stjepan des Brigands du Détroit
-[**Stjepan Lugari**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Stjepan_Lugari.md), éminent scientifique de l'[Ecole d'Ethérologie de Rovtal](../WORLDBUILDING/VILLES/Rovtal.md#lecole-dethérologie), a récemment inventé une nouvelle invention qui permet de détecter les anomalies magiques et les présences d'éther phénoménales autour de lui.
-
-Afin de le tester, il a décidé d'aller tester son invention dans les alentours de Dvolsti. Ses errances le mènent au [**Pont du Détroit**](../WORLDBUILDING/VILLES/Rovtal.md#le-pont-du-détroit), où il a capté une signature éthérique particulière.
-
-Il erre un peu loin du Pont, jusqu'à aller à des endroits peu surveillés, où traînent les [Brigands du Détroit](../WORLDBUILDING/VILLES/Rovtal.md#les-brigands-du-détroit), un groupe de voleurs. Les brigands vont ensuite le remarquer et essayer de le brutaliser pour le voler.
-
-En cas de fuite, **Stjepan** se dirigera vers le **Pont**, et il risque de tomber du **Pont**, qui est en ruine par endroits. Il se raccrochera alors à ce qu'il peut, et les Aventuriers peuvent l'aider pour ne pas tomber.
-
-[Rencontre avec les Brigands](../RENCONTRES/MilieuRural.md#rencontre-rural-3---au-niveau-dun-pont) dans le cas où les Aventuriers décident de se battre.
 
 ### Mission : Aider Stjepan à trouver sa source d'éther
 [**Stjepan**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Stjepan_Lugari.md) a inventé un nouvel outil qui permet de détecter la présence de signature éthérique / magique particulière. Il a erré depuis la mise en service de son invention, jusqu'à s'aventuer en dehors de la ville pour aller chercher la première signature qu'il a détecté.
+
+
+![Détecteur d'Ether](../_images/ether_detector.png)
 
 Ayant été titillé par les [**Brigands du Détroit**](../WORLDBUILDING/VILLES/Rovtal.md#les-brigands-du-détroit), il a besoin de repos et ne pourra pas nécessairement se relancer de suite à la recherche de cette source de magie. Il peut demander de l'aide aux Aventuriers.
 
@@ -51,7 +44,7 @@ Ce **cristal de sang** est issu des expériences menées par les [**Sombres Arti
 
 L'entrée de l'école est ouverte au public dans les parties communes, cependant l'accès au bureau et aux salles de cours des étudiants avancés est interdite. **Stjepan** peut cependant donner l'autorisation pour l'accès aux parties sensibles.
 
-Il est reconnaissant envers les **Aventuriers** s'ils l'ont aidé à trouver la **source d'éther** qu'il cherchait avec son détecteur de magie. Il peut offrir plusieurs objets magiques différents, mais aura tendance à proposer sa nouvelle invention : [une Carafe Intarissable](../RECOMPENSES/PEU_COURANTES.md#carafe-intarissable).
+Il est reconnaissant envers les **Aventuriers** s'ils l'ont aidé à trouver la **source d'éther** qu'il cherchait avec son détecteur de magie. Il peut offrir plusieurs objets magiques différents, mais aura tendance à proposer ses nouvelles inventions : [une Carafe Intarissable](../RECOMPENSES/PEU_COURANTES.md#carafe-intarissable) et un [Anneau de Vision Perçante](../RECOMPENSES/RARES.md#anneau-de-vision-perçante).
 
 Il peut également sentir l'étrangeté de la magie contenue dans la source d'éther, qui est un **cristal de sang**, un cristal magique créé à partir de la magie extraite d'un être vivant et intelligent. Il n'arrive cependant pas à déterminer ce que c'est précisément.
 

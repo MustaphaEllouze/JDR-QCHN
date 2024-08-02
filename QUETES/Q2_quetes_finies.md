@@ -456,3 +456,13 @@ Nous avons tué [**Bakari Phéroh**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_
 Nous avons pris d'assaut le manoir d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) et nous avons tué plusieurs de ses sbires.
 
 Nous avons tué [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md).
+
+## Quête : L'Éthérologiste révolutionnaire, [**Stjepan**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Stjepan_Lugari.md)
+### Mission : Sauver Stjepan des Brigands du Détroit
+En arrivant aux abords de [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md), près du [Pont du Détroit](../WORLDBUILDING/VILLES/Rovtal.md#le-pont-du-détroit), nous sommes tombés nez à nez avec des brigands, qui se font appelés les [Brigands du Détroit](../WORLDBUILDING/VILLES/Rovtal.md#les-brigands-du-détroit), qui étaient en train d'embêter un Camélonide.
+
+Nous avons sauvé le Camélonide, qui s'est présenté : [**Stjepan Lugari**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Stjepan_Lugari.md), éminent scientifique de l'[Ecole d'Ethérologie de Rovtal](../WORLDBUILDING/VILLES/Rovtal.md#lecole-dethérologie).
+
+Pour nous remercier, il nous a invité à venir lui rendre visite à l'**Ecole**, dans laquelle il va nous donner une de ses inventions pour nous récompenser.
+
+Nous avons attaché les bandits et nous les avons livrés au poste de garde le plus proche pour empocher une récompense.
