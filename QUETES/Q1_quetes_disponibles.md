@@ -96,26 +96,63 @@ Des histoires de confrontation avec ces templs existent, d'autant plus que c'est
 
 ## Quête : Disparitions aux temples
 ### Mission : Enquêter sur les disparitions auprès du temple d'Italis
-Un prêtre d'Italis a disparu, il était en *échange* avec le temple de Muhuta. Il disparaît peu de temps après.
+La **Police de Rovtal** est en charge de résoudre une toute nouvelle affaire : celle de la **disparition d'un prêtre** du [temple d'Italis](../WORLDBUILDING/VILLES/Rovtal.md#le-temple-ditalis-surface), **Iakob Samaras**.
 
-Il a retrouvé des affaires de son prêtre près du temple de Muhuta, donc accuse ce dernier.
+Les informations connues par la Police au moment des faits est :
+* Le prêtre s'appelle **Iakob Samaras** ;
+* C'était un prêtre d'[Italis](../WORLDBUILDING/COSMOLOGIE/PLANS_ET_DIVINITES/Italis.md) ;
+* Ses affaires ont été retrouvées tout près du temple de [**Muhuta**](../WORLDBUILDING/COSMOLOGIE/PLANS_ET_DIVINITES/Muhuta.md), auquel il a été envoyé depuis quelques temps pour échanger sur les rites des différents temples.
 
-Cependant, il a aussi été au centre d'une dispute avec le prêtre qui a disparu, car il n'était pas d'accord sur les finances du temple. Le prêtre a disparu quelques jours après la dispute.
+Au temple d'**Italis**, plusieurs prêtres sont en train de prier pour **Iakob**, le prêtre qui a remonté la disparition aux autorités est le chef des lieux, [Ippolitos Gabras](../WORLDBUILDING/PERSONNAGES/ROVTAL/Ippolitos_Gabras.md). Il sait les choses suivantes :
+* Il est celui qui a mandaté **Iakob** au temple de **Muhuta** pour performer l'échange *culturel*, sous les ordres du chef du culte d'**Italis**, la chef de la [famille Giannaris](../WORLDBUILDING/PERSONNAGES/ROVTAL/GROUPES/Famille_Giannaris.md) ;
+    * Ce mandat a été fait car il y avait une légère tension entre **Iakob** et **Ippolitos**, car ils n'ont pas la même vision de la foi ;
+* Il a tardé à faire le rapport aux forces de l'ordre (il a su le matin même, il a fait le signalement le soir même), par peur qu'on l'accuse directement ;
+* On a retrouvé les affaires de **Iakob** à la sortie du temple de **Muhuta** ; 
+* Des rumeurs courent qu'il y avait une tension entre **Ippolitos** et la grande prêtresse du temple de **Muhuta**, [**Nikolia Angelopoulos**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Nikolia_Angelopoulos.md).
+* En insistant un peu, il est capable de dire qu'il a eu lui-même une dispute avec **Iakob** à cause des finances du temple :
+    * Pour **Iakob**, l'argent doit servir aux plus démunis, et on doit le donner tant que possible, quitte à mener moins bien les rites ;
+    * Pour **Ippolitos**, les rites passent avant tout, et il faut absolument respecter les traditions, notamment pour le respect des morts et des rites hebdomadaires.
 
-Le grand prêtre a tardé a révéler la disparition, car il avait peur qu'on le lie à lui. Des rumeurs courent que le grand prêtre voulait faire une purification du temple pour revenir à des techniques les plus orthodoxes, mais ce n'est pas vrai.
+Une prêtresse d'**Italis**, [**Klemenssia Kyros**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Klemenssia_Kyros.md), détient également des informations sur les conflits entre **Iakob** est les autres :
+* Elle est du côté de **Iakob**, ne voulant pas que des gens vivent dans la misère ;
+* Elle sait pertinemment que **Ippolitos** et **Iakob** ne s'entendait pas pour des raisons financières ;
+* Elle lance l'information peu fondée qu'**Ippolitos** souhaiterait *purifier* le temple pour revenir à des rites plus orthodoxes, quitte à utiliser la force (ce qui est en réalité faux).
+
 ### Mission : Fouiller le temple d'Italis
-La chambre du prêtre qui a disparu : des notes de comme quoi il a peur qu'il y ait des gens qui fassent des rituels occultes dans le temple de Muhuta, il a vu des choses
+Dans le **temple d'Italis**, il est possible de fouiller à l'intérieur des chambres de l'ensemble des prêtres, chaque prêtre ayant sa chambre personnelle dans le temple, afin de pouvoir s'isoler.
 
-En fouillant la chambre du prêtre qui a disparu, on trouve de fausses lettres écrites par un prêtre jaloux qui essaye d'inculper le grand prêtre d'Italis. Ce sont des lettres de menace envers le prêtre qui a disparu. Elles l'accusent de ne pas être assez proche de sa foi orthodoxe.
+La plupart des chambres ne contiennent pas grand chose d'intéressant, seules demeurent :
+* Dans le bureau d'**Ippolitos**, plusieurs notes également :
+    * Plusieurs lettres officielles, faisant état des comptes un peu catastrophiques du temple, et un journal dans lequel il écrit toutes ses journées.
+    * Certains brouillons de lettres qui ont été falsifiées et déposées là, et font mention de la haine que porte **Ippolitos** envers **Iakob**, et le menaçant de ne pas être assez proche de sa foi.
+* La chambre de **Iakob** :
+    * Certaines de ses notes faisant état de ce qu'il a vu dans le temple de **Muhuta** :
+        * Notamment, il ne comprend pas les rites, et insinue que les rites de **Muhuta** sont dangeureux, et qu'il impensable qu'on laisse le culte exister encore longtemps. 
+        * Il se méfie également de la grande prêtresse de **Muhuta**, [**Nikolia Angelopoulos**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Nikolia_Angelopoulos.md), car il semblerait que c'est elle qui à l'origine de ces rites dangereux, qui consiste en la conconction de potions *expérimentales*.
+    * Une lettre de mencace de la part de **Ippolitos**, qui est en réalité falsifiée, et qui correspond aux brouillons qu'on peut trouver dans le bureau qu'**Ippolitos**, avec une trace d'**encre rouge** (qui est l'encre avec laquelle écrit d'habitude le coupable)
 
 ### Mission : Interroger les prêtes de Muhuta
-La grande prêtresse de Muhuta fait des potions qui ont pas l'air très conventionnelles. Elle a reçu la personne qui a disparu, juste avant qu'elle se fasse enlever, mais elle refuse de l'admettre.
+C'est la grande prêtresse [**Nikolia Angelopoulos**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Nikolia_Angelopoulos.md) qui est en charge de gérer les relations extérieures aux temples directement.
 
-D'autres prêtres disent ce qu'elle refuse d'admettre.
+C'est donc notamment elle qui a dû s'occuper de gérer l'intégration de **Iakob** dans le temple. 
+
+Elle refuse d'admettre qu'elle a reçu dans son bureau **Iakob** la nuit même de sa disparition, qu'elle a peur que la justice fasse mal son travail, et l'inculpe directement.
+
+D'autres prêtres du temple peuvent parler, notamment [Mélania Héjj](../WORLDBUILDING/PERSONNAGES/ROVTAL/Mélania_Héjj.md) :
+* Elle a vu **Iakob** aller dans le bureau de **Nikolia** le soir même de sa disparition ;
+* Elle sait que **Iakob** entretenait des relations assez tendues avec beaucoup des prêtres de **Muhuta** car il avait du mal à s'intégrer et à comprendre les rites.
+
 ### Mission : Fouiller le temple de Muhuta
-En allant dans le bureau de la prêtresse, clairement il y a des traces de potions bizarroïdes.
+Il n'y a pas beaucoup d'indices dans les chambres et bureaux des prêtres mis à part :
+* Chambre de **Iakob** :
+    * Beaucoup plus petite que les autres et que la chambre qu'il a dans son temple d'origine
+    * On trouve une lettre identique à celle dans le temple d'**Italis**, qui est une lettre de menace à l'identique, avec une tâche d'**encre rouge**, qui l'encre habituelle du coupable.
+* Dans le bureau de **Nikolia** :
+    * Des listes d'herbes et de plantes qui sont d'habitude utilisées dans le traitement de maladies ;
+    * Il y a plusieurs traces d'ingrédients qui ne servent pas d'habitude, et qui ne sont mentionnées dans aucune des listes des plantes habituelles ;
+    * Des fioles vides qui contiennent une substance encore active, qui sert à endormir la cible, et lui faire dire la vérité.
 
-Elle en voulait en fait à quelque d'autre, son mari, et elle a tenté de faire une potion afin de lui faire admettre des choses. Mais du coup il y a des recettes très bizarres dans son bureau.
+Si confrontée, **Nikolia** aura du mal à l'avouer, mais dira que cette potion devait servir sur son mari, afin d'être sure qu'il ne la trompe pas.
 
 ### Mission : Interroger les prêtres de Komorath
 Les prêtres de Komorath sont connus pour ne pas être très appréciés, leur culte est toléré mais pas officiel. Il dit que Komorath est souvent injustement accusé de tous les maux de la terre.
