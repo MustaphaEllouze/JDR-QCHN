@@ -15,7 +15,17 @@ Malgré la prévalence des cultes de **Italis** et **Muhuta**, d'autres cultes e
 
 ## Lieux 
 ### La guilde des ingénieurs
+![Guilde des Ingénieurs](../../_images/engineer_guild.png)
 ![Rovtal](../../_images/Rovtal15.png)
+
+La **Guilde des Ingénieurs**, située au point le plus bas de la **Surface**, abrite tous les esprits pratiques les plus affûtés de la ville. Gérée par la famille [Botzaris](../PERSONNAGES/ROVTAL/GROUPES/Famille_Botzaris.md).
+
+La **Guilde** a travaillé dans les plus gros projets urbains de la ville, comme notamment :
+* **Pont du Détroit** : A nécessité l'utilisation de la magie pour tout stabiliser lors de la construction des piles et certaines fondations ;
+* **Système d'Ascenseurs Ethériques** : Ont utilisé les recherches fondamentales de l'**Ecole d'Ethérologie** ;
+* **Renforcement des Murs de la Ville**
+* (*En cours de construction*) **Réseau de Canalisations Magiques** : Pour les Tréfonds uniquement afin que chaque foyer ait accès à une source magique près de chez soi (nécessite de grosses excavations) ;
+* (*En cours de conception*) **Tour de Contrôle des Tempêtes** : Projet visant à contrôler localement la météo.
 
 ### L'Ecole d'Ethérologie
 L'**Ecole d'éthérologie**, située à la **Surface**, est l'une des principales sources d'attrait de la ville  de **Rovtal**. Plusieurs habitants de la région s'y rendent pour y apprendre plus sur la magie qui a fait la renommée de la ville, ainsi que pour apprendre plus sur les éthers.
@@ -33,7 +43,7 @@ L'entrée de l'école est **libre** pour chacun, l'accès au hall principal est 
 #### Vue de la salle de cours principale
 ![Rovtal](../../_images/ecole_etherologie3.png)
 
-#### Amphithéâtre principale
+#### Amphithéâtre principal
 ![Amphithéâtre](../../_images/amphitheater.png)
 
 #### Salle de travaux pratiques
@@ -74,6 +84,10 @@ Des membres de la garde sont présents près du pont, mais cela n'empêche pas q
 ### Maison de la [Famille Sfer](../PERSONNAGES/ROVTAL/GROUPES/Famille_Sfer.md)
 ![Rovtal](../../_images/Rovtal25.png)
 
+Située dans les **Tréfonds**, c'est le manoir où habitent la quasi-totalité des membres de la famille **Sfer**.
+
+Le sous-sol abrite la crypte familiale, où sont notamment enterrés l'ensemble de la lignée des [**Ethérios**](../PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md).
+
 ### Le Stabilisateur Naturel
 ![Stabilisateur](../../_images/cristal_rovtal.png)
 
@@ -83,7 +97,7 @@ La ville de Rovtal ayant son centre-ville caché dans un gouffre gigantesque, el
 Ces caves sont peu *civilisées* et sont occupées par des animaux et bêtes en tout genre, ainsi que des citoyens pauvres.
 
 ## Les Sombres Artistes
-![Culte](../../_images/sombraur_ritual.png)
+![Culte](../../_images/red_portal.png)
 Les **Sombres Artistes** est une organisation qui se cache derrière le culte de [**Komorath**](../COSMOLOGIE/PLANS_ET_DIVINITES/Komorath.md), décrié mais pas secret. Elle se sert de la devanture du culte pour pouvoir agir sans être embêtée.
 
 Derrière cette organisation, se cache les **Mains Noires**, la tête pensante des **Sombres Artistes**, qui sont dans leur intégralité des [**Sombraurs**](../ESPECES/ESPECES_MAGIQUES/Sombraur.md), aussi appelés **Fils-des-Ombres**. L'organisation est née sous l'impulsion de [**Federi Gox**](../PERSONNAGES/SOMBRES_ARTISTES/Federi_Gox.md), le premier **Sombraur**, qui est actuellement en hibernation, afin de recréer l'ancien clan qu'il avait monté, avant la [**Catastrophe Magique**](../AUTRES/CatastropheMagique.md).

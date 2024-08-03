@@ -62,6 +62,38 @@ Grâce à cette **source d'éther**, il réussit son expérience d'ouverture d'u
 
 Cette expérience n'est concluante que parce que le cristal a été utilisé. **Stjepan** va essayer de se renseigner sur le cristal, mais sa nature aurait tendance à l'inquiéter.
 
+## Quête : Explorer Rovtal
+### Mission : Explorer la Surface
+Plusieurs lieux intéressants se trouvent à la **Surface** de la ville, et qu'il est possible de visiter :
+* L'[**Ecole d'Ethérologie**](../WORLDBUILDING/VILLES/Rovtal.md#lecole-dethérologie), où se trouve l'inventeur [Stjepan Lugari](../WORLDBUILDING/PERSONNAGES/ROVTAL/Stjepan_Lugari.md), et son collègue bio-éthérologiste [Baptistes Nikolopoulos](../WORLDBUILDING/PERSONNAGES/ROVTAL/BaptistesNikolopoulos.md) ; 
+* La [**Guilde des Ingénieurs**](../WORLDBUILDING/VILLES/Rovtal.md#la-guilde-des-ingénieurs), dirigée par [Georgios Botzaris](../WORLDBUILDING/PERSONNAGES/ROVTAL/GeorgiosBotzaris.md) et dont l'intendant est [Vladimeros Botazris](../WORLDBUILDING/PERSONNAGES/ROVTAL/VladimerosBotzaris.md).
+    * **Vladimeros** peut faire le tour de tous les grands projets de la ville, notamment :
+        * **Pont du Détroit** : A nécessité l'utilisation de la magie pour tout stabiliser lors de la construction des piles et certaines fondations ;
+        * **Système d'Ascenseurs Ethériques** : Ont utilisé les recherches fondamentales de l'**Ecole d'Ethérologie** ;
+        * **Renforcement des Murs de la Ville**
+        * (*En cours de construction*) **Réseau de Canalisations Magiques** : Pour les Tréfonds uniquement afin que chaque foyer ait accès à une source magique près de chez soi (nécessite de grosses excavations) ;
+        * (*En cours de conception*) **Tour de Contrôle des Tempêtes** : Projet visant à contrôler localement la météo.
+
+### Mission : Accéder aux Tréfonds
+L'accès aux Tréfonds n'est pas autorisé aux premiers venus. Plusieurs personnes peuvent donner l'accès, généralement un **noble** ou un membre d'une **famille prestigieuse** suffit :
+* [Ethérios Sfer](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), s'il a entendu parler des **Aventuriers** ;
+    * **Ethérios** prévoit dans les jours qui viennent un bal dans la [**Maison Sfer**](../WORLDBUILDING/VILLES/Rovtal.md#maison-de-la-famille-sfer) ;
+* [Markellos Héjj](../WORLDBUILDING/PERSONNAGES/ROVTAL/Markellos_Héjj.md) ou [Nyx Kwestyon](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Nyx_Kwestyon.md), pour mener une mission pour la police
+
+Il est également possible d'accéder aux Tréfonds à travers un passage secret qui existe dans le [Temple de Komorath](../WORLDBUILDING/VILLES/Rovtal.md#le-temple-de-komorath-surface), afin de permettre aux fidèles bien choisis de prendre leurs ordres de la part des [Mains Noires](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes).
+
+## Quête : La légende des Sombraurs
+### Mission : En apprendre plus sur les Sombraurs
+[TODO]
+Un conteur dans un bar, qui les reconnaît comme étant des nouveaux qui leur raconte la légende des visiteurs qui disparaissent.
+### Mission : Explorer les indices dans les temples
+[TODO]
+Des histoires de confrontation avec ces templs existent, d'autant plus que c'est lié vaguement à Komorath. Des fresques sur les murs.
+### Mission : S'informer à la bibliothèque
+[TODO]
+### Mission : Trouver un Sombraur ?
+[TODO]
+
 ## Quête : Disparitions aux temples
 ### Mission : Enquêter sur les disparitions auprès du temple d'Italis
 Un prêtre d'Italis a disparu, il était en *échange* avec le temple de Muhuta. Il disparaît peu de temps après.
@@ -99,3 +131,74 @@ C'est un prêtre de Komorath.
 
 ### Mission : Comprendre les missions du kidnapper
 Il a kidnappé pour donner des vies à consommer pour Griffes Rouges et Paumes Bleues.
+
+## Quête : Les Tensions entre Nobles
+### Mission : Se renseigner sur la situation à Dvolsti
+Le jour de l'arrivée des **Aventuriers** à Rovtal, la nouvelle venant de [Dvolsti](../WORLDBUILDING/VILLES/Dvolsti.md) arrive à [Rovtal](../WORLDBUILDING/VILLES/Rovtal.md) : le tumulte qui a pris la ville fait que la **Consule** actuelle de **Dvolsti**, [Elèctre Alexandros](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md) ne peut plus assurer sa fonction :
+* Il y a eu le meurtre d'[Arkolapoulos](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) au sein même de son manoir ;
+* Les [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) règnent sur la ville et ses activités, et **Elèctre** qui avait été envoyée pour cela à **Dvolsti**, n'a pas su régler le problème.
+* La **gestion financière** de la ville était catastrophique, notamment à cause de l'influence des **Enfants de la Rue**.
+
+Pour toutes ces raisons, les familles nobles ont décidé de démettre **Elèctre** et de statuer sur la situation à **Dvolsti**.
+
+[**Ethérios Sfer**](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), chef de la famille **Sfer** qui est aux commandes des affaires étrangères de **Rovtal**, et [**Kroisos Alexandros**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Kroisos_Alexandros.md), chef de la famille **Alexandros**, sont en charge d'organiser la future gestion de la ville. 
+
+La réunion entre tous les nobles a lieu le soir-même de l'arrivée.
+
+### Mission : Asssiter au bal de la famille Sfer
+[TODO]
+Les familles nobles organisent régulièrement des bals dans les Tréfonds.
+
+Le prochain bal est organisé par [**Ethérios Sfer**](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), dans la famille Sfer, afin notamment de fêter la *promotion* d'[**Emiliano Sfer**](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md), nouveau consul de [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md). Afin de récompenser les **Aventuriers**, **Ethérios** invite les Aventuriers à venir à ce bal.   
+
+Plusieurs membres de la famille [**Sfer**](../WORLDBUILDING/PERSONNAGES/ROVTAL/GROUPES/Famille_Sfer.md) ont également fait le déplacement, notamment [Therra](../WORLDBUILDING/PERSONNAGES/BRUMEBOURG/Therra_Sfer.md) et [Emiliano](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md).
+
+D'autres personnalités de d'autres villes sont également invitées, notamment venant des villes de :
+* [Caproch](../WORLDBUILDING/VILLES/Caproch.md) ;
+* [Tchevo](../WORLDBUILDING/VILLES/Tchevo.md) ;
+* [Ingar](../WORLDBUILDING/VILLES/Ingar.md) ;
+
+[IDEA] Quelqu'un essaye d'empoisonner un noble
+
+[IDEA] Un membre d'une faction disparaît (potentiellement quelqu'un d'Ingar, ce qui provoque des tensions)
+
+[IDEA] Attaque d'un Sombraur
+
+### Mission : Se rapprocher de la famille Alexandros
+[TODO] Essayer de comprendre ce qui c'est passé à Dvolsti, avoir des informations sur les agissement des Sfer, notamment d'Ethérios.
+
+## Quête : Le Mystère de la Famille Sfer
+### Mission : Enquêter sur la lignée des dirigeants
+[TODO]
+
+Prévoir de pouvoir aller voir une lignée dans des registres de la famille --> Voir des règnes avec le même nom, avec des dates qui coincident pas totalement (des indices qui ne matchent pas avec ce qui est dit et ce qui écrit)
+
+Une galerie des statues avec tous les Etherios, qui ne vieillissent pas.
+
+Découvrir des lettres qui datent d'il y a plusieurs sicèles, avec la même écriture
+
+### Mission : Enquêter sur le chef de la famille
+[TODO]
+
+Trouver un serviteur à la retraite qui a remarqué des choses étrange : des habitudes qu'on tous les Etherios, le fait qu'ils sont tous très discrets.
+
+Aller à une réunion de la famille Sfer (possibilité de se cacher dans le manoir)
+
+Suivre Etherios qui va aller rejoindre Nyx ou d'autres Mains Noires
+
+### Mission : Visiter la crypte de la famille Sfer
+[TODO]
+
+Lors du bal qu'ils organisent. Ils peuvent trouver des indices sur les tombes, avec des tombes qui sont vides.
+
+## Quête : La Secret de la Police de Rovtal
+### Mission : Comprendre où sont envoyés les prisonniers
+
+### Mission : Espionner Nyx
+[TODO]
+
+Trouver des preuves des atrocités qu'il commet
+
+Infiltration de la prison secrète de Nyx
+
+Trouver des anciens 

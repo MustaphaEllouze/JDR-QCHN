@@ -10,7 +10,7 @@ Convaincus qu'ils passent un pacte avec la déité [Komorath](../../COSMOLOGIE/P
 ## Transformation
 Le **rituel** visant à transformer une personne en **Sombraur** est à la fois très lent et requiert une grande précision dans son exécution.
 
-![Sombraur Ritual](../../../_images/sombraur_ritual.png)
+![Sombraur Ritual](../../../_images/red_portal.png)
 
 Durant plus de **8 heures de temps**, il nécessite l'intervention d'un mage très puissant, ou d'un **Sombraur**. Pour le mener, plusieurs ingrédients doivent être réunis : 
 * **Une source magique** de grande puissance, comme un cristal magique, un alignement astral, ou une leyline puissante à proximité dans laquelle on puisse puiser ;
