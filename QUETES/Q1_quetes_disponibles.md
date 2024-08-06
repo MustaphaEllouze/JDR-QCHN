@@ -109,6 +109,8 @@ Au temple d'**Italis**, plusieurs prêtres sont en train de prier pour **Iakob**
 * Il a tardé à faire le rapport aux forces de l'ordre (il a su le matin même, il a fait le signalement le soir même), par peur qu'on l'accuse directement ;
 * On a retrouvé les affaires de **Iakob** à la sortie du temple de **Muhuta** ; 
 * Des rumeurs courent qu'il y avait une tension entre **Ippolitos** et la grande prêtresse du temple de **Muhuta**, [**Nikolia Angelopoulos**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Nikolia_Angelopoulos.md).
+* **Ippolitos** pense que que **Iakob** était trop curieux pour son propre bien, et qu'il posait des fois des questions qui pouvaient heurter certaines sensibilités ;
+    * Notamment, il a été vu une fois en train de poser des questions trop insistantes à certains prêtres de **Komorath**, notamment le grand prêtre [Philaretos Venizelos](../WORLDBUILDING/PERSONNAGES/ROVTAL/Philaretos_Venizelos.md), en pleine rue, devant le temple de **Komorath**.
 * En insistant un peu, il est capable de dire qu'il a eu lui-même une dispute avec **Iakob** à cause des finances du temple :
     * Pour **Iakob**, l'argent doit servir aux plus démunis, et on doit le donner tant que possible, quitte à mener moins bien les rites ;
     * Pour **Ippolitos**, les rites passent avant tout, et il faut absolument respecter les traditions, notamment pour le respect des morts et des rites hebdomadaires.
@@ -126,9 +128,10 @@ La plupart des chambres ne contiennent pas grand chose d'intéressant, seules de
     * Plusieurs lettres officielles, faisant état des comptes un peu catastrophiques du temple, et un journal dans lequel il écrit toutes ses journées.
     * Certains brouillons de lettres qui ont été falsifiées et déposées là, et font mention de la haine que porte **Ippolitos** envers **Iakob**, et le menaçant de ne pas être assez proche de sa foi.
 * La chambre de **Iakob** :
-    * Certaines de ses notes faisant état de ce qu'il a vu dans le temple de **Muhuta** :
+    * Certaines de ses notes faisant état de ce qu'il sait de tous les autres cultes :
         * Notamment, il ne comprend pas les rites, et insinue que les rites de **Muhuta** sont dangeureux, et qu'il impensable qu'on laisse le culte exister encore longtemps. 
         * Il se méfie également de la grande prêtresse de **Muhuta**, [**Nikolia Angelopoulos**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Nikolia_Angelopoulos.md), car il semblerait que c'est elle qui à l'origine de ces rites dangereux, qui consiste en la conconction de potions *expérimentales*.
+        * Certaines notes sur les rites liées au [**temple de Komorath**](../WORLDBUILDING/VILLES/Rovtal.md#le-temple-de-komorath-surface), dont il ne comprend pas rites, et qui l'inquiète d'autant plus que le culte ne fait pas partie des cultes officiels de la ville. Ils feraient peut-être certains rites à l'abri des regards, avec certaines personnes qu'il n'a pas pu identifier.
     * Une lettre de mencace de la part de **Ippolitos**, qui est en réalité falsifiée, et qui correspond aux brouillons qu'on peut trouver dans le bureau qu'**Ippolitos**, avec une trace d'**encre rouge** (qui est l'encre avec laquelle écrit d'habitude le coupable)
 
 ### Mission : Interroger les prêtes de Muhuta
@@ -136,9 +139,13 @@ C'est la grande prêtresse [**Nikolia Angelopoulos**](../WORLDBUILDING/PERSONNAG
 
 C'est donc notamment elle qui a dû s'occuper de gérer l'intégration de **Iakob** dans le temple. 
 
-Elle refuse d'admettre qu'elle a reçu dans son bureau **Iakob** la nuit même de sa disparition, qu'elle a peur que la justice fasse mal son travail, et l'inculpe directement.
+* Elle refuse d'admettre qu'elle a reçu dans son bureau **Iakob** la nuit même de sa disparition, qu'elle a peur que la justice fasse mal son travail, et l'inculpe directement.
+* Elle le trouve également trop curieux pour son propre bien, et elle sait qu'il s'est embrouillé avec des prêtres de **Komorath**.
+    * Il est venu la prévenir, mais elle a totalement passé outre ses avertissement, faute de preuves tangibles.
 
 D'autres prêtres du temple peuvent parler, notamment [Mélania Héjj](../WORLDBUILDING/PERSONNAGES/ROVTAL/Mélania_Héjj.md) :
+* C'est la seule personne qui s'entendait à peu près bien avec **Iakob**, et qui voulait bien échanger sur la diversité des cultes.
+* Il a discuté avec elle des prêtres de Komorath, mais elle n'a pas prêté plus d'attention à son inquiétude.
 * Elle a vu **Iakob** aller dans le bureau de **Nikolia** le soir même de sa disparition ;
 * Elle sait que **Iakob** entretenait des relations assez tendues avec beaucoup des prêtres de **Muhuta** car il avait du mal à s'intégrer et à comprendre les rites.
 
@@ -149,7 +156,7 @@ Il n'y a pas beaucoup d'indices dans les chambres et bureaux des prêtres mis à
     * On trouve une lettre identique à celle dans le temple d'**Italis**, qui est une lettre de menace à l'identique, avec une tâche d'**encre rouge**, qui l'encre habituelle du coupable.
 * Dans le bureau de **Nikolia** :
     * Des listes d'herbes et de plantes qui sont d'habitude utilisées dans le traitement de maladies ;
-    * Il y a plusieurs traces d'ingrédients qui ne servent pas d'habitude, et qui ne sont mentionnées dans aucune des listes des plantes habituelles ;
+    * Il y a plusieurs traces d'ingrédients qui ne servent pas d'habitude, et qui ne sont mentionnées dans aucune des listes des plantes habituelles. Ces ingrédients ne peuvent être obtenus que chez les prêtres de **Komorath** ([**Mandragore nocture**](../WORLDBUILDING/ESPECES/Especes_Vegetales.md#mandragore-nocture), qui sert en tant que narcotique et en tant que pigment rouge) ;
     * Des fioles vides qui contiennent une substance encore active, qui sert à endormir la cible, et lui faire dire la vérité.
 
 Si confrontée, **Nikolia** aura du mal à l'avouer, mais dira que cette potion devait servir sur son mari, afin d'être sure qu'il ne la trompe pas.

@@ -10,5 +10,6 @@ Famille guerrière, elle place régulièrement ses membres dans des positions mi
 Il existe une légère tension avec la famille [**Kwestyon**](./Famille_Kwestyon.md), ces derniers souhaitant acquérir le titre de noblesse, la famille **Kutt** l'ayant récemment obtenu.
 
 ## Membres
-* [**Keno Kutt**](../../BRUMEBOURG/Keno_Kutt.md)
-* [**Kaill Kutt**](../../BRUMEBOURG/Kaill_Kutt.md)
+* [Timotheos Kutt](../Timotheos_Kutt.md)
+* [Keno Kutt](../../BRUMEBOURG/Keno_Kutt.md)
+* [Kaill Kutt](../../BRUMEBOURG/Kaill_Kutt.md)

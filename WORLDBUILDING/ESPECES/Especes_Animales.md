@@ -17,4 +17,9 @@ Ces créatures vivent généralement dans les montagnes, et aiment bien faire le
 
 Elles se nourrissent de tout ce qu'elles peuvent trouver, notamment les personnes qui s'aventureraient trop loin toutes seules.
 
+## Crapaud-Champignon
+![Crapaud Champignon](../../_images/crapaud_champignon.png)
+
+Extrêmement toxique, les champignons qui poussent sur son dos font partie des substance les plus hallucinogènes au monde.
+
 ## Renard change-forme / Renard-caméléon
