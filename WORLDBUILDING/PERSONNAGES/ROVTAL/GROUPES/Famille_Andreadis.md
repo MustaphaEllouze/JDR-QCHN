@@ -7,3 +7,4 @@ En tant que famille **royale**, elle est en charge de distribuer toutes les resp
 ## Membres
 
 * [Astrée Andreadis](../Astrée_Andreadis.md)
+* [Aniximandros Andreadis](../../SOMBRES_ARTISTES/AnaximandrosAndreadis.md)

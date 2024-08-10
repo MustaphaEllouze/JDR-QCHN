@@ -1,4 +1,4 @@
-# Paumes-Bleues - Chef de division
+# Paumes-Bleues
 ![Paumes-Bleues](../../../_images/paumes_bleues.png)
 ![Paumes-Bleues](../../../_images/paumes_bleues_2.png)
 

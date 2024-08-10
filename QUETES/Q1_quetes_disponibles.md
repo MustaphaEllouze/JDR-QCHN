@@ -110,7 +110,7 @@ Au temple d'**Italis**, plusieurs prêtres sont en train de prier pour **Iakob**
 * On a retrouvé les affaires de **Iakob** à la sortie du temple de **Muhuta** ; 
 * Des rumeurs courent qu'il y avait une tension entre **Ippolitos** et la grande prêtresse du temple de **Muhuta**, [**Nikolia Angelopoulos**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Nikolia_Angelopoulos.md).
 * **Ippolitos** pense que que **Iakob** était trop curieux pour son propre bien, et qu'il posait des fois des questions qui pouvaient heurter certaines sensibilités ;
-    * Notamment, il a été vu une fois en train de poser des questions trop insistantes à certains prêtres de **Komorath**, notamment le grand prêtre [Philaretos Venizelos](../WORLDBUILDING/PERSONNAGES/ROVTAL/Philaretos_Venizelos.md), en pleine rue, devant le temple de **Komorath**.
+    * Notamment, il a été vu une fois en train de poser des questions trop insistantes à certains prêtres de **Komorath**, notamment à un prêtre [Polykarpos Manos](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Polykarpos_Manos.md), en pleine rue, devant le temple de **Komorath**.
 * En insistant un peu, il est capable de dire qu'il a eu lui-même une dispute avec **Iakob** à cause des finances du temple :
     * Pour **Iakob**, l'argent doit servir aux plus démunis, et on doit le donner tant que possible, quitte à mener moins bien les rites ;
     * Pour **Ippolitos**, les rites passent avant tout, et il faut absolument respecter les traditions, notamment pour le respect des morts et des rites hebdomadaires.
@@ -162,19 +162,65 @@ Il n'y a pas beaucoup d'indices dans les chambres et bureaux des prêtres mis à
 Si confrontée, **Nikolia** aura du mal à l'avouer, mais dira que cette potion devait servir sur son mari, afin d'être sure qu'il ne la trompe pas.
 
 ### Mission : Interroger les prêtres de Komorath
-Les prêtres de Komorath sont connus pour ne pas être très appréciés, leur culte est toléré mais pas officiel. Il dit que Komorath est souvent injustement accusé de tous les maux de la terre.
+Les prêtres de [**Komorath**](../WORLDBUILDING/COSMOLOGIE/PLANS_ET_DIVINITES/Komorath.md) ne sont pas très appréciés en ville, une des raisons étant que leur culte est toléré mais non-officiel, car n'est géré par aucune famille noble de **Rovtal**. De ce fait, les prêtres sont souvent accusés de tous les maux de la ville.
 
-Il y a déjà eu des tensions avec leurs autres membres de autres cultes. Notamment, parce le culte n'est pas subventionné par la couronne.
+![Temple de Kmorath](../_images/temple_komorath.png)
+
+L'entrée du temple est généralement surveillée par un prêtre, qui lance des illusions aux personnes qu'il percevera comme **intrus**. Les illusions peuvent prendre plusieurs formes :
+* Une grande créature qui joue le rôle de gardien du temple, qui parle d'une voix grave et profonde, et qui essaye de faire fuir les intrus ; 
+* Une illusion de plusieurs bandits ou voleurs qui font semblant de voler les intrus ;
+* Une vision d'un des intrus qui apparaît aux autres afin de les tromper.
+
+Pour toute personne avec un score de **Sagesse** d'au moins 15, quelque chose apparaît comme bizarre dans n'importe quel illusion qui apparaît. De façon active, il est possible de faire un jet d'**Investigation** DD 15 pour déceler la nature de l'illusion.
+
+Le jeteur d'illusion est [Philaretos Venizelos](../WORLDBUILDING/PERSONNAGES/ROVTAL/Philaretos_Venizelos.md), le garde du temple.
+
+Le grand prêtre du temple est celui en charge de gérer les relations avec l'extérieur, [Anaximandros Andreadis](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/AnaximandrosAndreadis.md), frère exilé de la reine actuelle, [Astrée Andreadis](../WORLDBUILDING/PERSONNAGES/ROVTAL/Astrée_Andreadis.md).
+
+**Anaximandros** est la personne qui a été contactée par les **Mains Noires**, notamment [**Etherios Sfer**](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), afin de trouver assez d'**énergie éthérique** afin de servir de premier *repas* aux nouveaux transformés : [Griffes-Rouges](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md) et [Paumes-Bleues](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Paumes_Bleues.md). Pour ce faire, il est allié plusieurs personnes de son temple, notamment [Polykarpos Manos](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Polykarpos_Manos.md), qui étaient en charge d'exécuter le plan en kidnappant un prêtre d'un autre temple, en l'occurrence **Iakob Samaras**.
+
+Lors de l'entretien, il peut révéler les choses suivantes :
+* Les tensions qu'il peut y avoir avec les familles nobles et les autres temples, car le culte n'est pas reconnu offciellement. 
+* Les problèmes d'argent qu'il peut y avoir, et le fait qu'il dépende grandement des dons des rares habitants qui vénèrent **Komorath**.
+    * Les enseignements de **Komorath** concernent en premier lieu : la place de l'Art dans la vie, la créativité et la fragilité de la vie.
+* Il dit avoir en effet déjà entendu parler des disputes entre **Iakob** et [**Polykarpos Manos**](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Polykarpos_Manos.md), un des prêtres de son temple.
+    * Cette dispute était notamment lié à **Iakob** qui était trop curieux, et qui ne voulait pas comprendre le pluralité des cultes.
+* Il dit qu'il ne voit pas le rapport entre son temple et la disparition.
+    * Notamment, il cherche à cacher la culture de [**Mandragore nocturne**](../WORLDBUILDING/ESPECES/Especes_Vegetales.md#mandragore-nocture) au sein du temple, car la culture de la plante a été interdite récemment à cause de ses propriétés narcotiques.
+* En cas de doute, il cherchera à tout renvoyer sur le dos de [Polykarpos Manos](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Polykarpos_Manos.md).
+
+Lors de l'entretien de [**Polykarpos Manos**](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Polykarpos_Manos.md) :
+* Il se montre très critique envers **Iakob**, car il était que très peu tolérant ;
+* Il dit ne pas l'avoir vu récemment ;
+    * Il est nerveux en disant cela ;
+* Sous pression, il pourra révéler que le temple continue de cultiver des [**mandragores nocturnes**](../WORLDBUILDING/ESPECES/Especes_Vegetales.md#mandragore-nocture) ;
+
 ### Mission : Fouiller le temple de Komorath
-En y allant la nuit, on peut découvrir certains membres du temple qui font partie des Sombres Artistes fait des réunions secrètes s'entretenant des nouvelles missions qui viennent des Tréfonds (de la part d'Etherios).
+De jour, il est possible de visiter le temple, et d'aller notamment dans les chambres des prêtres.
+* Chambre de [**Anaximandros Andreadis**](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/AnaximandrosAndreadis.md) : 
+    * Rien de particulier, tout est en ordre
+* Chambre de [**Polykarpos Manos**](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Polykarpos_Manos.md) :
+    * Des traces rouges, de **mandragore nocturne**, sur certains habits, mais pas de traces de lettre.
+* Pièce cachée :
+    * Il existe une pièce, qui accueille les rituels officiels. 
+    * L'intérieur de la pièce est vide, il y a que quelques bancs et un autel afin de mener les rituels.
+    * Il existe une porte au fond de la pièce qui ne peut s'ouvrir que la nuit, car besoin de catalyser l'énergie des lunes.
+        * La raison officielle est que cette pièce contient le matériel nécessaire sacré pour mener les rituels.
 
-Possibilité de trouver des pièces fermées et cachées dans les sous-sol.
+La **nuit tombée**, plusieurs prêtres qui sont dans la confession se retrouvent dans le temple afin d'y mener des réunions secrètes.
+
+Dans le cas où les **Aventuriers** se sont présentés au temple, ou que les bruits de leur enquête se sont propagés, [Aniximandros Andreadis](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/AnaximandrosAndreadis.md) est absent de ces réunions, préférant envoyer ses alliés à l'abattoir afin de protéger leurs activités.
+
+Une activité peut être vue à l'intérieur du temple, de la lumière pouvant être aperçue.
+ 
+A l'intérieur de la pièce, on peut entendre des échanges mentionnant les **Sombres Artistes** et les **Mains Noires**. 
+
+Dans le cas où les membres sont confrontés, il essaieront de se défendre car ils ont peur de faire fuiter des informations secrètes. [**Rencontre**](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-5---la-pièce-rituelle).
 
 ### Mission : Retrouver le kidnapper
-C'est un prêtre de Komorath.
+Le kidnapper n'est autre que [Anaximandros Andreadis](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/AnaximandrosAndreadis.md) assisté de [Polykarpos Manos](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Polykarpos_Manos.md). Il a kidnappé **Iakob Samaras** afin de l'offrir en pâture à [Griffes-Rouges](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md) et [Paumes-Bleues](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Paumes_Bleues.md), nouveaux [**Sombraurs**](../WORLDBUILDING/ESPECES/ESPECES_MAGIQUES/Sombraur.md).
 
-### Mission : Comprendre les missions du kidnapper
-Il a kidnappé pour donner des vies à consommer pour Griffes Rouges et Paumes Bleues.
+Cette mission a été commanditée par [Etherios Sfer](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), mais en tant que **Main Noire**, il se camoufle totalement afin qu'on ne reconnaisse pas son identité.
 
 ## Quête : Les Tensions entre Nobles
 ### Mission : Se renseigner sur la situation à Dvolsti

@@ -46,3 +46,13 @@
 **XP** : 300 XP
 
 **Scope** : Moyenne au niveau 2
+
+## Rencontre Batiment 5 - La pièce rituelle
+
+??
+
+**Objectif** : Venir à bout des cultistes
+
+**XP** : ??
+
+**Scope** : ??
