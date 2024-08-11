@@ -223,6 +223,19 @@ Le kidnapper n'est autre que [Anaximandros Andreadis](../WORLDBUILDING/PERSONNAG
 
 Cette mission a été commanditée par [Etherios Sfer](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), mais en tant que **Main Noire**, il se camoufle totalement afin qu'on ne reconnaisse pas son identité.
 
+### Mission : Retrouver Iakob
+Le corps de **Iakob Samaras** a été caché en marge de la ville, enterré à quelques dizaines de minutes à la sortie. 
+
+Plusieurs personnes connaissent l'emplacement du corps de **Iakob**, notamment :
+* [Anaximandros Andreadis](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/AnaximandrosAndreadis.md) ; qui ne voudra pas du tout être mêlé à tout cela
+* [Polykarpos Manos](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Polykarpos_Manos.md) ; qui pourra révéler où c'est sous la menace ;
+* [Griffes-Rouges](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md) et [Paumes-Bleues](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Paumes_Bleues.md) qui pourront donner l'emplacement afin de convaincre les Aventuriers de ne pas aller plus loin que cette enquête de disparition.
+
+Une fois retrouvé :
+* Le corps est encore frais puisqu'il est mort il y a quelques jours uniquement ;
+* Il est totalement désséché car toute sa magie a été absorbée ;
+* Il porte plusieurs marques de griffes sur le corps, qui correspondent aux marques de **Griffes-Rouges** et **Paumes-Bleues**, mais qui ne peuvent pas être identifiées avec plus de précision.
+
 ## Quête : Les Tensions entre Nobles
 ### Mission : Se renseigner sur la situation à Dvolsti
 Le jour de l'arrivée des **Aventuriers** à Rovtal, la nouvelle venant de [Dvolsti](../WORLDBUILDING/VILLES/Dvolsti.md) arrive à [Rovtal](../WORLDBUILDING/VILLES/Rovtal.md) : le tumulte qui a pris la ville fait que la **Consule** actuelle de **Dvolsti**, [Elèctre Alexandros](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md) ne peut plus assurer sa fonction :
