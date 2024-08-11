@@ -49,10 +49,20 @@
 
 ## Rencontre Batiment 5 - La pièce rituelle
 
-??
+* [Polykarpos Manos](../STAT_BLOCKS/PERSONNAGES/PolykarposManos.md)
+* 1 [Fanatique de secte](../STAT_BLOCKS/CLASS/FanatiqueDeSecte.md), variante **Ombre**
+* 1 [Fanatique de secte](../STAT_BLOCKS/CLASS/FanatiqueDeSecte.md), variante **Lumière**
+* 3 [Elémentaires volants de l'Ombre](../STAT_BLOCKS/ELEMENTAIRES/ElementaireVolantDOmbre.md)
+* 3 [Elémentaires volants de la Lumière](../STAT_BLOCKS/ELEMENTAIRES/ElementaireVolantDeLumiere.md)
 
-**Objectif** : Venir à bout des cultistes
+La pièce comprend un autel en forme de colonne qui produit une lumière vive, chaque créature qui termine son tour adjacent au pilier subit 1d6 dégâts radiants. 
 
-**XP** : ??
+Le reste de la pièce est plongé dans une obscurité 
 
-**Scope** : ??
+**Objectif** : Venir à bout des fanatiques
+
+**XP** : 2300
+
+**Scope** : Niveau 6
+
+**Butin** : [Cape de déplacement](../RECOMPENSES/RARES.md#cape-de-déplacement)
