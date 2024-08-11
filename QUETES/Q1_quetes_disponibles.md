@@ -102,6 +102,7 @@ Les informations connues par la Police au moment des faits est :
 * Le prêtre s'appelle **Iakob Samaras** ;
 * C'était un prêtre d'[Italis](../WORLDBUILDING/COSMOLOGIE/PLANS_ET_DIVINITES/Italis.md) ;
 * Ses affaires ont été retrouvées tout près du temple de [**Muhuta**](../WORLDBUILDING/COSMOLOGIE/PLANS_ET_DIVINITES/Muhuta.md), auquel il a été envoyé depuis quelques temps pour échanger sur les rites des différents temples.
+* La disparition a été signalée la veille seulement, mais elle a eu lieu l'avant-veille au soir.
 
 Au temple d'**Italis**, plusieurs prêtres sont en train de prier pour **Iakob**, le prêtre qui a remonté la disparition aux autorités est le chef des lieux, [Ippolitos Gabras](../WORLDBUILDING/PERSONNAGES/ROVTAL/Ippolitos_Gabras.md). Il sait les choses suivantes :
 * Il est celui qui a mandaté **Iakob** au temple de **Muhuta** pour performer l'échange *culturel*, sous les ordres du chef du culte d'**Italis**, la chef de la [famille Giannaris](../WORLDBUILDING/PERSONNAGES/ROVTAL/GROUPES/Famille_Giannaris.md) ;
