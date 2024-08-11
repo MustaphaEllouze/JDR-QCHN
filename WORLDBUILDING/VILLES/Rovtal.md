@@ -72,6 +72,12 @@ Des membres de la garde sont présents près du pont, mais cela n'empêche pas q
 ### Le Temple de Komorath (Surface)
 ![Temple de Komorath](../../_images/temple_komorath.png)
 
+Un prêtre est systématiquement de garde devant le temple, afin de se prémunir des éventuels intrus, car le culte de **Komorath** n'est pas un culte officiel de la ville, ce qui provoque la proflifération de plusieurs détracteurs. Le prêtre-garde a pour habitude de communiquer avec les intrus via des illusions, afin de décourager les plus peureux d'entre eux.
+
+On y retrouve la culture des [mandragores nocturnes](../ESPECES/Especes_Vegetales.md#mandragore-nocture), bien que cela ait été interdit par la ville à cause de leur propriétés narcotiques.
+
+Le temple élève aussi des [colombes de minuit](../ESPECES/Especes_Animales.md#colombe-de-minuit).
+
 ### Marché de Rovtal
 ![Marché](../../_images/marché_rovtal.png)
 

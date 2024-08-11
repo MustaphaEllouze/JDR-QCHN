@@ -17,6 +17,9 @@ Ces créatures vivent généralement dans les montagnes, et aiment bien faire le
 
 Elles se nourrissent de tout ce qu'elles peuvent trouver, notamment les personnes qui s'aventureraient trop loin toutes seules.
 
+## Colombe de minuit
+![Colombe de minuit](../../_images/birdOfLight.png)
+
 ## Crapaud-Champignon
 ![Crapaud Champignon](../../_images/crapaud_champignon.png)
 
