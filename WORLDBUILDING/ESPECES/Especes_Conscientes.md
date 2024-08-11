@@ -45,7 +45,7 @@
 Une pratique saurienne courante est de prendre le nom de famille de son conjoint ou de sa conjointe si sa famille est jugée plus puissante et influente que la sienne.
 
 ### Alligatorides
-![Alligatoride](../../_images/djibril.webp)
+![Alligatoride](../../_images/djibril.png)
 
 ### Tortuguéens
 ![Tortuguéen](../../_images/Arkolapoulos.png)
@@ -60,6 +60,7 @@ Les **Camélonides** portent généralement des noms rappelant les sonorités d'
 
 ## Félinoïde
 ### Léonins
+![Léonin](../../_images/white_leonin_noble_samurai.png)
 Les **Léonins** sont connus pour pour faire rouler les *R* **au fond de leurs gorges** en parlant ([exemple audio](https://en.wikipedia.org/wiki/Voiced_uvular_trill)). Il leur arrive de prononcer ce son tout seul dans le cas où ils sont mécontents. Ils détestent qu'on prenne ce son pour un *ronronnement*.
 
 ### Tigryliens
@@ -89,6 +90,7 @@ Ils portent généralement le prénom qu'ils se sont donnés eux-mêmes, une foi
 
 ## Minotaures
 ### Minotaures des plaines
+![Minotaure des plaines](../../_images/minotaur_thief.png)
 
 ## Avemains
 ### Strixiens 
