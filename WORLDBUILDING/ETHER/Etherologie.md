@@ -116,12 +116,12 @@ Cette distance dicte par la suite les **états physiques** des mélanges d'éthe
 
 > **Note** :
 > 
-> Les éthers **structuraux** sont la classe d'éthers qui ont une distance critique $\Delta x_c$ avec les autres éthers et entre eux. Ils peuvent alors former aisément des liaisons et former des structures complexes.   
+> Les éthers **structuraux** sont la classe d'éthers qui ont une distance critique $\Delta x_c$ très petite avec les autres éthers et entre eux. Ils peuvent alors former aisément des liaisons et former des structures complexes.   
 
 ### Principe d'orthogonalisation
 Lorsque plusieurs éthers interagissent, il est possible que certains d'entre eux voient leurs coordonnées éthériques évoluer pour se ranger orthogonalement selon la dimension éthérique.
 
-Cette orthogonalisation peut se rapprocher d'une sorte de magnétisation, puisque les éthers se rangent alors plus selon la coordonée éthérique que selon les coordonnées spatiales.
+Cette orthogonalisation peut se rapprocher d'une sorte de magnétisation, puisque les éthers se rangent alors plus selon la coordonnée éthérique que selon les coordonnées spatiales.
 
 Des éthers maintenus en position coordonnée éthérique légèrement décalée sont beaucoup moins sujets aux interactions avec les composés de coordonnée éthérique et spatiales différentes.
 
