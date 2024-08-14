@@ -1,4 +1,5 @@
 # Les Ethers Elémentaires
+Les **éthers élémentaires** sont la catégorie d'éthers dont la **décharge éthérique** (voir [Ethérologie](./Etherologie.md#principe-de-décharge-éthérique)) se manifeste essentiellemet via une augmentation de leur énergie éthérique, donc un $\alpha_{cin}$ proche de $0$, ce qui leur permet donc d'arracher de la matière à d'aurtes plans pour l'amener à eux.
 
 ## [Plan de la Lave et du Feu](../COSMOLOGIE/PLANS_ET_DIVINITES/Ingar.md)
 ### Geshnum - Ether du Feu
