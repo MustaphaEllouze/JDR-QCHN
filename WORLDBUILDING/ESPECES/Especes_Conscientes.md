@@ -68,7 +68,6 @@ Les **Léonins** sont connus pour pour faire rouler les *R* **au fond de leurs g
 
 ### Panthérans
 ![Panthéran](../../_images/barman.png)
-![Panthéran](../../_images/barman_enfant.png)
 Une espèce assez fière qui culturellement cherche à vivre dans le confort et qui sait saisir toute opportunité afin de pouvoir maintenir son niveau de vie. De ce fait, ils sont vus comme avares et prêt à tout pour monter socialement. 
 
 Les **Panthérans** vivent génralement dans de petites communautés, n'aimant pas le brouhaha des villes. 
@@ -78,7 +77,6 @@ Avant l'âge adulte, ils ne portent que le prénom donné par leurs parents. Une
 Lorsqu'ils parlent, les **Panthérans** ont tendance à particulièrement rouler les *R*. De plus, ils ont tendance à transformer tous les *S* en *CH/SH*.
 
 ### Felicis
-![Felicis](../../_images/felicis_21.png)
 ![Felicis](../../_images/felicis.png)
 Les **Felicis** sont souvent pris de haut par les autres espèces de Félinoïdes, étant clairement la race la plus petite et avec l'espérance de vie la plus courte. De plus, les Felicis ronronnent légèrement quand ils s'expriment, ce qui est un trait jugé enfantin chez les autres **Félinoïdes**.
 
@@ -112,7 +110,9 @@ Ils portent généralement le prénom qu'ils se sont donnés eux-mêmes, une foi
 
 Les **centaures** vivent généralement en clan nomade, se déplaçant de zone stable magiquement à une autre, s'arrêtant parfois à la lisière de villes peuplées pour échanger des ressources. 
 
-Les centaures ont un système de nommage de leurs membres assez particulière puisque composé de trois noms : 
+Les centaures font partie des rares espèces conscientes à posséder un **coeur éthérique** (voir [bio-éthérologie](../ETHER/Bioetherologie.md)), qui est un organe qui permet de faire circuler l'éther à l'intérieur de leur corps ; là où pour les autres espèces le système éthérique est généralement passif (comme le système lymphatique).
+
+Les centaures ont un système de nommage de leurs membres assez particulier puisque composé de trois noms : 
 * Leur prénom, donné à la naissance par leurs parents ;
 * Leur nom de famille, transmis par le père ;
 * Un surnom, qui peut évoluer avec l'âge et leurs accomplissements.
