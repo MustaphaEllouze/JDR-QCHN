@@ -1,7 +1,6 @@
 # Valéria Samaras / Valéria Botzaris - Main Noire / Vice-cheffe de la guilde des ingénieurs
 ![Valéria](../../../_images/valéria_3.png)
 ![Valéria](../../../_images/valeria_botzaris.png)
-![Valéria](../../../_images/valeria_botzaris2.png)
 
 ## Infos 
 | Âge | Espèce | Occupation | Alignement | MBTI |

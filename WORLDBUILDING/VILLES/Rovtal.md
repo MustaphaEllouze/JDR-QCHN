@@ -1,17 +1,54 @@
 # Rovtal
 
 ## Présentation
-**Rovtal** est une ville fondée par une ancienne tribu composée de **Sauriens** et de **Varanides**. Autrefois, cette tribu était connue pour ses performances au niveau de l'agriculture, ayant combiné habilement magie et culture afin de pouvoir se sustenter. 
+**Rovtal** est une ville fondée par une ancienne tribu composée de [**Sauriens**](../ESPECES/Especes_Conscientes.md#sauriens) et de [**Varanides**](../ESPECES/Especes_Conscientes.md#varanides). Autrefois, cette tribu était connue pour ses performances au niveau de l'agriculture, ayant combiné habilement magie et culture afin de pouvoir se sustenter. 
 
 C'est donc avec joie que cette tribu s'est installée dans cette zone lors de l'apparition des stabilisateurs naturels, puisque l'Ouest de la Côte Épineuse est connue de nos jours pour ses terres fertiles et argileuses, et son exposition au soleil. Parmi toutes les cultures différentes, on trouve notamment : des agrumes, des vignes pour la fabrication du vin, des légumes et fruits charnus et juteux, ainsi que des baies de toutes sortes.
 
-La ville de **Rovtal** est néanmoins particulière puisque le **stabilisateur de leyline naturel** se trouve au fond d'un énorme gouffre qui s'étend sur une très grande distance. De nos jours, la vieille ville se situe au fond du gouffre, alors que les nouveaux bâtiments se construisent tous en surface de ce gouffre.
+La ville de **Rovtal** est néanmoins particulière puisque le **stabilisateur de leyline naturel** se trouve au fond d'un énorme gouffre qui s'étend sur une très grande distance. De nos jours, la **vieille ville** se situe au fond du gouffre, alors que les nouveaux bâtiments se construisent tous en surface de ce gouffre. Devant cette expansion, il a été fait le choix de délocaliser les familles non prestigieuses vers la [Surface](#surface), laissant les [Tréfonds](#tréfonds) aux familles les plus influentes.
 
-Au niveau de l'agriculture, les cultivateurs de Rovtal usent fréquemment de la magie afin de s'occuper au mieux de leurs cultures, de changer leurs tailles et leur goût, et même de les faire changer de couleur et de texture pour les mets les plus raffinés et exotiques. Pour cela, ils invoquent les magies des deux dieux les plus populaires de la ville : **Muhuta**, déesse de la Transfrmation et du Renouveau, et **Italis**, dieu de la Vie et de la Mort. 
+Au niveau de l'agriculture, les agriculteurs de Rovtal usent fréquemment de la magie afin de s'occuper au mieux de leurs cultures, de changer leurs tailles et leur goût, et même de les faire changer de couleur et de texture pour les mets les plus raffinés et exotiques. Pour cela, ils invoquent les magies des deux dieux les plus influents de la ville : [**Muhuta**](../COSMOLOGIE/PLANS_ET_DIVINITES/Muhuta.md), déesse de la **Transformation** et du **Renouveau**, et [**Italis**](../COSMOLOGIE/PLANS_ET_DIVINITES/Italis.md), dieu de la **Vie** et de la **Mort**. 
 
-Le temps passant, la ville s'est agrandie et hiérarchisée. Les terrains cultivés se faisant de plus en plus grands, les savants de Rovtal ont dû trouver un moyen de stabiliser les leylines à une grande distance de leur centre-ville, organisé autour du stabilisateur naturel. Les stabilisateurs artificiels étant inventés, ils en placèrent de plus en plus loin afin de conquérir un territoire plus grand, ce qui a rapidement nécessité une organisation efficace. De nos jours, un seigneur reigne sur Rovtal, et il mandate des représentants dans les villes aux alentours afin de gérer localement les villages. 
+Le temps passant, la ville s'est agrandie et hiérarchisée. Les terrains cultivés se faisant de plus en plus grands, les savants de Rovtal ont dû trouver un moyen de stabiliser les leylines à une grande distance de leur centre-ville, organisé autour du [stabilisateur naturel](#le-stabilisateur-naturel). Les stabilisateurs artificiels étant inventés, ils en placèrent de plus en plus loin afin de conquérir un territoire plus grand, ce qui a rapidement nécessité une organisation efficace. De nos jours, un **seigneur** reigne sur Rovtal, et il mandate des représentants dans les villes aux alentours afin de gérer localement les villages. 
 
-Malgré la prévalence des cultes de **Italis** et **Muhuta**, d'autres cultes existent dans Rovtal, mais leurs traditions et croyances sont moins connues du grand public. On citera notamment le culte de **Komorath**, dieu de la Tromperie et des Arts Obscurs, qui se font appeler les **Sombres Artistes**. Dans le secret, ce culte est dirigé par des **Sombraurs**, des créatures se nourissant de la magie d'autrui pour survivre, créatures qui ont été créées (et qui le sont toujours) via un long rituel à la gloire de **Komorath**. Ces **Sombraurs**, dirigés par [**Federi Gox**](../PERSONNAGES/SOMBRES_ARTISTES/Federi_Gox.md), aidé par le seigneur local [**Ethérios Sfer**](../PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), tirent en réalité les ficelles derrière beaucoup des mouvement politiques de la région.
+Malgré la prévalence des cultes de **Italis** et **Muhuta**, d'autres cultes existent dans Rovtal, mais leurs traditions et croyances sont moins connues du grand public. On citera notamment le culte de [**Komorath**](../COSMOLOGIE/PLANS_ET_DIVINITES/Komorath.md), dieu de la Tromperie et des Arts Obscurs, dont certains membres se font appeler les [**Sombres Artistes**](#les-sombres-artistes). Dans le secret, ce culte est dirigé par des [**Sombraurs**](../ESPECES/ESPECES_MAGIQUES/Sombraur.md), des créatures se nourissant de la magie d'autrui pour survivre, créatures qui ont été créées (et qui le sont toujours) via un long rituel à la gloire de **Komorath**. Ces **Sombraurs**, dirigés par [**Federi Gox**](../PERSONNAGES/SOMBRES_ARTISTES/Federi_Gox.md), aidé par le seigneur local [**Ethérios Sfer**](../PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), tirent en réalité les ficelles derrière beaucoup des mouvements politiques de la région.
+
+## Système politique
+Le **système politique** est la féodalité : un famille royale, la [famille Andreadis](../PERSONNAGES/ROVTAL/GROUPES/Famille_Andreadis.md), règne sur **Rovtal** et sur toutes les villes vassales, tandis que les familles prestigieuses de la ville aident la famille royale à gouverner le royaume.
+
+Politiquement, **Rovtal** fait la distinction entre familles **nobles** et familles **prestigieuses**. Là où les familles **nobles** gèrent les activités les plus cruciales de la ville et ont leur mot à dire sur sa gestion lors des [hauts conseils](#hauts-conseils), les familles **prestigieuses** sont moins influentes et sont plutôt vues comme les gestionnaires les plus compétents.
+
+### Familles nobles
+On compte **cinq** familles nobles :
+* [Famille Sfer](../PERSONNAGES/ROVTAL/GROUPES/Famille_Sfer.md), représentée par [Ethérios Sfer](../PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), en charge de la **politique extérieure**.
+* [Famille Kutt](../PERSONNAGES/ROVTAL/GROUPES/Famille_Kutt.md), représentée par [Timotheos Kutt](../PERSONNAGES/ROVTAL/Timotheos_Kutt.md), en charge de l'**armement**.
+* [Famille Alexandros](../PERSONNAGES/ROVTAL/GROUPES/Famille_Alexandros.md), représentée par [Kroisos Alexandros](../PERSONNAGES/ROVTAL/Kroisos_Alexandros.md), en charge des **finances et des impôts**.
+* [Famille Botzaris](../PERSONNAGES/ROVTAL/GROUPES/Famille_Botzaris.md), représentée par [Androkles Botzaris](../PERSONNAGES/ROVTAL/AndroklesBotzaris.md), en charge de la [**Guilde des Ingénieurs**](#la-guilde-des-ingénieurs).
+* [Famille Zografos](../PERSONNAGES/ROVTAL/GROUPES/Famille_Zografos.md), représentée par [Theofania Zografos](../PERSONNAGES/ROVTAL/ThoefaniaZografos.md), en charge de l'[Ecole d'Ethérologie](#lecole-dethérologie).
+
+### Familles prestigieuses
+On compte **cinq** familles prestigieuses :
+* [Famille Kwestyon](../PERSONNAGES/ROVTAL/GROUPES/Famille_Kwestyon.md)
+* [Famille Andreou](../PERSONNAGES/ROVTAL/GROUPES/Famille_Andreou.md), représentée par [Olympia Andréou](../PERSONNAGES/ROVTAL/Olympia_Andréou.md), en charge des **imports et des exports**.
+* [Famille Lambrakis](../PERSONNAGES/ROVTAL/GROUPES/Famille_Lambrakis.md), représentée par [Konstantia Lambrakis](../PERSONNAGES/ROVTAL/KonstantiaLambrakis.md), en charge de la gestion du culte de [**Muhuta**](../COSMOLOGIE/PLANS_ET_DIVINITES/Muhuta.md).
+* [Famille Petrakos](../PERSONNAGES/ROVTAL/GROUPES/Famille_Petrakos.md)
+* [Famille Giannaris](../PERSONNAGES/ROVTAL/GROUPES/Famille_Giannaris.md), représentée par [Xaverios Giannaris](../PERSONNAGES/ROVTAL/XaveriosGiannaris.md), en charge de la gestion du culte d'[**Italis**](../COSMOLOGIE/PLANS_ET_DIVINITES/Italis.md).
+
+### Hauts Conseils
+Les **Hauts Conseils** sont la plus haute instance politique à **Rovtal**.
+
+Réunissant un représentant de chaque famille noble, ainsi que plusieurs membres de la famille royale, il est l'endroit où se font toutes les décisions touchant l'ensemble du territoire et l'ensemble des activités de la ville.
+
+Par défaut, il y a un **Haut Conseil** tous les deux mois, mais n'importe lequel des membres peut faire se réunir le conseil en cas d'urgence.
+
+Actuellement, les membres du **Haut Conseil** sont :
+* [Astrée **Andreadis**](../PERSONNAGES/ROVTAL/Astrée_Andreadis.md) pour la famille royale ;
+* [Etherios **Sfer**](../PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md) ; 
+* [Timotheos **Kutt**](../PERSONNAGES/ROVTAL/Timotheos_Kutt.md) ;
+* [Kroisos **Alexandros**](../PERSONNAGES/ROVTAL/Kroisos_Alexandros.md) ;
+* [Androkles **Botzaris**](../PERSONNAGES/ROVTAL/AndroklesBotzaris.md) ;
+* [Theofania **Zografos**](../PERSONNAGES/ROVTAL/ThoefaniaZografos.md). 
+
 
 ## Lieux 
 ### La guilde des ingénieurs
@@ -127,8 +164,6 @@ Ils sont dirigés par [**Èdem Kurt**](../PERSONNAGES/ROVTAL/EdemKurt.md).
 ## Traditions et particularités
 ### La Surface, les Flancs et les Tréfonds
 
-### Place des familles nobles et prestigieuses
-
 ### La Police de Rovtal
 La **Police de Rovtal** est l'organisme qui s'occupe de faire régner l'ordre dans la ville. Plusieurs districts existent, et opèrent de façon plus au moins indépendante. Les deux plus grands districts sont :
 * Le **District de la Surface** ;
@@ -154,25 +189,6 @@ La plupart des membres de la police souhaitent être promus pour aller exercer a
 Les **Tréfonds** sont connus pour être le vieux quartier de la ville et où se trouvent l'ensemble des **familles nobles**, et donc par extension le quartier richer, alors que c'est à la **Surface** où se trouvent les autres individus, notamment les habitants qui ne sont pas originaires de **Rovtal**.
 
 ### Place de l'agriculture dans la ville
-
-## Personnages importants de la ville
-
-### La famille royale
-* [Famille Andreadis](../PERSONNAGES/ROVTAL/GROUPES/Famille_Andreadis.md)
-
-### Les familles nobles
-* [Famille Sfer](../PERSONNAGES/ROVTAL/GROUPES/Famille_Sfer.md)
-* [Famille Kutt](../PERSONNAGES/ROVTAL/GROUPES/Famille_Kutt.md)
-* [Famille Alexandros](../PERSONNAGES/ROVTAL/GROUPES/Famille_Alexandros.md)
-* [Famille Botzaris](../PERSONNAGES/ROVTAL/GROUPES/Famille_Botzaris.md)
-* [Famille Zografos](../PERSONNAGES/ROVTAL/GROUPES/Famille_Zografos.md)
-
-### Les familles prestigieuses
-* [Famille Kwestyon](../PERSONNAGES/ROVTAL/GROUPES/Famille_Kwestyon.md)
-* [Famille Andreou](../PERSONNAGES/ROVTAL/GROUPES/Famille_Andreou.md)
-* [Famille Lambrakis](../PERSONNAGES/ROVTAL/GROUPES/Famille_Lambrakis.md)
-* [Famille Petrakos](../PERSONNAGES/ROVTAL/GROUPES/Famille_Petrakos.md)
-* [Famille Giannaris](../PERSONNAGES/ROVTAL/GROUPES/Famille_Giannaris.md)
 
 ## Images
 ### Surface
