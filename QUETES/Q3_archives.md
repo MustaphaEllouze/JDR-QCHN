@@ -368,11 +368,11 @@ Depuis leur trahison, **Paumes-Bleues** et **Griffes-Rouges** sont devenus des [
 
 ### Mission : Découvrir ses intentions
 La destruction est motivée par deux éléments :
-* Remplir leur part du marché avec les [Tisserands](../WORLDBUILDING/VILLES/Caproch.md#les-tisserands), qui veulent détruire le stabilisateur afin de stabiliser les leylines sur une île au Nord, et sécuriser une voie commerciale maritime ;
+* Remplir leur part du marché avec la [**Loge des Douze**](../WORLDBUILDING/VILLES/Caproch.md#la-loge-des-douze), qui veulent détruire le stabilisateur afin de stabiliser les leylines sur une île au Nord, et sécuriser une voie commerciale maritime ;
 * Pouvoir profiter du chaos instauré dans le village afin de pouvoir avoir une ressource de magie à absorber facilement (capturer les quelques habitants qui n'arriveraient pas s'échapper leur de leur exode potentiel).
 
 Durant les événements qui se sont passés à Dvolsti et la chute des têtes pensantes des **Enfants de la Rue**, deux anciens chefs de Division, [Paumes-Bleues](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Paumes_Bleues.md) et [Griffes-Rouges](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md), ont livré les expériences d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) sur l'extraction et l'exploitation de l'éther au sein des êtres vivants. Depuis les intentions des **Mains Noire** ont légèrement évolué :
-* Le marché avec les Tisserands a été rompu ;
+* Le marché avec la **Loge des Douze** a été rompu ;
 * Le but maintenant est d'exploiter les expériences d'**Arkolapoulos** afin de pouvoir ouvrir un portail vers le plan de la Lumière et Couleurs, demeure présumé de [**Komorath**](../WORLDBUILDING/COSMOLOGIE/PLANS_ET_DIVINITES/Komorath.md).
 
 Pour accomplir ce nouveau plan, de nombreux tests sont nécessaires, et l'ensemble des relations dans la ville de **Rovtal** sont mobilisées. [Federi Gox](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Federi_Gox.md) n'a pas encore été sorti de sa longue hibernation...
