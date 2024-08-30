@@ -13,7 +13,7 @@ D'une part, la cité a rapidement prospéré, et les grandes familles marchandes
 
 D'autre part, la puissance militaire et la force de frappe des animaux domptés a permis à la ville d'affirmer sa position et de devenir une puissance incontestée et incontestable dans la région, formant alors régulièrement les **guerriers** les plus redoutés de la région.
 
-Le système politique de **Caproch** s'organise autour de ses grandes **Guildes**, qui sont chacune en charge de s'occuper d'un aspect important de l'industrie et de la culture. Chaque **Guilde** peut posséder son propre susyème de gestion interne, mais elles doivent néanmoins toutes avoir un représentant qui sert de point d'entrée pour toutes les autres. Tout en haut, on retrouve un système bi-céphale, où les **Guildes** doivent désigner un chef **commercial** et un chef **guerrier** pour un mandat de deux ans.
+Le système politique de **Caproch** s'organise autour de ses grandes **Guildes**, qui sont chacune en charge de s'occuper d'un aspect important de l'industrie et de la culture. Chaque **Guilde** peut posséder son propre système de gestion interne, mais elles doivent néanmoins toutes avoir un représentant qui sert de point d'entrée pour toutes les autres. Tout en haut, on retrouve un système bi-céphale, où les **Guildes** doivent désigner un chef **commercial** et un chef **guerrier** pour un mandat de deux ans.
 
 En plus de cela existe une organisation mythique dans la ville, la **Loge des Douze**, qui est une organisation discrète, dont les membres sont élus à vie parmi les hauts dirigeants de la ville, et dont les choix gouvernent la politique internet et externe de **Caproch**. On entre dans la **Loge** uniquement par initiation, et uniquement par introduction formelle. Initialement créée pour servir d'équilibre entre les douze activités de la ville, équitablement répartie entre activité guerrière et activité civile, cette nécessité s'est estompée petit à petit. Jusqu'à aujourd'hui, on peut retrouver l'empreinte de la **Loge** à plusieurs reprises dans la ville, mais seuls les personnes averties sont capables de reconnaître son influence.
 
@@ -37,10 +37,50 @@ A chacune de ces activités correspond une guilde, mais ce sont pas les seules g
 |L'Art de la Stratégie|Militaire|Les Architectes de la Guerre|
 |L'Art de l'Eveil|Militaire|Les Eveillés|
 
+## Organisation des Guildes
+
+### Le Mystique du Tissage - Les Tisseurs de la Trame
+Les **5 Tisserands Supérieurs** sont ceux qui organisent la guilde. Ils sont élus tous les **5 ans** par l'ensemble des tisserands de la guilde.
+
+### Le Mystique de la Cartographie - Les Dessinateurs de l'Horizon
+La guilde est dirigée par **le Grand Cartographe**, élu par les plus grands artisans de la guilde, tous les 5 ans.
+
+### Le Mystique de la Calligraphie - Les Plumes d'Argent
+La guilde est gérée par le **Grand Scribe**, élu à vie par les 10 calligraphes les plus âgés et encore en activité.
+
+### Le Mystique de la Navigation - Les Voiles Vagabondes
+La guilde est dirigée par l'**Amiral**, qui est élu par tous les capitaines de navire, à vie.
+
+### Le Mystique de la Médecine - Les Doigts Blancs
+La guilde est dirigée par les **7 Sages**, 7 médecins élus à vie, chacun spécialisé dans un domaine de la médecine.
+
+### Le Mystique de la Musique - Les Bardes de l'Âme
+La guilde est dirigée par le **Maestro**, élus par tous les musiciens qui ont déjà au moins composé une symphonie. Le **Maestro** est élu pour 3 ans.
+
+### L'Art du Domptage - Les Chevaucheurs du Désert
+La guilde est dirigée par le **Doyen**, élu tous les 6 ans par l'ensemble de la guilde.
+
+### L'Art du Sabre - Les Lames Silencieuses
+La guilde est dirigée par le **Maître de l'Acier**, qui arrive à son poste via un combat contre tous les sabreurs qui souhaitent le mettre au défi. N'importe qui peut défier le **Maître** pour essayer de prendre sa place.
+
+### L'Art de la Forge - Les Forgerons de l'Aube
+La guilde est dirigée par l'**Ancien**, qui est élu tous les 15 ans, à condition qu'il passe devant l'ensemble de la guilde pour montrer sa technique.
+
+### L'Art de l'Encre - Les Encreurs de Sang
+La guilde est dirigée par l'**Artiste**, qui est élu tous les 8 ans par l'ensemble de la guilde.
+
+### L'Art de la Stratégie - Les Architectes de la Guerre
+La guilde est dirigée par le **Grand Stratège**, qui est choisi par son prédécesseur, pour un mandat de 4 ans.
+
+### L'Art de l'Eveil - Les Eveillés
+La guilde est dirigée par le **Maître Eveillé**, désigné lors d'un combat organisée par la guilde, tous les 9 ans.
+
 ## La Loge des Douze
 
 ## Seigneur Commercial
 ![Noble Caproch](../../_images/white_leonin_noble_samurai.png)
+
+## Seigneur Guerrier
 
 ## Exploration et expéditions
 Les habitants de **Caproch** s'appuient beaucoup sur l'exploitation des ressources proches de leur ville, et mènent parfois des expéditions dans des régions arides, voires désertiques. Ils se servent alors de **cristaux** qu'ils transportent sur le dos afin de ne pas se déshydrater en magie.
