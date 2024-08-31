@@ -105,7 +105,7 @@ Les informations connues par la Police au moment des faits est :
 * La disparition a été signalée la veille seulement, mais elle a eu lieu l'avant-veille au soir.
 
 Au temple d'**Italis**, plusieurs prêtres sont en train de prier pour **Iakob**, le prêtre qui a remonté la disparition aux autorités est le chef des lieux, [Ippolitos Gabras](../WORLDBUILDING/PERSONNAGES/ROVTAL/Ippolitos_Gabras.md). Il sait les choses suivantes :
-* Il est celui qui a mandaté **Iakob** au temple de **Muhuta** pour performer l'échange *culturel*, sous les ordres du chef du culte d'**Italis**, la chef de la [famille Giannaris](../WORLDBUILDING/PERSONNAGES/ROVTAL/GROUPES/Famille_Giannaris.md) ;
+* Il est celui qui a mandaté **Iakob** au temple de **Muhuta** pour effectuer un échange *culturel*, sous les ordres du chef du culte d'**Italis**, la chef de la [famille Giannaris](../WORLDBUILDING/PERSONNAGES/ROVTAL/GROUPES/Famille_Giannaris.md), [Xaverios Giannaris](../WORLDBUILDING/PERSONNAGES/ROVTAL/XaveriosGiannaris.md) ;
     * Ce mandat a été fait car il y avait une légère tension entre **Iakob** et **Ippolitos**, car ils n'ont pas la même vision de la foi ;
 * Il a tardé à faire le rapport aux forces de l'ordre (il a su le matin même, il a fait le signalement le soir même), par peur qu'on l'accuse directement ;
 * On a retrouvé les affaires de **Iakob** à la sortie du temple de **Muhuta** ; 
