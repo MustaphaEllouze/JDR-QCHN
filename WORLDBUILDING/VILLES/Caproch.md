@@ -15,7 +15,7 @@ D'autre part, la puissance militaire et la force de frappe des animaux domptés 
 
 Le système politique de **Caproch** s'organise autour de ses grandes **Guildes**, qui sont chacune en charge de s'occuper d'un aspect important de l'industrie et de la culture. Chaque **Guilde** peut posséder son propre système de gestion interne, mais elles doivent néanmoins toutes avoir un représentant qui sert de point d'entrée pour toutes les autres. Tout en haut, on retrouve un système bi-céphale, où les **Guildes** doivent désigner un chef **commercial** et un chef **guerrier** pour un mandat de deux ans.
 
-En plus de cela existe une organisation mythique dans la ville, la **Loge des Douze**, qui est une organisation discrète, dont les membres sont élus à vie parmi les hauts dirigeants de la ville, et dont les choix gouvernent la politique internet et externe de **Caproch**. On entre dans la **Loge** uniquement par initiation, et uniquement par introduction formelle. Initialement créée pour servir d'équilibre entre les douze activités de la ville, équitablement répartie entre activité guerrière et activité civile, cette nécessité s'est estompée petit à petit. Jusqu'à aujourd'hui, on peut retrouver l'empreinte de la **Loge** à plusieurs reprises dans la ville, mais seuls les personnes averties sont capables de reconnaître son influence.
+En plus de cela existe une organisation mythique dans la ville, la **Loge des Douze**, qui est une organisation discrète, dont les membres sont élus à vie parmi les hauts dirigeants de la ville, et dont les choix gouvernent la politique interne et externe de **Caproch**. On entre dans la **Loge** uniquement par initiation, et uniquement par introduction formelle. Initialement créée pour servir d'équilibre entre les douze activités de la ville, équitablement répartie entre activité guerrière et activité civile, cette nécessité s'est estompée petit à petit. Jusqu'à aujourd'hui, on peut retrouver l'empreinte de la **Loge** à plusieurs reprises dans la ville, mais seuls les personnes averties sont capables de reconnaître son influence.
 
 ## Les Douze Activités Sacrées
 Considérées comme les toutes premières activités de la ville, et considérées comme celles dont elle ne peut pas se séparer. Elle sont au nombre de douze, **six** activités civiles et **six** activités militaires, témoins de la fusion entre les deux anciennes tribus.
@@ -76,11 +76,32 @@ La guilde est dirigée par le **Grand Stratège**, qui est choisi par son préd�
 La guilde est dirigée par le **Maître Eveillé**, désigné lors d'un combat organisée par la guilde, tous les 9 ans.
 
 ## La Loge des Douze
+La **Loge des Douze** est une organisation discrète de **Caproch** qui a vue le jour autour des [Douze Activités Sacrées](#les-douze-activités-sacrées). 
 
-## Seigneur Commercial
-![Noble Caproch](../../_images/white_leonin_noble_samurai.png)
+La plupart des décisions impactantes de **Caproch** sont prises de façon **collégiales** au sein de cette organisation, qui a réussi à infiltrer la plupart des guildes de la ville et les hautes institutions.
 
-## Seigneur Guerrier
+Les membres des **Loge des Douze** sont élus à vie parmi les hauts dirigeants de la ville, et leurs choix gouvernent la politique interne et externe de **Caproch**. On entre dans la **Loge** uniquement par initiation, et uniquement par introduction formelle. 
+
+Initialement créée pour servir d'équilibre entre les douze activités de la ville, équitablement répartie entre activité guerrière et activité civile, cette nécessité s'est estompée petit à petit. Jusqu'à aujourd'hui, on peut retrouver l'empreinte de la **Loge** à plusieurs reprises dans la ville, mais seuls les personnes averties sont capables de reconnaître son influence.
+
+On retrouve au sein de la **Loge** au un membre qui est spécialisé dans chaque activité sacrée de la ville. Chacun de ces membres a une place spéciale dans la **Loge**.
+
+## Seigneurs guerrier et commercial
+Il existe deux seigneurs à **Caproch**, qui sont élus par l'ensemble des **Guildes** par consensus si possible, par élection si nécessaire. Historiquement, cette distinction est liée à la fusion des deux clans qui ont fusionné pour former ce qui allait devenir le clan qui s'installera à **Caproch** après la [**Grande Catastrophe**](../AUTRES/CatastropheMagique.md).
+
+Il existe un **Seigneur Commercial**, qui règne sur toutes les activités civiles et commerciales de la ville, et qui prend toutes les décisions liées à la gestion extérieure de la ville.
+
+D'autre part, il y a le **Seigneur Guerrier**, qui règne sur toutes les activités guerrières de la ville, et qui prend toutes les décisions liées à l'exploration et à l'activité militaire.
+
+En pratique, c'est la [Loge des Douze](#la-loge-des-douze) qui en secret choisit les seigneurs commercial et guerrier et qui impose son choix au reste des guilde via ses membres qui les ont infiltrées. De facto, les deux seigneurs sont donc des **membres** de la **Loge**.
+
+Les deux seigneurs sont également en charge d'organiser toutes les institutions de la ville qui ne sont gérées par aucune guilde.
+
+### Seigneur Commercial
+![Seigneur Commercial](../../_images/white_leonin_noble_samurai.png)
+
+### Seigneur Guerrier
+![Seigneur Guerrier](../../_images/seigneur_guerrier.png)
 
 ## Exploration et expéditions
 Les habitants de **Caproch** s'appuient beaucoup sur l'exploitation des ressources proches de leur ville, et mènent parfois des expéditions dans des régions arides, voires désertiques. Ils se servent alors de **cristaux** qu'ils transportent sur le dos afin de ne pas se déshydrater en magie.
