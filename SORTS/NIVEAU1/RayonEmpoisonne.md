@@ -1,4 +1,4 @@
-# Injonction
+# Rayon Empoisonné
 
 |Ecole|Niveau|Temps d'incantation|Portée|Composantes|Durée|
 |-|-|-|-|-|-|
