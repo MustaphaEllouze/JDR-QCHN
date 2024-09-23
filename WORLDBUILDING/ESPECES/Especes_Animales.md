@@ -3,7 +3,6 @@
 * Dinosaures
 * Rapaces
 * Ours rocheux
-* Hyène des sables
 * Cerfs
 
 ## Aigle-Corbeau Géant
@@ -24,5 +23,13 @@ Elles se nourrissent de tout ce qu'elles peuvent trouver, notamment les personne
 ![Crapaud Champignon](../../_images/crapaud_champignon.png)
 
 Extrêmement toxique, les champignons qui poussent sur son dos font partie des substance les plus hallucinogènes au monde.
+
+## Gargadon
+![Gargadon](../../_images/gargadon.png)
+
+## Hyène des sables
+![Hyène des sables](../../_images/sandyhyena.png)
+
+Les **Hyènes des Sable** sont des animaux qui adorent se terrer dans la terre, attendant qu'une proie passe à proximité pour lui sauter dessus.
 
 ## Renard change-forme / Renard-caméléon

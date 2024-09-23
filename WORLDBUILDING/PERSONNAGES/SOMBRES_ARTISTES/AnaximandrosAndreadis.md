@@ -26,6 +26,7 @@
 
 ## Événements marquants
 * **429** : Contacté par [**Etherios Sfer**](./Ethérios_Sfer.md) pour venir servir les **Mains Noires**, il a commencé à vénérer **Komorath**, ce qui lui a valu son exil. 
+* **432** : Son lien avec les **Sombres Artistes** est découvert par les Aventuriers, et doit s'enfuir du [Temple de Komorath](../../VILLES/Rovtal.md#le-temple-de-komorath-surface)
 
 ## Combat
 S.O.

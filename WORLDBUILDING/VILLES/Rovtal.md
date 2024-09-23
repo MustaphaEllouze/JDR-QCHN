@@ -131,6 +131,14 @@ Située dans les **Tréfonds**, c'est le manoir où habitent la quasi-totalité 
 
 Le sous-sol abrite la crypte familiale, où sont notamment enterrés l'ensemble de la lignée des [**Ethérios**](../PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md).
 
+#### Salle de bal du manoir Sfer
+![Maison Sfer](../../_images/sferhouse2.png)
+
+#### Salle des fêtes publique du Manoir Sfer
+![Maison Sfer](../../_images/sferhouse3.png)
+
+Les **cristaux** dans cette salle sont nombreux et disposés au travers de toute la salle. Ils servent à contrôler l'ambiance lumineuse et sonore de la salle lors des fêtes. 
+
 ### Le Stabilisateur Naturel
 ![Stabilisateur](../../_images/cristal_rovtal.png)
 
@@ -187,6 +195,8 @@ La plupart des membres de la police souhaitent être promus pour aller exercer a
 **Rovtal** est connu pour être très inégalitaire, et cela se voit lorsqu'on se balade dans les différentes quartiers de la ville.
 
 Les **Tréfonds** sont connus pour être le vieux quartier de la ville et où se trouvent l'ensemble des **familles nobles**, et donc par extension le quartier richer, alors que c'est à la **Surface** où se trouvent les autres individus, notamment les habitants qui ne sont pas originaires de **Rovtal**.
+
+On note également une tension entre tous les cultes qui se pratiquent à **Rovtal**, notamment car les cultes d'[**Italis**](../COSMOLOGIE/PLANS_ET_DIVINITES/Italis.md) et de [**Muhuta**](../COSMOLOGIE/PLANS_ET_DIVINITES/Muhuta.md) peuvent être vus comme étant des cultes de *riches*. Certaines personnes se joignent donc au culte de [**Komorath**](../COSMOLOGIE/PLANS_ET_DIVINITES/Komorath.md), dans l'espoir qu'il soit plus clément.
 
 ### Place de l'agriculture dans la ville
 

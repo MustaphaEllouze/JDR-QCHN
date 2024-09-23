@@ -28,6 +28,7 @@
 * **95** : Installation à [**Rovtal**](../../VILLES/Rovtal.md).
 
 ## Combat
+* [Stats](../../../STAT_BLOCKS/CLASS/Sombraur.md)
 
 ## Roleplay
 * Accent espagnol

@@ -26,6 +26,7 @@
 * **338** : Vu ses nombreux services, il se fait transformer par [**Etherios**](./Ethérios_Sfer.md) en **Sombraur**.
 
 ## Combat
+* [Stats](../../../STAT_BLOCKS/CLASS/Sombraur.md)
 
 ## Roleplay
 * Pauses sauriennes

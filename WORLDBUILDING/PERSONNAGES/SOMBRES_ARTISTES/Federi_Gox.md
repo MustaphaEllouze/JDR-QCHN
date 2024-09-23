@@ -45,6 +45,7 @@
 * **380** : Se met en hibernation car pense qu'il ne trouvera pas tout de suite réponse à ses questions sur l'ouverture du portail.
 
 ## Combat
+* [Stats](../../../STAT_BLOCKS/CLASS/Sombraur.md)
 
 ## Roleplay
 * Accent italien

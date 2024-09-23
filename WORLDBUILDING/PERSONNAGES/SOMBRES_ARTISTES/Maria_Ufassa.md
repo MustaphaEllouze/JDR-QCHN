@@ -7,7 +7,7 @@
 ## Infos 
 | Âge | Espèce | Occupation | Alignement | MBTI |
 | --- | ------ | ---------- | ---------- | ---- |
-| 352 ans | Saurien / Sombraur | Main Noire | Lawful Evil | INTJ |
+| 352 ans | Léonin / Sombraur | Main Noire | Lawful Evil | INTJ |
 
 ## Localisation actuelle
 [Rovtal](../../VILLES/Rovtal.md)
@@ -28,6 +28,7 @@
 **95** : Installation à **Rovtal**.
 
 ## Combat
+* [Stats](../../../STAT_BLOCKS/CLASS/Sombraur.md)
 
 ## Roleplay
 * Accent espagnol

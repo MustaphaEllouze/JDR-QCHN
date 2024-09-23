@@ -30,6 +30,7 @@
 * **406** : Devient chef de la police en se servant de ses pouvoirs de **Sombraur**.
 
 ## Combat
+* [Stats](../../../STAT_BLOCKS/CLASS/Sombraur.md)
 
 ## Roleplay
 * Pauses sauriennes

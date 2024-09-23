@@ -15,7 +15,7 @@
 ## Groupes 
 
 ## Caractéristiques
-* 
+* Adore cuisiner et est le cuisinier du temple
 
 ## Événements marquants
 ## Combat
