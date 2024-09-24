@@ -82,18 +82,6 @@ L'accès aux Tréfonds n'est pas autorisé aux premiers venus. Plusieurs personn
 
 Il est également possible d'accéder aux Tréfonds à travers un passage secret qui existe dans le [Temple de Komorath](../WORLDBUILDING/VILLES/Rovtal.md#le-temple-de-komorath-surface), afin de permettre aux fidèles bien choisis de prendre leurs ordres de la part des [Mains Noires](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes).
 
-## Quête : La légende des Sombraurs
-### Mission : En apprendre plus sur les Sombraurs
-[TODO]
-Un conteur dans un bar, qui les reconnaît comme étant des nouveaux qui leur raconte la légende des visiteurs qui disparaissent.
-### Mission : Explorer les indices dans les temples
-[TODO]
-Des histoires de confrontation avec ces templs existent, d'autant plus que c'est lié vaguement à Komorath. Des fresques sur les murs.
-### Mission : S'informer à la bibliothèque
-[TODO]
-### Mission : Trouver un Sombraur ?
-[TODO]
-
 ## Quête : Disparitions aux temples
 ### Mission : Enquêter sur les disparitions auprès du temple d'Italis
 La **Police de Rovtal** est en charge de résoudre une toute nouvelle affaire : celle de la **disparition d'un prêtre** du [temple d'Italis](../WORLDBUILDING/VILLES/Rovtal.md#le-temple-ditalis-surface), **Iakob Samaras**.
@@ -259,7 +247,6 @@ Plusieurs membres de la famille [**Sfer**](../WORLDBUILDING/PERSONNAGES/ROVTAL/G
 
 D'autres personnalités de d'autres villes sont également invitées, notamment venant des villes de :
 * [Caproch](../WORLDBUILDING/VILLES/Caproch.md) ;
-* [Tchevo](../WORLDBUILDING/VILLES/Tchevo.md) ;
 * [Ingar](../WORLDBUILDING/VILLES/Ingar.md) ;
 
 [IDEA] Quelqu'un essaye d'empoisonner un noble
