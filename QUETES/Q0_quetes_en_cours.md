@@ -6,30 +6,24 @@ Nous nous sommes mis en direction de [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal
 
 > Nous devons découvrir l'identité de l'employeur.
 
+Après avoir enquêté sur l'affaire de l'enlèvement de **Iakob Smaras**, [Griffes-Rouges](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md) et [Paumes-Bleues](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Paumes_Bleues.md) nous ont contacté afin de nous aider à localiser son corps, en échange d'arrêter d'enquêter sur leur employeur. Nous avons accepté, mais une promesse ne compte que pour celui qui y croit.
+
+Nous avons entendu parlé des [Sombres Artistes](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes) et des **Mains Noires** de la part des prêtres de **Komorath** qui ont kidnappé **Iakob Samaras**. Il s'agit peut-être d'eux.
+
 ### Mission : Découvrir ses intentions
 Les intentions exactes de l'employeur sont encore inconnues... Notamment pourquoi ils voulaient s'en prendre à [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md).
 
 > Nous devons découvrir son but.
 
-### Mission : Remonter la trace de Griffes-Rouges et Paumes-Bleues
-Après les événements de chez [Arkolapoulos](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), [Griffes-Rouges](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md) et [Paumes-Bleues](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Paumes_Bleues.md) ont livré un livre contenant des secrets sur les expériences menées par **Arkolapoulos** afin d'extraire la magie des êtres vivants à l'**Employeur**. Malgré le fait que cette livraison a pu détourner l'attention de l'**Employeur** de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md), il contient potentiellement des informations très dangereuses.
+De toute évidence, le plan de l'employeur comprend au moins l'enlèvement de certaines personnes, comme **Iakob Samaras**. 
 
-> Nous pourrions tenter de remonter la trace des deux Felicis.
+## Quête : Disparitions aux temples
 
-## Quête : L'Éthérologiste révolutionnaire, [**Stjepan**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Stjepan_Lugari.md)
+### Mission : Retrouver Iakob
+Il apparaîtrait que **Iakob** ait été tué.
 
-### Mission : Aider Stjepan à trouver sa source d'éther
-[**Stjepan**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Stjepan_Lugari.md) se faisait embêter sur le [Pont du Détroit](../WORLDBUILDING/VILLES/Rovtal.md#le-pont-du-détroit) car il portait sur lui une invention que des bandits voulaient récupérer. Selon ses dires, cette invention sert à détecter des signatures éthériques spéciales, dont une se trouve dans les environs de l'endroit où il s'est fait aggressé.
+> Nous pouvons aller chercher le corps de **Iakob** en marge de la ville.
 
-![Détecteur d'Ether](../_images/ether_detector.png)
+Nous avons été contacté par [Griffes-Rouges](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md) et [Paumes-Bleues](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Paumes_Bleues.md) qui nous ont donné le lieu où le corps a été enterré, à condition que d'arrêter d'enquêter sur leur employeur, qui semble être les [Mains Noires](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes).
 
-Afin de l'aider, il nous a demandé de bien vouloir aller regarder pour lui l'origine de cette signature, et de le lui apporter si possible.
-
-> Nous devrions essayer de chercher la source de cette signature.
-
-La signature a l'air de provenir du fond d'une grotte près du pont.
-
-### Mission : Aller rencontrer Stjepan à l'Ecole d'Ethérologie
-Pour nous remercier de l'avoir aider, **Stjepan** nous a dit que nous pouvions aller le voir à l'[Ecole d'Etherologie](../WORLDBUILDING/VILLES/Rovtal.md#lecole-dethérologie) à son bureau afin qu'il puisse nous récompenser en nous donnant certaines de ces inventions.
-
-> Nous pouvons passer à l'Ecole, et nous annoncer comme invités de Stjepan.
+Nous avons accepté ce marché pour le moment, et nous avons maintenant accès à la localisation du corps de **Iakob**, en marge de la ville.

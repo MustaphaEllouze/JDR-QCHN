@@ -457,6 +457,15 @@ Nous avons pris d'assaut le manoir d'[**Arkolapoulos**](../WORLDBUILDING/PERSONN
 
 Nous avons tué [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md).
 
+## Quête : L'Employeur de Rovtal
+
+### Mission : Remonter la trace de Griffes-Rouges et Paumes-Bleues
+Après les événements de chez [Arkolapoulos](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), [Griffes-Rouges](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md) et [Paumes-Bleues](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Paumes_Bleues.md) ont livré un livre contenant des secrets sur les expériences menées par **Arkolapoulos** afin d'extraire la magie des êtres vivants à l'**Employeur**. Malgré le fait que cette livraison a pu détourner l'attention de l'**Employeur** de [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md), il contient potentiellement des informations très dangereuses.
+
+Nous n'avons pas trouvé de trace de passage particulier.
+
+Nous avons été contacté directement par les deux Felicis. Ceux-ci nous ont dit qu'ils retournaient très prochainement à [Dvolsti](../WORLDBUILDING/VILLES/Dvolsti.md) et qu'ils comptaient rester là-bas pour un temps. Nous pouvons les y retrouver sans doute un autre jour...
+
 ## Quête : L'Éthérologiste révolutionnaire, [**Stjepan**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Stjepan_Lugari.md)
 ### Mission : Sauver Stjepan des Brigands du Détroit
 En arrivant aux abords de [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md), près du [Pont du Détroit](../WORLDBUILDING/VILLES/Rovtal.md#le-pont-du-détroit), nous sommes tombés nez à nez avec des brigands, qui se font appelés les [Brigands du Détroit](../WORLDBUILDING/VILLES/Rovtal.md#les-brigands-du-détroit), qui étaient en train d'embêter un Camélonide.
@@ -466,3 +475,113 @@ Nous avons sauvé le Camélonide, qui s'est présenté : [**Stjepan Lugari**](..
 Pour nous remercier, il nous a invité à venir lui rendre visite à l'**Ecole**, dans laquelle il va nous donner une de ses inventions pour nous récompenser.
 
 Nous avons attaché les bandits et nous les avons livrés au poste de garde le plus proche pour empocher une récompense.
+
+### Mission : Aider Stjepan à trouver sa source d'éther
+[**Stjepan**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Stjepan_Lugari.md) se faisait embêter sur le [Pont du Détroit](../WORLDBUILDING/VILLES/Rovtal.md#le-pont-du-détroit) car il portait sur lui une invention que des bandits voulaient récupérer. Selon ses dires, cette invention sert à détecter des signatures éthériques spéciales, dont une se trouve dans les environs de l'endroit où il s'est fait aggressé.
+
+![Détecteur d'Ether](../_images/ether_detector.png)
+
+Afin de l'aider, il nous a demandé de bien vouloir aller regarder pour lui l'origine de cette signature, et de le lui apporter si possible.
+
+La signature a l'air de provenir du fond d'une grotte près du pont.
+
+Nous nous sommes aventurés dans la grotte et nous avons trouvé en son fond un [Aigle-Corbeau Géant](../WORLDBUILDING/ESPECES/Especes_Animales.md#aigle-corbeau-géant), une sorte d'immense volatile, connu pour être attiré par la magie de toute sorte, qui gardait près de lui un cristal de couleur rouge vive.
+
+![Cristal de sang](../_images/red_cristal.png)
+
+Nous avons attaqué l'oiseau alors qu'il était transformé en **statue de pierre**, ce qui a donné lieu à un combat à mort avec lui. Nous avons récupéré le cristal et sommes partis avec des preuves de notre victoire.
+
+Nous sommes allés voir [**Stjepan**](../WORLDBUILDING/PERSONNAGES/ROVTAL/Stjepan_Lugari.md) l'[Ecole d'Etherologie](../WORLDBUILDING/VILLES/Rovtal.md#lecole-dethérologie) afin de lui remettre le cristal. Ce faisant, il nous a grassement récompensé en nous offrant des objets magiques de sa confection.
+
+
+### Mission : Aller rencontrer Stjepan à l'Ecole d'Ethérologie
+Pour nous remercier de l'avoir aider, **Stjepan** nous a dit que nous pouvions aller le voir à l'[Ecole d'Etherologie](../WORLDBUILDING/VILLES/Rovtal.md#lecole-dethérologie) à son bureau afin qu'il puisse nous récompenser en nous donnant certaines de ces inventions.
+
+Nous sommes allés voir **Stjepan** dans son bureau, et nous lui avons rapporté le cristal que nous avons trouvé dans la grotte. Il était très content de notre trouvaille et nous a récompensé en nous offrant des objets magiques de son invention.
+
+Nous avons fait la rencontre de [Ethérios Sfer](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), qui s'est révélé être un **mécène** de **Stjepan**, ainsi que de son ami et collègue [Baptistes Nikolopoulos](../WORLDBUILDING/PERSONNAGES/ROVTAL/BaptistesNikolopoulos.md), qui se dit intéresser sur le fait d'étudier plus en détail la physiologie de [Arilius](../WORLDBUILDING/PERSONNAGES/Arilius.md), qui possède un **possède un coeur éthérique** en tant que **centaure**.
+
+**Stjepan** s'attèle à de nouvelles expériences grâce au cristal que nous lui avons fourni. Il nous a notamment mentionné une expérience visant à **ouvrir un portail sur un autre plan**, le domaine d'un **dieu**, afin d'utiliser la magie que le plan renferme en tant qu'énergie et pour améliorer la vie des habitants de la ville.
+
+### Mission : Assister à l'expérience de Stjepan
+Nous avons livré le **cristal** à **Stjepan** afin qu'il puisse prendre part à son expérience. 
+
+Nous sommes venus le lendemain pour le trouver en train de terminer son expérience d'ouverture de portail sur un autre plan, le cristal servant de **source d'énergie** pour l'expérience en question.
+
+L'expérience ayant réussi pendant un court instant, certains d'entre nous ont réussi à entrapercevoir des ombres étranges au fond du portail, avant que ce dernier ne se referme. 
+
+Après la fermeture du portail, **Stjepan** nous a confié qu'il ressentait une drôle de sensation en présence du cristal. Nous lui avons confirmé que nous ressentions la même sensation avec les objets que nous avions récuépéré chez [**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md), impliquant que le cristal a sans doute été créé à partir de l'extraction de la magie d'une personne.
+
+En concluant que l'utilisation du cristal est au mieux non-éthique, au pire dangereuse, nous avons réussi à convaincre **Stjepan** de ne plus l'utiliser, ce qu'il a accepté sans hésiter.
+
+## Quête : Disparitions aux temples
+### Mission : Enquêter sur les disparitions auprès du temple d'Italis
+Nous nous sommes vus confiés une mission dans le cadre de l'exercice des fonctions de [Berto](../WORLDBUILDING/PERSONNAGES/Berto.md) en tant que consultant de la [Police de Rovtal](../WORLDBUILDING/VILLES/Rovtal.md#la-police-de-rovtal) : enquêter sur la disparition d'un certain **Iakob Samaras**, prêtre au [temple d'Italis](../WORLDBUILDING/VILLES/Rovtal.md#le-temple-ditalis-surface).
+
+Le chef de la police du **District de la Surface**, [Markellos Héjj](../WORLDBUILDING/PERSONNAGES/ROVTAL/Markellos_Héjj.md), nous a donné quelques informations, notamment sa profession, et le fait qu'on ait retrouvé ses affaires près du [**temple de Muhuta**](../WORLDBUILDING/VILLES/Rovtal.md#le-temple-de-muhuta-surface). Il nous a également confié un **carnet** trouvé près de la scène du crime, contenant les notes de **Iakob**.
+
+Nous nous sommes dirigés vers le temple d'**Italis** en dernier, pour y trouver le **Grand Prêtre**, [Ippolitos Gabras](../WORLDBUILDING/PERSONNAGES/ROVTAL/Ippolitos_Gabras.md).
+
+Nous avons appris que **Iakob** avait été mandaté par **Ippolitos** afin d'aller au temple de **Muhuta** en tant que prêtre en *échange*, suite à la pression des deux familles nobles gérant les deux cultes, la famille [Giannaris](../WORLDBUILDING/PERSONNAGES/ROVTAL/GROUPES/Famille_Giannaris.md) pour **Italis** et la famille [Lambrakis](../WORLDBUILDING/PERSONNAGES/ROVTAL/GROUPES/Famille_Lambrakis.md). L'échange ayant l'air de se passer mal vu le désintérêt du prêtre de **Muhuta** au temple d'**Italis**.
+
+Nous avons compris qu'il pouvait y avoir de légères tensions entre **Ippolitos** et **Iakob**, mais rien ne semblait bien inquiétant. Les tensions concernent notamment le trop-plein de curiosité de **Iakob** qui lui a valu d'être mal vu par certains.
+
+### Mission : Fouiller le temple d'Italis
+Devant les réponses que nous avons obtenues à nos questions, nous n'avons pas fait le choix de fouiller ou d'enquêter d'avantage sur les lieux.
+
+### Mission : Interroger les prêtes de Muhuta
+Nous nous sommes rendus au [temple de **Muhuta**](../WORLDBUILDING/VILLES/Rovtal.md#le-temple-de-muhuta-surface) afin de commencer notre enquête. Nous nous sommes directement entretenus avec la Grande Prêtresse, [Nikolia Angelopoulos](../WORLDBUILDING/PERSONNAGES/ROVTAL/Nikolia_Angelopoulos.md).
+
+En l'interrogeant, nous avons compris qu'elle était en charge d'encadrer **Iakob** lors de son échange avec le temple d'**Italis**. 
+
+Elle nous a menti en nous disant qu'elle ne s'était pas entretenue avec **Iakob** le jour de sa disparition, selon les dires d'une autre prêtresse, [Mélania Héjj](../WORLDBUILDING/PERSONNAGES/ROVTAL/Mélania_Héjj.md). **Nikolia** a également ajouté qu'elle trouvait **Iakob** trop méprisant et trop insistant pour son propre bien. Elle nous a également dit qu'il avait eu des accrochages avec les prêtres du [temple de Komorath](../WORLDBUILDING/VILLES/Rovtal.md#le-temple-de-komorath-surface).
+
+En continuant à parler à **Mélania**, nous avons découvert qu'elle était la seule personne avec laquelle **Iakob** s'entendait bien. Elle a bien voulu nous aider dans notre enquête.
+
+En insistant un peu auprès de **Nikolia**, nous avons appris qu'elle avait effectivement caché le fait qu'elle avait **Iakob**, car elle utilisait de la [**Mandragore Nocturne**](../WORLDBUILDING/ESPECES/Especes_Vegetales.md#mandragore-nocture), espèce végétale dont la culture est interdite depuis peu, afin de fabriquer des potions ; et que **Iakob** avait compris qu'elle utilisait cet ingrédient. En insistant encore plus, nous avons compris qu'elle fabriquait ses potions afin de découvrir si son mari la trompait.
+
+### Mission : Fouiller le temple de Muhuta
+Nous avons fouillé le temple, notamment la chambre de **Iakob**, dans laquelle nous avons notamment trouvé une **lettre de menace**, avec des traces rouges, qui nous ont fait pensé à la **Mandragore Nocturne**.
+
+Nous sommes également allés dans le bureau de **Nikolia** dans lequel nous avons trouvé plusieurs affaires, mais notamment des traces de **Mandragore Nocturne** dans certaines fioles.
+
+Nous avons appris que **Nikolia** utilisait ces potions à des fins personnelles qui ne regardent pas l'enquête.
+
+### Mission : Interroger les prêtres de Komorath
+Nous sommes allés au [temple de **Komorath**](../WORLDBUILDING/VILLES/Rovtal.md#le-temple-de-komorath-surface), vu ce que nous avons appris sur les tensions qui existaient entre **Iakob** et les prêtres de ce temple.
+
+Nous avons été accueillis par une illusion à l'entrée, que nous avons réussi à déjouer. Produite par un des prêtres, [Philaretos Venizelos](../WORLDBUILDING/PERSONNAGES/ROVTAL/Philaretos_Venizelos.md), elle servait à éloigner les personnes trop curieuses qui veulent s'approcher du temple.
+
+Nous avons rencontré le grand prêtre du temple, [Anaximandros Andreadis](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/AnaximandrosAndreadis.md), frère exilé de la reine actuelle, [Astrée Andreadis](../WORLDBUILDING/PERSONNAGES/ROVTAL/Astrée_Andreadis.md).
+
+Nous avons découvert que les prêtres de **Komorath** cultivaient illégalement de la [Mandragore Nocture](../WORLDBUILDING/ESPECES/Especes_Vegetales.md#mandragore-nocture) dans l'enceinte de leur temple.
+
+Nous nous sommes entretenus avec le grand prêtre qui nous a dit que **Iakob** avait en effet tenté de rentrer de force dans le temple, et qu'il s'était entretenu assez violemment avec plusieurs des prêtres.
+
+Il nous a pointé vers un des prêtres que **Iakob** a accosté, [**Polykarpos Manos**](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Polykarpos_Manos.md). 
+
+Après plusieurs échanges assez vigoureux, **Anaximandros** nous a forcé à quitter le temple.
+
+### Mission : Fouiller le temple de Komorath
+Nous n'avons pas pu fouiller le temple à notre convenance car nous avons été mis dehors avant de pouvoir terminer notre enquête, dans la mesure où nos échanges avec les prêtres étaient trop agressifs.
+
+Nous avons réussi à obtenir un mandat de la part du chef du **District de la Surface**, [Markellos](../WORLDBUILDING/PERSONNAGES/ROVTAL/Markellos_Héjj.md). Nous pouvons donc entrer librement dans le temple pour le fouiller.
+
+[Arilius](../WORLDBUILDING/PERSONNAGES/Arilius.md) s'est postée discrètement dans le temple afin d'attendre l'intervention de nuit.
+
+La **nuit tombée**, nous sommes entrés dans le temple et nous sommes intervenus afin de bloquer certains prêtres dans leurs chambres le temps qu'on puisse investiguer la salle de prière qui nous paraissait étrange.
+
+Nous avons découvert une porte au fond de la salle de prière, qui menait vers une autre salle, secrète, où avait l'air de se tenir une cérémonie. Nous avons affronté là-bas [Polykarpos](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Polykarpos_Manos.md), qui s'est montré d'instinct très violent, et plusieurs de ses acolytes. Ce dernier et un autre de ses compères est mort sous nos coups, et nous avons capturé le dernier afin de l'interroger. 
+
+Après cet affrontement, nous avons appris l'existence des [**Sombres Artistes**](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes) et de leurs têtes pensantes, les **Mains Noires**.
+
+Nous avons également découvert un autre passage dérobé permettant de contourner le système d'[Ascenseurs](../WORLDBUILDING/VILLES/Rovtal.md#ascenseur-vers-les-tréfonds) de la ville. Malheureusement, le passage donne sur le vide, il va falloir donc trouver un moyen astucieux de l'emprunter.
+
+Nous n'avons toujours pas trouvé la trace de [Anaximandros Andreadis](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/AnaximandrosAndreadis.md), qui a dû s'enfuir d'une façon ou d'une autre.
+
+### Mission : Retrouver le kidnapper
+Nous avons attrapé [Polykarpos Manos](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Polykarpos_Manos.md) dans une salle secrète du temple de [Komorath](../WORLDBUILDING/VILLES/Rovtal.md#le-temple-de-komorath-surface), et nous l'avons tué.
+
+Vu sa disparition, nous pensons qu'[Anaximandros Andreadis](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/AnaximandrosAndreadis.md) est également impliqué dans cette affaire.
+
+Nous devrons nous contenter de ces informations pour le moment.
