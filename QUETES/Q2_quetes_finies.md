@@ -584,4 +584,4 @@ Nous avons attrapé [Polykarpos Manos](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTI
 
 Vu sa disparition, nous pensons qu'[Anaximandros Andreadis](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/AnaximandrosAndreadis.md) est également impliqué dans cette affaire.
 
-Nous devrons nous contenter de ces informations pour le moment
+Nous devrons nous contenter de ces informations pour le moment.
