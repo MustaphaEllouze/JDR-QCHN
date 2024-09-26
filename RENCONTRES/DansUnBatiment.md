@@ -66,3 +66,35 @@ Le reste de la pièce est plongé dans une obscurité
 **Scope** : Niveau 6
 
 **Butin** : [Cape de déplacement](../RECOMPENSES/RARES.md#cape-de-déplacement)
+
+## Rencontre Batiment 6 - L'entrepôt à revers
+
+* 2 [Gladiateurs](../STAT_BLOCKS/CLASS/Gladiateur.md)
+* Un 3ème **Gladiateur** si le combat dure trop longtemps.
+
+Les **Gladiateurs** arrivent dans un entrepôt pendant que leur otage se fait libérer. Ils essaient d'éliminer les intrus.
+
+Il y a plusieurs endroits dans l'entrepôt abandonné qui peuvent être déruits : caisses empilées, murs en bois, etc.
+
+**Objectif** : Venir à bout Gladiateurs
+
+**XP** : 3600
+
+**Scope** : Niveau 6
+
+## Rencontre Batiment 7 - La maison mezzanine
+
+*Ennemis*
+* 3 [Fanatique de Secte](../STAT_BLOCKS/CLASS/FanatiqueDeSecte.md), variante **Classique**
+* 3 [Elémentaire Volant d'Ombre](../STAT_BLOCKS/ELEMENTAIRES/ElementaireVolantDOmbre.md)
+
+*Alliés*
+* [Nikas](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/NikasPourokos.md)
+
+Des otages sont disposés dans la maison.
+
+**Objectif** : Sauver Nikas et les otages
+
+**XP** : 1650
+
+**Scope** : Niveau 6
