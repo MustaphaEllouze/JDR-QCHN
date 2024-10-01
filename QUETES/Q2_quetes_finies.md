@@ -499,7 +499,7 @@ Pour nous remercier de l'avoir aider, **Stjepan** nous a dit que nous pouvions a
 
 Nous sommes allés voir **Stjepan** dans son bureau, et nous lui avons rapporté le cristal que nous avons trouvé dans la grotte. Il était très content de notre trouvaille et nous a récompensé en nous offrant des objets magiques de son invention.
 
-Nous avons fait la rencontre de [Ethérios Sfer](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), qui s'est révélé être un **mécène** de **Stjepan**, ainsi que de son ami et collègue [Baptistes Nikolopoulos](../WORLDBUILDING/PERSONNAGES/ROVTAL/BaptistesNikolopoulos.md), qui se dit intéresser sur le fait d'étudier plus en détail la physiologie de [Arilius](../WORLDBUILDING/PERSONNAGES/Arilius.md), qui possède un **possède un coeur éthérique** en tant que **centaure**.
+Nous avons fait la rencontre de [Ethérios Sfer](../WORLDBUILDING/PERSONNAGES/...), qui s'est révélé être un **mécène** de **Stjepan**, ainsi que de son ami et collègue [Baptistes Nikolopoulos](../WORLDBUILDING/PERSONNAGES/ROVTAL/BaptistesNikolopoulos.md), qui se dit intéresser sur le fait d'étudier plus en détail la physiologie de [Arilius](../WORLDBUILDING/PERSONNAGES/Arilius.md), qui possède un **possède un coeur éthérique** en tant que **centaure**.
 
 **Stjepan** s'attèle à de nouvelles expériences grâce au cristal que nous lui avons fourni. Il nous a notamment mentionné une expérience visant à **ouvrir un portail sur un autre plan**, le domaine d'un **dieu**, afin d'utiliser la magie que le plan renferme en tant qu'énergie et pour améliorer la vie des habitants de la ville.
 
@@ -585,3 +585,16 @@ Nous avons attrapé [Polykarpos Manos](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTI
 Vu sa disparition, nous pensons qu'[Anaximandros Andreadis](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/AnaximandrosAndreadis.md) est également impliqué dans cette affaire.
 
 Nous devrons nous contenter de ces informations pour le moment.
+
+### Mission : Retrouver Iakob
+Il apparaîtrait que **Iakob** ait été tué.
+
+Nous avons été contacté par [Griffes-Rouges](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md) et [Paumes-Bleues](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Paumes_Bleues.md) qui nous ont donné le lieu où le corps a été enterré, à condition que d'arrêter d'enquêter sur leur employeur, qui semble être les [Mains Noires](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes).
+
+Nous avons accepté ce marché pour le moment, et nous avons maintenant accès à la localisation du corps de **Iakob**, en marge de la ville.
+
+Nous sommes allés chercher le corps de **Iakob**. Il était enterré dans un bosquets à plusieurs dizaines de minutes de marche. En le déterrant, nous nous sommes aperçus que tout son corps était vidée de sa magie, comme si elle avait été aspirée. 
+
+Nous avons également aperçu sur le corps de **Iakob** des marques de **griffes de Felicis**, sans doute témoins de l'implication de [Griffes-Rouges](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md) et [Paumes-Bleues](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md) dans sa mort. Nous n'avons trouvé aucune autre marque sur le corps.
+
+Nous avons emporté le corps à la morgue de la [Police de Rovtal](../WORLDBUILDING/VILLES/Rovtal.md#la-police-de-rovtal), et empoché notre récompense.

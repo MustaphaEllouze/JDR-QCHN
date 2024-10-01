@@ -19,22 +19,8 @@ Durant les événements qui se sont passés à Dvolsti et la chute des têtes pe
 
 Pour accomplir ce nouveau plan, de nombreux tests sont nécessaires, et l'ensemble des relations dans la ville de **Rovtal** sont mobilisées. [Federi Gox](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Federi_Gox.md) n'a pas encore été sorti de sa longue hibernation...
 
-## Quête : Disparitions aux temples
-### Mission : Retrouver Iakob
-Le corps de **Iakob Samaras** a été caché en marge de la ville, enterré à quelques dizaines de minutes à la sortie. 
-
-Plusieurs personnes connaissent l'emplacement du corps de **Iakob**, notamment :
-* [Anaximandros Andreadis](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/AnaximandrosAndreadis.md) ; qui ne voudra pas du tout être mêlé à tout cela
-* [Polykarpos Manos](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Polykarpos_Manos.md) ; qui pourra révéler où c'est sous la menace ;
-* [Griffes-Rouges](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md) et [Paumes-Bleues](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Paumes_Bleues.md) qui pourront donner l'emplacement afin de convaincre les Aventuriers de ne pas aller plus loin que cette enquête de disparition.
-
-Une fois retrouvé :
-* Le corps est encore frais puisqu'il est mort il y a quelques jours uniquement ;
-* Il est totalement désséché car toute sa magie a été absorbée ;
-* Il porte plusieurs marques de griffes sur le corps, qui correspondent aux marques de **Griffes-Rouges** et **Paumes-Bleues**, mais qui ne peuvent pas être identifiées avec plus de précision.
-
 ## Quête : Le Sombre Artiste repenti
-### Mission : S'entretenir avec Nikas
+### Mission : Libérer Nikas
 Après une confrontation avec les [Sombres Artistes](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes) qui tourne au désavantage de ces derniers, la nouvelle de la défaite fait le tour de la ville, notamment via le **journal de la ville**. Suite à cela, [Nikas Pourokos](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/NikasPourokos.md) prend contact avec les Aventuriers pour proposer un marché.
 
 La prise de contact peut prendre plusieurs formes, mais il aura tendance à envoyer une lettre ou un cristal afin de donner rendez-vous dans un endroit en marge de la ville afin de pouvoir parler tranquillement, et éviter les lieux bondés.

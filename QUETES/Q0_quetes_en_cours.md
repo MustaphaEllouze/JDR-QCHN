@@ -17,13 +17,52 @@ Les intentions exactes de l'employeur sont encore inconnues... Notamment pourquo
 
 De toute évidence, le plan de l'employeur comprend au moins l'enlèvement de certaines personnes, comme **Iakob Samaras**. 
 
-## Quête : Disparitions aux temples
+**Iakob Samaras** a été retrouvé mort et dépourvu de tout magie. Nous savons que [Griffes-Rouges](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md) et [Paumes-Bleues](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Paumes_Bleues.md) sont directement impliqués dans sa mort, d'une façon ou d'une autre.
 
-### Mission : Retrouver Iakob
-Il apparaîtrait que **Iakob** ait été tué.
 
-> Nous pouvons aller chercher le corps de **Iakob** en marge de la ville.
+## Quête : Le Sombre Artiste repenti
+### Mission : Libérer Nikas
+Le lendemain de notre affrontement au [temple de Komorath](../WORLDBUILDING/VILLES/Rovtal.md#le-temple-de-komorath-surface), nous avons reçu une lettre nous demandant de nous rendre dans les quartiers mal fréquentés de la ville. 
 
-Nous avons été contacté par [Griffes-Rouges](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md) et [Paumes-Bleues](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Paumes_Bleues.md) qui nous ont donné le lieu où le corps a été enterré, à condition que d'arrêter d'enquêter sur leur employeur, qui semble être les [Mains Noires](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes).
+> Nous devrions aller chercher Nikas pour le libérer du joug des **Sobres Artistes**.
 
-Nous avons accepté ce marché pour le moment, et nous avons maintenant accès à la localisation du corps de **Iakob**, en marge de la ville.
+En allant à l'endroit mentionné, nous avons découvert un cristal de communication avec un certain [Nikas Pourokos](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/NikasPourokos.md), un **Sombre Artistes** apparemment repenti, qui nous a vu intervenir au **temple de Komorath** et qui souhaite qu'on le libère de ses obligations envers eux.
+
+Nous avons appris également les choses suivantes : 
+* Les **Sombres Artistes** sont en train d'enlever des personnes, qui correspondent à la description de plusieurs personnes disparues que nous avons reçues de la part du chef de la police, [Markellos](../WORLDBUILDING/PERSONNAGES/ROVTAL/Markellos_Héjj.md);
+* **Nikas** cherche à s'extirper du culte au plus vite, car ces activités d'enlèvements sont récentes et ne pensait pas s'embarquer dans ce type d'activités immorales ;
+* Il nous a dit de faire attention à certains gardes de la ville, qui pourraient être corrompus.
+
+**Nikas** nous a donné l'emplacement de l'entrepôt dans lequel les otages sont entreposés, avant d'être amenés vers une autre destination.
+
+Nous avons accepté d'aider **Nikas**.
+
+Avant d'avoir pu nous donner la destination finale, la communication a été coupée. Mais **Nikas** et les otages sont encore dans l'entrepôt qu'ils nous a indiqués.
+
+### Mission : Se rendre à l'entrepôt abandonné
+[**Nikas**](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/NikasPourokos.md) nous a indiqué l'emplacement d'un vieil entrepôt abandonné dans lequel il est, en compagnie de d'autres **Sombres Artistes** et d'otages qui correspondent à la description des gens disparus que nous cherchons.
+
+> Nous devrions nous rendre au plus vite à cet entrepôt.
+
+## Quête : Les Tensions entre Nobles
+### Mission : Se renseigner sur la situation à Dvolsti
+
+Quelques jours après notre arrivée à [Rovtal](../WORLDBUILDING/VILLES/Rovtal.md), nous avons entendu parlé des répercussions de notre action à [Dvolsti](../WORLDBUILDING/VILLES/Dvolsti.md) : la Consule de **Dvolsti**, [Elèctre Alexandros](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md), a été démise de ses fonctions pour être remplacée par [Emiliano Sfer](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md), le Consul adjoint.
+
+> Nous pouvons nous renseigner sur la situation de la ville via un tiers, ou aller constater la situation de nous-même.
+
+Nous avons appris dans le journal que la situation était tendue à **Dvolsti**, notamment car la ville se transforme lentement en un état policier, de crainte de la réssurgence des [Enfants de la Rue](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue). 
+
+Le journal parle également de rumeurs de réssurection des [Enfants de la Rue](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) par des membres encore en vie.
+
+### Mission : Assister au bal de la famille Sfer
+Nous avons été invités par [Etherios Sfer](../WORLDBUILDING/PERSONNAGES/...) à une fête organisée dans le [manoir Sfer](../WORLDBUILDING/VILLES/Rovtal.md#maison-de-la-famille-sfer), en l'honneur de la nomination d'[Emiliano Sfer](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md) en tant que Consul de [Dvolsti](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md).
+
+> Nous attendons encore l'invitation formelle, qui nous permettra d'aller dans les **Tréfonds** de la ville.
+
+Nous avons appris que certains membres de la haute sphère de [Caproch](../WORLDBUILDING/VILLES/Caproch.md) seraient présents.
+
+### Mission : Se rapprocher de la famille Alexandros
+L'ancienne Consule de [Dvolsti](../WORLDBUILDING/VILLES/Dvolsti.md), [Elèctre Alexandros](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md), étant démise de ses fonctions, elle ne devrait pas tarder à revenir à [Rovtal](../WORLDBUILDING/VILLES/Rovtal.md) auprès de sa famille.
+
+> Nous pouvons essayer de contacter la famille nobme des **Alexandros** pour essayer d'en apprendre plus sur les événéments de **Dvolsti**.
