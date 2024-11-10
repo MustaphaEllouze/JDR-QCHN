@@ -6,3 +6,4 @@ Elle est chargée de gérer les **imports et les exports** de la ville de **Rovt
 
 ## Membre
 * [Olympia Andréou](../Olympia_Andréou.md), cheffe de famille
+* [Isabella Andréou](../Isabella_Andréou.md), gérante du [Port de la Faille](../../../VILLES/Rovtal.md#port-de-la-faille)

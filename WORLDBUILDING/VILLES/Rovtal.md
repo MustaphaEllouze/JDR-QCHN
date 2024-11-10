@@ -100,8 +100,13 @@ Des membres de la garde sont présents près du pont, mais cela n'empêche pas q
 ### Entrée de la ville - La Porte du Pont
 ![Entrée de la ville](../../_images/Rovtal6.png)
 
+Seule entrée de la ville officielle, orientée pour faire face à l'**Est**. La Porte est ouverte tant que le soleil est levé.
+
+Elle est précédée par le [Pont du Détroit](#le-pont-du-détroit), ce qui constitue une très bonne manière de filtrer les intrus.
+
 ### Le Temple d'Italis (Surface)
 ![Temple d'Italis](../../_images/temple_italis.png)
+![Temple d'Italis](../../_images/templeItalisTopDown.png)
 
 ### Le Temple de Muhuta (Surface)
 ![Temple de Muhuta](../../_images/temple_muhuta.png)
@@ -115,37 +120,106 @@ On y retrouve la culture des [mandragores nocturnes](../ESPECES/Especes_Vegetale
 
 Le temple élève aussi des [colombes de minuit](../ESPECES/Especes_Animales.md#colombe-de-minuit).
 
-### Marché de Rovtal
+### Marché de Rovtal (Surface)
 ![Marché](../../_images/marché_rovtal.png)
 
-### Ascenseur vers les Tréfonds
-![Ascenseur](../../_images/ascenseur.png)
+En tant qu'infrastructure de la **Surface**, ce marché, situé non loin du centre de la ville, n'inclut pas les produits d'excellente qualité, généralement accaparés par les riches. Parmi la plupart des produits importés, la quasi-intégralité reste dans les **Tréfonds**.
 
-### Cristaux de lumière et de chaleur
-![Cristaux de lumières et de chaleur](../../_images/lampadaire_magiques.png)
+Le **Marché** est fréquenté par la plupart des habitants de la ville.
+
+### Ascenseurs vers les Tréfonds
+![Ascenseur](../../_images/ascenseur2.png)
+
+Ces ascenseurs sont les seules manières qu'ont les différents habitants de la ville de circuler entre la **Surface** et les **Tréfonds**. En pratique, seules quelques personnes bien choisies parmi les habitants de la **Surafce** peuvent emprunter ces Ascenseurs afin d'aller jusqu'au **Tréfonds**, et sous couvert d'autorisation officielle uniquement ; tandis que les habitants des **Tréfonds**, nobles et membres de familles prestigieuses, peuvent circuler librement.
+
+Plusieurs **Ascenseurs** sont répartis tout autour de la ville, autour des principales failles qui serpentent **Rovtal**, majoritairement vers le centre, dans la mesure où les Tréfonds s'étendent beaucoup moins que la Surface en termes d'aire. Chaque entrée est gardée par un poste de contrôle, qui filtre avec précision les allées et venus de tous les membres de la **Surface**. Le pourtour de chaque poste de garde est protégé par un champ de force afin d'empêcher le passage autre part que par les portes d'entrée et de sortie. 
+
+![Ascenseur](../../_images/ascenseur3.png)
+![Ascenseur](../../_images/ascenseur4.png)
+
+Les **Ascenseurs** se présentent sous la forme de disques géants, pouvant supporter jusqu'à une vingtaine de personnes en même temps, qui se meuvent le long d'un corridor vertical pendant quelques minutes. La chute dans ce trou béant est mortelle.
+
+### Cristaux de lumière et de chaleur (Tréfonds)
+![Cristaux de lumières et de chaleur](../../_images/lampadaires_magiques_2.png)
+
+Plusieurs recoins des **Tréfonds** sont généralement sombres et froids, notamment certaines allées creusées à l'intérieure même de la falaise. Afin de pouvoir vivre en tout confort, la plupart des passages de la ville basse sont équipés de **cristaux** permettant de produire lumière et chaleur en quantité suffisante.
+
+### Port de la Faille
+Le **Port de la Faille** est le seul port de la ville, situé en **aval** des **Tréfonds**, il permet de rejoindre le fleuve en empruntant la petite rivière qui serpente la ville base. La navigation sur cette rivière permet d'atteindre très rapidement [**Blanchécum**](./Blanchécum.md), qui est la ville par laquelle transite la plupart des marchandises venant des autres villes de la côte, notamment [**Caproch**](./Caproch.md).
+
+Le **Port** est subdivisé en deux parties : une zone réservée pour les marchandises (en aval), et une zone réservée pour les particuliers (en amont). 
+
+Le **Port** est géré par la [famille Andréou](../PERSONNAGES/ROVTAL/GROUPES/Famille_Andreou.md), et particulièrement par [Isabella Andréou](../PERSONNAGES/ROVTAL/Isabella_Andréou.md).
+
+#### Entrée
+![Porte de la Faille](../../_images/port_de_la_faille2.png)
+
+#### Zone réservée aux particuliers
+![Porte de la Faille](../../_images/port_de_la_faille1.png)
+
+#### Zone réservée aux marchandises
+![Porte de la Faille](../../_images/port_de_la_faille3.png)
 
 ### Maison de la [Famille Sfer](../PERSONNAGES/ROVTAL/GROUPES/Famille_Sfer.md)
 ![Rovtal](../../_images/Rovtal25.png)
 
 Située dans les **Tréfonds**, c'est le manoir où habitent la quasi-totalité des membres de la famille **Sfer**.
 
-Le sous-sol abrite la crypte familiale, où sont notamment enterrés l'ensemble de la lignée des [**Ethérios**](../PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md).
+Sous ses airs de maison modeste, la quasi-intégralité de la maison est construite en sous-sol, et les salles qu'elles y abritent sont en réalité immense.
+
+Le sous-sol abrite également la crypte familiale, où sont notamment enterrés l'ensemble de la lignée des [**Ethérios**](../PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md).
 
 #### Salle de bal du manoir Sfer
-![Maison Sfer](../../_images/sferhouse2.png)
+![Maison Sfer](../../_images/sferhouse_bal.png)
 
-#### Salle des fêtes publique du Manoir Sfer
+#### Salle des fêtes publiques du Manoir Sfer
 ![Maison Sfer](../../_images/sferhouse3.png)
 
 Les **cristaux** dans cette salle sont nombreux et disposés au travers de toute la salle. Ils servent à contrôler l'ambiance lumineuse et sonore de la salle lors des fêtes. 
 
+#### Crypte du Manoir Sfer
+![Crypte Sfer](../../_images/crypte_Sfer.png)
+
+### Manoir de la Famille Alexandros
+
+#### Intérieur
+![Manoir Alexandros](../../_images/manoir_alexandros.png)
+
 ### Le Stabilisateur Naturel
+![Jardin Royal Cristallin](../../_images/royalgardens2.png)
 ![Stabilisateur](../../_images/cristal_rovtal.png)
 
-### Le Réseau de Caves
-La ville de Rovtal ayant son centre-ville caché dans un gouffre gigantesque, elle abrite naturellement un système de caves très complexe dans ses **Tréfonds**.
+### Le Jardin Royal Cristallin
+![Jardin Royal Cristallin](../../_images/royalrovtalgardens.png)
 
-Ces caves sont peu *civilisées* et sont occupées par des animaux et bêtes en tout genre, ainsi que des citoyens pauvres.
+Le **Jardin Royal Cristallin** sont les jardins qui entourent tout le bâtiment qui abrite le [Stabilisateur Naturel](#le-stabilisateur-naturel).
+
+Toute la végétation du jardin a pris au fur et à mesure des années une teinte violette semblant venir d'un autre monde, probablement sous l'influence du **stabilisateur**.
+
+### Les Thermes du Diamant Bleu
+![Rovtal](../../_images/Rovtal27.png)
+![Thermes du Diamant Bleu](../../_images/thermesDiamantBleu.png)
+
+Les **Thermes du Diamant Bleu** sont un lieu de rencontres mondaines dans lesquelles les **Nobles** peuvent aller se détendre en profitant d'un bain chaud. Les **Thermes** se situent un peu en écart de la **ville basse**, ce qui correspond à la bordure du centre-ville de la **Surface**.
+
+La promesse des **Thermes** est de pouvoir requinquer n'importe quelle personne dès qu'elle se plonge à l'intérieur de l'eau. Le processus affiché est l'utilisation de **plantes médicinales**, notamment l'extraction de certains procédés actifs à travers l'emploi de magie.
+
+Les **Thermes** sont officiellement détenues par la [Famille Petrakos](../PERSONNAGES/ROVTAL/GROUPES/Famille_Petrakos.md), en la personne de [Apolina Petrakos](../PERSONNAGES/ROVTAL/ApolinaPetrakos.md).
+
+En pratique ceci est réalisé en injectant dans l'eau des **Thermes** de l'éther récupéré sur d'autres êtres vivants, notamment des **êtres intelligents**, pris en otage dans l'arrière boutique.
+
+Les **Thermes** sont en réalité une devanture pour l'activité des [**Sombres Artistes**](#les-sombres-artistes). Le passage par l'arrière boutique permet d'accéder à un réseau de caves naturelles dans la roche de la falaise avoisinante.
+
+### Le Cercle d'Ivoire - Club de Combat mondain
+![Cercle d'Ivoire](../../_images/cercle_divoire.png)
+
+Le **Cercle d'Ivoire** est une taverne-restaurant de luxe, réservée aux Nobles puisque se situant dans les Tréfonds, dont l'attraction principale sont les combats qui s'y font au centre de la pièce principale. L'atmosphère est proprice à y passer une soirée à parier sur l'issue des différents combats, et il est possible d'aller s'entretenir avec le barman afin de soumettre son pari.
+
+La plupart des combattants qu'on y retrouve sont des prisonniers en train de **purger leur peine**, qui se voient offrir une réduction du temps qu'ils ont à passer en prison en échange de quelques victoires dans le **Cercle**.
+
+Les **Nobles** peuvent également prendre part au combat s'ils en ont envie, en échange de quelques pièces.
+
+Les règles des combats sont laissés au choix de l'organisateur, mais la quasi-intégralité des combats se font jusqu'à forfait de l'un des deux combattants, la magie étant interdite.
 
 ## Les Sombres Artistes
 ![Culte](../../_images/red_portal.png)
@@ -156,6 +230,8 @@ Derrière cette organisation, se cache les **Mains Noires**, la tête pensante d
 Les intentions des **Sombres Artistes** n'est pas très claire. Ils partagent cependant tous une idéologie commune : ils voient dans leur dieu, **Komorath**, une sorte de **sauveur** qui leur donne une raison d'exister au-delà de leur simple individualité.
 
 De nos jours, ils essayent également de développer leur sens de la communauté afin de contrer l'influence des **familles nobles** dans la ville, qui n'a pas grand-chose à faire de la *populace*. Leurs actions servent également à faciliter la vie de leurs **leaders** dans la société.
+
+L'entrée du repaire des **Sombres Artistes** se situe dans l'arrière boutique des [Thermes du Diamant Bleu](#les-thermes-du-diamant-bleu).
 
 ## Les Brigands du Détroit
 Cette organisation est une bande de voleurs locaux, sévissant près du [Pont du Détroit](#le-pont-du-détroit), qui profitent de l'ignorance de certains visiteurs de la ville pour s'enrichir. 
@@ -206,21 +282,20 @@ On note également une tension entre tous les cultes qui se pratiquent à **Rovt
 ![Rovtal](../../_images/Rovtal9.png)
 ![Rovtal](../../_images/Rovtal13.png)
 ![Rovtal](../../_images/Rovtal11.png)
-### Flancs
-![Rovtal](../../_images/Rovtal2.png)
-![Rovtal](../../_images/Rovtal4.png)
-![Rovtal](../../_images/Rovtal5.png)
+![Rovtal](../../_images/rovtal_alley.png)
 ### Tréfonds
 ![Rovtal](../../_images/Rovtal16.png)
 ![Rovtal](../../_images/Rovtal17.png)
 ![Rovtal](../../_images/Rovtal19.png)
+![Rovtal](../../_images/Rovtal2.png)
+![Rovtal](../../_images/Rovtal4.png)
+![Rovtal](../../_images/Rovtal5.png)
 ### Intérieurs
 ![Rovtal](../../_images/Rovtal20.png)
 ![Rovtal](../../_images/Rovtal21.png)
 ![Rovtal](../../_images/Rovtal22.png)
 ### Lieux spéciaux
 ![Rovtal](../../_images/Rovtal10.png)
-![Rovtal](../../_images/Rovtal27.png)
 ![Rovtal](../../_images/Rovtal26.png)
 ![Rovtal](../../_images/Rovtal24.png)
 ### Personnes
