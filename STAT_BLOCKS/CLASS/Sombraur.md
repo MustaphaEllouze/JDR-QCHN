@@ -3,7 +3,7 @@
 
 * **Classe d'armure** : 17
 * **Points de vie** : 207
-* **Vitesse** : 12 m  
+* **Vitesse** : 15 m  
 
 |    |FOR|DEX|CON|INT|SAG|CHA|
 |----|---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 Le Sombraur peut absorber l'énergie magique des créatures qu'il touche.
 
 Lorsque le Sombraur inflige des dégâts à une créature alors qu'il est à moins de 1.5m d'elle, il choisit l'un des effets suivants :
-* La créature perd un **emplacement de sort** de niveau 3 ou plus, et le Sombraur se **soigne** de 5 fois l'emplacement 10 fois le niveau de l'emplacement ;
+* La créature perd un **emplacement de sort** de niveau 3 ou plus, et le Sombraur se **soigne** de 10 fois le niveau de l'emplacement ;
 * La créature perd un **dé de vie**, et le Sombraur **se soigne** de 5 fois la valeur maximale de ce dé ;
 * La créature subit 2d10 dégâts nécrotiques **supplémentaires**, et le Sombraur se **soigne** du montant total de l'attaque.
 
@@ -34,9 +34,9 @@ Le Sombraur est un lanceur de sort inné, et sa caractéristique d'incantation e
 * Bonus à l'attaque : +9
 
 Sorts:
-* *A volonté* - Illusion mineure, Déguisement, Ténêbres
-* *3/jour* - Invisibilité suprême, Peur
-* *1/jour* - Domination de personne, Assassin imaginaire, *Shadow of Moil*
+* *A volonté* - Illusion mineure, Déguisement, Ténêbres, Pas de l'ombre
+* *3/jour* - Assassin imaginaire, Peur
+* *1/jour* - Domination de personne, Invisibilité suprême
 
 ### Résistance légendaire (3/jour)
 Si le Sombraur rate un jet de saubegarde, il peut choisir de le réussir à la place.
@@ -65,13 +65,16 @@ Une créature peut attaquer l'illusion ou utiliser une action pour effectuer un 
 ### Forme des Ombres
 En tant qu'**action bonus**, le Sombraur peut se changer partiellement en une forme ombreuse pendant **1 minute**, s'il n'est pas éclairé par de la **lumière naturelle**. Dans cette forme, il acquièrt  la **résistance** à tous les dégâts non-magiques.
 
+Sous cette forme, le Sombraur **ne peut pas porter d'attaque de mêlée** avec son arme.
+
 Il est avantagé contre sur tous ses jets, et tous les jets faits contre lui sont désavantagés.
 
-L'effet se **termine** s'il subit des dégâts ou s'il inflige des dégâts.
+L'effet se **termine** s'il subit des dégâts, s'il inflige des dégâts, ou s'il lance un sort.
 
 Cet effet n'est utilisable que si le Sombraur a plus de la **moitié de ses points de vie**.
+
 ## Réactions
-### Feinte de l'illusioniste
+### Feinte de l'illusioniste (5/jour)
 Lorsqu'une créature réussit une **attaque** sur le Sombraur et qu'il se situe à moins de **3m** de la créature, il peut utiliser sa **réaction** pour créer une illusion de lui-même.
 
 La créature effectue un **jet de Sauvegarde de Sagesse** DD 17 et le Sombraur effectue une attaque. 
@@ -88,3 +91,4 @@ Le Sombraur effectue une attaque avec une de ses armes.
 Le Sombraur se téléporte à une distance de 12 mètres maximum qui n'est pas plongé dans la lumière.
 ### Sort (coût : 2)
 Le Sombraur lance un sort parmi les sorts qu'il maîtrise.
+### Attaque illusoire (coût : 2)
