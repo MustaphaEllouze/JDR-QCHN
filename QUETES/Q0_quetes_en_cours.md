@@ -15,7 +15,7 @@ Nous avons été témoins de l'absorption de tout l'éther de [Nikas](../WORLDBU
 
 Nous avons alerté [Markellos Héjj](../WORLDBUILDING/PERSONNAGES/ROVTAL/Markellos_Héjj.md) et [Wardi](../WORLDBUILDING/PERSONNAGES/ROVTAL/Wardi_Piotr.md) de nos découvertes, et du lien entre tous les enlèvements, les **Sombres Artistes** et les **Mains Noires**, et la présence de ces acteurs dans les **Tréfonds** de la ville. 
 
-**Markellos** nous a remonté ses inquiétudes quant à l'inaction des **Tréfonds** et de sa **police**, notamment en la personne de [Nyx Kwestyon](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Nyx_Kwestyon.md). Afin de pouvoir enquêter librement, il nous a rédigé un laisser-passer officiel qui nous permet de nous y rendre, mais il compte sur notre **discrétion** à tout prix. **Wardi** est en charge de nous fournir en **objets spéciaux** pour notre enquête. 
+**Markellos** nous a remonté ses inquiétudes quant à l'inaction des **Tréfonds** et de sa **police**, notamment en la personne de [Nyx Kwestyon](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Nyx_Kwestyon.md). Afin de pouvoir enquêter librement, il nous a rédigé un laisser-passer officiel qui nous permet de nous y rendre, mais il compte sur notre **discrétion** à tout prix. **Wardi** est en charge de nous fournir en **objets spéciaux** pour notre enquête.
 
 ### Mission : Découvrir l'identité et la nature des Mains Noires
 De toute évidence, quelque chose ne tourne pas rond autour de la nature des **Mains Noires**, quelque chose d'étrange enveloppe leur existence.
