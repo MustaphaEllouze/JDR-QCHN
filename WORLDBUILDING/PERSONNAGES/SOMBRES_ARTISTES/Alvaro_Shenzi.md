@@ -16,7 +16,7 @@
 [Les Sombres Artistes](../../VILLES/Rovtal.md#les-sombres-artistes)
 
 ## Caractéristiques
-* Un véritable montre, il aime faire souffrir ses victimes en plus de leur arracher de l'énergie magique.
+* Un véritable monstre, il aime faire souffrir ses victimes en plus de leur arracher de l'énergie magique.
 * C'est [Federi Gox](./Federi_Gox.md) qui l'a élevé, recueilli après que **Federi** ait anéanti son clan.
 * Il n'est pas élevé dans le secret de l'identité de **Federi**, et insiste pour être transformé, ce qu'il acceptera une fois **Alvaro** devenu adulte.
 

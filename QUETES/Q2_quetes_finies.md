@@ -598,3 +598,59 @@ Nous sommes allés chercher le corps de **Iakob**. Il était enterré dans un bo
 Nous avons également aperçu sur le corps de **Iakob** des marques de **griffes de Felicis**, sans doute témoins de l'implication de [Griffes-Rouges](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md) et [Paumes-Bleues](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md) dans sa mort. Nous n'avons trouvé aucune autre marque sur le corps.
 
 Nous avons emporté le corps à la morgue de la [Police de Rovtal](../WORLDBUILDING/VILLES/Rovtal.md#la-police-de-rovtal), et empoché notre récompense.
+
+## Quête : Le Sombre Artiste repenti
+### Mission : Libérer Nikas
+Le lendemain de notre affrontement au [temple de Komorath](../WORLDBUILDING/VILLES/Rovtal.md#le-temple-de-komorath-surface), nous avons reçu une lettre nous demandant de nous rendre dans les quartiers mal fréquentés de la ville. 
+
+En allant à l'endroit mentionné, nous avons découvert un cristal de communication avec un certain [Nikas Pourokos](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/NikasPourokos.md), un **Sombre Artistes** apparemment repenti, qui nous a vu intervenir au **temple de Komorath** et qui souhaite qu'on le libère de ses obligations envers eux.
+
+Nous avons appris également les choses suivantes : 
+* Les **Sombres Artistes** sont en train d'enlever des personnes, qui correspondent à la description de plusieurs personnes disparues que nous avons reçues de la part du chef de la police, [Markellos](../WORLDBUILDING/PERSONNAGES/ROVTAL/Markellos_Héjj.md);
+* **Nikas** cherche à s'extirper du culte au plus vite, car ces activités d'enlèvements sont récentes et ne pensait pas s'embarquer dans ce type d'activités immorales ;
+* Il nous a dit de faire attention à certains gardes de la ville, qui pourraient être corrompus.
+
+**Nikas** nous a donné l'emplacement de l'entrepôt dans lequel les otages sont entreposés, avant d'être amenés vers une autre destination.
+
+Nous avons accepté d'aider **Nikas**.
+
+Avant d'avoir pu nous donner la destination finale, la communication a été coupée. Mais **Nikas** et les otages sont encore dans l'entrepôt qu'ils nous a indiqués.
+
+Nous sommes allés dans la position que nous a donné **Nikas**, mais il n'y était plus. Nous avons dû combattre contre **Super**, **Viseur** et **Superviseur** sur place, qui étaient en charge d'évacuer avec l'aide de **Nikas** et sa bande les otages.
+
+Nous avons obtenu l'adresse de la destination finale, une maison située près du centre-ville, à côté d'un [Ascenseur](../WORLDBUILDING/VILLES/Rovtal.md#ascenseurs-vers-les-tréfonds). Nous avons appris que cette maison appartient à un certain [Lazaros Alexandros](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Lazaros_Alexandros.md).
+
+[Lazaros Alexandros](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Lazaros_Alexandros.md) s'est déplacé lui-même dans la maison, et nous avons décidé de l'y affronter.
+
+Le combat s'est mal passé malgré nos efforts. Afin de punir **Nikas** de sa trahison, **Lazaros** l'a **tué** en absorbant toute la magie de son corps. 
+
+**Lazaros** nous a laissé la vie sauve en afin de payer sa *dette* envers nous pour lui avoir fourni indirectement les expériences d'[Arkolapoulos](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md).
+
+### Mission : Se rendre à l'entrepôt abandonné
+[**Nikas**](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/NikasPourokos.md) nous a indiqué l'emplacement d'un vieil entrepôt abandonné dans lequel il est, en compagnie de d'autres **Sombres Artistes** et d'otages qui correspondent à la description des gens disparus que nous cherchons.
+
+Nous sommes allés dans la position que nous a donné **Nikas**, mais il n'y était plus. Nous avons dû combattre contre **Super**, **Viseur** et **Superviseur** sur place, qui étaient en charge d'évacuer avec l'aide de **Nikas** et sa bande les otages. Nous avons été contraints de les tuer.
+
+Sur le corps de **Superviseur**, nous avons trouvé l'adresse d'une maison en ville, proches d'un des [Ascenseurs](../WORLDBUILDING/VILLES/Rovtal.md#ascenseurs-vers-les-tréfonds), à laquelle sont acheminés les otages. Nous devrions nous y rendre : **Nikas** et les otages se trouvent sans doute encore là-bas.
+
+### Mission : Confronter les Sombres Artistes avant qu'il ne livre les otages
+
+Nous nous sommes rendus à la maison près des [Ascenseurs](../WORLDBUILDING/VILLES/Rovtal.md#ascenseurs-vers-les-tréfonds), qui avait l'air d'être abandonnée. **Nikas** et les otages sont à l'intérieur.
+
+Nous sommes entrés dans la maison en alertant de notre présence en ayant déclenché un piège dès l'entrée.
+
+Nous avons trouvé **Nikas** et deux de ses compagnons. Nous l'avons libéré de leur joug, et nous avons libérer les otages après un affrontement à l'intérieur de la maison.
+
+Nous avons confié les otages à deux membres de la **police** qui sont venus avec nous. Nous nous sommes assurés plus tard qu'ils étaient bien arrivés sans encombre chez eux.
+
+Un des deux collègues de **Nikas** a eu le temps de prévenir un certain [**Lazaros Alexandros**](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Lazaros_Alexandros.md) afin qu'il leur vienne en aide. **Nikas** nous a prévenu de sa dangerosité, mais nous avons décidé de l'affroner dans sa maison-même.
+
+## Quête : L'employeur de Rovtal
+### Mission : Découvrir l'identité de l'employeur
+Nous nous sommes mis en direction de [**Rovtal**](../WORLDBUILDING/VILLES/Rovtal.md) afin de retrouver l'employeur des [**Enfants de la Rue**](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue), et comprendre pourquoi il voulait s'en prendre à [**Brumebourg**](../WORLDBUILDING/VILLES/Brumebourg.md), et ce qu'il compte faire des expérimentations d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md)... Problème, nous ne savons pas qui c'est !
+
+Après avoir enquêté sur l'affaire de l'enlèvement de **Iakob Smaras**, [Griffes-Rouges](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md) et [Paumes-Bleues](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Paumes_Bleues.md) nous ont contacté afin de nous aider à localiser son corps, en échange d'arrêter d'enquêter sur leur employeur. Nous avons accepté, mais une promesse ne compte que pour celui qui y croit.
+
+Nous avons entendu parlé des [Sombres Artistes](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes) et des **Mains Noires** de la part des prêtres de **Komorath** qui ont kidnappé **Iakob Samaras**. Il s'agit peut-être d'eux.
+
+Nous avons été confrontés à un certain [Lazaros Alexandros](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Lazaros_Alexandros.md), une **Main Noire**, qui nous a laissé aux portes de la mort plutôt que nous tuer, afin de nous "remercier de lui avoir fait parvenir les expériences d'**Arkolapoulos**". Aucun doute, l'ancien employeur des [Enfants de la Rue](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) sont bien les [Sombres Artistes](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes).

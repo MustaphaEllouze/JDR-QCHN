@@ -1,15 +1,9 @@
 # Quêtes disponibles
 
 ## Quête : L'Employeur de Rovtal
-### Mission : Découvrir l'identité de l'employeur
-Les [**Sombres Artistes**](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes), notamment en les personnes des [**Mains Noires**](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/_Organisation.md), ont engagé les [Enfants de la Rue](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) afin de détruire le stabilisateur de leyline de [Brumebourg](../WORLDBUILDING/VILLES/Brumebourg.md). La tête pensante de l'opération du côté des **Mains Noires** est [**Ethérios Sfer**](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), sous la tutelle des deux bras droits de [Federi Gox](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Federi_Gox.md) : [Maria Ufassa](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Maria_Ufassa.md) et [Alvaro Shenzi](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Alvaro_Shenzi.md). [Federi Gox](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Federi_Gox.md) étant actuellement en hibernation.
-
-Peu de personnes connaissent l'ensemble de l'histoire, seules demeurent les **Mains Noires**, et dans une moindre mesure le reste des **Sombres Artistes**, ainsi que les deux anciens chefs de Division des **Enfants de la Rue**, qui ont trahi leur hiérarchie : [Paumes-Bleues](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Paumes_Bleues.md) et [Griffes-Rouges](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md).
-
-Depuis leur trahison, **Paumes-Bleues** et **Griffes-Rouges** sont devenus des [**Sombraurs**](../WORLDBUILDING/ESPECES/ESPECES_MAGIQUES/Sombraur.md), pour avoir livré les expériences d'[**Arkolapoulos**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) sur l'extraction et l'exploitation de l'éther au sein des êtres vivants.
 
 ### Mission : Découvrir ses intentions
-La destruction est motivée par deux éléments :
+La destruction du **stabilisateur** de [Brumebourg](../WORLDBUILDING/VILLES/Brumebourg.md) est motivée par deux éléments :
 * Remplir leur part du marché avec la [**Loge des Douze**](../WORLDBUILDING/VILLES/Caproch.md#la-loge-des-douze), qui veulent détruire le stabilisateur afin de stabiliser les leylines sur une île au Nord, et sécuriser une voie commerciale maritime ;
 * Pouvoir profiter du chaos instauré dans le village afin de pouvoir avoir une ressource de magie à absorber facilement (capturer les quelques habitants qui n'arriveraient pas s'échapper leur de leur exode potentiel).
 
@@ -19,47 +13,19 @@ Durant les événements qui se sont passés à Dvolsti et la chute des têtes pe
 
 Pour accomplir ce nouveau plan, de nombreux tests sont nécessaires, et l'ensemble des relations dans la ville de **Rovtal** sont mobilisées. [Federi Gox](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Federi_Gox.md) n'a pas encore été sorti de sa longue hibernation...
 
-## Quête : Le Sombre Artiste repenti
-### Mission : Libérer Nikas
-Après une confrontation avec les [Sombres Artistes](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes) qui tourne au désavantage de ces derniers, la nouvelle de la défaite fait le tour de la ville, notamment via le **journal de la ville**. Suite à cela, [Nikas Pourokos](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/NikasPourokos.md) prend contact avec les Aventuriers pour proposer un marché.
+### Mission : Découvrir l'identité et la nature des Mains Noires
+Les **Mains Noires** sont les têtes pensantes et les meilleurs guerriers des **Sombres Artistes**. Ces derniers sont une organisation créée par [Federi Gox](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Federi_Gox.md) quelques temps après qu'il se soit installé à **Rovtal** pour mener ses recherches, avec ses deux compagnons de l'époque : [Maria Ufassa](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Maria_Ufassa.md) et [Alvaro Shenzi](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Alvaro_Shenzi.md).
 
-La prise de contact peut prendre plusieurs formes, mais il aura tendance à envoyer une lettre ou un cristal afin de donner rendez-vous dans un endroit en marge de la ville afin de pouvoir parler tranquillement, et éviter les lieux bondés.
+L'ensemble des **Mains Noires** sont subdivisés en deux groupes : 
+* Les **Sombraurs originels** : **Federi**, **Maria** et **Alvaro** :
+    * Ce sont les **Sombraurs** qui se sont installés à Rovtal il y a plusieurs centaines d'années, et qui cherchent à **ouvrir un portail** vers le plan des Lumières et Ombres, demeure présumé de [**Komorath**](../WORLDBUILDING/COSMOLOGIE/PLANS_ET_DIVINITES/Komorath.md) ;
+* Les **Sombraurs originaires de Rovtal** : [Etherios](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md) ; [Lazaros](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Lazaros_Alexandros.md) ; [Valéria](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Valéria_Botzaris.md) ; [Nyx](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Nyx_Kwestyon.md) :
+    * **Etherios** a été transformé par **Federi** afin d'assurer la main mise sur la ville de **Rovtal**, et ne plus se préoccuper de la vie mondaine.
+    * **Etherios** a créé les trois autres afin de d'asseoir son pouvoir sur la ville et l'étendre. Son but est double 
+        1. Devenir roi de **Rovtal** et propulser sa famille au-dessus de la famille [Andreadis](../WORLDBUILDING/PERSONNAGES/ROVTAL/GROUPES/Famille_Andreadis.md) ;
+        2. Aider **Federi** à ouvrir le portail afin de pouvoir évacuer le problème de devoir absorber la magie des êtres vivants.
 
-Les informations données par **Nikas** sont les suivantes :
-* C'est un [**Sombre Artiste**](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes) qui veut s'extirper du culte. Il était initialement **prêtre de Komorath**, mais on lui a proposé de rejoindre cette partie secrète du culte, sauf qu'il est impossible d'en sortir.
-* Il souhaite en sortir parce qu'il n'est pas d'accord avec les derniers agissements, notamment les **enlèvements** qui se font de plus en plus nombreux depuis les derniers jours.
-* Les ordres viennent des **Mains Noires**, mais lui-même ne connaît pas vraiment leur identité car il n'est pas très haut placé dans la hiérarchie.
-* Ils ont enrôlés certains gardes de la ville pour les aider, contre des pots-de-vin.
-* Il fait partie d'un groupe qui a enlevé et séquestré des gens récemment, et il souhaite participer à leur libération, mais il ne peut pas le faire parce que ses camarades sont trop forts pour lui.
-* Il donne l'emplacement d'un vieil entrepôt dans lequel ils gardent des otages qu'ils vont déplacer à un endroit proche d'un **ascenseur éthérique**, afin qu'ils soient transférés dans les **Tréfonds**.
-* Il donne la description des otages.
-* Il leur donne l'addresse de l'entrepôt, mais il se fait repérer avant de donner l'addresse de la destination finale.
-
-### Mission : Se rendre à l'entrepôt abandonné
-L'emplacement du lieu est donné par [Nikas](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/NikasPourokos.md). 
-
-A l'entrée de l'entrepôt, il y a peu d'obstacles. Il ne reste plus **qu'un seul otage** à l'arrivée des **Aventuriers**, les autres ayant été transférés déjà au second endroit. Ce seul otage est retenu attaché contre son gré.
-
-L'otage restant a entendu parler du second lieu où ont été transférés les autres ; il a également aussi entendu parlé les ravisseurs des otages déjà présents dans les **Tréfonds**, notamment des **centaures** dont ils voudraient extraire la magie.
-
-A la libération de l'otage, plusieurs personnes rentrent dans l'entrepôt afin de récupérer l'otage et de le transférer vers le second emplacement. Cela donne lieu à un combat, car ces personnes ne souhaitent pas que leur identité soit découverte ([Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-6---lentrepôt-à-revers)).
-
-### Mission : Confronter les Sombres Artistes avant qu'il ne livre les otages
-L'emplacement du second lieu est donné par l'otage trouvé dans l'entrepôt.
-
-Le **second lieu** est une maison appartenant à la famille [Alexandros](../WORLDBUILDING/PERSONNAGES/ROVTAL/GROUPES/Famille_Alexandros.md), plus précisément à [Lazaros Alexandros](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Lazaros_Alexandros.md). Elle est gardée quasiment en permanence par des **Sombres Artistes**, qui restent à l'intérieur.
-
-La maison est construite sur deux étages, et est relativement petite vue de l'extérieur. Plusieurs entrées existent (fenêtres, porte donnant sur l'allée principale, et une porte de service). Toutes les entrées en de hors de l'entrée de service sont barricadées.
-
-L'**entrée de service** est protégée par un sort d'[Appel de la Foudre](../SORTS/NIVEAU3/AppelDeLaFoudre.md), qui ne se déclenche qu'une fois, mais qui est silencieux.
-
-L'intérieur de la maison est protégé, avec des sorts d'[Alarme](../SORTS/NIVEAU2/Alarme.md) au niveau de toutes les portes et fenêtres donnant sur l'extérieur.
-
-L'intérieur de la maison est organisé en deux étages (une mezzanine), les **Sombres Artistes** et leurs otages étant à l'étage, dans une pièce à l'écart.
-
-A la confrontation des **Sombres Artistes**, qui savent qui sont les **Aventuriers**, ils attaquent à vue, [Nikas](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/NikasPourokos.md) étant du côté des **Aventuriers**. ([Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-7---la-maison-mezzanine)). Les **Sombres Artistes** appellent directement [Lazaros Alexandros](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Lazaros_Alexandros.md) pour les aider.
-
-A la fin de la rencontre, après l'éventuel libération des otages, [Lazaros Alexandros](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Lazaros_Alexandros.md) arrive et se bat contre les **Aventuriers**. Il les laisse partir pour les *remercier* d'avoir fourni aux **Mains Noires** le livre d'[Arkolapoulos](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) servant à l'extraction de la magie des êtres vivants. Par contre, il tue **Nikas** si encore vivant, et livre les otages s'ils ne sont pas déjà partis.
+Les **Sombraurs** possèdent certaines faiblesses dont notamment : leur dépendance à l'éther des autres êtres vivants, leur sensibilité accrue à la lumière naturelle, et leur faiblesse aux éléments chlorés (dont le sel).
 
 ## Quête : Les Tensions entre Nobles
 ### Mission : Se renseigner sur la situation à Dvolsti
