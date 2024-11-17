@@ -27,6 +27,22 @@ L'ensemble des **Mains Noires** sont subdivisés en deux groupes :
 
 Les **Sombraurs** possèdent certaines faiblesses dont notamment : leur dépendance à l'éther des autres êtres vivants, leur sensibilité accrue à la lumière naturelle, et leur faiblesse aux éléments chlorés (dont le sel).
 
+## Quête : Les Tréfonds de Rovtal
+### Mission : Accéder aux Tréfonds
+Accéder aux **Tréfonds** de la ville de [Rovtal](../WORLDBUILDING/VILLES/Rovtal.md) n'est pas une mince affaire, puisque leur accès est généralement réservé aux nobles et aux membres des familles prestigieuses.
+
+Il y a plusieurs accès possibles pour parvenir aux **Tréfonds** : 
+* *Ascenseurs* : Passer par les ascenseurs la ville demande requiert une autorisation officielle ou une invitation de la part d'un Noble ; généralement les seules personnes pouvant donner une telle autorisation à la **Surface** sont les membres hauts placés de la Police ; 
+* *Port de la Faille* : Il est possible de passer par le Port, malgré le fait que toutes les entrées soient contrôlées ; le plus facile étant sûrement de se cacher sur un bâteau de marchandises venant de la mer ;
+* *Passage secret du temple de **Komorath*** : Le teple de **Komorath** à la **Surface** comporte un passage secret qui débouche sur un des flancs de la faille. Du matériel d'escalade ou tout autre moyen d'y parvenir suffisent.
+
+Une fois dans les **Tréfonds**, des contrôles peuvent être faits afin de vérifier la légitimité de la présence d'une personne, généralement en lui demandant des documents d'identification et une autorisation à séjourner dans les **Tréfonds**.
+
+### Mission : Visiter le Cercle d'Ivoire
+[Ektor Kolokotronis](../WORLDBUILDING/PERSONNAGES/ROVTAL/EktorKolokotronis.md)
+### Mission : Visiter le Port de la Faille
+### Mission : Enquêter sur les enlèvements de la Surface
+
 ## Quête : Les Tensions entre Nobles
 ### Mission : Se renseigner sur la situation à Dvolsti
 Le jour de l'arrivée des **Aventuriers** à Rovtal, la nouvelle venant de [Dvolsti](../WORLDBUILDING/VILLES/Dvolsti.md) arrive à [Rovtal](../WORLDBUILDING/VILLES/Rovtal.md) : le tumulte qui a pris la ville fait que la **Consule** actuelle de **Dvolsti**, [Elèctre Alexandros](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md) ne peut plus assurer sa fonction :
