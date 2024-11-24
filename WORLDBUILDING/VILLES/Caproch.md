@@ -97,8 +97,8 @@ En pratique, c'est la [Loge des Douze](#la-loge-des-douze) qui en secret choisit
 
 Les deux seigneurs sont également en charge d'organiser toutes les institutions de la ville qui ne sont gérées par aucune guilde.
 
-### Seigneur Commercial
-![Seigneur Commercial](../../_images/white_leonin_noble_samurai.png)
+### Seigneur Commercial - [Fubuki Araki](../PERSONNAGES/CAPROCH/FubukiAraki.md)
+![Seigneur Commercial](../../_images/fubuki_araki.png)
 
 ### Seigneur Guerrier
 ![Seigneur Guerrier](../../_images/seigneur_guerrier.png)
@@ -117,9 +117,9 @@ Parmi les ressources que ramènent les explorateurs des confins du désert à l'
 ## Insufflation magique
 Les habitants de **Tchevo** ont réussi à maîtriser l'insufflation de magie dans leurs corps afin de devenir plus puissant momantanément. L'invocation de cette magie passe souvent par de l'automutilation car cette magie passe plus facilement à travers le système sanguin. Ils rentrent alors généralement dans une rage folle.
 
-On appelle les guerriers qui réussissent à arriver à ce stade les **Yamatsurai**, à ne pas confondre avec les membres de la guilde de l'**Art de l'Eveil**.
+On appelle les guerriers qui réussissent à arriver à ce stade les **Ketsuma**, à ne pas confondre avec les membres de la guilde de l'**Art de l'Eveil**.
 
-Ces transformations sont vues comme un appel aux dieux et aux esprits anciens des tribus fondatrices, ainsi que des anciens **Yamatsurai**.
+Ces transformations sont vues comme un appel aux dieux et aux esprits anciens des tribus fondatrices, ainsi que des anciens **Ketsuma**.
 
 ![Léonin Démon](../../_images/demon_leonin.png)
 
