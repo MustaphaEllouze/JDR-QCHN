@@ -39,7 +39,24 @@ Il y a plusieurs accès possibles pour parvenir aux **Tréfonds** :
 Une fois dans les **Tréfonds**, des contrôles peuvent être faits afin de vérifier la légitimité de la présence d'une personne, généralement en lui demandant des documents d'identification et une autorisation à séjourner dans les **Tréfonds**.
 
 ### Mission : Visiter le Cercle d'Ivoire
-[Ektor Kolokotronis](../WORLDBUILDING/PERSONNAGES/ROVTAL/EktorKolokotronis.md)
+[Ektor Kolokotronis](../WORLDBUILDING/PERSONNAGES/ROVTAL/EktorKolokotronis.md) est le recruteur du [Cercle d'Ivoire](../WORLDBUILDING/VILLES/Rovtal.md#le-cercle-divoire---club-de-combat-mondain), un club de combat et bar mondain qui accueille les **nobles** qui veulent se détendre en regardant des combats à mains nues organisés au centre de la salle centrale. 
+
+**Ektor** est en charge d'identifier les potentiels combattants des **Cercle d'Ivoire**, et va notamment piocher dans les prisonniers de la **Surface**, ayant réussi à obtenir une dérogation pour le **Cercle** afin de réduire la peine des victorieux.
+
+**Ektor** réside dans les **Tréfonds** et est en contact régulier avec la **Surface** afin de se faire *livrer* des nouveaux prisonniers. Il attend souvent en bas d'un des [Ascenseurs vers les Tréfonds](../WORLDBUILDING/VILLES/Rovtal.md#ascenseurs-vers-les-tréfonds) afin de réceptionner les nouveaux combattants. 
+
+**Lors de la première descente** des Aventuriers vers les Tréfonds, il est possible de le rencontrer, attendant l'arrivée d'une de ses nouvelles recrues, et confondant les **Aventuriers** pour ces recrues. Un des prisonniers pourrait être par exemple [Edem Kurt](../WORLDBUILDING/PERSONNAGES/ROVTAL/EdemKurt.md).
+
+En échangeant avec lui, il est prêt à offrir une place pour venir combattre au Cercle : en tant que combattant non criminel, la paye s'élève à **5% de l'argent misé**.
+
+Plusieurs combats sont organisés au Cercle, et il est possible d'y prendre part.
+* Combat facile : [Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-8---combat-facile-au-cercle-divoire)
+* Combat intermédiaire : [Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-9---combat-intermédiaire-au-cercle-divoire)
+* Combat difficile : [Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-10---combat-difficile-au-cercle-divoire)
+* Combat en équipe : [Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-11---combat-en-équipe-au-cercle-divoire)
+
+Le Cercle organise également l'épreuve du **Grand Chelem**, où il est possible de gagner **1.500 P.O.**  supplémentaire si les quatre combats ci-dessus sont menés successivement.
+
 ### Mission : Visiter le Port de la Faille
 ### Mission : Enquêter sur les enlèvements de la Surface
 

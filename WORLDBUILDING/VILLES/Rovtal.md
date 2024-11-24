@@ -217,9 +217,11 @@ Le **Cercle d'Ivoire** est une taverne-restaurant de luxe, réservée aux Nobles
 
 La plupart des combattants qu'on y retrouve sont des prisonniers en train de **purger leur peine**, qui se voient offrir une réduction du temps qu'ils ont à passer en prison en échange de quelques victoires dans le **Cercle**.
 
-Les **Nobles** peuvent également prendre part au combat s'ils en ont envie, en échange de quelques pièces.
+Les **Nobles** et tout visiteur peuvent également prendre part au combat s'ils en ont envie, auquel cas le combattant gagne **5% de la mise totale du combat**.
 
-Les règles des combats sont laissés au choix de l'organisateur, mais la quasi-intégralité des combats se font jusqu'à forfait de l'un des deux combattants, la magie étant interdite.
+Les règles des combats sont laissés au choix de l'organisateur, mais la quasi-intégralité des combats se font jusqu'à forfait de l'un des deux combattants, la magie et les armes étant interdite.
+
+Le Cercle organise également l'épreuve du **Grand Chelem**, où il est possible de gagner des pièces d'or supplémentaires si un combattant décide de participer à toute une batterie de combats successivement (toujours à la discrétion de l'organisateur).
 
 ## Les Sombres Artistes
 ![Culte](../../_images/red_portal.png)

@@ -98,3 +98,60 @@ Des otages sont disposés dans la maison.
 **XP** : 1650
 
 **Scope** : Niveau 6
+
+## Rencontre Batiment 8 - Combat facile au Cercle d'Ivoire 
+
+*Ennemis*
+
+* 1 [Malfrat](../STAT_BLOCKS/CLASS/Malfrat.md)
+
+Les combats se font à mains nues.
+
+**Objectif** : Neutraliser le combattant
+
+**XP** : 100
+
+**Scope** : Niveau 7
+
+## Rencontre Batiment 9 - Combat intermédiaire au Cercle d'Ivoire 
+
+*Ennemis*
+
+* 1 [Capitaine Bandit](../STAT_BLOCKS/CLASS/CapitaineBandit.md)
+
+Les combats se font à mains nues.
+
+**Objectif** : Neutraliser le combattant
+
+**XP** : 450
+
+**Scope** : Niveau 7
+
+## Rencontre Batiment 10 - Combat difficile au Cercle d'Ivoire 
+
+*Ennemis*
+
+* 1 [Gladiateur](../STAT_BLOCKS/CLASS/Gladiateur.md)
+
+Les combats se font à mains nues.
+
+**Objectif** : Neutraliser le combattant
+
+**XP** : 1800
+
+**Scope** : Niveau 7
+
+## Rencontre Batiment 11 - Combat en équipe au Cercle d'Ivoire 
+
+*Ennemis*
+
+* 1 [Gladiateur](../STAT_BLOCKS/CLASS/Gladiateur.md)
+* 2 [Capitaine Bandit](../STAT_BLOCKS/CLASS/CapitaineBandit.md)
+
+Les combats se font à mains nues.
+
+**Objectif** : Neutraliser les combattants
+
+**XP** : 2700
+
+**Scope** : Niveau 7
