@@ -6,4 +6,3 @@ Elle est chargée de gérer tout ce qui se rapporte à l'**agriculture** dans la
 
 ## Membres
 * [Daphne Petrakos](../DaphnePetrakos.md), cheffe de famille
-* [Apolina Petrakos](../ApolinaPetrakos.md), gérante des [Thermes du Diamant Bleu](../../../VILLES/Rovtal.md#les-thermes-du-diamant-bleu)

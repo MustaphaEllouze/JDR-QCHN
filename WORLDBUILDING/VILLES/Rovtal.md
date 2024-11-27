@@ -204,7 +204,7 @@ Les **Thermes du Diamant Bleu** sont un lieu de rencontres mondaines dans lesque
 
 La promesse des **Thermes** est de pouvoir requinquer n'importe quelle personne dès qu'elle se plonge à l'intérieur de l'eau. Le processus affiché est l'utilisation de **plantes médicinales**, notamment l'extraction de certains procédés actifs à travers l'emploi de magie.
 
-Les **Thermes** sont officiellement détenues par la [Famille Petrakos](../PERSONNAGES/ROVTAL/GROUPES/Famille_Petrakos.md), en la personne de [Apolina Petrakos](../PERSONNAGES/ROVTAL/ApolinaPetrakos.md).
+Les **Thermes** sont officiellement détenues par la [Famille Sfer](../PERSONNAGES/ROVTAL/GROUPES/Famille_Sfer.md), en la personne de [Apolina Sfer](../PERSONNAGES/ROVTAL/ApolinaSfer.md).
 
 En pratique ceci est réalisé en injectant dans l'eau des **Thermes** de l'éther récupéré sur d'autres êtres vivants, notamment des **êtres intelligents**, pris en otage dans l'arrière boutique.
 
