@@ -97,8 +97,8 @@ En pratique, c'est la [Loge des Douze](#la-loge-des-douze) qui en secret choisit
 
 Les deux seigneurs sont également en charge d'organiser toutes les institutions de la ville qui ne sont gérées par aucune guilde.
 
-### Seigneur Commercial - [Fubuki Araki](../PERSONNAGES/CAPROCH/FubukiAraki.md)
-![Seigneur Commercial](../../_images/fubuki_araki.png)
+### Seigneur Commercial - [Chul-Moo Kwon](../PERSONNAGES/CAPROCH/ChulMooKwon.md)
+![Seigneur Commercial](../../_images/chul_moo_kwon.png)
 
 ### Seigneur Guerrier
 ![Seigneur Guerrier](../../_images/seigneur_guerrier.png)

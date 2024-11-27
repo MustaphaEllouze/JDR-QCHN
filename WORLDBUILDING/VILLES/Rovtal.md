@@ -223,6 +223,8 @@ Les règles des combats sont laissés au choix de l'organisateur, mais la quasi-
 
 Le Cercle organise également l'épreuve du **Grand Chelem**, où il est possible de gagner des pièces d'or supplémentaires si un combattant décide de participer à toute une batterie de combats successivement (toujours à la discrétion de l'organisateur).
 
+Le **Cercle** est géré par la [famille Alexandros](../PERSONNAGES/ROVTAL/GROUPES/Famille_Alexandros.md), plus particulièrement par [Louisa Alexandros](../PERSONNAGES/ROVTAL/LouisaAlexandros.md).
+
 ## Les Sombres Artistes
 ![Culte](../../_images/red_portal.png)
 Les **Sombres Artistes** est une organisation qui se cache derrière le culte de [**Komorath**](../COSMOLOGIE/PLANS_ET_DIVINITES/Komorath.md), décrié mais pas secret. Elle se sert de la devanture du culte pour pouvoir agir sans être embêtée.

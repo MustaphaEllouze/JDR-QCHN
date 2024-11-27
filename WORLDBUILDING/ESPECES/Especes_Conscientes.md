@@ -63,8 +63,12 @@ Les **Camélonides** portent généralement des noms rappelant les sonorités d'
 ![Léonin](../../_images/white_leonin_noble_samurai.png)
 Les **Léonins** sont connus pour pour faire rouler les *R* **au fond de leurs gorges** en parlant ([exemple audio](https://en.wikipedia.org/wiki/Voiced_uvular_trill)). Il leur arrive de prononcer ce son tout seul dans le cas où ils sont mécontents. Ils détestent qu'on prenne ce son pour un *ronronnement*.
 
+Ils ont généralement des noms rappelant les sonorités **japonaises**.
+
 ### Tigryliens
 ![Tigrylien](../../_images/trigylien.png)
+
+Ils ont généralement des noms rappelant les sonorités **coréeennes**.
 
 ### Panthérans
 ![Panthéran](../../_images/barman.png)

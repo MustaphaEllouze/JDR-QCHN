@@ -11,7 +11,7 @@
 |Mod.|-2 |+2 |+1 |+0 |+0 |+0 |
 
 * **Compétences** : Discrétion +5, Perception +2
-* **Immunité contre les dégâts** de froid
+* **Immunité contre les dégâts** nécrotique
 * **Sens** : vision dans le noir 18 m, Perception passive 13
 * **Langue** : -
 * **Facteur de puissance** 1/2 (100 PX)
@@ -44,6 +44,5 @@
 * Casting Time: 1 action
 * Range: 60 feet
 * Components: V, S
- *Duration: Concentration, up to 1 minute
 
 You can open a temporary portal between two darkened areas, allowing you to move from one such area to another without crossing the intervening space. If you start your turn in an area of dim light or darkness, you can open a portal to another area of dim light or darkness within range and transport yourself to that spot. Doing this uses up your movement for the turn, regardless of the distance traveled. You can use shadow step while prone. Moving in this manner does not draw opportunity attacks.
