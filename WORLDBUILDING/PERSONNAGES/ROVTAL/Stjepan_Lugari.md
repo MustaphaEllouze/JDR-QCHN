@@ -1,4 +1,4 @@
-# Stjepan Lugari
+# Stjepan Lugari - Ethérologue
 ![Stjepan](../../../_images/scientific.png)
 
 ## Infos 

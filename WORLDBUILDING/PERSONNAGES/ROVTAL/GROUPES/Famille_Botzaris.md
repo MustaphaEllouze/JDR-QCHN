@@ -11,3 +11,4 @@ Elle est en conflit avec la famille [**Zografos**](./Famille_Zografos.md), chacu
 * [Valéria Botzaris](../../SOMBRES_ARTISTES/Valéria_Botzaris.md), pensée morte
 * [Vladimeros Botzaris](../VladimerosBotzaris.md)
 * [Androkles Botzaris](../AndroklesBotzaris.md), chef de famille
+* [Galitea Botzaris](../GaliteiaBotzaris.md)
