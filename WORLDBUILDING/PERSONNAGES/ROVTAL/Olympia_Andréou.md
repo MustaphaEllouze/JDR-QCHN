@@ -1,2 +1,2 @@
 # Olympia Andréou - Cheffe de famille
-![Olympias Andréou](../../../_images/olympias.png)
+![Olympias Andréou](../../../_images/olympiaAndreou.png)

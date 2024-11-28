@@ -136,6 +136,7 @@ Plusieurs **Ascenseurs** sont répartis tout autour de la ville, autour des prin
 
 ![Ascenseur](../../_images/ascenseur3.png)
 ![Ascenseur](../../_images/ascenseur4.png)
+![Ascenseur](../../_images/ascenseur5.png)
 
 Les **Ascenseurs** se présentent sous la forme de disques géants, pouvant supporter jusqu'à une vingtaine de personnes en même temps, qui se meuvent le long d'un corridor vertical pendant quelques minutes. La chute dans ce trou béant est mortelle.
 
@@ -176,6 +177,9 @@ Le sous-sol abrite également la crypte familiale, où sont notamment enterrés 
 ![Maison Sfer](../../_images/sferhouse3.png)
 
 Les **cristaux** dans cette salle sont nombreux et disposés au travers de toute la salle. Ils servent à contrôler l'ambiance lumineuse et sonore de la salle lors des fêtes. 
+
+#### Terrasse du Manoir Sfer
+![Terasse Sfer](../../_images/terrasse_maison_sfer.png)
 
 #### Crypte du Manoir Sfer
 ![Crypte Sfer](../../_images/crypte_Sfer.png)
@@ -265,9 +269,10 @@ La plupart des membres de la police souhaitent être promus pour aller exercer a
 
 #### District de la Surface
 ![Rovtal](../../_images/rovtal_surface.png)
+![Rovtal](../../_images/district_surface.png)
 
 #### District des Tréfonds
-![Rovtal](../../_images/Rovtal23.png)
+![District Tréfonds](../../_images/district_tréfonds.png)
 
 ### Fortes inégalités entre les quartiers
 ![Inégalités](../../_images/lizard_inequality.png)
@@ -298,6 +303,7 @@ On note également une tension entre tous les cultes qui se pratiquent à **Rovt
 ![Rovtal](../../_images/Rovtal20.png)
 ![Rovtal](../../_images/Rovtal21.png)
 ![Rovtal](../../_images/Rovtal22.png)
+![Rovtal](../../_images/Rovtal23.png)
 ### Lieux spéciaux
 ![Rovtal](../../_images/Rovtal10.png)
 ![Rovtal](../../_images/Rovtal26.png)

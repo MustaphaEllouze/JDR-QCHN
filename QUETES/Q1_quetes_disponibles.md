@@ -58,6 +58,19 @@ Plusieurs combats sont organisés au Cercle, et il est possible d'y prendre part
 Le Cercle organise également l'épreuve du **Grand Chelem**, où il est possible de gagner **1.500 P.O.**  supplémentaire si les quatre combats ci-dessus sont menés successivement.
 
 ### Mission : Visiter le Port de la Faille
+Le **Port de la Faille** est parmi les constructions les plus au Nord des **Tréfonds**. Il constitue sans doute l'un des seuls moyens qu'ont les Tréfonds de communiquer avec le monde extérieur, recevant par le Port les marchandises les plus exotiques à destination des nobles.
+
+Peu avant la soirée organisée par les [Etherios Sfer](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), plusieurs invités sont attendus et arrivent via le **Port**. Parmi eux, on compte des officiels venant de d'autres villes, notamment de [**Caproch**](../WORLDBUILDING/VILLES/Caproch.md). Le **Seigneur Commercial** de Caproch s'est déplacé, accompagné de certains gardes du corps ainsi que certains membres des [**Voiles Vagabondes**](../WORLDBUILDING/VILLES/Caproch.md#le-mystique-de-la-navigation---les-voiles-vagabondes), guilde des navigateurs
+
+* [Chul-Moo Kwon](../WORLDBUILDING/PERSONNAGES/CAPROCH/ChulMooKwon.md), Seigneur Commercial ;
+* [Sasori Zaitsu](../WORLDBUILDING/PERSONNAGES/CAPROCH/SasoriZaitsu.md), Garde du Corps ;
+* [Ryu Oku](../WORLDBUILDING/PERSONNAGES/CAPROCH/RyuOku.md), Garde du Corps ;
+* [Ren Minato](../WORLDBUILDING/PERSONNAGES/CAPROCH/RenMinato.md), Amiral ;
+* [Okiko Minato](../WORLDBUILDING/PERSONNAGES/CAPROCH/OkikoMinato.md), soeur de l'Amiral ;
+* [Hanami Fukazawa](../WORLDBUILDING/PERSONNAGES/CAPROCH/HanamiFukazawa.md), Seconde de l'Amiral.
+
+L'ensemble des **Caprochiens** sont relativement accessibles et parleront volontiers avec les habitants de la ville, notamment tous les membres non-officiels (par exemple **Okiko**). Ils sont rapidement accueillis par les officiels de la ville, notamment [Etherios Sfer](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), [Kroisos Alexandros](../WORLDBUILDING/PERSONNAGES/ROVTAL/Kroisos_Alexandros.md) et [Olympia Andreou](../WORLDBUILDING/PERSONNAGES/ROVTAL/Olympia_Andréou.md).
+
 ### Mission : Enquêter sur les enlèvements de la Surface
 
 ## Quête : Les Tensions entre Nobles
