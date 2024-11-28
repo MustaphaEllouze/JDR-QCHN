@@ -69,9 +69,35 @@ Peu avant la soirée organisée par les [Etherios Sfer](../WORLDBUILDING/PERSONN
 * [Okiko Minato](../WORLDBUILDING/PERSONNAGES/CAPROCH/OkikoMinato.md), soeur de l'Amiral ;
 * [Hanami Fukazawa](../WORLDBUILDING/PERSONNAGES/CAPROCH/HanamiFukazawa.md), Seconde de l'Amiral.
 
-L'ensemble des **Caprochiens** sont relativement accessibles et parleront volontiers avec les habitants de la ville, notamment tous les membres non-officiels (par exemple **Okiko**). Ils sont rapidement accueillis par les officiels de la ville, notamment [Etherios Sfer](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), [Kroisos Alexandros](../WORLDBUILDING/PERSONNAGES/ROVTAL/Kroisos_Alexandros.md) et [Olympia Andreou](../WORLDBUILDING/PERSONNAGES/ROVTAL/Olympia_Andréou.md).
+L'ensemble des **Caprochiens** sont relativement accessibles et parleront volontiers avec les habitants de la ville, notamment tous les membres non-officiels (par exemple **Okiko**) :
+
+* **Ren** : 
+    * Peut parler des disparitions progressives qui ont lieu en mer ;
+* **Okiko** : 
+    * Peut parler des disparitions ; 
+    * Peut trouver quelqu'un ([Maria Ufassa](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Maria_Ufassa.md), discrètement habillée) en train de parler de façon suspecte à la [Elena Kanakis](../WORLDBUILDING/PERSONNAGES/ROVTAL/ElenaKanakis.md), la contremaîtresse du port ;
+* **Sasori** / **Ryu** : 
+    * Peuvent reconnaître [Berto](../WORLDBUILDING/PERSONNAGES/Berto.md), qui a fricoté avec la femme de leur maître, [Kiba Kaburaki](../WORLDBUILDING/PERSONNAGES/CAPROCH/KibaKaburaki.md)
+
+Ils sont rapidement accueillis par les officiels de la ville, notamment [Etherios Sfer](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), [Kroisos Alexandros](../WORLDBUILDING/PERSONNAGES/ROVTAL/Kroisos_Alexandros.md) et [Olympia Andreou](../WORLDBUILDING/PERSONNAGES/ROVTAL/Olympia_Andréou.md).
+
+Près du **Port**, se trouve également [Galiteia Botzaris](../WORLDBUILDING/PERSONNAGES/ROVTAL/GaliteiaBotzaris.md), jeune noble qui s'est convertie au journalisme, et qui sert d'un des contacts de la **Gazette** de la ville aux Tréfonds. Elle enquête actuellement sur la contremaîtrsse du **Port**, [Elena Kanakis](../WORLDBUILDING/PERSONNAGES/ROVTAL/ElenaKanakis.md), qui aurait été vue en train de faire circuler des marchandises illégalement, traîner près du **Port** très tard, monter bizarrement accompagnée sur certaines embarquations : 
+* **Galiteia** propose une récompense afin d'obtenir des informations compromettantes sur **Elena** : 50 PO pour chaque information orale, 200 PO pour chaque indice tangible. 
+
+### Mission : Visiter les Thermes du Diamant Noir
 
 ### Mission : Enquêter sur les enlèvements de la Surface
+Détournement de prisonniers dans le port
+
+Journaliste
+
+Recherche des Sombres Artistes / Mains Noires : Thermes du Diamant Noir + 
+
+## Quête : Les Détournements au Port
+### Mission : Enquêter sur Elena, la contremaîtresse
+### Mission : Trouver la trace des prisonniers détournés
+### Mission : Défaire Elena et ses sbires
+### Mission : Décrypter le registre d'Elena
 
 ## Quête : Les Tensions entre Nobles
 ### Mission : Se renseigner sur la situation à Dvolsti
