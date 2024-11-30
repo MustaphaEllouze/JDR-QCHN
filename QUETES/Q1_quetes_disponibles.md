@@ -99,6 +99,44 @@ Recherche des Sombres Artistes / Mains Noires : Thermes du Diamant Noir +
 ### Mission : Défaire Elena et ses sbires
 ### Mission : Décrypter le registre d'Elena
 
+```
+Cercle IV | L.Alexandros | Crocodylien * 2
+
+Th. DB | Apo. S. | Cristal * 15
+
+Police | NXK | Saurienne
+
+Police | NXK | Humain homme
+
+Perso. | - | Varanide
+
+Th. | M? | Centaure (a prevoir)
+
+AQUILLON | Saurien * 3
+
+PARANGON | Centaure F. (bientot)
+```
+
+Chiffrement avec un décalage de 7
+
+```
+Jlyjsl PC | S.Hslehukyvz | Jyvjvkfsplu * 2
+
+Ao. KI | Hwv. Z. | Jypzahs * 15
+
+Wvspjl | UER | Zhbypluul
+
+Wvspjl | UER | Obthpu ovttl
+
+Wlyzv. | - | Chyhupkl
+
+Ao. | T? | Jluahbyl (h wylcvpy)
+
+HXBPSSVU | Zhbyplu * 3
+
+WHYHUNVU | Jluahbyl M. (ipluava)
+```
+
 ## Quête : Les Tensions entre Nobles
 ### Mission : Se renseigner sur la situation à Dvolsti
 Le jour de l'arrivée des **Aventuriers** à Rovtal, la nouvelle venant de [Dvolsti](../WORLDBUILDING/VILLES/Dvolsti.md) arrive à [Rovtal](../WORLDBUILDING/VILLES/Rovtal.md) : le tumulte qui a pris la ville fait que la **Consule** actuelle de **Dvolsti**, [Elèctre Alexandros](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md) ne peut plus assurer sa fonction :
