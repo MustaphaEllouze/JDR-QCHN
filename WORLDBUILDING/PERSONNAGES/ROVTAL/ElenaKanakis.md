@@ -23,6 +23,7 @@
 ## Événements marquants
 
 ## Combat
+* [Stats](../../../STAT_BLOCKS/CLASS/MaitreVoleur.md)
 
 ## Roleplay
 * Pauses sauriennes
