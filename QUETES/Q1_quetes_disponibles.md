@@ -86,18 +86,86 @@ Près du **Port**, se trouve également [Galiteia Botzaris](../WORLDBUILDING/PER
 
 ### Mission : Visiter les Thermes du Diamant Noir
 
-### Mission : Enquêter sur les enlèvements de la Surface
-Détournement de prisonniers dans le port
-
-Journaliste
-
-Recherche des Sombres Artistes / Mains Noires : Thermes du Diamant Noir + 
-
 ## Quête : Les Détournements au Port
 ### Mission : Enquêter sur Elena, la contremaîtresse
-### Mission : Trouver la trace des prisonniers détournés
-### Mission : Défaire Elena et ses sbires
+[Elena Kanakis](../WORLDBUILDING/PERSONNAGES/ROVTAL/ElenaKanakis.md) est la contre-maîtresse du Port de la Faille, par laquelle tout passe, marchandises comme accueille des bâteaux locaux ou étrangers.
+
+De ce fait, **Elena** est grassement payée par plusieurs personnes voulant faire
+passer des marchandises illégales, ou pour camoufler les allées et venues de quelqu'un de particulier.
+
+Depuis longtemps, **Elena** est en contact avec [Les Sombres Artistes](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes) afin de fournir les **Mains Noires** en personnes dont elles pourraient se nourrir, mais cette demande a toujours été très raisonnable, **Elena** se servait parmi les prisonniers qui arrivaient de d'autres villes, sans que cela n'éveille de soupçons puisque [Nyx Kwestyion](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Nyx_Kwestyon.md) est à la fois le chef de la Police et Main Noire.
+
+Récemment, les **Mains Noires** ont fait jouer leurs contacts en ville et à l'extérieur afin de pouvoir récupérer de plus en plus d'otages depuis le port. Le prix par otage varie en fonction de sa nature, mais tourne autour de **500 P.O.** par personne.
+
+Le contact d'**Elena** est [Maria Ufassa](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Maria_Ufassa.md), l'un des premières **Main Noire**. 
+
+**Elena** gère toutes ses affaires dans un des **Hangars** du Port. Son **Hangar** principal s'organise comme suit :
+
+* RDC :
+    * **Grande pièce** centrale qui sert à l'entreposage d'objets destinés aux riches (vins, jouets pour enfants, habits, cristaux, etc.) ; 
+        * Il y a plusieurs personnes qui y travaillent *pour de vrai*, et qui ne sont que vaguement au courant des manigances.
+    * Au fond de l'Hangar, sur deux étages : **salle des vins** ;
+        * Du vin est entreposé dans de grands barils côté hangar. La partie supérieure est **communicante** avec le bureau d'**Elena**
+    * **Salle des gardes** ;
+        Toujours au moins deux [gardes](../STAT_BLOCKS/CLASS/Chevalier.md) pour surveiller ;
+    * **Porte** donnant sur un hangar voisins, destinés à la nourriture, déverrouillée
+    * De l'autre côté, **porte cachée derrière des caisses**, donnant au sous-sol.
+        * Les caisses sont **inamovibles** ; à moins de relâcher le sort qui les maintient depuis le bureau d'**Elena**. 
+* Extérieur :
+    * Le long du quai, il y a un ruelle qui permet d'accéder à une zone pas loin de la porte cachée du RDC (toujours à l'extérieur).
+    * Au-dessus de ce passage, il y a un **cercle de téléportation** qui permet de se téléporter au couloir du -1.
+* Etage 1:
+    * **Bureau officiel d'Elena**, au-dessus de la salle des gardes ;
+        * Il contient d'anciennes tentatives pour tenter de crypter des phrases (afin de donner un indice pour le **registre crypté**, voir [ici](#mission--décrypter-le-registre-delena)), ainsi que des tentatives infructueuses d'utiliser de l'**encre maligne**.
+        * **Registres** pas chiffrés contenant les allées et venues *légales* des marchandises ;
+        * Passage pour accéder au milieu des tonneaux de vins, et qui permet de descendre au **Etage -1** : 4 tonneaux contiennent des pièges (lancent **Boule de Feu** centré sur eux-même), 1 tonneau contient un levier qui téléporte au -1 une fois saisi.
+* Etage -1 :
+    * **Hangar caché**, avec des marchandises illégales (plantes interdites, animaux exotiques, cristaux, armes, etc.) ;
+        * Dont la porte principale est protégée par **Alarme** silencieuse qui résonne dans la tête d'**Elena**, à moins d'avoir un cristal qui permette d'*annuler* l'**Alarme** le temps du passage de la personne.
+    * **Salle de garde** ;
+    * **Prison** et **Planque** qui permet de stocker les objets et personnes réservés jusqu'à leur livraison.
+        * Le **registre crypté**, voir [ici](#mission--décrypter-le-registre-delena)
+        * Cette pièce contient une enfant **Centaure** et un **Varanide** qui attendent d'être collectés par les **Mains Noires**.
+    * Une salle sur le côté permettant aux invités de se poser, de *tester* la marchandise, etc.
+
+Une fois entrés dans dans le hangar et l'**Alarme** déclenchée (ou assez de rafut fait), **Elena** se presse pour voir ce qu'il se passe.
+
+En voyant des intrus, elle ne voit rapidement d'autre choix que de combattre pour les éliminer : [Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-12---elena-dans-son-hangar)
+
 ### Mission : Décrypter le registre d'Elena
+
+**Elena** possède un registre crypté qu'elle entrepose dans sa planque au sous-sol.
+
+Le registre contient plusieurs informations sur les personnes et objets qu'**Elena** fait transiter pour ses clients. Le registre est protégé de plusieurs façons :
+
+* Elle **déchire** les pages petit à petit pour être sure que même entre de mauvaises main, il ne contienne pas trop d'informations ;
+* Elle écrit tout avec une **encre invisible** qui ne se dévoile qu'avec de la chaleur ;
+* Elle **chiffre** l'ensemble de ses messages. 
+
+La plupart des informations ne sont pas utilisables, mais quelqu'un lisant le **Registre** pourrait comprendre (avec un Jet d'Intelligence **DC13**) que les lignes suivantes sont les plus importantes.
+
+
+*Chiffrement avec un décalage de 7*
+
+```
+Jlyjsl PC | S.Hslehukyvz | Jyvjvkfsplu * 2
+
+Ao. KI | Hwv. Z. | Jypzahs * 15
+
+Wvspjl | UER | Zhbypluul
+
+Wvspjl | UER | Obthpu ovttl
+
+Wlyzv. | - | Chyhupkl
+
+Ao. | T? | Jluahbyl (h wylcvpy)
+
+HXBPSSVU | Zhbyplu * 3
+
+WHYHUNVU | Jluahbyl M. (ipluava)
+```
+
+*Solution* :
 
 ```
 Cercle IV | L.Alexandros | Crocodylien * 2
@@ -117,25 +185,12 @@ AQUILLON | Saurien * 3
 PARANGON | Centaure F. (bientot)
 ```
 
-Chiffrement avec un décalage de 7
-
-```
-Jlyjsl PC | S.Hslehukyvz | Jyvjvkfsplu * 2
-
-Ao. KI | Hwv. Z. | Jypzahs * 15
-
-Wvspjl | UER | Zhbypluul
-
-Wvspjl | UER | Obthpu ovttl
-
-Wlyzv. | - | Chyhupkl
-
-Ao. | T? | Jluahbyl (h wylcvpy)
-
-HXBPSSVU | Zhbyplu * 3
-
-WHYHUNVU | Jluahbyl M. (ipluava)
-```
+Parmi ces informations, on retrouve surtout :
+* Apo. S. = [Apolina Sfer](../WORLDBUILDING/PERSONNAGES/ROVTAL/ApolinaSfer.md) ;
+* NXK = [Nyx Kwestyion](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Nyx_Kwestyon.md)
+* M = [Maria Ufassa](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Maria_Ufassa.md) ;
+* Th. / Th. DB = Thermes du Diamant Bleu
+* Aquillon / Parangon = Des bâteaux quelconque.
 
 ## Quête : Les Tensions entre Nobles
 ### Mission : Se renseigner sur la situation à Dvolsti

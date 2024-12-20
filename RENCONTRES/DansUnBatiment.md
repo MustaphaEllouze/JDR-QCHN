@@ -145,13 +145,32 @@ Les combats se font à mains nues.
 
 *Ennemis*
 
-* 1 [Gladiateur](../STAT_BLOCKS/CLASS/Gladiateur.md)
-* 2 [Capitaine Bandit](../STAT_BLOCKS/CLASS/CapitaineBandit.md)
+![Platipoide](../_images/platipoide.png)
+
+* 1 [Gladiateur](../STAT_BLOCKS/CLASS/Gladiateur.md) **Platipoide**, qui inflige la condition **Empoisonné** sur un JdS CON de DC15
+* 2 [Malfrat](../STAT_BLOCKS/CLASS/Malfrat.md)
 
 Les combats se font à mains nues.
 
 **Objectif** : Neutraliser les combattants
 
 **XP** : 2700
+
+**Scope** : Niveau 7
+
+## Rencontre Batiment 12 - Elena dans son Hangar 
+
+*Ennemis*
+
+* 1 [Maîtresse Voleur](../STAT_BLOCKS/CLASS/MaitreVoleur.md)
+* 1 [Elémentaire Corporel de Lumière](../STAT_BLOCKS/ELEMENTAIRES/ElementaireCorporelDeLumiere.md)
+* 1 [Elémentaire Corporel d'Ombre](../STAT_BLOCKS/ELEMENTAIRES/ElementaireCorporelDOmbre.md)
+* 2 [Fanatique de secte](../STAT_BLOCKS/CLASS/FanatiqueDeSecte.md)
+* 2 parmi [Elementaire volant de Lumière](../STAT_BLOCKS/ELEMENTAIRES/ElementaireVolantDeLumiere.md) et [Elémentaire volant d'Ombre](../STAT_BLOCKS/ELEMENTAIRES/ElementaireVolantDOmbre.md)
+* 1 [Chevalier](../STAT_BLOCKS/CLASS/Chevalier.md) (gardes)
+
+**Objectif** : Tuer les élémentaires, et faire fuir les autres.
+
+**XP** : 4200 (si tous tués)
 
 **Scope** : Niveau 7
