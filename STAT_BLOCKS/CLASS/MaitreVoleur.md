@@ -22,7 +22,7 @@
 * OU si la cible est à moins de 1.5m d'un allié du voleur et que le voleur n'est pas désavantagé. 
 
 #### > Actions
-*Attaques multiples* : Le malfrat effectue trois attaques au corps à corps ou une attaque à distance.
+*Attaques multiples* : Le maitre voleur effectue trois attaques au corps à corps ou une attaque à distance.
 
 *Arbalète* : 
 * Attaque d'arme à distance

@@ -35,7 +35,7 @@
     * +6 pour toucher
     * 9 m 
     * Une cible
-    * *Touché* : 2d8+4 dégâts radiants
+    * *Touché* : 2d6+4 dégâts radiants
 
 *Orbe lumineuse* - 2 fois / j
 * L'élémentaire crée une zone de lumières magiques à une portée de 6 mètres. Les créatures commençant leur tour à 3 mètres de la zone doivent faire un jet de Constitution **DD 13**. En cas d'échec, elles sont désavantagées sur leurs jets d'attaque tant qu'elles restent à 3 mètres ou moins de la zone.
