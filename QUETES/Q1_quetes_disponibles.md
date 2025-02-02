@@ -120,17 +120,10 @@ Le contact d'**Elena** est [Maria Ufassa](../WORLDBUILDING/PERSONNAGES/SOMBRES_A
         * **Registres** pas chiffrés contenant les allées et venues *légales* des marchandises ;
         * Passage pour accéder au milieu des tonneaux de vins, et qui permet de descendre au **Etage -1** : 4 tonneaux contiennent des pièges (lancent **Boule de Feu** centré sur eux-même), 1 tonneau contient un levier qui téléporte au -1 une fois saisi.
 * Etage -1 :
-    * **Hangar caché**, avec des marchandises illégales (plantes interdites, animaux exotiques, cristaux, armes, etc.) ;
-        * Dont la porte principale est protégée par **Alarme** silencieuse qui résonne dans la tête d'**Elena**, à moins d'avoir un cristal qui permette d'*annuler* l'**Alarme** le temps du passage de la personne.
-    * **Salle de garde** ;
-    * **Prison** et **Planque** qui permet de stocker les objets et personnes réservés jusqu'à leur livraison.
-        * Le **registre crypté**, voir [ici](#mission--décrypter-le-registre-delena)
-        * Cette pièce contient une enfant **Centaure** et un **Varanide** qui attendent d'être collectés par les **Mains Noires**.
-    * Une salle sur le côté permettant aux invités de se poser, de *tester* la marchandise, etc.
+    * Voir le donjon complet [ici](../RENCONTRES/DONJONS/EntrepôtDuPortDeRovtal.md)  
 
-Une fois entrés dans dans le hangar et l'**Alarme** déclenchée (ou assez de rafut fait), **Elena** se presse pour voir ce qu'il se passe.
+* Le **registre crypté**, voir [ici](#mission--décrypter-le-registre-delena)
 
-En voyant des intrus, elle ne voit rapidement d'autre choix que de combattre pour les éliminer : [Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-12---elena-dans-son-hangar)
 
 ### Mission : Décrypter le registre d'Elena
 
