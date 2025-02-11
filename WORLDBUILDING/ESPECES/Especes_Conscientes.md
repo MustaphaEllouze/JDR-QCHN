@@ -29,16 +29,6 @@
 |               |Ratussien|1m50|55 kg|40 ans|
 | Centaure      |---|2m10|500 kg|120 ans|
 
-## Humains
-![Humain](../../_images/human_farmer.png)
-
-## Elfes
-### Elfes des bois
-![Elfe des bois](../../_images/carpenter_elf.png)
-
-## Minotaures
-![Minotaure des plaines](../../_images/minotaur_thief.png)
-
 ## Rongeoïde
 ### Surissien
 ![Surissien](../../_images/surissien.png)
