@@ -11,7 +11,7 @@
 [**Rovtal**](../../VILLES/Rovtal.md)
 
 ## Filiations
-* 
+* [Kroisos Alexandros](./Kroisos_Alexandros.md), frère
 
 ## Groupes 
 * [Famille Alexandros](./GROUPES/Famille_Alexandros.md)

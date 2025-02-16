@@ -633,3 +633,60 @@ L'intérieur de la maison est organisé en deux étages (une mezzanine), les **S
 A la confrontation des **Sombres Artistes**, qui savent qui sont les **Aventuriers**, ils attaquent à vue, [Nikas](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/NikasPourokos.md) étant du côté des **Aventuriers**. ([Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-7---la-maison-mezzanine)). Les **Sombres Artistes** appellent directement [Lazaros Alexandros](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Lazaros_Alexandros.md) pour les aider.
 
 A la fin de la rencontre, après l'éventuel libération des otages, [Lazaros Alexandros](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Lazaros_Alexandros.md) arrive et se bat contre les **Aventuriers**. Il les laisse partir pour les *remercier* d'avoir fourni aux **Mains Noires** le livre d'[Arkolapoulos](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) servant à l'extraction de la magie des êtres vivants. Par contre, il tue **Nikas** si encore vivant, et livre les otages s'ils ne sont pas déjà partis.
+
+## Quête : Les Tréfonds de Rovtal
+### Mission : Accéder aux Tréfonds
+Accéder aux **Tréfonds** de la ville de [Rovtal](../WORLDBUILDING/VILLES/Rovtal.md) n'est pas une mince affaire, puisque leur accès est généralement réservé aux nobles et aux membres des familles prestigieuses.
+
+Il y a plusieurs accès possibles pour parvenir aux **Tréfonds** : 
+* *Ascenseurs* : Passer par les ascenseurs la ville demande requiert une autorisation officielle ou une invitation de la part d'un Noble ; généralement les seules personnes pouvant donner une telle autorisation à la **Surface** sont les membres hauts placés de la Police ; 
+* *Port de la Faille* : Il est possible de passer par le Port, malgré le fait que toutes les entrées soient contrôlées ; le plus facile étant sûrement de se cacher sur un bâteau de marchandises venant de la mer ;
+* *Passage secret du temple de **Komorath*** : Le teple de **Komorath** à la **Surface** comporte un passage secret qui débouche sur un des flancs de la faille. Du matériel d'escalade ou tout autre moyen d'y parvenir suffisent.
+
+Une fois dans les **Tréfonds**, des contrôles peuvent être faits afin de vérifier la légitimité de la présence d'une personne, généralement en lui demandant des documents d'identification et une autorisation à séjourner dans les **Tréfonds**.
+
+### Mission : Visiter le Cercle d'Ivoire
+[Ektor Kolokotronis](../WORLDBUILDING/PERSONNAGES/ROVTAL/EktorKolokotronis.md) est le recruteur du [Cercle d'Ivoire](../WORLDBUILDING/VILLES/Rovtal.md#le-cercle-divoire---club-de-combat-mondain), un club de combat et bar mondain qui accueille les **nobles** qui veulent se détendre en regardant des combats à mains nues organisés au centre de la salle centrale. 
+
+**Ektor** est en charge d'identifier les potentiels combattants des **Cercle d'Ivoire**, et va notamment piocher dans les prisonniers de la **Surface**, ayant réussi à obtenir une dérogation pour le **Cercle** afin de réduire la peine des victorieux.
+
+**Ektor** réside dans les **Tréfonds** et est en contact régulier avec la **Surface** afin de se faire *livrer* des nouveaux prisonniers. Il attend souvent en bas d'un des [Ascenseurs vers les Tréfonds](../WORLDBUILDING/VILLES/Rovtal.md#ascenseurs-vers-les-tréfonds) afin de réceptionner les nouveaux combattants. 
+
+**Lors de la première descente** des Aventuriers vers les Tréfonds, il est possible de le rencontrer, attendant l'arrivée d'une de ses nouvelles recrues, et confondant les **Aventuriers** pour ces recrues. Un des prisonniers pourrait être par exemple [Edem Kurt](../WORLDBUILDING/PERSONNAGES/ROVTAL/EdemKurt.md).
+
+En échangeant avec lui, il est prêt à offrir une place pour venir combattre au Cercle : en tant que combattant non criminel, la paye s'élève à **5% de l'argent misé**.
+
+Plusieurs combats sont organisés au Cercle, et il est possible d'y prendre part.
+* Combat facile : [Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-8---combat-facile-au-cercle-divoire)
+* Combat intermédiaire : [Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-9---combat-intermédiaire-au-cercle-divoire)
+* Combat difficile : [Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-10---combat-difficile-au-cercle-divoire)
+* Combat en équipe : [Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-11---combat-en-équipe-au-cercle-divoire)
+
+Le Cercle organise également l'épreuve du **Grand Chelem**, où il est possible de gagner **1.500 P.O.**  supplémentaire si les quatre combats ci-dessus sont menés successivement.
+
+### Mission : Visiter le Port de la Faille
+Le **Port de la Faille** est parmi les constructions les plus au Nord des **Tréfonds**. Il constitue sans doute l'un des seuls moyens qu'ont les Tréfonds de communiquer avec le monde extérieur, recevant par le Port les marchandises les plus exotiques à destination des nobles.
+
+Peu avant la soirée organisée par les [Etherios Sfer](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), plusieurs invités sont attendus et arrivent via le **Port**. Parmi eux, on compte des officiels venant de d'autres villes, notamment de [**Caproch**](../WORLDBUILDING/VILLES/Caproch.md). Le **Seigneur Commercial** de Caproch s'est déplacé, accompagné de certains gardes du corps ainsi que certains membres des [**Voiles Vagabondes**](../WORLDBUILDING/VILLES/Caproch.md#le-mystique-de-la-navigation---les-voiles-vagabondes), guilde des navigateurs
+
+* [Chul-Moo Kwon](../WORLDBUILDING/PERSONNAGES/CAPROCH/ChulMooKwon.md), Seigneur Commercial ;
+* [Sasori Zaitsu](../WORLDBUILDING/PERSONNAGES/CAPROCH/SasoriZaitsu.md), Garde du Corps ;
+* [Ryu Oku](../WORLDBUILDING/PERSONNAGES/CAPROCH/RyuOku.md), Garde du Corps ;
+* [Ren Minato](../WORLDBUILDING/PERSONNAGES/CAPROCH/RenMinato.md), Amiral ;
+* [Okiko Minato](../WORLDBUILDING/PERSONNAGES/CAPROCH/OkikoMinato.md), soeur de l'Amiral ;
+* [Hanami Fukazawa](../WORLDBUILDING/PERSONNAGES/CAPROCH/HanamiFukazawa.md), Seconde de l'Amiral.
+
+L'ensemble des **Caprochiens** sont relativement accessibles et parleront volontiers avec les habitants de la ville, notamment tous les membres non-officiels (par exemple **Okiko**) :
+
+* **Ren** : 
+    * Peut parler des disparitions progressives qui ont lieu en mer ;
+* **Okiko** : 
+    * Peut parler des disparitions ; 
+    * Peut trouver quelqu'un ([Maria Ufassa](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Maria_Ufassa.md), discrètement habillée) en train de parler de façon suspecte à la [Elena Kanakis](../WORLDBUILDING/PERSONNAGES/ROVTAL/ElenaKanakis.md), la contremaîtresse du port ;
+* **Sasori** / **Ryu** : 
+    * Peuvent reconnaître [Berto](../WORLDBUILDING/PERSONNAGES/Berto.md), qui a fricoté avec la femme de leur maître, [Kiba Kaburaki](../WORLDBUILDING/PERSONNAGES/CAPROCH/KibaKaburaki.md)
+
+Ils sont rapidement accueillis par les officiels de la ville, notamment [Etherios Sfer](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), [Kroisos Alexandros](../WORLDBUILDING/PERSONNAGES/ROVTAL/Kroisos_Alexandros.md) et [Olympia Andreou](../WORLDBUILDING/PERSONNAGES/ROVTAL/Olympia_Andréou.md).
+
+Près du **Port**, se trouve également [Galiteia Botzaris](../WORLDBUILDING/PERSONNAGES/ROVTAL/GaliteiaBotzaris.md), jeune noble qui s'est convertie au journalisme, et qui sert d'un des contacts de la **Gazette** de la ville aux Tréfonds. Elle enquête actuellement sur la contremaîtrsse du **Port**, [Elena Kanakis](../WORLDBUILDING/PERSONNAGES/ROVTAL/ElenaKanakis.md), qui aurait été vue en train de faire circuler des marchandises illégalement, traîner près du **Port** très tard, monter bizarrement accompagnée sur certaines embarquations : 
+* **Galiteia** propose une récompense afin d'obtenir des informations compromettantes sur **Elena** : 50 PO pour chaque information orale, 200 PO pour chaque indice tangible. 

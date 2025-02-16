@@ -1,4 +1,4 @@
-# Elena Kanakis - Contremaîtresse du Port de la Faille
+# :skull: :skull: :skull: Elena Kanakis - Contremaîtresse du Port de la Faille :skull: :skull: :skull:
 ![Elena Kanakis](../../../_images/ElenaKanakis.png)
 
 ## Infos 
@@ -21,6 +21,7 @@
 * Elle est notamment payée par les [Sombres Artistes](../../VILLES/Rovtal.md#les-sombres-artistes) afin de garder certains prisonniers venant des villes voisines dans le Port qui sont en transit, pour les livrer après.
 
 ## Événements marquants
+* **5 Dhens 432** : Assassinée dans son entrepôt par les Aventuriers.
 
 ## Combat
 * [Stats](../../../STAT_BLOCKS/CLASS/MaitreVoleur.md)

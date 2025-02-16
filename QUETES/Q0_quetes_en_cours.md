@@ -26,6 +26,22 @@ Nous avons fait la rencontre de [Lazaros Alexandros](../WORLDBUILDING/PERSONNAGE
 
 ![Marque des Ombres](../_images/sombraur_tatoo.png)
 
+## Quête : Les Détournements au Port
+
+### Mission : Enquêter sur Elena, la contremaîtresse
+
+Nous avons été engagés par une journaliste, [Galiteia Botzaris](../WORLDBUILDING/PERSONNAGES/ROVTAL/GaliteiaBotzaris.md), afin d'enquêter sur la contremaîtresse du [Port de la Faille](../WORLDBUILDING/VILLES/Rovtal.md#port-de-la-faille), [Elena Kanakis](../WORLDBUILDING/PERSONNAGES/ROVTAL/ElenaKanakis.md). Selon elle, **Elena** serait mêlée à certaines activités illégales, et elle nous offre une récompense pour chaque information suppémentaire ou preuve que nous pouvons lui rapporter.
+
+> Nous devons fouiller le reste de l'entrepôt pour essayer de découvrir des indices et preuves à fournir à **Galiteia**.
+
+Nous nous sommes introduits dans l'entrepôt en nous faisant passer pour des gardes qui devaient mener une vérification de routine. Nous avons réussi à trouver une entrée secrète en faisant le tour de l'entrepôt.
+
+Nous nous sommes introduits dans un sous-sol secret. Nous avons dû éliminés certains gardes qui ralentissaient notre progression. 
+
+De toute évidence, certains gardes étaient en cours de négociation avec certains membres des [Sombres Artistes](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes).
+
+Nous avons trouvé **Elena** au dernier sous-sol, et elle a invoqué des élémentaires afin de ralentir notre progression. Durant notre combat, nous avons libéré deux prisonniers, dont une jeune centaure nommée [Laura](../WORLDBUILDING/PERSONNAGES/CENTAURES/LauraTolerentiaTrifolium.md).
+
 ## Quête : Les Tensions entre Nobles
 ### Mission : Se renseigner sur la situation à Dvolsti
 
@@ -40,7 +56,7 @@ Le journal parle également de rumeurs de réssurection des [Enfants de la Rue](
 ### Mission : Assister au bal de la famille Sfer
 Nous avons été invités par [Etherios Sfer](../WORLDBUILDING/PERSONNAGES/...) à une fête organisée dans le [manoir Sfer](../WORLDBUILDING/VILLES/Rovtal.md#maison-de-la-famille-sfer), en l'honneur de la nomination d'[Emiliano Sfer](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md) en tant que Consul de [Dvolsti](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md).
 
-> Il reste encore deux jours avant le bal.
+> Le bal aura lieu demain.
 
 Nous avons appris que certains membres de la haute sphère de [Caproch](../WORLDBUILDING/VILLES/Caproch.md) seraient présents.
 

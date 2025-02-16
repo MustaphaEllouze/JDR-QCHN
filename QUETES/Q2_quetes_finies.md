@@ -654,3 +654,37 @@ Après avoir enquêté sur l'affaire de l'enlèvement de **Iakob Smaras**, [Grif
 Nous avons entendu parlé des [Sombres Artistes](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes) et des **Mains Noires** de la part des prêtres de **Komorath** qui ont kidnappé **Iakob Samaras**. Il s'agit peut-être d'eux.
 
 Nous avons été confrontés à un certain [Lazaros Alexandros](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Lazaros_Alexandros.md), une **Main Noire**, qui nous a laissé aux portes de la mort plutôt que nous tuer, afin de nous "remercier de lui avoir fait parvenir les expériences d'**Arkolapoulos**". Aucun doute, l'ancien employeur des [Enfants de la Rue](../WORLDBUILDING/VILLES/Dvolsti.md#les-enfants-de-la-rue) sont bien les [Sombres Artistes](../WORLDBUILDING/VILLES/Rovtal.md#les-sombres-artistes).
+
+## Quête : Les Tréfonds de Rovtal
+### Mission : Accéder aux Tréfonds
+
+Plusieurs indices permettent de retracer certaines activités étranges jusqu'aux
+**Tréfonds** de la ville de [Rovtal](../WORLDBUILDING/VILLES/Rovtal.md).
+
+Nous avons réussi à convaincre [Markellos Héjj](../WORLDBUILDING/PERSONNAGES/ROVTAL/Markellos_Héjj.md), le chef de la police de la **Surface**, de nous fournir un laisser-passer afin de pouvoir nous rendre dans les **Tréfonds** de la ville.
+
+Nous avons usé de ce laisser-passer pour nous rendre dans les **Tréfonds**. Nous pouvons circuler librement pour le moment, et ce au moins jusqu'à la date de péremption de ce laisser-passer.
+
+### Mission : Visiter le Cercle d'Ivoire
+
+Une fois arrivés aux **Tréfonds** de la ville, nous avons fait la conaissance de [Ektor Koloktronis](../WORLDBUILDING/PERSONNAGES/ROVTAL/EktorKolokotronis.md), un employé du [Cercle d'Ivoire](../WORLDBUILDING/VILLES/Rovtal.md#le-cercle-divoire---club-de-combat-mondain), un bar de la ville et un club de combat mondain. Après une discussion où il nous a pris pour des prisonniers à la sortie d'un des **Ascenseurs** de la ville, il nous a orienté vers le club.
+
+En nous y renseignant, nous avons appris que plusieurs combats s'y organisaient, souvent entre prisonniers qui souhaitent réduire leurs peines contre un spectacle offert aux nobles des alentours.
+
+Nous avons décidé de participer à quelques combats, notamment à une épreuve spéciale qui consistait en l'enchaînement de trois combats singuliers et un combat contre une équipe de trois personnes : l'épreuve du **Grand Chelem**.
+
+Nous avons gagné cette épreuve, ce qui nous a permis de collecter plusieurs milliers de pièces d'or de récompense.
+
+Avant notre départ, nous avons profité pour faire la connaisance de deux membres de la famille [Alexandros](../WORLDBUILDING/PERSONNAGES/ROVTAL/GROUPES/Famille_Alexandros.md) : [Louisa Alexandros](../WORLDBUILDING/PERSONNAGES/ROVTAL/LouisaAlexandros.md), la tenante du **Cercle d'Ivoire**, et [Kroisos Alexandros](../WORLDBUILDING/PERSONNAGES/ROVTAL/Kroisos_Alexandros.md), frère de **Louisa** et représentant officiel de la famille.
+
+### Mission : Visiter le Port de la Faille
+
+Un des lieux les plus actifs des **Tréfonds** est le [Port de la Faille](../WORLDBUILDING/VILLES/Rovtal.md#port-de-la-faille), l'une des rares portes ouvertes sur l'extérieur, et seul endroit où les travailleurs de la **Surface** ont le droit de se rendre.
+
+Nous nous y sommes rendus après avoir entendu plusieurs rumeurs dans la ville sur l'arrivée de plusieurs dignitaires de [Caproch](../WORLDBUILDING/VILLES/Caproch.md). Là-bas, nous nous sommes mêlés à la foule pour observer l'arrivée des envoyés de **Caproch**. 
+
+Nous avons appris que certains d'entre eux étaient très haut placés dans la hiérarchie de leur ville, notamment le [Seigneur Commercial Chul-Moo Kwon](../WORLDBUILDING/PERSONNAGES/CAPROCH/ChulMooKwon.md). Ils ont été accueillis par une délagation de **Rovtal**, dont [Etherios Sfer](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md), [Kroisos Alexandros](../WORLDBUILDING/PERSONNAGES/ROVTAL/Kroisos_Alexandros.md) et [Olympia Andréou](../WORLDBUILDING/PERSONNAGES/ROVTAL/Olympia_Andréou.md).
+
+Nous avons aperçus à travers la foule une paire de personne encapuchonnées discutant avec la contremaîtresse du Port [Elena Kanakis](../WORLDBUILDING/PERSONNAGES/ROVTAL/ElenaKanakis.md), dont au moins une figure léonine.
+
+Nous avons pris contact avec [Galiteia Botzaris](../WORLDBUILDING/PERSONNAGES/ROVTAL/GaliteiaBotzaris.md), journaliste de profession, qui nous a promis une récompense pour toute information sur les activités illégales que pourrait entretenir [Elena Kanakis](../WORLDBUILDING/PERSONNAGES/ROVTAL/ElenaKanakis.md) : **50 PO** pour toute information non fondée, et **200 PO** pour toute preuve matérielle ou tangible.
