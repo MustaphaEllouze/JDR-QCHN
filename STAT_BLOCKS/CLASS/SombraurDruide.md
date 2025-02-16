@@ -1,5 +1,5 @@
-# Sombraur / Fils-des-Ombres
-![Sombraur](../../_images/sombraur%20soif.png)
+# Sombraur / Fils-des-Ombres - Modèle Druide
+![Sombraur](../../_images/AnaximandrosAndreadis_3.png)
 
 * **Classe d'armure** : 17
 * **Points de vie** : 207
@@ -12,7 +12,7 @@
 
 * **Jets de Sauvegarde** : DEX+9, SAG+7, CHA+10
 * **Compétences** : Perception+7, Discrétion+9, Tromperie+10
-* **Résistances** : Necrotique, Froid, Foudre, Perforant, Tranchant, Contondant (non-magique)
+* **Résistances** : Necrotique, Froid, Foudre, Feu, Poison
 * **Vulnérabilités** : Radiant
 * **Sens** : Perception passive 17, Vision dans le noir à 40 m
 * **Facteur de puissance** 13 (10.000 PX)

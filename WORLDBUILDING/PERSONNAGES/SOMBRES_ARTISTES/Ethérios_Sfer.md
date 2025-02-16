@@ -38,7 +38,7 @@
 * **395** : Il devient acquiert son identité actuelle, **Etherios VIII**, chef de la famille Sfer.
 
 ## Combat
-* [Stats](../../../STAT_BLOCKS/CLASS/Sombraur.md)
+* [Stats](../../../STAT_BLOCKS/CLASS/SombraurGuerrier.md)
 
 ## Roleplay
 * Pauses sauriennes

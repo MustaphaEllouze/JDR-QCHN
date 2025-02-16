@@ -1,6 +1,6 @@
 # Lazaros Alexandros - Main Noire
 ![Lazaros Alexandros](../../../_images/lazaros3.png)
-![Lazaros Alexandros](../../../_images/lazaros.png)
+![Lazaros Alexandros](../../../_images/LazarosAlexandros_3.png)
 
 ## Infos 
 | Âge | Espèce | Occupation | Alignement | MBTI |
@@ -26,7 +26,7 @@
 * **338** : Vu ses nombreux services, il se fait transformer par [**Etherios**](./Ethérios_Sfer.md) en **Sombraur**.
 
 ## Combat
-* [Stats](../../../STAT_BLOCKS/CLASS/Sombraur.md)
+* [Stats](../../../STAT_BLOCKS/CLASS/SombraurGuerrier.md)
 
 ## Roleplay
 * Pauses sauriennes

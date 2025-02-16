@@ -1,11 +1,15 @@
 # Anaximandros Andreadis - Grand prêtre de Komorath
-![Anaximandros Andreadis](../../../_images/AnaximandrosAndreadis.png)
+| | |
+|-|-|
+|![Anaximandros Andreadis](../../../_images/AnaximandrosAndreadis.png)|![Anaximandros Andreadis](../../../_images/AnaximandrosAndreadis_2.png)|
+|![Anaximandros Andreadis](../../../_images/AnaximandrosAndreadis_3.png)||
+
 
 ## Infos 
 
 | Âge | Espèce | Occupation | Alignement | MBTI |
 | --- | ------ | ---------- | ---------- | ---- |
-| 35 ans | Saurien | Grande prêtre | Lawful Evil| ISTJ |
+| 35 ans | Saurien-Sombraur | Grande prêtre | Lawful Evil| ISTJ |
 
 ## Localisation actuelle
 [**Rovtal**](../../VILLES/Rovtal.md)
@@ -26,7 +30,8 @@
 
 ## Événements marquants
 * **429** : Contacté par [**Etherios Sfer**](./Ethérios_Sfer.md) pour venir servir les **Mains Noires**, il a commencé à vénérer **Komorath**, ce qui lui a valu son exil. 
-* **432** : Son lien avec les **Sombres Artistes** est découvert par les Aventuriers, et doit s'enfuir du [Temple de Komorath](../../VILLES/Rovtal.md#le-temple-de-komorath-surface)
+* **2 Dhens 432** : Son lien avec les **Sombres Artistes** est découvert par les Aventuriers, et doit s'enfuir du [Temple de Komorath](../../VILLES/Rovtal.md#le-temple-de-komorath-surface)
+* **3 Dhens 432** : Il est transformé en Sombraur afin de répondre à la menace des aventuriers au cas où.
 
 ## Combat
 S.O.

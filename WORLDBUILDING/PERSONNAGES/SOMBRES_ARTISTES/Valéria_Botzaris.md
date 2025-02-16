@@ -30,7 +30,7 @@
 * **421** : Devient la vice-cheffe de la [**guilde des ingénieurs**](../../VILLES/Rovtal.md#la-guilde-des-ingénieurs).
 
 ## Combat
-* [Stats](../../../STAT_BLOCKS/CLASS/Sombraur.md)
+* [Stats](../../../STAT_BLOCKS/CLASS/SombraurGuerrier.md)
 
 ## Roleplay
 * Pauses sauriennes
