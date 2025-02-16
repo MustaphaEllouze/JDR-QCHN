@@ -56,7 +56,7 @@ Le journal parle également de rumeurs de réssurection des [Enfants de la Rue](
 ### Mission : Assister au bal de la famille Sfer
 Nous avons été invités par [Etherios Sfer](../WORLDBUILDING/PERSONNAGES/...) à une fête organisée dans le [manoir Sfer](../WORLDBUILDING/VILLES/Rovtal.md#maison-de-la-famille-sfer), en l'honneur de la nomination d'[Emiliano Sfer](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md) en tant que Consul de [Dvolsti](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md).
 
-> Le bal aura lieu demain. 
+> Le bal aura lieu demain.
 
 Nous avons appris que certains membres de la haute sphère de [Caproch](../WORLDBUILDING/VILLES/Caproch.md) seraient présents.
 
