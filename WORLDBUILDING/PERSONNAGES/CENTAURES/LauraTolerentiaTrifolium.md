@@ -24,7 +24,7 @@
 * 
 
 ## Combat
-S.O.
+[Stats](../../../STAT_BLOCKS/PERSONNAGES/LauraTolentiaTrifolium.md)
 
 ## Roleplay
 * Joviale et déterminée
