@@ -39,7 +39,7 @@ Sorts:
 * *1/jour* - Domination de personne, Invisibilité suprême
 
 ### Résistance légendaire (3/jour)
-Si le Sombraur rate un jet de saubegarde, il peut choisir de le réussir à la place.
+Si le Sombraur rate un jet de sauvegarde, il peut choisir de le réussir à la place.
 
 ## Actions
 

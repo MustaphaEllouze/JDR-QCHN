@@ -34,7 +34,7 @@
 * **3 Dhens 432** : Il est transformé en Sombraur afin de répondre à la menace des aventuriers au cas où.
 
 ## Combat
-S.O.
+[Stats](../../../STAT_BLOCKS/CLASS/SombraurDruide.md)
 
 ## Roleplay
 * Pauses sauriennes

@@ -1,20 +1,20 @@
 # Sombraur / Fils-des-Ombres - Modèle Druide
 ![Sombraur](../../_images/AnaximandrosAndreadis_3.png)
 
-* **Classe d'armure** : 17
+* **Classe d'armure** : 15
 * **Points de vie** : 207
 * **Vitesse** : 15 m  
 
 |    |FOR|DEX|CON|INT|SAG|CHA|
 |----|---|---|---|---|---|---|
-|Stat|18 |18 |18 |16 |14 |20 |
-|Mod.|+4 |+4 |+4 |+3 |+2 |+5 |
+|Stat|18 |18 |18 |16 |20 |14 |
+|Mod.|+4 |+4 |+4 |+3 |+5 |+2 |
 
-* **Jets de Sauvegarde** : DEX+9, SAG+7, CHA+10
-* **Compétences** : Perception+7, Discrétion+9, Tromperie+10
+* **Jets de Sauvegarde** : DEX+9, SAG+10, CHA+7
+* **Compétences** : Perception+10, Discrétion+9, Tromperie+7
 * **Résistances** : Necrotique, Froid, Foudre, Feu, Poison
 * **Vulnérabilités** : Radiant
-* **Sens** : Perception passive 17, Vision dans le noir à 40 m
+* **Sens** : Perception passive 20, Vision dans le noir à 40 m
 * **Facteur de puissance** 13 (10.000 PX)
 
 ## Traits
@@ -29,30 +29,45 @@ Lorsque le Sombraur inflige des dégâts à une créature alors qu'il est à moi
 Une fois utilisé, ce trait ne peut pas être réutilisé jusqu'à ce que le Sombraur repasse sous la barre de la **moitié** de ses points de vie.
 
 ### Lanceur de sort inné
-Le Sombraur est un lanceur de sort inné, et sa caractéristique d'incantation est le Charisme.
+Le Sombraur est un lanceur de sort inné, et sa caractéristique d'incantation est la Sagesse.
 * DD des sorts 17 ;
 * Bonus à l'attaque : +9
 
 Sorts:
-* *A volonté* - Illusion mineure, Déguisement, Ténêbres, Pas de l'ombre
-* *3/jour* - Assassin imaginaire, Peur
-* *1/jour* - Domination de personne, Invisibilité suprême
+* *A volonté* - Illusion mineure, Déguisement, Ténêbres, Pas de l'ombre, Eldritch Blast (sous forme de ronces)
+* *3/jour* - Peur, Moon Beam, Croissance d'épines
+* *1/jour* - Domination de personne, Fléau d'insectes, Appel de la Foudre
 
 ### Résistance légendaire (3/jour)
-Si le Sombraur rate un jet de saubegarde, il peut choisir de le réussir à la place.
+Si le Sombraur rate un jet de sauvegarde, il peut choisir de le réussir à la place.
 
 ## Actions
 
+### Forme animale (5/jour)
+Le Sombraur se transforme en animal spectral. En fonction du type d'animal, il gagne plusieurs capacités supplémentaires.
+
+* **Grand animal** (ours, tigre, etc.)
+    * **40 PV** temporaires ;
+* **Animal volant** (chauve-souris, oiseau, etc.)
+    * **20 PV** temporaires ;
+    * Vitesse de vol de **15 m**
+    * Ne peut pas être la cible d'**attaque d'opportunité**
+* **Petit animal** (chien, chat, souris, etc.)
+    * **20 PV** temporaires ;
+    * Se cacher, se désengager, foncer en **action bonus**
+
 ### Attaques multiples
-Le Sombraur effectue deux attaques avec ses armes.
+Le Sombraur effectue deux attaques, uniquement sous **forme animale**, ou lance un sort.
 
-#### Epée à deux mains
-* Attaque de mêlée, 1.5m
-* 1 cible
-* +9 pour toucher
-* *Touche* - 2d6 + 4 tranchants + 1d8 nécrotiques
+* **Grand animal** :
+    * 1.5m, +9 pour toucher, 1d10 + 4 tranchants + 1d8 nécrotiques
+    * Cleave
+* **Animal volant** :
+    * 1.5m, +9 pour toucher, 1d6 + 4 tranchants + 1d8 nécrotiques
+* **Petit animal** :
+    * 1.5m, +9 pour toucher, 1d6 + 4 tranchants + 1d8 nécrotiques
 
-### Attaque illusoire (5/jour)
+### Attaque illusoire (3/jour)
 Le Sombraur crée un double des ombres dans à 1.5m de portée et attaque une créature avec **avantage**.
 
 La créature effectue un **jet de sauvegarde de Sagesse** DD 17.
@@ -72,14 +87,6 @@ Il est avantagé contre sur tous ses jets, et tous les jets faits contre lui son
 L'effet se **termine** s'il subit des dégâts, s'il inflige des dégâts, ou s'il lance un sort.
 
 Cet effet n'est utilisable que si le Sombraur a plus de la **moitié de ses points de vie**.
-
-## Réactions
-### Feinte de l'illusioniste (5/jour)
-Lorsqu'une créature réussit une **attaque** sur le Sombraur et qu'il se situe à moins de **3m** de la créature, il peut utiliser sa **réaction** pour créer une illusion de lui-même.
-
-La créature effectue un **jet de Sauvegarde de Sagesse** DD 17 et le Sombraur effectue une attaque. 
-* *Réussite* - L'attaque touche le Sombraur, et la créature subit la moitié des dégâts de l'attaque.
-* *Echec* - Le Sombraur se téléporte à un endroit situé à 6 mètres à portée d'une attaque de mêlée, et la créature subit tous les dégâts de l'attaque.
 
 ## Actions légendaires (3/round)
 
