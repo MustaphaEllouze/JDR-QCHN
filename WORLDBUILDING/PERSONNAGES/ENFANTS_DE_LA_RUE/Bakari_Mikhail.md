@@ -1,6 +1,7 @@
 # :skull::skull::skull: Bakari Mikhaïl - Chef de groupe :skull::skull::skull:
 
-![Bakari Mikhaïl](../../../_images/chefbandit_pantheran.webp)
+![Bakari Mikhaïl](../../../_images/BakariMikhail-1.png)
+![Bakari Mikhaïl](../../../_images/BakariMikhail-2.png)
 
 ## Infos 
 

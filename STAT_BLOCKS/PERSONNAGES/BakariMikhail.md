@@ -1,6 +1,7 @@
 # [Bakari Mikhaïl](../../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Mikhail.md)
 
-![Bakari Mikhaïl](../../_images/chefbandit_pantheran.webp)
+![Bakari Mikhaïl](../../_images/BakariMikhail-1.png)
+![Bakari Mikhaïl](../../_images/BakariMikhail-2.png)
 
 * **Classe d'armure** : 15
 * **Points de vie** : 65
@@ -18,7 +19,7 @@
 * **Facteur de puissance** 2 (450 PX)
 
 #### > Actions
-*Bond félin* : Bakari saute à une distance allant jusqu'à 3m en hauteur ou 6m à l'horizontale.
+*Bond félin* : Bakari saute à une distance allant jusqu'à 3m en hauteur ou 6m à l'horizontale (lors de son mouvement).
 
 *Attaques multiples* : Bakari effectue trois attaques au corps à corps : deux avec son cimeterre et une avec sa dague, ou il effectue deux attaques à distance avec ses dagues.
 

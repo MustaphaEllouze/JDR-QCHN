@@ -1,6 +1,7 @@
 # Therra Sfer - Envoyée de Rovtal
 
 ![Therra Sfer](../../../_images/envoyée.png)
+![Therra Sfer](../../../_images/TherraSfer.png)
 
 ## Infos 
 
@@ -19,10 +20,8 @@
 * [**Famille Sfer**](../ROVTAL/GROUPES/Famille_Sfer.md)
 
 ## Caractéristiques
-* Fille d'une [famille noble de Rovtal](../ROVTAL/GROUPES/Famille_Sfer.md),  elle aspire à mener une vie paisible à **Brumebourg** tout en redorant le blason familial grâce à sa bonne gestion du village.
-
+* Fille d'une [famille noble de Rovtal](../ROVTAL/GROUPES/Famille_Sfer.md),  elle aspire à mener une vie paisible à **Brumebourg**, en mettant la rigueur familiale en avant grâce à sa bonne gestion du village.
 * Elle voit **Rovtal** et les gens qui y vivent comme supérieurs aux habitants de **Brumebourg**, ce qui lui vaut de sortir quelques remarques racistes de temps en temps. 
-
 * Elle adore boire seule
 
 ## Événements marquants

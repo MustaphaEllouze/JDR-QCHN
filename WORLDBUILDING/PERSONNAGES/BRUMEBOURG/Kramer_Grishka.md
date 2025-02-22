@@ -1,5 +1,6 @@
 # Kramer Grishka - Barman
 ![Kramer Grishka](../../../_images/barman.png)
+![Kramer Grishka](../../../_images/kramer_2.png)
 
 ## Infos 
 

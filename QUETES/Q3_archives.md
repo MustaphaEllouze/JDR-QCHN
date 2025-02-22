@@ -17,7 +17,7 @@ La veille du festival, plusieurs visiteurs viennent de loin et souhaitent parler
 * Délégation officielle de Rovtal
 * Aventuriers de Dvolsti
 * Cuisiniers de Dvolsti
-* Les marchands d'épices de Rovstal
+* Les marchands d'épices de Rovtal
 * Artistes errants de Blanchécum
 * Nobles en vacances de Blanchécum
 * Le vieux mage du quartier nord de Dvolsti
@@ -65,14 +65,14 @@ L'envoyé fera en sorte que le Festival se passe bien par la suite, et préparer
 Durant les rondes de sécurité, certains fouineurs ont été capturés. Ils ont été emmenés en prison, où ils sont prêts à être interrogés par la garde et ceux montant la sécurité. 
 
 Parmi ces personnages capturés, on retrouve : 
-* [Grégaa Uut](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#grégwa-uut---membre), membre des **Enfants de la Rue**, qui doit surveiller les novices et qui a vu deux de ses novices tuer sous ses yeux par **Patrik**.
-    * Grégaa ne sait pas grand chose du plan des **Enfants de la Rue** à Brumebourg, il sait uniquement qu'il était en charge de canaliser certaines jeunes recrues le temps qu'elles mettent le bazar dans le village, afin qu'elles occupents les *forces de l'ordre*. 
+* [Grégwa Uut](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Grégwa_Uut.md), membre des **Enfants de la Rue**, qui doit surveiller les novices et qui a vu deux de ses novices tuer sous ses yeux par **Patrik**.
+    * Grégwa ne sait pas grand chose du plan des **Enfants de la Rue** à Brumebourg, il sait uniquement qu'il était en charge de canaliser certaines jeunes recrues le temps qu'elles mettent le bazar dans le village, afin qu'elles occupents les *forces de l'ordre*. 
     * Il sait que certains de ses supérieurs ont été occupés à élaborer un plan à propos de **Brumebourg**, donc il sait que quelque chose se trame sans qu'il le sache. 
     * Il a cru entendre qu'il y a supposément une distraction qui se prépare lors de la soirée où un *homme de paille sera brûlé*.
     * Il a cru entendre à un moment qu'un employeur a été en contact avec ses supérieurs, mais il n'a pas fait le lien avec le plan actuel.
-* [Fééli](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#fééli---novice), novice des **Enfants de la Rue**, qui s'est faite attrapée alors qu'elle n'avait pas visiblement commis de crime. Elle a cependant remis, sous la pression, une pièce d'or lorsque **Patrik** lui a demandé ce qu'elle a volé.
-    * Elle ne sait pas grand chose de ce qui se passe au-dessus d'elle. Grégaa était suposée la surveiller pendant qu'elle semait le trouble dans le village. 
-* [Minno](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#minno---novice), novice des **Enfants de la Rue**, qui s'est fait attrapé en même temps que **Fééli** mais qui n'a rien avoué.
+* [Fééli](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Fééli.md), novice des **Enfants de la Rue**, qui s'est faite attrapée alors qu'elle n'avait pas visiblement commis de crime. Elle a cependant remis, sous la pression, une pièce d'or lorsque **Patrik** lui a demandé ce qu'elle a volé.
+    * Elle ne sait pas grand chose de ce qui se passe au-dessus d'elle. Grégwa était suposé la surveiller pendant qu'elle semait le trouble dans le village. 
+* [Minno](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Minno.md), novice des **Enfants de la Rue**, qui s'est fait attrapé en même temps que **Fééli** mais qui n'a rien avoué.
     * Il ne sait pas grand chose de plus par rapport à **Fééli**.
     * Il a pu comprendre que quelque chose se tramait au sein de l'organisation (des employeurs assez spéciaux sont entrés en contact avec les **Enfants de la Rue**) mais il ne sait rien de plus.
 
@@ -85,7 +85,7 @@ Profitant de cet attroupement, certains membres des **Enfants de la Rue** en pro
 * Le groupe retournant au [**Chat en Boule**](../WORLDBUILDING/VILLES/Brumebourg.md#le-chat-en-boule---taverne) afin d'essayer de voler les quelques affaires qui y seraient ([Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-3---bande-plus-forte-de-bandits-fouineurs)). 
 * Le groupe se rendant du côté de la prison afin de libérer les éventuels prisonniers ([Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-4---opération-libérer-les-bandits-de-la-prison)).
 
-Pendant ce temps, un groupe plus grand de bandits se dirige vers l'hôtel de ville afin de saboter le stabilisateur de leyline. Le groupe est mené par [Bakari Mikhaïl](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#bakari-mikhaïl---chef-de-groupe), chef de la bande déployée à Dvolsti.
+Pendant ce temps, un groupe plus grand de bandits se dirige vers l'hôtel de ville afin de saboter le stabilisateur de leyline. Le groupe est mené par [Bakari Mikhaïl](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Mikhail.md), chef de la bande déployée à Dvolsti.
 
 ## Quête : Arrêter l'assaut des Enfants de la Rue
 
@@ -95,11 +95,11 @@ Pendant ce temps, un groupe plus grand de bandits se dirige vers l'hôtel de vil
 * Groupe cherchant à libérer les prisionnier ([Rencontre](../RENCONTRES/DansUnBatiment.md#rencontre-batiment-4---opération-libérer-les-bandits-de-la-prison))
 * Groupe cherchant à saboter le stabilisateur de leyline ([Rencontre](../RENCONTRES/BossFights.md#bakari-à-lassaut-du-stabilisateur-de-brumebourg))
 
-L'objectif véritable des **Enfants de la Rue** est le sabotage du stabilisateur. [Bakari](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#bakari-mikhaïl---chef-de-groupe) mène ce groupe-là et a envoyé les autres semer la pagaille dans le reste du village.
+L'objectif véritable des **Enfants de la Rue** est le sabotage du stabilisateur. [Bakari](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Mikhail.md) mène ce groupe-là et a envoyé les autres semer la pagaille dans le reste du village.
 
 ### Mission : Retrouver Bakari
 
-[**Bakari**](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#bakari-mikhaïl---chef-de-groupe) mène le groupe visant à détruire le stabilisateur. Il a réussi à localiser ce dernier grâce à l'aide de [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#griffes-rouges---cheffe-de-division) qui a fait le déplacement jusqu'à **Brumebourg** afin d'aider **Bakari** (ancienne dette dont elle veut s'acquitter). **Griffes-Rouges** n'a pas été mandatée pour réaliser l'assaut, se faisant elle partira très rapidement rejoindre **Dvolsti**.
+[**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Mikhail.md) mène le groupe visant à détruire le stabilisateur. Il a réussi à localiser ce dernier grâce à l'aide de [**Griffes-Rouges**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Griffes_Rouges.md) qui a fait le déplacement jusqu'à **Brumebourg** afin d'aider **Bakari** (ancienne dette dont elle veut s'acquitter). **Griffes-Rouges** n'a pas été mandatée pour réaliser l'assaut, se faisant elle partira très rapidement rejoindre **Dvolsti**.
 
 Pendant que ses hommes s'ocuppent de faire régner le désordre partout dans le village et à la [Célébration de Feu](../WORLDBUILDING/VILLES/Brumebourg.md#la-célébration-de-feu), **Bakari** en profite pour se préparer à prendre d'assaut l'hôtel de ville, bâtiment contenant le stabilisateur de leyline selon les informations de **Griffes-Rouges**.
 
@@ -107,13 +107,13 @@ Pendant que ses hommes s'ocuppent de faire régner le désordre partout dans le 
 
 ### Mission : Sauver Therra des mains de Bakari
 
-Après son infiltration dans l'hôtel de ville, [**Bakari**](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#bakari-mikhaïl---chef-de-groupe) prend soin de localiser le plus rapidement possible le stabilisateur au sein du bâtiment. La seule personne présente dans le bâtiment lors de la [Célébration de Feu](../WORLDBUILDING/VILLES/Brumebourg.md#la-célébration-de-feu) est [Therra](../WORLDBUILDING/PERSONNAGES/PNJ/Brumebourg.md#therra-sfer---envoyée-de-rovtal), qui est prise en otage par **Bakari** afin de localiser l'objet de sa mission.
+Après son infiltration dans l'hôtel de ville, [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Mikhail.md) prend soin de localiser le plus rapidement possible le stabilisateur au sein du bâtiment. La seule personne présente dans le bâtiment lors de la [Célébration de Feu](../WORLDBUILDING/VILLES/Brumebourg.md#la-célébration-de-feu) est [Therra](../WORLDBUILDING/PERSONNAGES/BRUMEBOURG/Therra_Sfer.md), qui est prise en otage par **Bakari** afin de localiser l'objet de sa mission.
 
 **Bakari** ayant reçu l'ordre de ne pas laisser de trace de sa mission secrète sait très bien qu'il doit tuer tout témoin qui le verrait en train de chercher le stabilisateur de leyline, dont **Therra**. Si elle veut s'en sortir, il lui faudra une aide extérieur.
 
 ### Mission : Empêcher que le stabilisateur ne soit détruit
 
-Une fois le stabilisateur de leyline localisé, [**Bakari**](../WORLDBUILDING/PERSONNAGES/PNJ/EnfantsDeLaRue.md#bakari-mikhaïl---chef-de-groupe) cherche en priorité à remplir sa mission : endommager sévèrement le stabilisateur de leyline ([Rencontre]()). 
+Une fois le stabilisateur de leyline localisé, [**Bakari**](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Bakari_Mikhail.md) cherche en priorité à remplir sa mission : endommager sévèrement le stabilisateur de leyline ([Rencontre]()). 
 
 En cas de mission accomplie, le village de **Brumebourg** ne pourra pas survivre longtemps car les leylines se remettront inévitablement à bouger, et le village se retrouvera en dehors de la portée du stabilisateur le plus proche.
 
