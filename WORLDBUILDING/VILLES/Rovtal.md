@@ -210,9 +210,7 @@ La promesse des **Thermes** est de pouvoir requinquer n'importe quelle personne 
 
 Les **Thermes** sont officiellement détenues par la [Famille Sfer](../PERSONNAGES/ROVTAL/GROUPES/Famille_Sfer.md), en la personne de [Apolina Sfer](../PERSONNAGES/ROVTAL/ApolinaSfer.md).
 
-En pratique ceci est réalisé en injectant dans l'eau des **Thermes** de l'éther récupéré sur d'autres êtres vivants, notamment des **êtres intelligents**, pris en otage dans l'arrière boutique.
-
-Les **Thermes** sont en réalité une devanture pour l'activité des [**Sombres Artistes**](#les-sombres-artistes). Le passage par l'arrière boutique permet d'accéder à un réseau de caves naturelles dans la roche de la falaise avoisinante.
+En pratique ceci est réalisé en injectant dans l'eau des **Thermes** de l'éther récupéré sur des végétaux.
 
 ### Le Cercle d'Ivoire - Club de Combat mondain
 ![Cercle d'Ivoire](../../_images/cercle_divoire.png)
@@ -228,6 +226,25 @@ Les règles des combats sont laissés au choix de l'organisateur, mais la quasi-
 Le Cercle organise également l'épreuve du **Grand Chelem**, où il est possible de gagner des pièces d'or supplémentaires si un combattant décide de participer à toute une batterie de combats successivement (toujours à la discrétion de l'organisateur).
 
 Le **Cercle** est géré par la [famille Alexandros](../PERSONNAGES/ROVTAL/GROUPES/Famille_Alexandros.md), plus particulièrement par [Louisa Alexandros](../PERSONNAGES/ROVTAL/LouisaAlexandros.md).
+
+
+### La Fabrique de Cristaux
+![Fabrique de Cristaux](../../_images/rovtal_interior_fabrica.png)
+
+La **Fabrique de Cristaux**, située dans les **Tréfonds**, est le seul endroit de la ville à avoir l'autorisation de convertir des cristaux vierges, généralement importés, afin de produire des [cristaux produisant de la lumière ou de la chaleur](#cristaux-de-lumière-et-de-chaleur-tréfonds), ou afin de produire des *sorts de poches*.
+
+La **Fabrique** est gérée par la famille [Zografos](../PERSONNAGES/ROVTAL/GROUPES/Famille_Zografos.md), gérant également l'**Ecole d'Ethérologie**.
+
+La **Fabrique** est en réalité gangrénée par les [**Sombres Artistes**](#les-sombres-artistes), qui se servent de l'endroit pour . Le passage par l'arrière boutique permet d'accéder à un réseau de caves naturelles dans la roche de la falaise avoisinante.
+
+### La Chronique de Rovtal
+![La Chronique de Rovtal](../../_images/rovtal_journal_interior.png)
+
+La **Chronique de Rovtal** est le journal officiel de la ville, qui paraît quotidiennement. Des bureaux sont situés à la **Surface**, et le siège est situé dans les **Tréfonds**.
+
+L'ensemble de l'organisation est géré par la [famille Botzaris](../PERSONNAGES/ROVTAL/GROUPES/Famille_Botzaris.md).
+
+Initialement, le journal servait à communiquer sur l'ensemble des nouvelles infrastructures de la ville, mais a dérivé afin de devenir un journal plus classique qui parle également des mondanités et des nouvelles de la région.
 
 ## Les Sombres Artistes
 ![Culte](../../_images/red_portal.png)

@@ -18,7 +18,7 @@
 
 ## Caractéristiques
 * S'est fait passer pour mort auprès de sa famille, mais continue de vivre parmi eux pour récolter des informations.
-* Il continue à travailler dans les **finances et les impôts** en cachant son identité.
+* Il continue à travailler dans la [Fabrique de Cristaux de Rovtal](../../VILLES/Rovtal.md#la-fabrique-de-cristaux), tout en cachant son identité.
 
 ## Événements marquants
 * **285** : Naissance

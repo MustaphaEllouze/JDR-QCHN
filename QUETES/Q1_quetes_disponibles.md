@@ -92,11 +92,11 @@ Wvspjl | UER | Obthpu ovttl
 
 Wlyzv. | - | Chyhupkl
 
-SHMHI YPXBL | T.B. ? vb C.I. ? | Jluahbyl (h wylcvpy)
+SHMHI YPXBL | T.B. ? vb C.I. ? | Jluahbyl (h wylcvpy) --> H SPCYLY
 
 HXBPSSVU | Zhbyplu * 3
 
-WHYHUNVU | Jluahbyl M. (ipluava)
+WHYHUNVU | Jluahbyl M. (ipluava) --> YLJBL
 ```
 
 *Solution* :
@@ -112,17 +112,18 @@ Police | NXK | Humain homme
 
 Perso. | - | Varanide
 
-La Fabrique | M.U. ? ou V.B. ? | Centaure (a prevoir)
+La Fabrique | M.U. ? ou V.B. ? | Centaure (a prevoir) --> A LIVRER
 
 AQUILLON | Saurien * 3
 
-PARANGON | Centaure F. (bientot)
+PARANGON | Centaure F. (bientot) --> RECUE
 ```
 
 Parmi ces informations, on retrouve surtout :
 * Apo. S. = [Apolina Sfer](../WORLDBUILDING/PERSONNAGES/ROVTAL/ApolinaSfer.md) ;
 * NXK = [Nyx Kwestyion](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Nyx_Kwestyon.md)
-* M = [Maria Ufassa](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Maria_Ufassa.md) ;
+* M.U. = [Maria Ufassa](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Maria_Ufassa.md) ;
+* V.B. = [Valéria Botzaris](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Valéria_Botzaris.md) ;
 * Th. / Th. DB = Thermes du Diamant Bleu
 * Aquillon / Parangon = Des bâteaux quelconque.
 
@@ -149,6 +150,12 @@ D'autres personnalités de d'autres villes sont également invitées, notamment 
 
 ### Mission : Se rapprocher de la famille Alexandros
 [TODO] Essayer de comprendre ce qui c'est passé à Dvolsti, avoir des informations sur les agissement des Sfer, notamment d'Ethérios.
+
+
+## Quête : Le Bal de la Famille Sfer
+### Mission : Assister au bal
+### Mission : Les secrets de la noblesse
+### Mission : Ecouter les demandes d'Etherios
 
 ## Quête : Le Mystère de la Famille Sfer
 ### Mission : Enquêter sur la lignée des dirigeants
