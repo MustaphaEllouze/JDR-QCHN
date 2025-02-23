@@ -25,7 +25,7 @@
 ## Événements marquants
 * **15** : Naissance
 * **37** : Rencontre avec [Federi](./Federi_Gox.md) et [Alvaro](./Alvaro_Shenzi.md), puis transformation en **Sombraur**.
-**95** : Installation à **Rovtal**.
+* **95** : Installation à **Rovtal**.
 
 ## Combat
 * [Stats](../../../STAT_BLOCKS/CLASS/SombraurGuerrier.md)

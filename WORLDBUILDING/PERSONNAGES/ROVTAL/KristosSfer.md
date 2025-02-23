@@ -1,21 +1,21 @@
-# Apolina Sfer - Gérante des Thermes du Diamant Bleu
-![Apolina Sfer](../../../_images/Apolina_Sfer.png)
+# Kristos Sfer, né Kristos Alexandros
+![Kristos Alexandros](../../../_images/KristosSfer.png)
 
 ## Infos 
 
 | Âge | Espèce | Occupation | Alignement | MBTI |
 | --- | ------ | ---------- | ---------- | ---- |
-| 33 ans | Saurienne | Gérantes des Thermes du Diamant Bleur | Lawful Neutral | ISTJ |
+| 32 ans | Saurien | Administrateur de Quartier | Lawful Neutral | INTJ |
 
 ## Localisation actuelle
 [**Rovtal**](../../VILLES/Rovtal.md)
 
 ## Filiations
-* [Kristos Sfer](./KristosSfer.md), mari
-* [Therra Sfer](../BRUMEBOURG/Therra_Sfer.md), soeur
+* [Apolina Sfer](./ApolinaSfer.md), femme
 
 ## Groupes 
 * [Famille Sfer](./GROUPES/Famille_Sfer.md)
+* [Famille Sfer](./GROUPES/Famille_Alexandros.md)
 
 ## Caractéristiques
 * 
@@ -28,4 +28,5 @@ S.O.
 
 ## Roleplay
 * Pauses sauriennes
-* Introvertie et timide
+* Très ambitieux
+* Pose des questions pointues

@@ -154,8 +154,72 @@ D'autres personnalités de d'autres villes sont également invitées, notamment 
 
 ## Quête : Le Bal de la Famille Sfer
 ### Mission : Assister au bal
+Le bal de la famille [Sfer](../WORLDBUILDING/PERSONNAGES/ROVTAL/GROUPES/Famille_Sfer.md) est organisé quelques jours après les événéments de [Dvolsti](../WORLDBUILDING/VILLES/Dvolsti.md) afin de placer [Emiliano Sfer](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Emiliano_Sfer.md) à la place de consul, en lieu de [Elèctre Alexandros](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Elèctre_Alexandros.md). Le bal se tient dans le [manoir des Sfer](../WORLDBUILDING/VILLES/Rovtal.md#maison-de-la-famille-sfer), se situant dans les **Tréfonds** de la ville.
+
+L'ensemble des familles nobles sont invitées pour ce bal, et on y retrouve donc leur ensemble. La [famille Alexandros](../WORLDBUILDING/PERSONNAGES/ROVTAL/GROUPES/Famille_Alexandros.md) reste cependant assez impactée par le changement de consul à **Dvolsti** et n'est pas aussi enjouée que le reste des familles.
+
+D'autres personnes non-nobles peuvent être invités, ce qui est notamment le cas des **Aventuriers**, mais également le cas de :
+* [Markellos Héjj](../WORLDBUILDING/PERSONNAGES/ROVTAL/Markellos_Héjj.md) et sa femme [Asteria Sideris](../WORLDBUILDING/PERSONNAGES/ROVTAL/AsteriaSideris.md) ;
+* Plusieurs professeurs de [l'Ecole d'Ethérologie](../WORLDBUILDING/VILLES/Rovtal.md#lecole-dethérologie), afin que les nobles puissent exercer leurs influences auprès d'eux et faire valoir leurs enfants ;
+* [Ektor Kolokotronis](../WORLDBUILDING/PERSONNAGES/ROVTAL/EktorKolokotronis.md), en tant que personne très proche des nobles ;
+
+On retrouve également deux artistes non-nobles, qui se sont fait connaître à la **Surface**, et qui joueront tour à tour durant la fête :
+* [Mikail Jakobipoulos](../WORLDBUILDING/PERSONNAGES/ROVTAL/MikailJakobipoulos.md), chanteur de musiques entraînantes et dansantes ;
+* [Sierra Pankratos](../WORLDBUILDING/PERSONNAGES/ROVTAL/SierraPankratos.md), a.k.a. **Kallisto**, musicienne et pratiquant la [Cithare éthérée](../WORLDBUILDING/TECHNOLOGIE/Instruments.md#cithare-éthérée).
+
+Le déroulé de la soirée est le suivant :
+* **PARTIE 1** : 2h : Réception des invités dans la demeure
+    * Chaque invité est demandé de se séparer des objets dangereux qu'il pourrait y avoir (dont armes) ;
+    * Nourriture et boisson 
+        > Toute la nourriture est sans **sel** afin de contenter le régimes alimentaires des [Sombraurs](../WORLDBUILDING/ESPECES/ESPECES_MAGIQUES/Sombraur.md). On dit juste que la maison des **Sfer** n'ont juste jamais pris l'habitude d'en manger.
+    * Présentation des invités de [Caproch](../WORLDBUILDING/VILLES/Caproch.md)
+        * [Chul-Moo Kwon](../WORLDBUILDING/PERSONNAGES/CAPROCH/ChulMooKwon.md), Seigneur Commercial ;
+        * [Sasori Zaitsu](../WORLDBUILDING/PERSONNAGES/CAPROCH/SasoriZaitsu.md), Garde du Corps ;
+        * [Ryu Oku](../WORLDBUILDING/PERSONNAGES/CAPROCH/RyuOku.md), Garde du Corps ;
+        * [Ren Minato](../WORLDBUILDING/PERSONNAGES/CAPROCH/RenMinato.md), Amiral ;
+        * [Okiko Minato](../WORLDBUILDING/PERSONNAGES/CAPROCH/OkikoMinato.md), soeur de l'Amiral ;
+        * [Hanami Fukazawa](../WORLDBUILDING/PERSONNAGES/CAPROCH/HanamiFukazawa.md), Seconde de l'Amiral.
+    * Discussions entre les invités, et présentations aux personnes qui ne se connaissent pas
+    * **Etherios** voudra également introduire les **Aventuriers** à [Nyx Kwestyon](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Nyx_Kwestyon.md), afin de leur tendre un piège dans le futur.
+    * Les salles suivantes sont ouvertes : 
+        * Grande salle de bal, petite salle de bal, terrasse, piscine.
+* **PARTIE 2** : 1h30 : Concert de [Mikail Jakobipoulos](../WORLDBUILDING/PERSONNAGES/ROVTAL/MikailJakobipoulos.md) ;
+* **PARTIE 3** : 1h30 : Concert de [Kallisto](../WORLDBUILDING/PERSONNAGES/ROVTAL/SierraPankratos.md) ;
+
 ### Mission : Les secrets de la noblesse
+Le bal est l'occasion rêvée pour la noblesse de discuter un peu de sujets mondains. La plupart des langues se délient durant ce moment festif.
+
+Parmi les quelques secrets et rumeurs qui pourraient se dire :
+* La **Police de la Surface** aurait été infiltrée par quelqu'un...
+* Il y a eu un mage qui est allé à **Brumebourg**, il paraît que c'était un expert en cristaux...
+* La [Reine Astrée Andreadis](../WORLDBUILDING/PERSONNAGES/ROVTAL/Astrée_Andreadis.md) serait malade... Vu qu'elle n'a pas d'enfant, le pouvoir reviendrait à son frère légitimement... Ou peut-être qu'il est temps de se séparer de la royauté ?
+* [Kristos Sfer](../WORLDBUILDING/PERSONNAGES/ROVTAL/KristosSfer.md) aurait été aperçu avec une femme autre que sa femme [Apolina Sfer](../WORLDBUILDING/PERSONNAGES/ROVTAL/ApolinaSfer.md)
+* Il s'est passé quelque chose au port hier soir... Une explosion. Il paraît que certaines personnes en sont ressorties en courant.
+* Il paraît qu'il y a eu un duel à mains nues entre [Kristos Sfer](../WORLDBUILDING/PERSONNAGES/ROVTAL/KristosSfer.md) et son cousin éloigné [Kroisos Alexandros](../WORLDBUILDING/PERSONNAGES/ROVTAL/Kroisos_Alexandros.md)...
+
+### Mission : Espionner les discussions de Hanami Fukazawa
+Le bal est aussi le moment que choisit [Etherios Sfer](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Ethérios_Sfer.md) pour s'entretenir avec ses invités de [Caproch](../WORLDBUILDING/VILLES/Caproch.md), notamment avec [Hanami Fukazawa](../WORLDBUILDING/PERSONNAGES/CAPROCH/HanamiFukazawa.md), membre de la [Loge des Douze](../WORLDBUILDING/VILLES/Caproch.md#la-loge-des-douze). Cet échange se passe à la marge de la fête, dans les quarties plus résidentiels.
+* **Etherios** est accompagné de [Maria Ufassa](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Maria_Ufassa.md) pour le protéger, **Hanami** est accompagné de [Ryu Oku](../WORLDBUILDING/PERSONNAGES/CAPROCH/RyuOku.md), également membre de la **Loge**.
+* **Etherios** prend sa forme naturelle, et n'a donc plus la même voix que lorsqu'il se fait passer pour **Etherios VIII**.
+* **Hanami** apprend lors de cet échange que la suppression de la ville de [Brumebourg](../WORLDBUILDING/VILLES/Brumebourg.md) ne se fera pas, et est furieuse.
+    * **Etherios** et les **Mains Noires** ne voient plus d'intérêt, même pécunier à attaque la ville de **Brumebourg** (trop de risque), et sont contents avec le **livre** contenant les expériences d'[Arkolapoulos](../WORLDBUILDING/PERSONNAGES/ENFANTS_DE_LA_RUE/Arkolapoulos_Prunos.md) qui leur a été libré (ils vont ouvrir un portail permanent vers la demeure de [Komorath](../WORLDBUILDING/COSMOLOGIE/PLANS_ET_DIVINITES/Komorath.md))
+* **Etherios** rompt totalement le contrat, ne voulant pas attirer l'attention dans la région pour le moment.
+* **Hanami** essaye de proposer encore plus de contreparties, insistant notamment sur le fait que l'établissement d'un stabilisateur articiel sur l'île au nord permettra l'exploration du continent au nord.
+* L'échange se termine a priori sur **Etherios** et **Hanami** qui se jurent inimitié et hostilité, voir qui déclarent la guerre à mi-mots.
+
 ### Mission : Ecouter les demandes d'Etherios
+Durant le bal, [Lazaros Alexandros](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/Lazaros_Alexandros.md) vient voir les **Aventuriers** dissimulé sous une forme qui leur est inconnue (un servant par exemple). Il leur indique que **Etherios** souhaite leur parler, et les mène à une pièce un peu à l'écart de la fête.
+
+A l'intérieur de la pièce se trouve en réalité [Anaximandros Andreadis](../WORLDBUILDING/PERSONNAGES/SOMBRES_ARTISTES/AnaximandrosAndreadis.md), nouvellement transformé en **Sombraur**, qui a lancé un sort d'illusion temporaire pour apparaître comme **Etherios** (c'est tout de même ce dernier qui l'envoie).
+
+En tant qu'**Etherios** ou que lui-même (**Lazaros** ne voudra pas trop cuisiner les Aventuriers), il communiquera les informations suivantes :
+* Les **Mains Noires** ont de plus en plus peur des **Caprochiens**, surtout les membres de la **Loge des Douze** et souhaitent s'en débarasser, par la force s'il le faut.
+    * Il sont prêts à engager les Aventuriers afin de servir de mercenaire, et sont prêts à payer 10.000 PO par tête rapportée.
+* Les **Mains Noires** sont très impressionés par les prouesses martiales des **Aventuriers** et souhaitent les engager et s'allier avec eux afin de ne plus avoir à compter sur eux comme ennemis.
+    * Ils pourraient s'installer comme émissaires à [**Dvolsti**](../WORLDBUILDING/VILLES/Dvolsti.md), et pourraient par exemple servir à surveiller [Paumes-Bleues](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Paumes_Bleues.md) et [Griffes-Rouges](../WORLDBUILDING/PERSONNAGES/DVOLSTI/Griffes_Rouges.md) ;
+    * En échange, il y aurait une trêve entre les deux parties, et certaines familles nobles s'engageraient à ce que leur besoin soient comblés.
+* Les **Mains Noires** souhaitent que les **Aventuriers** rendent [Laura](../WORLDBUILDING/PERSONNAGES/CENTAURES/LauraTolerentiaTrifolium.md), car elle leur appartient et leur servira à accomplir leur rituel.
+* En cas de non-coopération, les **Aventuriers** seront sommés de quitter la ville au plus vite.
 
 ## Quête : Le Mystère de la Famille Sfer
 ### Mission : Enquêter sur la lignée des dirigeants

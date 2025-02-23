@@ -12,6 +12,7 @@
 
 ## Filiations
 * [**Keno Kutt**](./Keno_Kutt.md) (frère)
+* [**Timotheos Kutt**](../ROVTAL/Timotheos_Kutt.md) (cousin germain)
 
 ## Groupes 
 * [**Famille Kutt**](../ROVTAL/GROUPES/Famille_Kutt.md)

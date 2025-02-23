@@ -10,3 +10,4 @@ Elle a toujours eu des relations assez tendues avec les autres familles nobles, 
 * [Elèctre Alexandros](../../DVOLSTI/Elèctre_Alexandros.md)
 * [Lazaros Alexandros](../../SOMBRES_ARTISTES/Lazaros_Alexandros.md)
 * [Kroisos Alexandros](../../ROVTAL/Kroisos_Alexandros.md)
+* [Kristos Sfer](../../ROVTAL/KristosSfer.md), né *Kristos Alexandros*.

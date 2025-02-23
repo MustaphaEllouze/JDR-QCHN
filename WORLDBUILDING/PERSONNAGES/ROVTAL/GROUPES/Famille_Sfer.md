@@ -13,6 +13,7 @@ De rudes tensions existent entre la **Famille Sfer** et la [**Famille Alexandros
 * [Emiliano Sfer](../../DVOLSTI/Emiliano_Sfer.md)
 * [Ethérios Sfer](../../SOMBRES_ARTISTES/Ethérios_Sfer.md)
 * [Apolina Sfer](../ApolinaPetrakos.md), gérante des [Thermes du Diamant Bleu](../../../VILLES/Rovtal.md#les-thermes-du-diamant-bleu)
+* [Kristos Sfer](../../ROVTAL/KristosSfer.md), né *Kristos Alexandros*.
 
 ## Eléménts distinctifs
 * Tous les membres de la famille portent un vêtement rouge ou violet, les couleurs de la famille.
