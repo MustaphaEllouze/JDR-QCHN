@@ -1,1 +1,0 @@
-![Grande Carte](../_images/Grosse_Map.jpg)
