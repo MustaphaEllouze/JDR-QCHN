@@ -13,7 +13,7 @@
 * **Compétences** : Discrétion +5, Perception +2
 * **Immunité contre les dégâts** de froid
 * **Immunités aux conditions** : empoisonné
-* **Résistance contre les dégâts** tranchants, radiants, perforants
+* **Résistance contre les dégâts** tranchants, contandants, perforants
 * **Sens** : vision dans le noir 18 m, Perception passive 10
 * **Langue** : Primordial
 * **Facteur de puissance** 3 (700 PX)

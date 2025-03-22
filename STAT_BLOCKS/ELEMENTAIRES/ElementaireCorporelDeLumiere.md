@@ -12,7 +12,7 @@
 
 * **Compétences** : Perception +5
 * **Immunité contre les dégâts** de radiant
-* **Résistance contre les dégâts** tranchants, radiants, perforants
+* **Résistance contre les dégâts** tranchants, contondants, perforants
 * **Immunités aux conditions** : empoisonné
 * **Sens** : vision aveugle 30 m, Perception passive 11
 * **Langue** : Primordial
