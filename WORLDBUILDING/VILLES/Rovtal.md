@@ -233,7 +233,7 @@ Le **Cercle** est géré par la [famille Alexandros](../PERSONNAGES/ROVTAL/GROUP
 
 La **Fabrique de Cristaux**, située dans les **Tréfonds**, est le seul endroit de la ville à avoir l'autorisation de convertir des cristaux vierges, généralement importés, afin de produire des [cristaux produisant de la lumière ou de la chaleur](#cristaux-de-lumière-et-de-chaleur-tréfonds), ou afin de produire des *sorts de poches*.
 
-La **Fabrique** est gérée par la famille [Zografos](../PERSONNAGES/ROVTAL/GROUPES/Famille_Zografos.md), gérant également l'**Ecole d'Ethérologie**.
+La **Fabrique** est gérée par la famille [Zografos](../PERSONNAGES/ROVTAL/GROUPES/Famille_Zografos.md), gérant également l'**Ecole d'Ethérologie**. La gérante est [Dorothea Zografos](../PERSONNAGES/ROVTAL/DorotheaZografos.md). Elle est souvent absente, et c'est sa seconde [Valéria Samaras](../PERSONNAGES/SOMBRES_ARTISTES/Valéria_Botzaris.md) qui gère les affaires au quotidien.
 
 La **Fabrique** est en réalité gangrénée par les [**Sombres Artistes**](#les-sombres-artistes), qui se servent de l'endroit pour . Le passage par l'arrière boutique permet d'accéder à un réseau de caves naturelles dans la roche de la falaise avoisinante.
 
