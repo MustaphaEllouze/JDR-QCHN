@@ -4,7 +4,7 @@
 *Très grand*
 
 * **Classe d'armure** : 17 (armure naturelle)
-* **Points de vie** : 94
+* **Points de vie** : 118
 * **Vitesse** : 12m  
 
 |    |FOR|DEX|CON|INT|SAG|CHA|
@@ -21,7 +21,7 @@
 * **Facteur de puissance** 5 (1800 PX)
 
 *Explosion finale* - Quand l'élementaire meurt, il explose en une gerbe d'énergie éthérique. Les créatures situées à à **1.5m** ou moins de lui doivent effectuer un jet de sauvegarde de Dextérité **DD 16**.
-* **Echec** : 2d6 dégâts de dégâts de Force
+* **Echec** : 3d6 dégâts de dégâts de Force
 * **Réussite** : La moitié des ces dégâts
 
 *Aura éblouissante* - Les créatures commençant leur tour à 3 mètres de l'élémentaire doivent faire un jet de Constitution **DD 14**. En cas d'échec, elles sont désavantagées sur leurs jets d'attaque tant qu'elles restent à 3 mètres ou moins de l'élémentaire.

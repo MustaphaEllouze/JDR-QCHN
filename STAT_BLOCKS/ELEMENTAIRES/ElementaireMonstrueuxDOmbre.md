@@ -4,7 +4,7 @@
 *Très grand*
 
 * **Classe d'armure** : 15 (armure naturelle)
-* **Points de vie** : 78
+* **Points de vie** : 128
 * **Vitesse** : 12 m
 
 |    |FOR|DEX|CON|INT|SAG|CHA|
@@ -22,7 +22,7 @@
 * **Facteur de puissance** 5 (1800 PX)
 
 *Explosion finale* - Quand l'élementaire meurt, il explose en une gerbe d'énergie éthérique. Les créatures situées à à **1.5m** ou moins de lui doivent effectuer un jet de sauvegarde de Dextérité **DD 16**.
-* **Echec** : 2d6 dégâts de dégâts de Force
+* **Echec** : 3d6 dégâts de dégâts de Force
 * **Réussite** : La moitié des ces dégâts
 
 *Absorption d'ombre* - Si l'élémentaire est dans une obscurité magique ou totale, il regagne 5 points de vie au début de son tour.
